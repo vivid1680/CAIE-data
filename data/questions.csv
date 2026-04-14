@@ -1,27 +1,27 @@
 subject_code,year,session,paper_number,variant,question_number,label,marks,text_statement,image_path
 9702,2025,March,2,2,1,a,1,Explain what is meant by the accuracy of a measured value.,NULL
-9702,2025,March,2,2,1,b(i),2,"Two solid cubes, A and B, are measured to determine the density of their materials. Table 1.1 shows the measurements for cube A. Show that the calculated density of the material of cube A is 8.7 × 10^3 kg/m^3.",data/images/9702_m25_qp_22_table1_1.png
+9702,2025,March,2,2,1,b(i),2,"Two solid cubes, A and B, are measured to determine the density of their materials. Table 1.1 shows the measurements for cube A. Show that the calculated density of the material of cube A is 8.7 × 10^3 kg/m^3.",images/9702_m25_qp_22_table1_1.png
 9702,2025,March,2,2,1,b(ii),2,Calculate the percentage uncertainty in the density of the material of cube A.,NULL
 9702,2025,March,2,2,1,b(iii),2,The density of the material of cube B is determined to be 9.2 × 10^3 kg/m^3 ± 6%. State and explain whether cube A and cube B could be made from the same material.,NULL
 9702,2025,March,2,2,2,NULL,10,Moments and Upthrust,NULL
 9702,2025,March,2,2,2,a,2,State the principle of moments.,NULL
-9702,2025,March,2,2,2,b(i),3,"A solid plastic cylinder floats in water. It is used to support one end of a horizontal uniform beam AB as shown in Fig. 2.1. The beam has length 6.0 m and weight 1700 N. The beam is attached to solid ground with a hinge at end A. The cylinder applies a vertical force of 1300 N to the beam. A person of weight 660 N stands on the beam at point P. The beam AB is in equilibrium. By taking moments about end A, determine the distance x from A to P.",data/images/9702_m25_qp_22_fig2_1.png
-9702,2025,March,2,2,2,b(ii),1,The bottom of the cylinder is submerged in the water to depth y as shown in Fig. 2.2. The cylinder has mass 11 kg and diameter 0.78 m. The beam exerts a vertical force of 1300 N on the cylinder. The cylinder is in equilibrium. Show that the upthrust acting on the cylinder is 1400 N.,data/images/9702_m25_qp_22_fig2_2.png
+9702,2025,March,2,2,2,b(i),3,"A solid plastic cylinder floats in water. It is used to support one end of a horizontal uniform beam AB as shown in Fig. 2.1. The beam has length 6.0 m and weight 1700 N. The beam is attached to solid ground with a hinge at end A. The cylinder applies a vertical force of 1300 N to the beam. A person of weight 660 N stands on the beam at point P. The beam AB is in equilibrium. By taking moments about end A, determine the distance x from A to P.",images/9702_m25_qp_22_fig2_1.png
+9702,2025,March,2,2,2,b(ii),1,The bottom of the cylinder is submerged in the water to depth y as shown in Fig. 2.2. The cylinder has mass 11 kg and diameter 0.78 m. The beam exerts a vertical force of 1300 N on the cylinder. The cylinder is in equilibrium. Show that the upthrust acting on the cylinder is 1400 N.,images/9702_m25_qp_22_fig2_2.png
 9702,2025,March,2,2,2,b(iii),2,Calculate the depth y. The water has density 990 kg/m^3.,NULL
-9702,2025,March,2,2,2,b(iv),2,"The person can stand anywhere between A and B. On Fig. 2.3, sketch the variation of the depth of the bottom of the cylinder with the distance of the person from A, for distances between 0 and 6.0 m. Numerical values are not required.",data/images/9702_m25_qp_22_fig2_3.png
+9702,2025,March,2,2,2,b(iv),2,"The person can stand anywhere between A and B. On Fig. 2.3, sketch the variation of the depth of the bottom of the cylinder with the distance of the person from A, for distances between 0 and 6.0 m. Numerical values are not required.",images/9702_m25_qp_22_fig2_3.png
 9702,2025,March,2,2,3,NULL,10,Dynamics and Energy,NULL
-9702,2025,March,2,2,3,a(i),2,"A truck R of mass 9400 kg moves with constant acceleration in a straight line down a slope, as illustrated in Fig. 3.1. At point A the speed of the truck is 13 m/s and at point B the speed of the truck is 22 m/s. A and B are a distance of 180 m apart. Calculate the acceleration of the truck between A and B.",data/images/9702_m25_qp_22_fig3_1.png
+9702,2025,March,2,2,3,a(i),2,"A truck R of mass 9400 kg moves with constant acceleration in a straight line down a slope, as illustrated in Fig. 3.1. At point A the speed of the truck is 13 m/s and at point B the speed of the truck is 22 m/s. A and B are a distance of 180 m apart. Calculate the acceleration of the truck between A and B.",images/9702_m25_qp_22_fig3_1.png
 9702,2025,March,2,2,3,a(ii),3,Determine the gain in kinetic energy of the truck between A and B.,NULL
 9702,2025,March,2,2,3,b(i),1,Define force.,NULL
-9702,2025,March,2,2,3,b(ii),1,A short time after passing point B truck R moves in a straight line on horizontal ground. The driver of the truck applies the brakes. Fig. 3.2 shows the variation with time of the momentum of the truck. Show that the average resultant force F acting on truck R between time t = 0 and t = 15 s is –1.2 × 10^4 N.,data/images/9702_m25_qp_22_fig3_2.png
+9702,2025,March,2,2,3,b(ii),1,A short time after passing point B truck R moves in a straight line on horizontal ground. The driver of the truck applies the brakes. Fig. 3.2 shows the variation with time of the momentum of the truck. Show that the average resultant force F acting on truck R between time t = 0 and t = 15 s is –1.2 × 10^4 N.,images/9702_m25_qp_22_fig3_2.png
 9702,2025,March,2,2,3,b(iii),3,"An identical truck S has the same initial momentum as truck R. Truck S experiences a constant force equal to the force F in (b)(ii). State and explain whether truck S will take more, less or the same amount of time to come to rest as truck R.",NULL
 9702,2025,March,2,2,4,NULL,8,Waves and Stationary Waves,NULL
-9702,2025,March,2,2,4,a,4,"A device containing a microwave emitter and receiver is placed in front of a large metal sheet in a vacuum as shown in Fig. 4.1. The line XY is perpendicular to the metal sheet. The device emits microwaves of frequency 6.3 GHz. When the device is at position P, a stationary wave is formed between the device and the sheet. Explain how the stationary wave, including the nodes and the antinodes, is formed.",data/images/9702_m25_qp_22_fig4_1.png
+9702,2025,March,2,2,4,a,4,"A device containing a microwave emitter and receiver is placed in front of a large metal sheet in a vacuum as shown in Fig. 4.1. The line XY is perpendicular to the metal sheet. The device emits microwaves of frequency 6.3 GHz. When the device is at position P, a stationary wave is formed between the device and the sheet. Explain how the stationary wave, including the nodes and the antinodes, is formed.",images/9702_m25_qp_22_fig4_1.png
 9702,2025,March,2,2,4,b(i),2,Calculate the wavelength of the microwaves.,NULL
 9702,2025,March,2,2,4,b(ii),1,At point P the receiver detects a maximum amplitude of the stationary wave. The device is moved slowly from point P along the line XY and the receiver detects a series of minimum and maximum amplitudes. The first time a minimum amplitude is detected by the receiver is when the device is at point Q. Determine the distance between P and Q.,NULL
 9702,2025,March,2,2,4,b(iii),1,"The intensity of the microwaves emitted by the device is increased. The frequency of the microwaves is unchanged. The device is moved slowly along the line XY from point Q until the next maximum amplitude is detected at point R. State and explain whether the distance QR is greater than, less than or the same as distance PQ.",NULL
 9702,2025,March,2,2,5,NULL,5,Doppler Effect,NULL
-9702,2025,March,2,2,5,a,3,A stationary loudspeaker emits sound of constant frequency. A microphone is placed near to the loudspeaker and connected to a cathode-ray oscilloscope (CRO). The trace on the screen of the CRO is shown in Fig. 5.1. The time-base of the CRO is set to 5.0 × 10^-4 s/cm. The speed of the sound emitted by the loudspeaker is 330 m/s. Determine the wavelength of the sound.,data/images/9702_m25_qp_22_fig5_1.png
+9702,2025,March,2,2,5,a,3,A stationary loudspeaker emits sound of constant frequency. A microphone is placed near to the loudspeaker and connected to a cathode-ray oscilloscope (CRO). The trace on the screen of the CRO is shown in Fig. 5.1. The time-base of the CRO is set to 5.0 × 10^-4 s/cm. The speed of the sound emitted by the loudspeaker is 330 m/s. Determine the wavelength of the sound.,images/9702_m25_qp_22_fig5_1.png
 9702,2025,March,2,2,5,b,2,The loudspeaker now moves in a straight line while emitting the same sound of constant frequency. The period of the trace on the CRO increases continuously. Describe the motion of the loudspeaker.,NULL
 9702,2025,March,2,2,6,NULL,13,Electricity and Drift Speed,NULL
 9702,2025,March,2,2,6,a,2,A wire has resistance 3.3 mΩ. The current in the wire is 0.85 A. Calculate the potential difference across the wire.,NULL
@@ -34,3 +34,402 @@ subject_code,year,session,paper_number,variant,question_number,label,marks,text_
 9702,2025,March,2,2,7,a,1,"A nucleus of radium-226 (226 88 Ra) decays into a nucleus of radon (Rn) and an alpha particle. Nucleon number of Rn = ..., Proton number of Rn = ...",NULL
 9702,2025,March,2,2,7,b,3,The alpha particle is emitted with a speed of 1.5 × 10^7 m/s. The radon nucleus is initially at rest. Calculate the speed of the radon nucleus after the decay.,NULL
 9702,2025,March,2,2,7,c,3,"State three quantities, other than mass-energy, that are conserved in the decay.",NULL
+9702,2025,March,1,2,1,NULL,1,"1 Which quantity is a scalar quantity?
+A force
+B momentum
+C velocity
+D work",NULL
+9702,2025,March,1,2,2,NULL,1,"2 What is the effect of a systematic error on the measurement of a physical quantity?
+A It limits the precision of the measured value.
+B It limits the range of values obtained in repeated measurements.
+C It results in repeated measurements having different values from each other.
+D It results in the measured value being different from the correct value.",NULL
+9702,2025,March,1,2,3,NULL,1,"3 A car is accelerated by a constant resultant force of 300 N for 5.0 s.
+The variation with time of the velocity, in cm s–1, of the car is shown.
+[diagram]
+What is the mass of the car?
+A 13 kg
+B 1000 kg
+C 1300 kg
+D 10 000 kg",images/9702_m25_qp_12_q3.png
+9702,2025,March,1,2,4,NULL,1,"4 An aircraft, initially stationary on a runway, takes off with a speed of 85 km h–1 in a distance of no more than 1.20 km.
+What is the minimum constant acceleration necessary for the aircraft?
+A 0.23 m s–2
+B 0.46 m s–2
+C 3.0 m s–2
+D 6.0 m s–2",NULL
+9702,2025,March,1,2,5,NULL,1,"5 An object is fired upwards from horizontal ground. The object has an initial velocity of 20 m s–1 at an angle of 45° to the horizontal. Air resistance is negligible.
+Which statement describes the speed of the object after it is fired until immediately before it reaches the ground again?
+A Its speed decreases to a value greater than zero, then increases to 20 m s–1.
+B Its speed decreases to a value greater than zero, then increases to a value greater than 20 m s–1.
+C Its speed decreases to zero, then increases to 20 m s–1.
+D Its speed decreases to zero, then increases to a value less than 20 m s–1.",NULL
+9702,2025,March,1,2,6,NULL,1,"6 What is a statement of the principle of conservation of momentum for a system?
+A The total momentum and the total kinetic energy are always conserved.
+B The total momentum is conserved only in elastic collisions.
+C The total momentum is conserved provided that no external forces act.
+D The total momentum of each object in the system is the product of its mass and velocity.",NULL
+9702,2025,March,1,2,7,NULL,1,"7 Objects P and Q form an isolated system.
+Object P has mass 6.0 kg and is moving at a speed of 3.0 m s–1.
+Object Q has mass 2.0 kg and is moving at a speed of 4.2 m s–1 at an angle of 35° to the path of P.
+[diagram]
+Objects P and Q collide and stick together.
+What is the magnitude of the component of the final momentum of the combined objects in the original direction of P?
+A 9.6 kg m s–1
+B 11 kg m s–1
+C 13 kg m s–1
+D 25 kg m s–1",images/9702_m25_qp_12_q7.png
+9702,2025,March,1,2,8,NULL,1,"8 An astronaut of mass m in a spacecraft experiences a gravitational force F = mg when stationary on the launchpad.
+What is the gravitational force on the astronaut when the spacecraft is launched vertically upwards with an acceleration of 0.2g?
+A 1.2mg
+B mg
+C 0.8mg
+D 0",NULL
+9702,2025,March,1,2,9,NULL,1,"9 The diagram shows a child X of mass 20 kg and a child Y of mass 15 kg seated on a uniform plank.
+[diagram]
+The plank has a mass of 7.0 kg and has a pivot at its midpoint. The plank is horizontal and in equilibrium.
+Which statement about the weight of the plank is correct?
+A The weight of the plank can be considered to be acting at its midpoint.
+B The weight of the plank is causing an anticlockwise moment.
+C The weight of the plank is causing a clockwise moment.
+D The weight of the plank equals the force on the plank from the pivot.",images/9702_m25_qp_12_q9.png
+9702,2025,March,1,2,10,NULL,1,"10 An object is fully submerged in a liquid.
+A student determines the ratio of upthrust acting on the object to the weight of the object.
+Which single change would double the value of this ratio?
+A Use a different liquid that has twice the density and the same volume as the original liquid.
+B Use a different object that has half the volume and the same density as the original object.
+C Use a different object that has twice the density and the same volume as the original object.
+D Use a different object that has twice the volume and the same density as the original object.",NULL
+9702,2025,March,1,2,11,NULL,1,"11 A shop sign weighing 75 N hangs from a frame attached to a vertical wall.
+[diagram]
+The frame consists of a horizontal rod XY and a rod YZ that is at an angle of 30° to the horizontal. Rod XY is attached to the wall by a hinge at X and has length 0.50 m. Assume that the weights of the rods are negligible.
+What is the horizontal force exerted by the wall on rod XY?
+A 0 N
+B 43 N
+C 130 N
+D 150 N",images/9702_m25_qp_12_q11.png
+9702,2025,March,1,2,12,NULL,1,"12 A student takes measurements to calculate the density of a liquid in a beaker.
+The height of the liquid in the beaker is 0.20 m ± 2%.
+The internal diameter of the beaker is 0.05 m ± 3%.
+The mass of the liquid is 0.36 kg ± 10%.
+What is the percentage uncertainty in the calculated density of the liquid?
+A 2%
+B 5%
+C 15%
+D 18%",NULL
+9702,2025,March,1,2,13,NULL,1,"13 The diagram shows a uniform plank XY of length 4.0 m and weight 300 N.
+[diagram]
+The plank rests on fixed supports at its ends X and Y.
+A child of weight 600 N stands in different positions on the plank.
+The support at end X exerts a force F vertically upwards on the plank.
+What is the magnitude of F when the child stands at X and when the child stands at Y?
+Option A: 600N at X, 0N at Y
+Option B: 600N at X, 150N at Y
+Option C: 750N at X, 0N at Y
+Option D: 750N at X, 150N at Y",images/9702_m25_qp_12_q13.png
+9702,2025,March,1,2,14,NULL,1,"14 Which relationship is used in the derivation of the equation shown?
+power = force × velocity
+A displacement = velocity × time
+B force = mass × acceleration
+C momentum = mass × velocity
+D velocity = acceleration × time",NULL
+9702,2025,March,1,2,15,NULL,1,"15 A block is released from rest at the top of a slope inclined at an angle to the horizontal. The slope has length L as shown in the diagram.
+[diagram]
+There are no resistive forces acting on the block.
+What is the speed of the block at the bottom of the slope?
+A 4.43 L cos θ
+B 4.43 L sin θ
+C 19.6 L cos θ
+D 19.6 L sin θ",images/9702_m25_qp_12_q15.png
+9702,2025,March,1,2,16,NULL,1,"16 A skateboarder and her skateboard have a total mass of 70 kg. She pushes on the ground with her foot to create a forward force F of 25 N on herself and the skateboard, as shown in the diagram.
+[diagram]
+The skateboarder and skateboard travel forwards a distance of 0.50 m before the skateboarder lifts her foot from the ground.
+What is the work done by F on the skateboarder and skateboard?
+A 13 J
+B 50 J
+C 340 J
+D 360 J",images/9702_m25_qp_12_q16.png
+9702,2025,March,1,2,17,NULL,1,"17 A turbine at a hydroelectric power station is situated at a vertical distance of 30 m below the level of the surface of a large lake. The water passes through the turbine at a rate of 340 m3 per minute.
+The overall efficiency of the turbine and generator system is 90%. The density of water is 1000 kg m–3.
+What is the useful power output of the power station?
+A 0.15 MW
+B 1.5 MW
+C 1.7 MW
+D 90 MW",NULL
+9702,2025,March,1,2,18,NULL,1,"18 A projectile is launched at 45° to the horizontal with initial kinetic energy E.
+Assuming air resistance to be negligible, what will be the kinetic energy of the projectile when it reaches its highest point?
+A 0.50E
+B 0.71E
+C 0.87E
+D E",NULL
+9702,2025,March,1,2,19,NULL,1,"19 A wire is extended by a tensile force so that its deformation is elastic.
+What is meant by elastic deformation?
+A The extension of the wire is proportional to the tensile force.
+B The extension of the wire is not proportional to the tensile force.
+C When the tensile force is removed, the wire does not return to its original length.
+D When the tensile force is removed, the wire returns to its original length.",NULL
+9702,2025,March,1,2,20,NULL,1,"20 A bolt is subjected to a tensile force, as shown.
+[diagram]
+The bolt has a circular cross-section. At end X, the diameter is 2d. At end Y, the diameter is d.
+What is the ratio (stress at X) / (stress at Y)?
+A 0.25
+B 0.50
+C 2.0
+D 4.0",images/9702_m25_qp_12_q20.png
+9702,2025,March,1,2,21,NULL,1,"21 The graph shows the relationship between force acting on a compression spring and change in length of the spring.
+[diagram]
+One of these springs is placed in each corner of a horizontal square plate. The axis of each spring is in a vertical direction. These four springs support a total load of 160 N.
+What is the total elastic potential energy stored in the four springs?
+A 0.048 J
+B 0.19 J
+C 0.38 J
+D 0.77 J",images/9702_m25_qp_12_q21.png
+9702,2025,March,1,2,22,NULL,1,"22 Which row correctly identifies the properties of all electromagnetic waves?
+[diagram]
+A transverse wave: yes, longitudinal wave: no, can travel in free space: yes
+B transverse wave: no, longitudinal wave: yes, can travel in free space: yes
+C transverse wave: yes, longitudinal wave: no, can travel in free space: no
+D transverse wave: yes, longitudinal wave: yes, can travel in free space: yes",images/9702_m25_qp_12_q22.png
+9702,2025,March,1,2,23,NULL,1,"23 What is the approximate range of wavelengths in free space for infrared radiation?
+A 100 nm to 400 nm
+B 300 μm to 30 cm
+C 400 nm to 700 nm
+D 800 nm to 1000 μm",NULL
+9702,2025,March,1,2,24,NULL,1,"24 The diagram shows a car travelling at a constant speed in a straight line between person P and person Q from point X to point Y.
+[diagram]
+The car sounds its horn continuously as it travels. The horn emits sound of constant frequency.
+Which statements about what person P and person Q hear during the motion of the car are correct?
+1 Person P hears a sound of increasing frequency.
+2 Person Q hears a sound of decreasing frequency.
+3 Person Q always hears a sound of higher frequency than person P.
+A 1, 2 and 3
+B 1 and 2 only
+C 3 only
+D none of them",images/9702_m25_qp_12_q24.png
+9702,2025,March,1,2,25,NULL,1,"25 A progressive wave of frequency 300 Hz is travelling with a speed of 600 m s–1.
+What is the phase difference between two points on the wave that are a distance of 0.50 m apart?
+A 45°
+B 90°
+C 180°
+D 360°",NULL
+9702,2025,March,1,2,26,NULL,1,"26 A polarised beam of light with intensity I is incident normally on a polarising filter.
+The transmitted light has intensity I.
+The filter is rotated about the normal axis through an angle θ.
+The transmitted light has intensity 0.75 I.
+What is the angle θ ?
+A 30°
+B 42°
+C 49°
+D 60°",NULL
+9702,2025,March,1,2,27,NULL,1,"27 Light waves are emitted from two sources.
+What is a necessary condition for observable interference fringes to be produced?
+A The waves must be polarised.
+B The waves must not be polarised.
+C The waves must be coherent.
+D The waves must have equal amplitudes.",NULL
+9702,2025,March,1,2,28,NULL,1,"28 The diagram shows a water wave in a shallow tank. The wave is diffracted through a gap in a barrier and spreads. The wavelength of the wave is much smaller than the width of the gap.
+[diagram]
+The wavelength of the wave and the width of the gap are both changed by a small amount.
+Which combination of changes must increase the amount of spreading due to diffraction?
+A wavelength decreases, width of gap decreases
+B wavelength decreases, width of gap increases
+C wavelength increases, width of gap decreases
+D wavelength increases, width of gap increases",images/9702_m25_qp_12_q28.png
+9702,2025,March,1,2,29,NULL,1,"29 Light of wavelength 567 nm is incident normally on a diffraction grating. The grating has 400 lines per mm. A number of diffraction maxima are observed on the far side of the grating.
+What is the angle between the second-order maximum and the third-order maximum?
+A 13.1°
+B 13.9°
+C 15.9°
+D 27.0°",NULL
+9702,2025,March,1,2,30,NULL,1,"30 Two cylindrical conductors, X and Y, are made from the same material. The conductors have equal lengths, but Y has a smaller diameter than X.
+X and Y are connected in series to a cell.
+Which row compares the number of charge carriers per unit time passing through X and through Y and compares the average drift speed of the charge carriers in X and in Y?
+A Y greater than X, Y greater than X
+B Y same as X, Y same as X
+C Y greater than X, Y same as X
+D Y same as X, Y greater than X",NULL
+9702,2025,March,1,2,31,NULL,1,"31 A copper wire is 6.4 m long and has a resistance of 0.92 Ω.
+The resistivity of copper is 1.8 × 10–8 Ω m.
+What is the diameter of the wire?
+A 5.7 × 10–5 m
+B 1.0 × 10–4 m
+C 4.0 × 10–4 m
+D 7.1 × 10–4 m",NULL
+9702,2025,March,1,2,32,NULL,1,"32 A thermistor is connected to a cell with negligible internal resistance.
+Which graph shows the variation with temperature of power, P, dissipated in the thermistor?
+[diagram]
+A, B, C, D",images/9702_m25_qp_12_q32.png
+9702,2025,March,1,2,33,NULL,1,"33 A metal electrical conductor has a resistance of 5.6 kΩ. A potential difference (p.d.) of 9.0 V is applied across its ends.
+How many electrons pass a point in the conductor in one minute?
+A 6.0 × 10^20
+B 1.0 × 10^19
+C 6.0 × 10^17
+D 1.0 × 10^16",NULL
+9702,2025,March,1,2,34,NULL,1,"34 Which circuit symbol does not represent an electric component that is designed to emit sound waves?
+[diagram]
+A B C D",images/9702_m25_qp_12_q34.png
+9702,2025,March,1,2,35,NULL,1,"35 The diagram shows a junction in a circuit where three wires, P , Q and R, meet. The currents in P and Q are 1 A and 3 A respectively, in the directions shown.
+[diagram]
+How much charge passes a given point in wire R in a time of 5 s?
+A 0.4 C
+B 2 C
+C 10 C
+D 20 C",images/9702_m25_qp_12_q35.png
+9702,2025,March,1,2,36,NULL,1,"36 A cell of electromotive force (e.m.f.) E and internal resistance r is connected in series with a switch S and an external resistor of resistance R.
+[diagram]
+The potential difference (p.d.) between P and Q is V.
+Which statement is correct when S is changed from open to closed?
+A V increases because there is a p.d. across R.
+B V decreases because there is a p.d. across r.
+C V remains the same because the decrease of p.d. across r is balanced by the increase of p.d. across R.
+D V remains the same because the sum of the p.d.s across r and R is still equal to E.",images/9702_m25_qp_12_q36.png
+9702,2025,March,1,2,37,NULL,1,"37 What is a general description of a baryon?
+A It consists of three quarks that must all be the same flavour.
+B It consists of three quarks that do not need to be the same flavour.
+C It consists of two quarks that must both be the same flavour.
+D It consists of two quarks that do not need to be the same flavour.",NULL
+9702,2025,March,1,2,38,NULL,1,"38 A stationary nucleus has nucleon number A.
+The nucleus decays by emitting a proton with speed v to form a new nucleus with speed u. The new nucleus and the proton move away from one another in opposite directions.
+Which equation gives v in terms of A and u?
+A v = (4A – 1)u
+B v = (A – 1)u
+C v = Au
+D v = (A + 1)u",NULL
+9702,2025,March,1,2,39,NULL,1,"39 What is the change to the quark composition of a nucleus that takes place during β+ decay?
+A down to antiup
+B down to up
+C up to antidown
+D up to down",NULL
+9702,2025,March,1,2,40,NULL,1,"40 What is the charge, in terms of the elementary charge e, on a charm quark?
+A –2/3 e
+B –1/3 e
+C +1/3 e
+D +2/3 e",NULL
+9702,2025,March,4,2,1,NULL,9,Circular Motion,NULL
+9702,2025,March,4,2,1,a,1,"A steel ball is placed on the inside surface of a hollow circular cone. The ball moves in a horizontal circle at constant speed, as shown in Fig. 1.1.
+[diagram]
+The angle of the side of the cone to the horizontal is 52°. There is no friction between the ball and the cone.
+Fig. 1.2 shows a cross-section through the cone and the steel ball.
+[diagram]
+On Fig. 1.2, draw labelled arrows to show the two forces acting on the ball.",images/9702_m25_qp_42_fig1_2.png
+9702,2025,March,4,2,1,b,2,Describe how the forces acting on the ball cause its acceleration to be centripetal.,NULL
+9702,2025,March,4,2,1,c,3,"The ball moves in a circle of radius 0.15 m.
+Show that the speed of the ball is 1.4 m s^-1.",NULL
+9702,2025,March,4,2,1,d,2,Calculate the angular speed ω of the ball.,NULL
+9702,2025,March,4,2,1,e,1,"The speed of the ball is increased.
+Explain why the radius of the circular path of the ball increases.",NULL
+9702,2025,March,4,2,2,NULL,7,Gravitational and Electric Fields,NULL
+9702,2025,March,4,2,2,a,3,"The magnitude of the gravitational potential on the surface of a planet of radius R is φ.
+The planet can be considered to be an isolated sphere.
+On Fig. 2.1, sketch the variation of the gravitational potential with distance x from the centre of the planet for values of x between R and 4R.
+[diagram]",images/9702_m25_qp_42_fig2_1.png
+9702,2025,March,4,2,2,b,2,"A satellite is in a geostationary orbit above the Earth. At time t = 0, the magnitude of the gravitational potential due to the Earth at the location of the satellite is φ.
+On Fig. 2.2, sketch the variation of the gravitational potential due to the Earth at the location of the satellite for values of t between t = 0 and t = 24 hours.
+[diagram]",images/9702_m25_qp_42_fig2_2.png
+9702,2025,March,4,2,2,c,2,"The electric potential difference (p.d.) between two parallel plates is V, as shown in Fig. 2.3.
+[diagram]
+The distance between the plates is d. The region between the plates is a vacuum.
+On Fig. 2.4, sketch the variation of the electric potential with distance from the positive plate.
+[diagram]",images/9702_m25_qp_42_fig2_4.png
+9702,2025,March,4,2,3,NULL,12,Thermal Physics,NULL
+9702,2025,March,4,2,3,a(i),2,"Two metal cuboids P and Q are in thermal contact with each other.
+P and Q are in thermal equilibrium.
+State what is meant by the term thermal equilibrium.",NULL
+9702,2025,March,4,2,3,a(ii),3,"Data for P and Q are given in Table 3.1.
+[diagram]
+P and Q are initially both at the same temperature.
+P is supplied with 24 kJ of thermal energy. After some time, P and Q are once again both at the same temperature as each other.
+P and Q are perfectly insulated from the surroundings.
+Determine the change in temperature ΔT of Q.",images/9702_m25_qp_42_table3_1.png
+9702,2025,March,4,2,3,b(i),3,"Nitrogen may be assumed to be an ideal gas. A fixed amount of nitrogen gas is contained at a constant pressure of 1.6 × 10^5 Pa.
+The variation of the volume V of the gas with the temperature θ of the gas is shown in Fig. 3.1.
+[diagram]
+The temperature of the nitrogen gas is increased from 0 °C to 210 °C.
+Determine the work done on the gas.",images/9702_m25_qp_42_fig3_1.png
+9702,2025,March,4,2,3,b(ii),2,Determine the number N of molecules of nitrogen gas.,NULL
+9702,2025,March,4,2,3,b(iii),2,"The mass of a nitrogen molecule is 4.7 × 10^-26 kg.
+Calculate the root-mean-square (r.m.s.) speed of a nitrogen molecule at 210 °C.",NULL
+9702,2025,March,4,2,4,NULL,12,Simple Harmonic Motion,NULL
+9702,2025,March,4,2,4,a,2,"A small crystal is made to vibrate with simple harmonic motion. The variation with time t of the displacement x of one surface of the crystal from its equilibrium position is shown in Fig. 4.1.
+[diagram]
+Show that the angular frequency of the vibration of the surface is 4.2 × 10^7 rad s^-1.",images/9702_m25_qp_42_fig4_1.png
+9702,2025,March,4,2,4,b,2,Determine the maximum acceleration a0 of the vibration of the surface.,NULL
+9702,2025,March,4,2,4,c,3,"The crystal may be modelled as a single mass of 2.4 × 10^-4 kg that vibrates as shown in Fig. 4.1.
+Calculate the total energy E of the vibrations.",NULL
+9702,2025,March,4,2,4,d(i),2,"The crystal generates ultrasound waves that are used to obtain diagnostic information about internal structures.
+The crystal is made from piezoelectric material.
+Explain how the crystal is made to vibrate.",NULL
+9702,2025,March,4,2,4,d(ii),3,"A parallel beam of ultrasound waves is incident on a muscle-bone boundary. Data for muscle and bone are given in Table 4.1.
+[diagram]
+Calculate the percentage of the intensity of the ultrasound beam that is transmitted at this boundary.",images/9702_m25_qp_42_table4_1.png
+9702,2025,March,4,2,5,NULL,9,Capacitors,NULL
+9702,2025,March,4,2,5,a,2,"A capacitor of capacitance C1 is connected in series with a second capacitor of capacitance C2.
+Show that the combined capacitance C of the two capacitors is given by 1/C = 1/C1 + 1/C2.",NULL
+9702,2025,March,4,2,5,b,3,"Three identical capacitors, each of capacitance C, are connected in a network as shown in Fig. 5.1.
+[diagram]
+The variation of the charge Q with the potential difference (p.d.) V between the terminals X and Y is shown in Fig. 5.2.
+[diagram]
+Show that C is equal to 44 μF.",images/9702_m25_qp_42_fig5_1.png
+9702,2025,March,4,2,5,c(i),2,"The capacitor network in Fig. 5.1 is charged and then connected to a resistor of resistance 54 kΩ. The capacitor network discharges through the resistor.
+Determine the time constant τ of the circuit. Give a unit with your answer.",NULL
+9702,2025,March,4,2,5,c(ii),2,Determine the time taken for the discharge current to reduce to 15% of the initial discharge current.,NULL
+9702,2025,March,4,2,6,NULL,11,Magnetic Fields,NULL
+9702,2025,March,4,2,6,a,2,"An electric field and a magnetic field are used to form a velocity selector. Charged particles, called ions, pass into a region of uniform electric and magnetic fields that is between parallel plates, as shown in Fig. 6.1.
+[diagram]
+The potential difference (p.d.) between the plates of the velocity selector is V. The separation of the plates is d and the magnetic flux density is B.
+Show that the speed u of ions that pass undeviated through the velocity selector is given by u = V / Bd.",images/9702_m25_qp_42_fig6_1.png
+9702,2025,March,4,2,6,b,3,"Positive ions with kinetic energy 4.1 × 10^-17 J and mass 3.2 × 10^-27 kg pass undeviated through the velocity selector when V is equal to 980 V and d is equal to 3.6 × 10^-2 m.
+Determine B.",NULL
+9702,2025,March,4,2,6,c,1,"A proton passes undeviated through the velocity selector.
+An alpha particle enters the velocity selector at the same speed as the proton.
+State how the expression in (a) predicts that the alpha particle also passes undeviated through the velocity selector.",NULL
+9702,2025,March,4,2,6,d,3,"By reference to Fig. 6.1 and to the forces acting on a positive ion, determine the direction of the magnetic field. Explain your reasoning.",NULL
+9702,2025,March,4,2,6,e,2,"The positive ions in (b) enter the velocity selector with greater kinetic energy.
+On Fig. 6.1, sketch the path of these ions.",images/9702_m25_qp_42_fig6_1.png
+9702,2025,March,4,2,7,NULL,9,Electromagnetic Induction,NULL
+9702,2025,March,4,2,7,a,2,State Faraday’s law of electromagnetic induction.,NULL
+9702,2025,March,4,2,7,b(i),2,"A metal rod is accelerated uniformly from rest in a uniform magnetic field as shown in Fig. 7.1.
+[diagram]
+The rod has length l and the flux density of the magnetic field is B.
+An electromotive force (e.m.f.) is induced in the rod. The variation with time t of the induced e.m.f. E is shown in Fig. 7.2.
+[diagram]
+Explain how Fig. 7.2 shows that E is proportional to the velocity v of the rod.",images/9702_m25_qp_42_fig7_1.png
+9702,2025,March,4,2,7,b(ii),3,Use Faraday’s law to show that the variation of E with time t is given by E = Blat where a is the acceleration of the rod.,NULL
+9702,2025,March,4,2,7,b(iii),2,"The length of the rod is 0.45 m. The acceleration a of the rod is 7.8 m s^-2.
+Determine the value of B.",NULL
+9702,2025,March,4,2,8,NULL,10,Quantum Physics,NULL
+9702,2025,March,4,2,8,a,2,State what is meant by a photon.,NULL
+9702,2025,March,4,2,8,b(i),3,"A laser emits red light of a single wavelength. The light is produced when electrons move from a higher energy level to a lower energy level. The difference in energy between the two levels is 1.96 eV.
+Calculate the wavelength of the light.",NULL
+9702,2025,March,4,2,8,b(ii),1,"The power of the beam emitted by the laser is 1.0 × 10^-2 W.
+Calculate the number of photons emitted per unit time by the laser.",NULL
+9702,2025,March,4,2,8,b(iii),4,"The photons are incident normally on a surface. Half of the number of photons are absorbed by the surface, and half are reflected.
+Determine the average force exerted by the beam of photons on the surface.",NULL
+9702,2025,March,4,2,9,NULL,10,Nuclear Physics,NULL
+9702,2025,March,4,2,9,a(i),1,"Polonium-193 (193/84 Po) is an unstable nuclide. A nucleus of polonium-193 decays to a nucleus of lead-189 (189/82 Pb) by emitting an alpha-particle.
+Radioactive decay is both random and spontaneous.
+State what is meant by: random",NULL
+9702,2025,March,4,2,9,a(ii),1,State what is meant by: spontaneous.,NULL
+9702,2025,March,4,2,9,b,1,Define half-life.,NULL
+9702,2025,March,4,2,9,c,2,"Data for the binding energy per nucleon of the particles involved in the decay of a nucleus of polonium-193 are given in Table 9.1.
+[diagram]
+Determine the energy, in eV, released when a nucleus of polonium-193 decays into a nucleus of lead-189.",images/9702_m25_qp_42_table9_1.png
+9702,2025,March,4,2,9,d(i),1,"A pure sample of polonium-193 contains N0 nuclei. After a time t the sample contains N nuclei of polonium-193. The variation of ln (N / N0) with t is shown in Fig. 9.1.
+[diagram]
+State the name of the quantity that is represented by the magnitude of the gradient of the line in Fig. 9.1.",images/9702_m25_qp_42_fig9_1.png
+9702,2025,March,4,2,9,d(ii),2,"Use Fig. 9.1 to determine the half-life, in ms, of polonium-193.",NULL
+9702,2025,March,4,2,9,e(i),1,"Positron emission tomography (PET scanning) uses a radioactive tracer.
+State what happens to the positrons emitted by the tracer.",NULL
+9702,2025,March,4,2,9,e(ii),1,Explain why a tracer with a half-life of approximately 2 hours is a suitable tracer to use.,NULL
+9702,2025,March,4,2,10,NULL,11,Astrophysics,NULL
+9702,2025,March,4,2,10,a(i),1,State what is meant by the luminosity of a star.,NULL
+9702,2025,March,4,2,10,a(ii),3,Explain how standard candles are used to determine the distance to a galaxy.,NULL
+9702,2025,March,4,2,10,b(i),3,"The Sun rotates on its axis. Points X, Y and Z are on the equator of the Sun as shown in Fig. 10.1.
+[diagram]
+The wavelengths of light from points X and Y are observed and recorded in Table 10.1.
+[diagram]
+The Sun rotates with a period of 2.07 × 10^6 s.
+Show that the radius of the Sun is 6.93 × 10^8 m.",images/9702_m25_qp_42_fig10_1.png
+9702,2025,March,4,2,10,b(ii),2,State and explain how the expected wavelength of the light observed from Z compares with the emitted wavelength.,NULL
+9702,2025,March,4,2,10,b(iii),2,"The luminosity of the Sun is 3.8 × 10^26 W.
+Use the information in (b)(i) to calculate the surface temperature of the Sun.",NULL

@@ -57,3 +57,143 @@ subject_code,year,session,paper_number,variant,question_number,label,point_numbe
 9702,2025,March,2,2,7,b,1,v = 4(u) * 1.5 * 10^7 / 222(u),2,C1
 9702,2025,March,2,2,7,b,1,= 2.7 * 10^5 m/s,3,A1
 9702,2025,March,2,2,7,c,1,"Any three from: momentum, charge, nucleon number, neutron number, proton number",1,B3
+9702,2025,March,1,2,1,NULL,1,D,1,Answer
+9702,2025,March,1,2,2,NULL,1,D,1,Answer
+9702,2025,March,1,2,3,NULL,1,C,1,Answer
+9702,2025,March,1,2,4,NULL,1,A,1,Answer
+9702,2025,March,1,2,5,NULL,1,A,1,Answer
+9702,2025,March,1,2,6,NULL,1,C,1,Answer
+9702,2025,March,1,2,7,NULL,1,B,1,Answer
+9702,2025,March,1,2,8,NULL,1,B,1,Answer
+9702,2025,March,1,2,9,NULL,1,A,1,Answer
+9702,2025,March,1,2,10,NULL,1,A,1,Answer
+9702,2025,March,1,2,11,NULL,1,C,1,Answer
+9702,2025,March,1,2,12,NULL,1,D,1,Answer
+9702,2025,March,1,2,13,NULL,1,D,1,Answer
+9702,2025,March,1,2,14,NULL,1,A,1,Answer
+9702,2025,March,1,2,15,NULL,1,B,1,Answer
+9702,2025,March,1,2,16,NULL,1,A,1,Answer
+9702,2025,March,1,2,17,NULL,1,B,1,Answer
+9702,2025,March,1,2,18,NULL,1,A,1,Answer
+9702,2025,March,1,2,19,NULL,1,D,1,Answer
+9702,2025,March,1,2,20,NULL,1,D,1,Answer
+9702,2025,March,1,2,21,NULL,1,B,1,Answer
+9702,2025,March,1,2,22,NULL,1,A,1,Answer
+9702,2025,March,1,2,23,NULL,1,D,1,Answer
+9702,2025,March,1,2,24,NULL,1,C,1,Answer
+9702,2025,March,1,2,25,NULL,1,B,1,Answer
+9702,2025,March,1,2,26,NULL,1,A,1,Answer
+9702,2025,March,1,2,27,NULL,1,C,1,Answer
+9702,2025,March,1,2,28,NULL,1,C,1,Answer
+9702,2025,March,1,2,29,NULL,1,C,1,Answer
+9702,2025,March,1,2,30,NULL,1,D,1,Answer
+9702,2025,March,1,2,31,NULL,1,C,1,Answer
+9702,2025,March,1,2,32,NULL,1,A,1,Answer
+9702,2025,March,1,2,33,NULL,1,C,1,Answer
+9702,2025,March,1,2,34,NULL,1,B,1,Answer
+9702,2025,March,1,2,35,NULL,1,C,1,Answer
+9702,2025,March,1,2,36,NULL,1,B,1,Answer
+9702,2025,March,1,2,37,NULL,1,B,1,Answer
+9702,2025,March,1,2,38,NULL,1,B,1,Answer
+9702,2025,March,1,2,39,NULL,1,D,1,Answer
+9702,2025,March,1,2,40,NULL,1,D,1,Answer
+9702,2025,March,4,2,1,a,1,1,"arrow vertically downwards labelled 'weight' and arrow perpendicular to cone, inwards and upwards, labelled 'normal contact force'"
+9702,2025,March,4,2,1,b,1,1,vertical component of contact force = weight (so no resultant force vertically)
+9702,2025,March,4,2,1,b,2,1,horizontal component of contact force is resultant force towards centre (of circle)
+9702,2025,March,4,2,1,c,1,1,a = v^2 / r
+9702,2025,March,4,2,1,c,2,1,a = g tan 52°
+9702,2025,March,4,2,1,c,3,1,9.81 × tan 52° = v^2 / 0.15 leading to v = 1.4 m s^-1
+9702,2025,March,4,2,1,d,1,1,v = rω or a = rω^2
+9702,2025,March,4,2,1,d,2,1,ω = 1.4 / 0.15 or √(9.81 × tan 52° / 0.15) = 9.3 rad s^-1
+9702,2025,March,4,2,1,e,1,1,same resultant force / same acceleration so v^2 is proportional to r (so if speed increases radius must also increase)
+9702,2025,March,4,2,2,a,1,1,sketch: line from x = R to x = 4R entirely in the negative φ region
+9702,2025,March,4,2,2,a,2,1,"curve with continuously decreasing magnitude and with gradient of continuously decreasing magnitude, starting at (R, -φ)"
+9702,2025,March,4,2,2,a,3,1,"line passing through (2R, -0.5φ) and (4R, -0.25φ)"
+9702,2025,March,4,2,2,b,1,1,horizontal straight line from t = 0 to t = 24 hours
+9702,2025,March,4,2,2,b,2,1,"line starting at (0, -φ)"
+9702,2025,March,4,2,2,c,1,1,straight line with non-zero gradient from 0 to d
+9702,2025,March,4,2,2,c,2,1,"line with negative gradient from (0, V) to (d, 0)"
+9702,2025,March,4,2,3,a(i),1,1,(P and Q are at the) same temperature
+9702,2025,March,4,2,3,a(i),2,1,no net transfer of thermal energy (between P and Q)
+9702,2025,March,4,2,3,a(ii),1,1,Q = mcΔT
+9702,2025,March,4,2,3,a(ii),2,1,24 × 10^3 = (0.54 × 390 × ΔT) + (0.37 × 910 × ΔT)
+9702,2025,March,4,2,3,a(ii),3,1,ΔT = 44 K
+9702,2025,March,4,2,3,b(i),1,1,work done = pΔV
+9702,2025,March,4,2,3,b(i),2,1,= (1.6 × 10^5) × (0.18 - 0.32)
+9702,2025,March,4,2,3,b(i),3,1,= -2.2 × 10^4 J
+9702,2025,March,4,2,3,b(ii),1,1,pV = NkT
+9702,2025,March,4,2,3,b(ii),2,1,N = (1.6 × 10^5 × 0.18) / (1.38 × 10^-23 × 273) = 7.6 × 10^24
+9702,2025,March,4,2,3,b(iii),1,1,0.5m〈c^2〉 = (3/2)kT
+9702,2025,March,4,2,3,b(iii),2,1,r.m.s. speed = √[(3 × 1.38 × 10^-23 × (210 + 273) / (4.7 × 10^-26)] = 650 m s^-1
+9702,2025,March,4,2,4,a,1,1,ω = 2π / T
+9702,2025,March,4,2,4,a,2,1,= 2π / (0.15 × 10^-6) = 4.2 × 10^7 rad s^-1
+9702,2025,March,4,2,4,b,1,1,a0 = ω^2 x0
+9702,2025,March,4,2,4,b,2,1,= (4.2 × 10^7)^2 × 40 × 10^-6 = 7.1 × 10^10 m s^-2
+9702,2025,March,4,2,4,c,1,1,E = 0.5 m ω^2 x0^2
+9702,2025,March,4,2,4,c,2,1,= 0.5 × 2.4 × 10^-4 × (4.2 × 10^7)^2 × (40 × 10^-6)^2
+9702,2025,March,4,2,4,c,3,1,= 340 J
+9702,2025,March,4,2,4,d(i),1,1,apply alternating p.d. (to / across crystal)
+9702,2025,March,4,2,4,d(i),2,1,applying p.d. to / across crystal causes it to distort
+9702,2025,March,4,2,4,d(ii),1,1,"Z = ρ c, Zm = 1100 × 1600 (= 1.76 × 10^6), Zb = 1900 × 4100 (= 7.79 × 10^6)"
+9702,2025,March,4,2,4,d(ii),2,1,intensity reflection co-efficient = [(7.79 - 1.76) / (7.79 + 1.76)]^2 = 0.40 or 40%
+9702,2025,March,4,2,4,d(ii),3,1,percentage transmitted = 60%
+9702,2025,March,4,2,5,a,1,1,Q = Q1 = Q2 and V = V1 + V2
+9702,2025,March,4,2,5,a,2,1,V = Q/C so: Q/C = Q/C1 + Q/C2 leading to 1/C = 1/C1 + 1/C2
+9702,2025,March,4,2,5,b,1,1,total capacitance = C + 0.5C = (3/2)C
+9702,2025,March,4,2,5,b,2,1,total capacitance = gradient = 400 × 10^-6 / 6.0
+9702,2025,March,4,2,5,b,3,1,either: C = (2 × 400 × 10^-6)/ (3 × 6.0) = 4.4 × 10^-5 F = 44 μF or: C = (2 × 400)/ (3 × 6.0) = 44 μF
+9702,2025,March,4,2,5,c(i),1,1,τ = RC
+9702,2025,March,4,2,5,c(i),2,1,= 54 × 10^3 × (3/2) × 44 × 10^-6 = 3.6 s
+9702,2025,March,4,2,5,c(ii),1,1,0.15 = exp(-t / 3.6)
+9702,2025,March,4,2,5,c(ii),2,1,t = 6.8 s
+9702,2025,March,4,2,6,a,1,1,FB = FE
+9702,2025,March,4,2,6,a,2,1,either: Bqu = qE and E = V / d leading to u = V / Bd or: Bqu = qV / d leading to u = V / Bd
+9702,2025,March,4,2,6,b,1,1,EK = 0.5 m u^2
+9702,2025,March,4,2,6,b,2,1,u = √[(2 × 4.1 × 10^-17) / (3.2 × 10^-27)] = 1.6 × 10^5 m s^-1
+9702,2025,March,4,2,6,b,3,1,B = 980 / (3.6 × 10^-2 × 1.6 × 10^5) = 0.17 T
+9702,2025,March,4,2,6,c,1,1,expression is independent of mass and charge
+9702,2025,March,4,2,6,d,1,1,either: electric force is downwards so magnetic force is upwards or: no resultant force so magnetic force is upwards
+9702,2025,March,4,2,6,d,2,1,(positive ions so) current is from left to right
+9702,2025,March,4,2,6,d,3,1,"from (Fleming’s) left-hand rule, magnetic field is into the page"
+9702,2025,March,4,2,6,e,1,1,curved path inside plates with consistent direction of curvature and with no discontinuity at entry or in curvature
+9702,2025,March,4,2,6,e,2,1,direction of deflection is upwards
+9702,2025,March,4,2,7,a,1,1,(induced) e.m.f is proportional to
+9702,2025,March,4,2,7,a,2,1,rate of change of (magnetic) flux (linkage)
+9702,2025,March,4,2,7,b(i),1,1,(line is straight so) E is proportional to t
+9702,2025,March,4,2,7,b(i),2,1,"(uniform acceleration so v = at, meaning) v is proportional to t (so E proportional to v)"
+9702,2025,March,4,2,7,b(ii),1,1,Δ(magnetic flux) = ΔA × B or B × l × Δs/Δt
+9702,2025,March,4,2,7,b(ii),2,1,E = rate of change of magnetic flux = (B × l × s)/t or = B × l × v
+9702,2025,March,4,2,7,b(ii),3,1,v = at so E = B × l × a × t
+9702,2025,March,4,2,7,b(iii),1,1,gradient is B × l × a
+9702,2025,March,4,2,7,b(iii),2,1,either: B = 100 × 10^-3 / (0.45 × 7.8) or: B = (100 × 10^-3 × 1) / (0.45 × 7.8 × 1) = 0.028 T (0.0285 T)
+9702,2025,March,4,2,8,a,1,1,quantum / packet of energy
+9702,2025,March,4,2,8,a,2,1,of electromagnetic radiation
+9702,2025,March,4,2,8,b(i),1,1,E = hc / λ or E = hf and c = fλ
+9702,2025,March,4,2,8,b(i),2,1,1.96 × 1.6 × 10^-19 = (6.63 × 10^-34 × 3.0 × 10^8) / λ
+9702,2025,March,4,2,8,b(i),3,1,λ = 6.3 × 10^-7 m
+9702,2025,March,4,2,8,b(ii),1,1,number = 1.0 × 10^-2 / (1.96 × 1.6 × 10^-19) = 3.2 × 10^16 s^-1
+9702,2025,March,4,2,8,b(iii),1,1,Δp = p (for absorbed photon) and Δp = 2p (for reflected photon)
+9702,2025,March,4,2,8,b(iii),2,1,(average) force = (0.5 N × p) + (0.5 N × 2p) = 1.5 Np
+9702,2025,March,4,2,8,b(iii),3,1,p = h/λ = 6.63 × 10^-34 / 6.3 × 10^-7 (= 1.05 × 10^-27)
+9702,2025,March,4,2,8,b(iii),4,1,force = 1.5 × 3.2 × 10^16 × 1.05 × 10^-27 = 5.0 × 10^-11 N
+9702,2025,March,4,2,9,a(i),1,1,cannot state when nucleus will decay or which nucleus will decay (next)
+9702,2025,March,4,2,9,a(ii),1,1,(decay is) unaffected by external (environmental) factors / constant probability of decay
+9702,2025,March,4,2,9,b,1,1,time for number of atoms / nuclei / activity (of an isotope) to halve
+9702,2025,March,4,2,9,c,1,1,energy = [(189 × 7.826) + (4 × 7.074)] - (193 × 7.774)
+9702,2025,March,4,2,9,c,2,1,= 5.4 MeV = 5.4 × 10^6 eV
+9702,2025,March,4,2,9,d(i),1,1,decay constant
+9702,2025,March,4,2,9,d(ii),1,1,either: λ = (-)-0.6 / 0.5 (= 1.2 ms^-1) or: λ = (-)-1.2 / 1.0 (= 1.2 ms^-1)
+9702,2025,March,4,2,9,d(ii),2,1,half-life = ln(2) / 1.2 = 0.58 ms
+9702,2025,March,4,2,9,e(i),1,1,interact with electron and annihilate
+9702,2025,March,4,2,9,e(ii),1,1,long enough for tracer to be produced / travel to hospital / move through body AND short enough so limit exposure of patient
+9702,2025,March,4,2,10,a(i),1,1,total power of radiation emitted
+9702,2025,March,4,2,10,a(ii),1,1,standard candle is object of known luminosity
+9702,2025,March,4,2,10,a(ii),2,1,flux / intensity (from standard candle) assessed
+9702,2025,March,4,2,10,a(ii),3,1,either: use F = L / 4πd^2 where F is flux and L is luminosity or: use I = P / 4πd^2 where I is intensity and P is power
+9702,2025,March,4,2,10,b(i),1,1,v = c × (Δλ/λ)
+9702,2025,March,4,2,10,b(i),2,1,Δλ = [0.5 × (656.2877 - 656.2831)] or: Δλ = [656.2877 - 656.2854]
+9702,2025,March,4,2,10,b(i),3,1,either: v = 3.0 × 10^8 × (0.0023 / 656.285) = 1.05 × 10^3 m s^-1 and r = vT / 2π = ... = 6.91 × 10^8 m or: r = c × Δλ × T / (2π × λ) = 6.91 × 10^8 m
+9702,2025,March,4,2,10,b(ii),1,1,expected wavelength is 656.2854 nm (from (b)(i))
+9702,2025,March,4,2,10,b(ii),2,1,Z is moving perpendicularly to line of sight (so no Doppler effect)
+9702,2025,March,4,2,10,b(iii),1,1,L = 4π r^2 σ T^4
+9702,2025,March,4,2,10,b(iii),2,1,T = [3.8 × 10^26 / (4π × (6.93 × 10^8)^2 × 5.67 × 10^-8)]^0.25 = 5500 K
