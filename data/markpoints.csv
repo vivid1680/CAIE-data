@@ -197,3 +197,1161 @@ subject_code,year,session,paper_number,variant,question_number,label,point_numbe
 9702,2025,March,4,2,10,b(ii),2,1,Z is moving perpendicularly to line of sight (so no Doppler effect)
 9702,2025,March,4,2,10,b(iii),1,1,L = 4π r^2 σ T^4
 9702,2025,March,4,2,10,b(iii),2,1,T = [3.8 × 10^26 / (4π × (6.93 × 10^8)^2 × 5.67 × 10^-8)]^0.25 = 5500 K
+9702,2025,June,1,2,1,NULL,1,1,D
+9702,2025,June,1,2,2,NULL,1,1,D
+9702,2025,June,1,2,3,NULL,1,1,B
+9702,2025,June,1,2,4,NULL,1,1,C
+9702,2025,June,1,2,5,NULL,1,1,A
+9702,2025,June,1,2,6,NULL,1,1,C
+9702,2025,June,1,2,7,NULL,1,1,A
+9702,2025,June,1,2,8,NULL,1,1,B
+9702,2025,June,1,2,9,NULL,1,1,B
+9702,2025,June,1,2,10,NULL,1,1,C
+9702,2025,June,1,2,11,NULL,1,1,B
+9702,2025,June,1,2,12,NULL,1,1,D
+9702,2025,June,1,2,13,NULL,1,1,C
+9702,2025,June,1,2,14,NULL,1,1,D
+9702,2025,June,1,2,15,NULL,1,1,A
+9702,2025,June,1,2,16,NULL,1,1,A
+9702,2025,June,1,2,17,NULL,1,1,B
+9702,2025,June,1,2,18,NULL,1,1,C
+9702,2025,June,1,2,19,NULL,1,1,B
+9702,2025,June,1,2,20,NULL,1,1,C
+9702,2025,June,1,2,21,NULL,1,1,A
+9702,2025,June,1,2,22,NULL,1,1,B
+9702,2025,June,1,2,23,NULL,1,1,D
+9702,2025,June,1,2,24,NULL,1,1,C
+9702,2025,June,1,2,25,NULL,1,1,B
+9702,2025,June,1,2,26,NULL,1,1,D
+9702,2025,June,1,2,27,NULL,1,1,B
+9702,2025,June,1,2,28,NULL,1,1,D
+9702,2025,June,1,2,29,NULL,1,1,C
+9702,2025,June,1,2,30,NULL,1,1,D
+9702,2025,June,1,2,31,NULL,1,1,C
+9702,2025,June,1,2,32,NULL,1,1,A
+9702,2025,June,1,2,33,NULL,1,1,D
+9702,2025,June,1,2,34,NULL,1,1,C
+9702,2025,June,1,2,35,NULL,1,1,D
+9702,2025,June,1,2,36,NULL,1,1,D
+9702,2025,June,1,2,37,NULL,1,1,A
+9702,2025,June,1,2,38,NULL,1,1,B
+9702,2025,June,1,2,39,NULL,1,1,A
+9702,2025,June,1,2,40,NULL,1,1,B
+9702,2025,June,2,2,1,a,1,1,acceleration and displacement identified as vectors (and no others)
+9702,2025,June,2,2,1,a,2,1,"speed, temperature and gravitational potential energy identified as scalars (and no others)"
+9702,2025,June,2,2,1,b(i),1,1,W = Fs or W = mas
+9702,2025,June,2,2,1,b(i),2,1,s = v2/2a or a = v2/2s or as = v2/2
+9702,2025,June,2,2,1,b(i),3,1,W = ma(v2/2a) or W = m(v2/2s)s or W = m(v2/2) and (so EK )= 1/2mv2
+9702,2025,June,2,2,1,b(ii),1,1,kinetic energy = 1/2 mv2 = 1/2 × 920 × 17^2 = 1.3 × 10^5 J
+9702,2025,June,2,2,1,b(iii),1,1,P = W / t
+9702,2025,June,2,2,1,b(iii),2,1,= (4.7 × 10^4 + 1.3 × 10^5) / 5.8
+9702,2025,June,2,2,1,b(iii),3,1,= 3.1 × 10^4 W
+9702,2025,June,2,2,1,b(iv),1,1,the kinetic energy (of the car) does not change / work is done only against resistive forces / no work is done to accelerate (the car) so (power output is) less
+9702,2025,June,2,2,2,a,1,1,force × perpendicular distance (of line of action of force to/from the point)
+9702,2025,June,2,2,2,b(i),1,1,(moment due to weight =) 1.2 × 270 × 9.81
+9702,2025,June,2,2,2,b(i),2,1,(moment due to post =) 1800 × (1.6 / cosθ)
+9702,2025,June,2,2,2,b(i),3,1,1.2 × 270 × 9.81 = 1800 × (1.6 / cosθ) so θ = 25(°)
+9702,2025,June,2,2,2,b(ii),1,1,A closed tip-to-tail vector triangle
+9702,2025,June,2,2,2,b(ii),2,1,vector labelled F at an angle of 25° ± 3° anticlockwise from vertical and vector labelled R at an angle of 37° ± 3° clockwise from vertical
+9702,2025,June,2,2,2,b(iii),1,1,A = F / p = 1800 / (150 × 10^3)
+9702,2025,June,2,2,2,b(iii),2,1,= 0.012 m^2
+9702,2025,June,2,2,3,a,1,1,10.0 cm
+9702,2025,June,2,2,3,b(i),1,1,v = fλ = 16 × 0.40
+9702,2025,June,2,2,3,b(i),2,1,= 6.4 m s^-1
+9702,2025,June,2,2,3,b(ii),1,1,(X and Y have a) constant phase difference (of 180°) so (they are) coherent
+9702,2025,June,2,2,3,c,1,1,A single wave of amplitude 10.0 cm
+9702,2025,June,2,2,3,c,2,1,A single negative sine wave of wavelength 0.40 m
+9702,2025,June,2,2,3,d,1,1,I ∝ A^2 so IX/IY = 10^2 / 20^2
+9702,2025,June,2,2,3,d,2,1,ratio = 0.25
+9702,2025,June,2,2,4,a,1,1,The (total) kinetic energy changes/decreases so (the collision is) inelastic
+9702,2025,June,2,2,4,b(i),1,1,p = mv or 0.25 × 3.6 or 0.25 × 5.2 and Δp = 0.25 × (3.6 + 5.2)
+9702,2025,June,2,2,4,b(i),2,1,= 2.2 kg m s^-1
+9702,2025,June,2,2,4,b(ii),1,1,F = Δp / Δt = 2.2 / 0.18
+9702,2025,June,2,2,4,b(ii),2,1,= 12 N
+9702,2025,June,2,2,4,c,1,1,1/2 mv^2 = mgΔh -> h1 = 5.2^2 / 2g = 1.38
+9702,2025,June,2,2,4,c,2,1,h2 = 3.6^2 / 2g = 0.66 so h2/h1 = 0.66 / 1.38
+9702,2025,June,2,2,4,c,3,1,ratio = 0.48
+9702,2025,June,2,2,5,a,1,1,the ratio of stress to strain
+9702,2025,June,2,2,5,b(i),1,1,A = FL / Ex
+9702,2025,June,2,2,5,b(i),2,1,A = (500 × 0.81) / (95 × 10^9 × 4.0 × 10^-3)
+9702,2025,June,2,2,5,b(i),3,1,A = 1.1 × 10^-6 m^2
+9702,2025,June,2,2,5,b(ii),1,1,E = 1/2 kx^2 or E = 1/2 Fx or E = area (under graph)
+9702,2025,June,2,2,5,b(ii),2,1,ΔE = (1/2 × 375 × 3.0 × 10^-3) - (1/2 × 250 × 2.0 × 10^-3)
+9702,2025,June,2,2,5,b(ii),3,1,work done = 0.31 J
+9702,2025,June,2,2,6,a,1,1,energy transferred (to the component) per (unit) charge
+9702,2025,June,2,2,6,b(i),1,1,Q = It = 0.030 × 4.0 × 60
+9702,2025,June,2,2,6,b(i),2,1,= 7.2 C
+9702,2025,June,2,2,6,b(ii),1,1,I = V/R -> I1 = 8.0 / (430+240)
+9702,2025,June,2,2,6,b(ii),2,1,= 0.012 A
+9702,2025,June,2,2,6,b(iii),1,1,I2 = 0.030 - I1 = 0.030 - 0.012 = 0.018 A
+9702,2025,June,2,2,6,b(iv),1,1,R = V/I2 = (8.0 - (0.018 × 210)) / 0.018
+9702,2025,June,2,2,6,b(iv),2,1,= 230 Ω
+9702,2025,June,2,2,6,c,1,1,(When) the galvanometer reads 0 (A)
+9702,2025,June,2,2,6,c,2,1,The ratio of the resistances in the top branch will equal the ratio of the resistances in the bottom branch (so the resistance of X can be determined)
+9702,2025,June,2,2,7,a,1,1,(a particle that) cannot be divided/subdivided (into smaller particles)
+9702,2025,June,2,2,7,b(i),1,1,(p × e) / (14u) = 4.1 × 10^7
+9702,2025,June,2,2,7,b(i),2,1,p = (4.1 × 10^7 × 14 × 1.66 × 10^-27) / (1.60 × 10^-19)
+9702,2025,June,2,2,7,b(i),3,1,p = 6
+9702,2025,June,2,2,7,b(ii),1,1,14/6 X
+9702,2025,June,2,2,7,b(ii),2,1,0/-1 e or 0/-1 β
+9702,2025,June,2,2,7,b(ii),3,1,0/0 antineutrino
+9702,2025,June,2,2,7,c,1,1,(the nuclei are undergoing) β+ decay
+9702,2025,June,2,2,7,c,2,1,range of energies so is β (particles/decay) and (particles/decay) positively charged so cannot be β- so is β+
+9702,2025,June,4,2,1,a,1,1,angle (subtended at centre of a circle) when arc (length) = radius
+9702,2025,June,4,2,1,b(i),1,1,v = rω
+9702,2025,June,4,2,1,b(i),2,1,ω = 17 / 0.46 = 37 rad s–1
+9702,2025,June,4,2,1,b(ii),1,1,T = 2πr / v or T = 2π / ω
+9702,2025,June,4,2,1,b(ii),2,1,= 2π × 0.46 / 17 or 2π / 37 = 0.17 s
+9702,2025,June,4,2,1,b(iii),1,1,distance = 2π × 0.038 = 0.24 m
+9702,2025,June,4,2,1,b(iv),1,1,angle = arc length / radius = 0.24 / 0.15
+9702,2025,June,4,2,1,b(iv),2,1,= 1.6 rad
+9702,2025,June,4,2,1,c,1,1,point X moves through a smaller distance in the same time or (linear) speed of movement of point X / chain decreases
+9702,2025,June,4,2,1,c,2,1,angular speed (of pedals) decreases
+9702,2025,June,4,2,2,a(i),1,1,direction of force
+9702,2025,June,4,2,2,a(i),2,1,force acting on a (test) mass
+9702,2025,June,4,2,2,a(ii),1,1,"at least four radial lines from the Earth’s surface, equally spaced around the surface"
+9702,2025,June,4,2,2,a(ii),2,1,arrows indicating direction towards Earth
+9702,2025,June,4,2,2,b(i),1,1,top pole labelled S and bottom pole labelled N
+9702,2025,June,4,2,2,b(ii),1,1,"at least two field lines either side of both poles, leaving perpendicularly and curving away"
+9702,2025,June,4,2,2,b(ii),2,1,"at least one field line connecting two points on the surface via the magnetic equator, approximately parallel"
+9702,2025,June,4,2,2,c(i),1,1,(around the surface) lines are evenly spaced
+9702,2025,June,4,2,2,c(i),2,1,all lines perpendicular to surface or pointing down towards surface (at all points)
+9702,2025,June,4,2,2,c(ii),1,1,strongest at the poles and weakest near the Equator
+9702,2025,June,4,2,2,c(ii),2,1,"perpendicular to surface at the poles, parallel to surface near Equator"
+9702,2025,June,4,2,2,c(ii),3,1,angle to surface increases from Equator to poles
+9702,2025,June,4,2,3,a,1,1,(thermal) energy per unit mass (to cause temperature change)
+9702,2025,June,4,2,3,a,2,1,(thermal) energy per unit change in temperature
+9702,2025,June,4,2,3,b(i),1,1,density = mass / volume so mass = 2.700 × 10^3 × 3.612 × 10^-3
+9702,2025,June,4,2,3,b(i),2,1,= 9.752 kg
+9702,2025,June,4,2,3,b(ii),1,1,volume = 9.752 / (2.620 × 10^3) = 3.722 × 10^-3 m^3
+9702,2025,June,4,2,3,b(iii),1,1,W = pΔV = 1.01 × 10^5 × (3.722 – 3.612) × 10^-3
+9702,2025,June,4,2,3,b(iii),2,1,= 11.1 J
+9702,2025,June,4,2,3,b(iv),1,1,volume (of block) increases
+9702,2025,June,4,2,3,b(iv),2,1,work is done against the atmosphere so work done (on block) is negative
+9702,2025,June,4,2,3,b(v),1,1,thermal energy = (4.38 × 10^6) + 11.1
+9702,2025,June,4,2,3,b(v),2,1,specific heat capacity = (4.38 × 10^6) / (9.75 × 500)
+9702,2025,June,4,2,3,b(v),3,1,= 898 J kg-1 °C-1
+9702,2025,June,4,2,3,c,1,1,work done is negligible compared with (change in) internal energy so unchanged
+9702,2025,June,4,2,4,a(i),1,1,thermodynamic temperature
+9702,2025,June,4,2,4,a(ii),1,1,molar gas constant
+9702,2025,June,4,2,4,b(i),1,1,m: mass of one molecule (of the gas)
+9702,2025,June,4,2,4,b(i),2,1,〈c2〉: mean-square speed (of molecules)
+9702,2025,June,4,2,4,b(ii),1,1,NBT / A = 1/3 Nm〈c2〉
+9702,2025,June,4,2,4,b(ii),2,1,clear use of EK = 1/2 m〈c2〉 leading to EK = 3BT / 2A
+9702,2025,June,4,2,4,c,1,1,line with positive gradient passing through the origin
+9702,2025,June,4,2,4,c,2,1,smooth curve with decreasing positive gradient
+9702,2025,June,4,2,5,a,1,1,(motion in which) acceleration is (directly) proportional to displacement
+9702,2025,June,4,2,5,a,2,1,acceleration is (always) in the opposite direction to displacement / towards fixed point
+9702,2025,June,4,2,5,b(i),1,1,period = 2π / 16 = 0.39 s
+9702,2025,June,4,2,5,b(ii),1,1,v0 = ωx0 -> x0 = 0.56 / 16
+9702,2025,June,4,2,5,b(ii),2,1,= 0.035 m
+9702,2025,June,4,2,5,b(iii),1,1,v = ±16 √(0.035^2 - x^2)
+9702,2025,June,4,2,5,b(iv),1,1,closed loop surrounding the origin
+9702,2025,June,4,2,5,b(iv),2,1,loop crosses v = 0 at maximum values of x at ± 3.5 cm
+9702,2025,June,4,2,5,b(iv),3,1,loop crosses x = 0 at maximum values of v at ± 0.56 m s-1
+9702,2025,June,4,2,6,a,1,1,plate X marked as negative and plate Y marked as positive
+9702,2025,June,4,2,6,b(i),1,1,E = V / x = (58 × 10^3) / 0.041
+9702,2025,June,4,2,6,b(i),2,1,= 1.4 × 10^6 N C-1
+9702,2025,June,4,2,6,b(ii),1,1,ma = eE -> a = (1.60 × 10^-19 × 1.41 × 10^6) / (9.11 × 10^-31)
+9702,2025,June,4,2,6,b(ii),2,1,= 2.5 × 10^17 m s-2
+9702,2025,June,4,2,6,c(i),1,1,eV = hc/λ or eV = hf and f = c/λ
+9702,2025,June,4,2,6,c(i),2,1,(1.60 × 10^-19 × 58 × 10^3) = (6.63 × 10^-34 × 3.00 × 10^8) / λ
+9702,2025,June,4,2,6,c(i),3,1,clear conversion from m to pm leading to λ = 21 pm
+9702,2025,June,4,2,6,c(ii),1,1,X-rays
+9702,2025,June,4,2,6,c(iii),1,1,waves are passed into structure and transmitted waves detected / different parts absorb different fractions
+9702,2025,June,4,2,6,c(iii),2,1,difference in detected/transmitted intensities used (to form image)
+9702,2025,June,4,2,7,a,1,1,VC = VR
+9702,2025,June,4,2,7,b(i),1,1,C = Q / V = (7.2 × 10^-3) / 12
+9702,2025,June,4,2,7,b(i),2,1,= 600 μF
+9702,2025,June,4,2,7,b(ii),1,1,R = V / I = 12 / (1.5 × 10^-3)
+9702,2025,June,4,2,7,b(ii),2,1,= 8.0 kΩ
+9702,2025,June,4,2,7,b(iii),1,1,τ = RC = 8000 × 6.0 × 10^-4
+9702,2025,June,4,2,7,b(iii),2,1,= 4.8 s
+9702,2025,June,4,2,7,c,1,1,"charge and current both proportional to voltage, and current is rate of change of charge"
+9702,2025,June,4,2,7,c,2,1,charge is directly proportional to current
+9702,2025,June,4,2,7,c,3,1,Q is proportional to the rate of change of Q (so exponential variation)
+9702,2025,June,4,2,8,a(i),1,1,half-wave (rectification)
+9702,2025,June,4,2,8,a(ii),1,1,V0 = 6.0 × √2 = 8.5 V
+9702,2025,June,4,2,8,b(i),1,1,P = V^2 / R so P0 = 8.5^2 / 45
+9702,2025,June,4,2,8,b(i),2,1,= 1.6 W
+9702,2025,June,4,2,8,b(ii),1,1,two humps of width 0.5T and two sections of zero power of width 0.5T
+9702,2025,June,4,2,8,b(ii),2,1,"all humps drawn have width 0.5T, minima at P = 0 and peaks at P = P0"
+9702,2025,June,4,2,8,b(ii),3,1,"correct sinusoidal shape, smooth troughs sitting on t-axis"
+9702,2025,June,4,2,8,b(iii),1,1,mean power within each hump is 1/2 P0 from symmetry of curve
+9702,2025,June,4,2,8,b(iii),2,1,additional half factor from removal of half of the power in each cycle
+9702,2025,June,4,2,8,b(iv),1,1,〈P〉 = Vr.m.s.^2 / R -> Vr.m.s. = √[(1.6 / 4) × 45] = 4.2 V
+9702,2025,June,4,2,9,a,1,1,emission of electrons (from a metal surface)
+9702,2025,June,4,2,9,a,2,1,when electromagnetic radiation is incident (on surface)
+9702,2025,June,4,2,9,b(i),1,1,current falls to zero when applied voltage equals energy per unit charge of emitted electrons
+9702,2025,June,4,2,9,b(i),2,1,energy of photon depends on frequency
+9702,2025,June,4,2,9,b(i),3,1,maximum energy of electron depends on energy of photon
+9702,2025,June,4,2,9,b(ii),1,1,threshold frequency = 1.5 × 10^15 Hz
+9702,2025,June,4,2,9,b(ii),2,1,threshold wavelength = 2.0 × 10^-7 m or work function = 6.2 eV
+9702,2025,June,4,2,9,b(ii),3,1,Planck constant = 6.6 × 10^-34 J s or number per unit time = 1.7 × 10^16 s^-1
+9702,2025,June,4,2,10,a,1,1,(decay is) not affected by external / environmental factors
+9702,2025,June,4,2,10,b(i),1,1,half-life of X = 2T and half-life of Y = 3T
+9702,2025,June,4,2,10,b(i),2,1,"both samples show decay constant equal to ln 2 / half-life (X = ln2/2T, Y = ln2/3T)"
+9702,2025,June,4,2,10,b(i),3,1,"both samples show N0 equal to initial activity / decay constant (N0 for X = 8AT/ln2, Y = 3AT/ln2)"
+9702,2025,June,4,2,10,b(ii),1,1,correct substitution into A0 exp(–λt)
+9702,2025,June,4,2,10,b(ii),2,1,4A exp(–t ln 2 / 2T) = A exp(–t ln 2 / 3T)
+9702,2025,June,4,2,10,b(ii),3,1,t = 12T
+9702,2025,June,4,2,10,c,1,1,"(radiation) emitted in all directions, not just in direction of detector"
+9702,2025,June,4,2,10,c,2,1,some radiation absorbed by air/sample/window or some may not register even though it reaches detector
+9702,2025,November,1,2,1,NULL,1,1,B
+9702,2025,November,1,2,2,NULL,1,1,D
+9702,2025,November,1,2,3,NULL,1,1,C
+9702,2025,November,1,2,4,NULL,1,1,C
+9702,2025,November,1,2,5,NULL,1,1,B
+9702,2025,November,1,2,6,NULL,1,1,B
+9702,2025,November,1,2,7,NULL,1,1,A
+9702,2025,November,1,2,8,NULL,1,1,C
+9702,2025,November,1,2,9,NULL,1,1,D
+9702,2025,November,1,2,10,NULL,1,1,B
+9702,2025,November,1,2,11,NULL,1,1,A
+9702,2025,November,1,2,12,NULL,1,1,D
+9702,2025,November,1,2,13,NULL,1,1,A
+9702,2025,November,1,2,14,NULL,1,1,C
+9702,2025,November,1,2,15,NULL,1,1,C
+9702,2025,November,1,2,16,NULL,1,1,A
+9702,2025,November,1,2,17,NULL,1,1,C
+9702,2025,November,1,2,18,NULL,1,1,A
+9702,2025,November,1,2,19,NULL,1,1,B
+9702,2025,November,1,2,20,NULL,1,1,B
+9702,2025,November,1,2,21,NULL,1,1,A
+9702,2025,November,1,2,22,NULL,1,1,A
+9702,2025,November,1,2,23,NULL,1,1,C
+9702,2025,November,1,2,24,NULL,1,1,D
+9702,2025,November,1,2,25,NULL,1,1,B
+9702,2025,November,1,2,26,NULL,1,1,D
+9702,2025,November,1,2,27,NULL,1,1,C
+9702,2025,November,1,2,28,NULL,1,1,D
+9702,2025,November,1,2,29,NULL,1,1,A
+9702,2025,November,1,2,30,NULL,1,1,C
+9702,2025,November,1,2,31,NULL,1,1,C
+9702,2025,November,1,2,32,NULL,1,1,D
+9702,2025,November,1,2,33,NULL,1,1,B
+9702,2025,November,1,2,34,NULL,1,1,D
+9702,2025,November,1,2,35,NULL,1,1,B
+9702,2025,November,1,2,36,NULL,1,1,D
+9702,2025,November,1,2,37,NULL,1,1,A
+9702,2025,November,1,2,38,NULL,1,1,C
+9702,2025,November,1,2,39,NULL,1,1,D
+9702,2025,November,1,2,40,NULL,1,1,A
+9702,2025,November,2,2,1,a,1,1,air temperature: K and air pressure: kg m^-1 s^-2
+9702,2025,November,2,2,1,a,2,1,scalar only ticked for both air temperature and air pressure
+9702,2025,November,2,2,1,b(i),1,1,upthrust = 1.1 x 9.81 x (4pi x 0.90^3 / 3)
+9702,2025,November,2,2,1,b(i),2,1,= 33 N
+9702,2025,November,2,2,1,b(ii),1,1,(due to difference in height / depth there is a) difference in pressure between top and bottom (of balloon)
+9702,2025,November,2,2,1,b(ii),2,1,"(due to pressure difference, upwards) force on bottom of balloon is greater (than downwards force on top of balloon, so resultant force is upwards)"
+9702,2025,November,2,2,1,b(iii),1,1,(Sum)F = 33 - 19 (= 14 N)
+9702,2025,November,2,2,1,b(iii),2,1,m = 19 / 9.81 (= 1.94 kg)
+9702,2025,November,2,2,1,b(iii),3,1,a = (33 - 19) / (19 / 9.81) = 7.2 m s^-2
+9702,2025,November,2,2,1,c,1,1,(absolute percentage uncertainty) 5 + 3 + (2x4) = 16%
+9702,2025,November,2,2,1,c,2,1,absolute uncertainty in c = 1.8 x 0.16 = (+-) 0.3
+9702,2025,November,2,2,2,a(i),1,1,60x1.6 = 96 Nm OR 220x0.4 = 88 Nm
+9702,2025,November,2,2,2,a(i),2,1,resultant moment = 96 - 88 = 8.0 Nm
+9702,2025,November,2,2,2,a(ii),1,1,the resultant force (of A and C) is not zero so (they are) not a couple
+9702,2025,November,2,2,2,b,1,1,"line with a positive gradient from (t1, 0) to t2"
+9702,2025,November,2,2,2,b,2,1,line with increasing positive gradient from t1 to t2
+9702,2025,November,2,2,2,c(i),1,1,sum / total momentum before = sum / total momentum after OR sum / total momentum (of a system of objects) is constant
+9702,2025,November,2,2,2,c(i),2,1,if no (resultant) external force / for an isolated system
+9702,2025,November,2,2,2,c(ii),1,1,(Delta)p = F(Delta)t
+9702,2025,November,2,2,2,c(ii),2,1,m = 5500 x 0.36 / 8.5 = 230 kg
+9702,2025,November,2,2,2,c(iii),1,1,(Delta)p = 5500 x 0.36 = 1980 N s
+9702,2025,November,2,2,2,c(iii),2,1,1980 = (2.5x10^3 - 230)(Delta)v
+9702,2025,November,2,2,2,c(iii),3,1,(Delta)v = 0.87 m s^-1
+9702,2025,November,2,2,3,a,1,1,an arrow horizontally on the page to the left labelled F
+9702,2025,November,2,2,3,a,2,1,two arrows horizontally on the page to the right each labelled T
+9702,2025,November,2,2,3,b(i),1,1,T = 110/2 = 55 N
+9702,2025,November,2,2,3,b(ii),1,1,x = F/k = 110/250
+9702,2025,November,2,2,3,b(ii),2,1,= 0.44 m
+9702,2025,November,2,2,3,c(i),1,1,extension = 55/250 OR 110/(2x250)
+9702,2025,November,2,2,3,c(i),2,1,extension = 0.22 m
+9702,2025,November,2,2,3,c(ii),1,1,E = 1/2 Fx OR E = 1/2 kx^2
+9702,2025,November,2,2,3,c(ii),2,1,E1/E2 = 2.0
+9702,2025,November,2,2,4,a,1,1,light diffracts / spreads (at slit(s))
+9702,2025,November,2,2,4,a,2,1,light (from each slit) superposes / interferes (at screen)
+9702,2025,November,2,2,4,a,3,1,when phase difference is 0 / path difference is n(lambda) a bright fringe is formed OR when phase difference is 180 / path difference is (n+1/2)(lambda) a dark fringe is formed
+9702,2025,November,2,2,4,b,1,1,(lambda) = ax / D
+9702,2025,November,2,2,4,b,2,1,(lambda) = 1.0x10^-3 x 3.3x10^-3 / 4.8 (= 6.875x10^-7 m)
+9702,2025,November,2,2,4,b,3,1,f = v / (lambda) = 3.0x10^8 / 6.875x10^-7
+9702,2025,November,2,2,4,b,4,1,= 4.4 x 10^14 Hz
+9702,2025,November,2,2,4,c,1,1,the light / beams (have different frequencies so) are not coherent / do not have constant phase difference
+9702,2025,November,2,2,5,a,1,1,sum of current(s) into junction = sum of current(s) out junction OR (algebraic) sum of current(s) at a junction is zero
+9702,2025,November,2,2,5,b(i),1,1,V = E - Ir
+9702,2025,November,2,2,5,b(i),2,1,V = 5.0 - (38x10^-3 x 4.7) = 4.8 V
+9702,2025,November,2,2,5,b(ii),1,1,R(Z) = 120 Ohms
+9702,2025,November,2,2,5,b(ii),2,1,I2 = 38x10^-3 - (4.8 / (100 + 120))
+9702,2025,November,2,2,5,b(ii),3,1,I2 = 0.016 A
+9702,2025,November,2,2,5,b(iii),1,1,P = IV OR P = I^2 R OR P = V^2 / R
+9702,2025,November,2,2,5,b(iii),2,1,P = 0.016 x 4.8 = 0.077 W
+9702,2025,November,2,2,5,b(iv),1,1,resistance of the LDR / Z increases (as light intensity decreases)
+9702,2025,November,2,2,5,b(iv),2,1,total resistance (of the circuit) increases OR current in the battery decreases
+9702,2025,November,2,2,5,b(iv),3,1,(potential difference across the internal resistor decreases so) the terminal potential difference increases
+9702,2025,November,2,2,6,a,1,1,(a particle that) cannot be divided / subdivided (into smaller particles)
+9702,2025,November,2,2,6,b(i),1,1,any combination of one quark and one antiquark
+9702,2025,November,2,2,6,b(i),2,1,up / charm / top and antiup / anticharm / antitop OR down / strange / bottom and antidown / antistrange / antibottom
+9702,2025,November,2,2,6,b(ii),1,1,E(K) = 1/2 mv^2
+9702,2025,November,2,2,6,b(ii),2,1,2.1x10^-16 = 1/2 x (0.67 x 1.66x10^-27) x v^2
+9702,2025,November,2,2,6,b(ii),3,1,v = 6.1 x 10^5 m s^-1
+9702,2025,November,2,2,6,c(i),1,1,number of electrons = 88
+9702,2025,November,2,2,6,c(ii),1,1,number of protons = 88 - (5x2) + 4 = 82
+9702,2025,November,2,2,6,c(ii),2,1,number of neutrons = (228 - 20) - 82 = 126
+9702,2025,November,4,2,1,a(i),1,1,radius = 6.37x10^6 * cos 52.2 = 3.90x10^6 m
+9702,2025,November,4,2,1,a(ii),1,1,period = 24 hours
+9702,2025,November,4,2,1,a(ii),2,1,v = 2pi*r/T OR v=rw and w=2pi/T
+9702,2025,November,4,2,1,a(ii),3,1,v = (2pi * 3.90x10^6) / (24*60*60) = 280 m s^-1
+9702,2025,November,4,2,1,b(i),1,1,F = mv^2 / r
+9702,2025,November,4,2,1,b(i),2,1,F = 1.2 N
+9702,2025,November,4,2,1,b(ii),1,1,arrow pointing horizontally to the left
+9702,2025,November,4,2,1,b(iii),1,1,"arrow from student pointing along the dotted line, labelled weight"
+9702,2025,November,4,2,1,b(iii),2,1,"upwards arrow from student pointing in a direction to the left of normal and above the tangent to the Earth, labelled contact force"
+9702,2025,November,4,2,2,a,1,1,gravitational force is directly proportional to product of masses
+9702,2025,November,4,2,2,a,2,1,force is inversely proportional to the square of their separation
+9702,2025,November,4,2,2,b,1,1,molecules are in continuous random motion
+9702,2025,November,4,2,2,b,2,1,collisions are perfectly elastic
+9702,2025,November,4,2,2,c(i),1,1,pV = nRT
+9702,2025,November,4,2,2,c(i),2,1,p = 2.01x10^5 Pa
+9702,2025,November,4,2,2,c(ii),1,1,number of molecules = 0.0160 x 6.02x10^23
+9702,2025,November,4,2,2,c(ii),2,1,separation = cbrt(1.87x10^-4 / ...) = 2.7x10^-9 m
+9702,2025,November,4,2,2,d(i),1,1,F = Gm1m2 / r^2 = 6.67x10^-11 * (3.34x10^-27)^2 / (2.7x10^-9)^2
+9702,2025,November,4,2,2,d(i),2,1,F = 1.0x10^-46 N
+9702,2025,November,4,2,2,d(ii),1,1,numerical comparison between 10^-46 N and 10^-26 N weight leading to conclusion that assumption is supported
+9702,2025,November,4,2,3,a,1,1,same temperature
+9702,2025,November,4,2,3,a,2,1,no net transfer of thermal energy between them
+9702,2025,November,4,2,3,b(i),1,1,density
+9702,2025,November,4,2,3,b(ii),1,1,large response time / large time to reach equilibrium
+9702,2025,November,4,2,3,b(ii),2,1,bulky / difficult to set up / difficult to take readings
+9702,2025,November,4,2,3,b(iii),1,1,to calibrate other thermometers in a laboratory
+9702,2025,November,4,2,3,b(iv),1,1,0 C = 273 K
+9702,2025,November,4,2,3,b(iv),2,1,T = 273 * (7.83 - 2.31) / (8.69 - 2.31) (= 236 K)
+9702,2025,November,4,2,3,b(iv),3,1,theta = 236 - 273 = -37 C
+9702,2025,November,4,2,4,a,1,1,increase in internal energy = work done on system + energy transferred to the system by heating
+9702,2025,November,4,2,4,a,2,1,equation format stated clearly
+9702,2025,November,4,2,4,b(i),1,1,U = (3/2) pV
+9702,2025,November,4,2,4,b(ii),1,1,pV = NkT and k identified as Boltzmann constant
+9702,2025,November,4,2,4,b(ii),2,1,U = (3/2) NkT
+9702,2025,November,4,2,4,c(i),1,1,W = (+) 8XY
+9702,2025,November,4,2,4,c(ii),1,1,W = - 20XY
+9702,2025,November,4,2,4,d,1,1,work done during stages BC and DA = 0
+9702,2025,November,4,2,4,d,2,1,change in internal energy over complete cycle = 0
+9702,2025,November,4,2,4,d,3,1,thermal energy supplied = 20XY - 8XY = (+) 12XY
+9702,2025,November,4,2,5,a(i),1,1,straight line through origin shows that a is proportional to x
+9702,2025,November,4,2,5,a(i),2,1,negative gradient shows that a is always in opposite direction to x
+9702,2025,November,4,2,5,a(ii),1,1,a0 = w^2 x0
+9702,2025,November,4,2,5,a(ii),2,1,w = 2pi / T
+9702,2025,November,4,2,5,a(ii),3,1,T = 2pi * sqrt(1.2 / 13) = 1.9 s
+9702,2025,November,4,2,5,b(i),1,1,loss of energy of oscillations
+9702,2025,November,4,2,5,b(i),2,1,due to resistive forces
+9702,2025,November,4,2,5,b(ii),1,1,line starting from x = +-1.2 cm at t = 0
+9702,2025,November,4,2,5,b(ii),2,1,line starting from non-zero value of x and entirely above or below t-axis
+9702,2025,November,4,2,5,b(ii),3,1,"curve starting from non-zero x value, with magnitude continually decreasing"
+9702,2025,November,4,2,6,a,1,1,force per unit positive charge
+9702,2025,November,4,2,6,b(i),1,1,radial lines
+9702,2025,November,4,2,6,b(i),2,1,arrows pointing away from sphere
+9702,2025,November,4,2,6,b(ii),1,1,C = Q / V
+9702,2025,November,4,2,6,b(ii),2,1,V = 83 / 69 = (+) 1.2 V
+9702,2025,November,4,2,6,b(iii),1,1,V = Q / 4 pi e0 r
+9702,2025,November,4,2,6,b(iii),2,1,r = 0.62 m
+9702,2025,November,4,2,6,b(iv),1,1,E = Q / 4 pi e0 r^2
+9702,2025,November,4,2,6,b(iv),2,1,E = 1.9 N C^-1
+9702,2025,November,4,2,6,c,1,1,26 = 83 exp [- t / RC]
+9702,2025,November,4,2,6,c,2,1,t = 9.6x10^-3 s
+9702,2025,November,4,2,7,a(i),1,1,T = 2pi / 40pi = 0.050 s
+9702,2025,November,4,2,7,a(ii),1,1,Vrms = 18 / sqrt(2) = 13 V
+9702,2025,November,4,2,7,b,1,1,sinusoidal curve of period 50 ms from t=0 to t=100ms
+9702,2025,November,4,2,7,b,2,1,"correct phase VMAX at t=0,50,100ms"
+9702,2025,November,4,2,7,b,3,1,maximum and minimum voltages shown as +-18 V
+9702,2025,November,4,2,7,c,1,1,rectification is full-wave
+9702,2025,November,4,2,7,c,2,1,mean power = 14 W
+9702,2025,November,4,2,7,c,3,1,resistance of R = 12 Ohms
+9702,2025,November,4,2,8,a,1,1,electrons moving between levels emit a single photon
+9702,2025,November,4,2,8,a,2,1,energy of photon = difference between energy levels
+9702,2025,November,4,2,8,a,3,1,discrete differences between electron energies means energy levels must be discrete
+9702,2025,November,4,2,8,b(i),1,1,energy = - (13.6 * 1.6x10^-19) = -2.18x10^-18 J
+9702,2025,November,4,2,8,b(ii),1,1,dE = hf
+9702,2025,November,4,2,8,b(ii),2,1,dE = 6.63x10^-34 * 2.47x10^15 / 1.6x10^-19 = 10.2 eV
+9702,2025,November,4,2,8,b(iii),1,1,n=2 energy level = -3.4 eV
+9702,2025,November,4,2,8,b(iii),2,1,n=3 energy difference = 12.1 eV
+9702,2025,November,4,2,8,b(iii),3,1,n=4 energy difference = 12.8 eV
+9702,2025,November,4,2,8,b(iii),4,1,n=3 energy level = -1.5 eV and n=4 energy level = -0.8 eV
+9702,2025,November,4,2,9,a,1,1,difference between mass of nucleus and mass of constituent nucleons
+9702,2025,November,4,2,9,a,2,1,when nucleons are separated to infinity
+9702,2025,November,4,2,9,b,1,1,dm = 2 * 2.013553 - 4.001505 = 0.025601 u
+9702,2025,November,4,2,9,b,2,1,E = dm c^2
+9702,2025,November,4,2,9,b,3,1,energy from one = 3.82x10^-12 J
+9702,2025,November,4,2,9,b,4,1,energy to form 1 mol = 3.82x10^-12 * 6.02x10^23 = 2.30x10^12 J
+9702,2025,November,4,2,9,c(i),1,1,L = 1.09x10^11 * (3.00x10^8)^2
+9702,2025,November,4,2,9,c(i),2,1,= 9.81x10^27 W
+9702,2025,November,4,2,9,c(ii),1,1,L = 4pi sigma r^2 T^4
+9702,2025,November,4,2,9,c(ii),2,1,T = 9930 K
+9702,2025,November,4,2,9,d,1,1,standard candles have known luminosity
+9702,2025,November,4,2,9,d,2,1,radiant flux intensity from star measured on Earth
+9702,2025,November,4,2,9,d,3,1,distance found from F = L / (4pi d^2)
+9702,2025,November,4,2,10,a,1,1,difference in degrees of blackening
+9702,2025,November,4,2,10,b(i),1,1,I = I0 exp(-ux) = I0 exp(-5.8 * 0.35) = 0.13 I0
+9702,2025,November,4,2,10,b(ii),1,1,use of exp{-(0.35 * 3.7)} factor
+9702,2025,November,4,2,10,b(ii),2,1,0.053I0 = I0 exp{ -[ (0.35*3.7) + 2.1mu ] }
+9702,2025,November,4,2,10,b(ii),3,1,mu = 0.78 cm^-1
+9702,2025,November,4,2,10,b(iii),1,1,factor of only 2.5 between the intensities so not good contrast
+9702,2025,November,4,2,10,c,1,1,structure scanned in thin sections
+9702,2025,November,4,2,10,c,2,1,many scans of each section taken from different angles
+9702,2025,November,4,2,10,c,3,1,scanning repeated for all sections and data compiled to form 3D image
+9702,2024,March,1,2,1,NULL,1,1,A
+9702,2024,March,1,2,2,NULL,1,1,A
+9702,2024,March,1,2,3,NULL,1,1,D
+9702,2024,March,1,2,4,NULL,1,1,B
+9702,2024,March,1,2,5,NULL,1,1,B
+9702,2024,March,1,2,6,NULL,1,1,B
+9702,2024,March,1,2,7,NULL,1,1,A
+9702,2024,March,1,2,8,NULL,1,1,D
+9702,2024,March,1,2,9,NULL,1,1,B
+9702,2024,March,1,2,10,NULL,1,1,C
+9702,2024,March,1,2,11,NULL,1,1,C
+9702,2024,March,1,2,12,NULL,1,1,D
+9702,2024,March,1,2,13,NULL,1,1,D
+9702,2024,March,1,2,14,NULL,1,1,C
+9702,2024,March,1,2,15,NULL,1,1,C
+9702,2024,March,1,2,16,NULL,1,1,B
+9702,2024,March,1,2,17,NULL,1,1,D
+9702,2024,March,1,2,18,NULL,1,1,A
+9702,2024,March,1,2,19,NULL,1,1,C
+9702,2024,March,1,2,20,NULL,1,1,D
+9702,2024,March,1,2,21,NULL,1,1,D
+9702,2024,March,1,2,22,NULL,1,1,B
+9702,2024,March,1,2,23,NULL,1,1,D
+9702,2024,March,1,2,24,NULL,1,1,D
+9702,2024,March,1,2,25,NULL,1,1,A
+9702,2024,March,1,2,26,NULL,1,1,C
+9702,2024,March,1,2,27,NULL,1,1,B
+9702,2024,March,1,2,28,NULL,1,1,B
+9702,2024,March,1,2,29,NULL,1,1,D
+9702,2024,March,1,2,30,NULL,1,1,C
+9702,2024,March,1,2,31,NULL,1,1,C
+9702,2024,March,1,2,32,NULL,1,1,A
+9702,2024,March,1,2,33,NULL,1,1,C
+9702,2024,March,1,2,34,NULL,1,1,B
+9702,2024,March,1,2,35,NULL,1,1,B
+9702,2024,March,1,2,36,NULL,1,1,C
+9702,2024,March,1,2,37,NULL,1,1,C
+9702,2024,March,1,2,38,NULL,1,1,A
+9702,2024,March,1,2,39,NULL,1,1,B
+9702,2024,March,1,2,40,NULL,1,1,B
+9702,2024,March,2,2,1,a,1,current and mass only ticked,1,A
+9702,2024,March,2,2,1,b,1,work (done) / time,1,C
+9702,2024,March,2,2,1,b,2,kg m^2 s^-3,1,A
+9702,2024,March,2,2,1,c,1,power = intensity * area,1,C
+9702,2024,March,2,2,1,c,2,= 950 * 2.2 * 10^-4,1,C
+9702,2024,March,2,2,1,c,3,0.21 W,1,A
+9702,2024,March,2,2,2,a,1,rate of change of velocity,1,B
+9702,2024,March,2,2,2,b,1,1/2 m(delta)v^2 = mg(delta)h,1,C
+9702,2024,March,2,2,2,b,2,v^2 = 5.9^2 + 2 * 9.81 * 7.8,1,C
+9702,2024,March,2,2,2,b,3,14 m s^-1,1,A
+9702,2024,March,2,2,2,c(i),1,speed decreases,1,B
+9702,2024,March,2,2,2,c(i),2,viscous force / drag decreases,1,B
+9702,2024,March,2,2,2,c(ii),1,(F =) rho * g * V = 1000 * 9.81 * 7.5 * 10^-2 = 740 (N),1,A
+9702,2024,March,2,2,2,c(iii),1,resultant force = 740 + 950 - (78 * 9.81) = 925,1,C
+9702,2024,March,2,2,2,c(iii),2,acceleration = F / m = 925 / 78,1,C
+9702,2024,March,2,2,2,c(iii),3,12 m s^-2,1,A
+9702,2024,March,2,2,2,c(iii),4,vertically upwards,1,B
+9702,2024,March,2,2,3,a(i),1,stress = 0.72 * 10^9,1,C
+9702,2024,March,2,2,3,a(i),2,force = stress * Area = 0.72 * 10^9 * pi * (1.2 * 10^-3 / 2)^2,1,C
+9702,2024,March,2,2,3,a(i),3,810 N,1,A
+9702,2024,March,2,2,3,a(ii),1,Ep = 1/2 Fx,1,C
+9702,2024,March,2,2,3,a(ii),2,x = 2Ep / F = 2 * 0.31 / 810 = 7.7 * 10^-4,1,C
+9702,2024,March,2,2,3,a(ii),3,L = x / strain = 7.7 * 10^-4 / 5.4 * 10^-3 = 0.14 m,1,A
+9702,2024,March,2,2,3,b,1,straight line from origin with larger gradient than X,1,M
+9702,2024,March,2,2,3,b,2,gradient is twice that of X,1,A
+9702,2024,March,2,2,4,a,1,4/2 alpha,1,B
+9702,2024,March,2,2,4,a,2,211/82 Q,1,B
+9702,2024,March,2,2,4,b(i),1,total momentum is constant / before = after,1,M
+9702,2024,March,2,2,4,b(i),2,isolated system / no external force,1,A
+9702,2024,March,2,2,4,b(ii),1,4 * v = 215 * 3.2 * 10^5,1,C
+9702,2024,March,2,2,4,b(ii),2,1.7 * 10^7 m s^-1,1,A
+9702,2024,March,2,2,5,a,1,vibrations perpendicular to the direction of energy propagation,1,B
+9702,2024,March,2,2,5,b,1,infrared,1,B
+9702,2024,March,2,2,5,c,1,T = 6 * 5.0 * 10^-15 = 3.0 * 10^-14 s,1,C
+9702,2024,March,2,2,5,c,2,lambda = c * T,1,C
+9702,2024,March,2,2,5,c,3,9.0 * 10^-6 m,1,A
+9702,2024,March,2,2,6,a(i),1,Light diffracts at the slits,1,B
+9702,2024,March,2,2,6,a(i),2,Light meets / superposes,1,B
+9702,2024,March,2,2,6,a(i),3,Phase diff 0 for bright / 180 for dark,1,B
+9702,2024,March,2,2,6,a(ii),1,lambda = ax / D,1,C
+9702,2024,March,2,2,6,a(ii),2,lambda = 1.2 * 10^-3 * (10.2 * 10^-3 / 6) / 3.1,1,C
+9702,2024,March,2,2,6,a(ii),3,6.6 * 10^-7 m,1,A
+9702,2024,March,2,2,6,a(iii),1,smaller,1,B
+9702,2024,March,2,2,6,b(i),1,Cross at intersection of string and mean line,1,B
+9702,2024,March,2,2,6,b(ii),1,0,1,A
+9702,2024,March,2,2,6,b(iii),1,180,1,A
+9702,2024,March,2,2,7,a,1,energy transferred per unit charge,1,B
+9702,2024,March,2,2,7,b,1,V = 0.25 * 6 = 1.5,1,C
+9702,2024,March,2,2,7,b,2,Ir = E - V = 1.8 - 1.5 = 0.3,1,C
+9702,2024,March,2,2,7,b,3,r = 0.3 / 0.25 = 1.2 Ohm,1,A
+9702,2024,March,2,2,7,c(i),1,The same,1,B
+9702,2024,March,2,2,7,c(ii),1,at t1 resistance decreases,1,B
+9702,2024,March,2,2,7,c(ii),2,temperature of lamp increases,1,B
+9702,2024,March,2,2,7,c(ii),3,resistance of lamp increases so current decreases,1,B
+9702,2024,March,2,2,8,a,1,lepton(s),1,B
+9702,2024,March,2,2,8,b(i),1,up or top or charm,1,B
+9702,2024,March,2,2,8,b(ii),1,meson(s),1,B
+9702,2024,March,2,2,8,c(i),1,beta-minus / electron,1,B
+9702,2024,March,2,2,8,c(ii),1,equal,1,B
+9702,2024,March,2,2,8,c(iii),1,R is greater than Q,1,B
+9702,2024,March,4,2,1,a,1,potential is zero at infinity,1,B
+9702,2024,March,4,2,1,a,2,work is done on a mass to move it away / to infinity,1,B
+9702,2024,March,4,2,1,b(i),1,M = gradient / G,1,C
+9702,2024,March,4,2,1,b(i),2,calculation leading to 8.8 * 10^25 kg,1,A
+9702,2024,March,4,2,1,b(ii),1,GMm/r^2 = mrw^2 or similar,1,C
+9702,2024,March,4,2,1,b(ii),2,R^3 = ...,1,C
+9702,2024,March,4,2,1,b(ii),3,8.3 * 10^7 m,1,A
+9702,2024,March,4,2,1,b(iii),1,KE = 1/2 mv^2,1,C
+9702,2024,March,4,2,1,b(iii),2,PE = -GMm/r,1,C
+9702,2024,March,4,2,1,b(iii),3,4.3 * 10^10 J,1,A
+9702,2024,March,4,2,2,a,1,total kinetic energy of random motion of molecules,1,M
+9702,2024,March,4,2,2,a,2,plus total potential energy (which is zero),1,A
+9702,2024,March,4,2,2,b(i),1,W = p delta V,1,C
+9702,2024,March,4,2,2,b(i),2,5.25 J,1,A
+9702,2024,March,4,2,2,b(ii),1,V1/T1 = V2/T2,1,C
+9702,2024,March,4,2,2,b(ii),2,416 K,1,A
+9702,2024,March,4,2,2,b(iii),1,c = Q / (m delta T),1,C
+9702,2024,March,4,2,2,b(iii),2,490 J kg^-1 K^-1,1,A
+9702,2024,March,4,2,2,c,1,no work done,1,B
+9702,2024,March,4,2,2,c,2,same change in internal energy,1,B
+9702,2024,March,4,2,2,c,3,c is less,1,B
+9702,2024,March,4,2,3,a,1,E = 1/2 m w^2 x0^2,1,C
+9702,2024,March,4,2,3,a,2,x0 = 14/4 = 3.5 mm,1,C
+9702,2024,March,4,2,3,a,3,39 rad s^-1,1,A
+9702,2024,March,4,2,3,b(i),1,acceleration = 9.81,1,C
+9702,2024,March,4,2,3,b(i),2,6.4 * 10^-3 m,1,A
+9702,2024,March,4,2,3,b(ii),1,at top of oscillation,1,B
+9702,2024,March,4,2,3,b(ii),2,downwards acceleration exceeds g,1,B
+9702,2024,March,4,2,4,a,1,parallel = 30,1,C
+9702,2024,March,4,2,4,a,2,18 uF,1,A
+9702,2024,March,4,2,4,b,1,E = 1/2 CV^2,1,C
+9702,2024,March,4,2,4,b,2,6.3 * 10^-4 J,1,A
+9702,2024,March,4,2,4,c(i),1,capacitor in parallel with load,1,B
+9702,2024,March,4,2,4,c(ii),1,"two pairs of (t, V)",1,C
+9702,2024,March,4,2,4,c(ii),2,V = V0 exp(-t/tau),1,C
+9702,2024,March,4,2,4,c(ii),3,36 ms,1,A
+9702,2024,March,4,2,4,d(i),1,8.0 W,1,A
+9702,2024,March,4,2,4,d(ii),1,4.0 W,1,A
+9702,2024,March,4,2,5,a,1,velocity,1,B
+9702,2024,March,4,2,5,a,2,acceleration / force / displacement,1,B
+9702,2024,March,4,2,5,b(i),1,Bqv = mv^2/r,1,M
+9702,2024,March,4,2,5,b(i),2,v = 2 pi r / T,1,M
+9702,2024,March,4,2,5,b(i),3,B = 2 pi m / q T,1,A
+9702,2024,March,4,2,5,b(ii),1,substitution,1,C
+9702,2024,March,4,2,5,b(ii),2,0.052 T,1,A
+9702,2024,March,4,2,5,b(iii),1,same because T independent of r,1,B
+9702,2024,March,4,2,5,b(iv),1,qE = Bqv,1,C
+9702,2024,March,4,2,5,b(iv),2,5.7 * 10^4 N C^-1,1,A
+9702,2024,March,4,2,6,a(i),1,non-zero horizontal straight line,1,B
+9702,2024,March,4,2,6,a(ii),1,constant flux density inside,1,B
+9702,2024,March,4,2,6,a(ii),2,"Phi = BAN and B, A, N constant",1,B
+9702,2024,March,4,2,6,a(iii),1,Phi = BAN,1,C
+9702,2024,March,4,2,6,a(iii),2,3.6 * 10^-4 Wb,1,A
+9702,2024,March,4,2,6,a(iv),1,0 to t is zero,1,B
+9702,2024,March,4,2,6,a(iv),2,non-zero constant after t,1,B
+9702,2024,March,4,2,6,a(iv),3,opposite signs for t-2t and 2t-4t,1,B
+9702,2024,March,4,2,6,b,1,current creates magnetic field,1,B
+9702,2024,March,4,2,6,b,2,adjacent turns interact,1,B
+9702,2024,March,4,2,6,b,3,attractive so distance decreases,1,B
+9702,2024,March,4,2,7,a,1,p = E/c,1,C
+9702,2024,March,4,2,7,a,2,1.04 * 10^-27 N s,1,A
+9702,2024,March,4,2,7,b(i),1,E = hc/lambda,1,C
+9702,2024,March,4,2,7,b(i),2,1.1 * 10^18,1,A
+9702,2024,March,4,2,7,b(ii),1,F = p/t,1,M
+9702,2024,March,4,2,7,b(ii),2,p = E/c and t = E/P leading to P/c,1,A
+9702,2024,March,4,2,7,c(i),1,maximum wavelength that causes emission,1,B
+9702,2024,March,4,2,7,c(ii),1,2.26 eV substitution,1,C
+9702,2024,March,4,2,7,c(ii),2,5.50 * 10^-7 m,1,A
+9702,2024,March,4,2,8,a,1,energy to separate nucleons,1,M
+9702,2024,March,4,2,8,a,2,to infinity,1,A
+9702,2024,March,4,2,8,b(i),1,4,1,A
+9702,2024,March,4,2,8,b(ii),1,energy = product BE - reactant BE,1,C
+9702,2024,March,4,2,8,b(ii),2,190 MeV,1,A
+9702,2024,March,4,2,8,b(iii),1,too many neutrons / ratio too high,1,B
+9702,2024,March,4,2,8,b(iv),1,N/N0 = 1/32,1,C
+9702,2024,March,4,2,8,b(iv),2,5 half-lives,1,C
+9702,2024,March,4,2,8,b(iv),3,1.2 s,1,A
+9702,2024,March,4,2,9,a(i),1,eV = hc/lambda,1,C
+9702,2024,March,4,2,9,a(i),2,1.5 * 10^-11 m,1,A
+9702,2024,March,4,2,9,a(ii),1,KE converted to thermal / X-rays absorbed,1,B
+9702,2024,March,4,2,9,a(ii),2,tungsten has higher melting point,1,B
+9702,2024,March,4,2,9,b,1,I = I0 exp(-mu t),1,C
+9702,2024,March,4,2,9,b,2,0.13 = exp(-3.22x),1,C
+9702,2024,March,4,2,9,b,3,0.63 cm,1,A
+9702,2024,March,4,2,9,c(i),1,product of density and speed,1,M
+9702,2024,March,4,2,9,c(i),2,speed of ultrasound,1,A
+9702,2024,March,4,2,9,c(ii),1,fraction transmitted = 1 - reflectance,1,C
+9702,2024,March,4,2,9,c(ii),2,59%,1,A
+9702,2024,March,4,2,9,c(iii),1,multiple boundaries / reflections,1,B
+9702,2024,March,4,2,9,c(iii),2,attenuation in matter,1,B
+9702,2024,March,4,2,10,a(i),1,L = 4 pi sigma r^2 T^4,1,C
+9702,2024,March,4,2,10,a(i),2,6.96 * 10^8 m,1,A
+9702,2024,March,4,2,10,a(ii),1,F = L / 4 pi d^2,1,C
+9702,2024,March,4,2,10,a(ii),2,1.36 * 10^3 W m^-2,1,A
+9702,2024,March,4,2,10,a(iii),1,peak at greater wavelength,1,B
+9702,2024,March,4,2,10,a(iii),2,lower peak intensity,1,B
+9702,2024,March,4,2,10,b(i),1,5 lines shifted to longer wavelengths,1,B
+9702,2024,March,4,2,10,b(ii),1,delta lambda / lambda = v/c,1,C
+9702,2024,March,4,2,10,b(ii),2,703 nm,1,A
+9702,2024,March,4,2,10,b(iii),1,temperature too low,1,B
+9702,2024,Winter,4,2,1,a(i),1,v = r w,1,C
+9702,2024,Winter,4,2,1,a(i),2,120 m s^-1,1,A
+9702,2024,Winter,4,2,1,a(ii),1,a = r w^2,1,C
+9702,2024,Winter,4,2,1,a(ii),2,1.7 * 10^4 m s^-2,1,A
+9702,2024,Winter,4,2,1,b(i),1,direction of induced e.m.f. opposes change,1,M
+9702,2024,Winter,4,2,1,b(i),2,produce effects that oppose it,1,A
+9702,2024,Winter,4,2,1,b(ii),1,T = 2 pi / w = 0.045 s,1,A
+9702,2024,Winter,4,2,1,b(iii),1,Phi = B A,1,C
+9702,2024,Winter,4,2,1,b(iii),2,A = pi r^2,1,C
+9702,2024,Winter,4,2,1,b(iii),3,0.41 Wb,1,A
+9702,2024,Winter,4,2,2,a,1,force per unit mass,1,B
+9702,2024,Winter,4,2,2,b(i),1,g = GM/x^2,1,C
+9702,2024,Winter,4,2,2,b(i),2,6.14 * 10^-3 N kg^-1,1,A
+9702,2024,Winter,4,2,2,b(ii),1,EP = -GMm/x,1,C
+9702,2024,Winter,4,2,2,b(ii),2,-2.37 * 10^9 J,1,A
+9702,2024,Winter,4,2,2,c(i),1,F = L / 4 pi x^2,1,C
+9702,2024,Winter,4,2,2,c(i),2,x^2 = GM/g,1,M
+9702,2024,Winter,4,2,2,c(i),3,algebra leading to result,1,A
+9702,2024,Winter,4,2,2,c(ii),1,read-off substitution,1,C
+9702,2024,Winter,4,2,2,c(ii),2,3.8 * 10^26 W,1,A
+9702,2024,Winter,4,2,3,a,1,energy per unit mass to cause change of state,1,B
+9702,2024,Winter,4,2,3,a,2,at constant temperature,1,B
+9702,2024,Winter,4,2,3,b(i),1,W = p delta V,1,C
+9702,2024,Winter,4,2,3,b(i),2,1.7 kJ,1,A
+9702,2024,Winter,4,2,3,b(ii),1,delta U = Q + W,1,C
+9702,2024,Winter,4,2,3,b(ii),2,19.3 kJ,1,A
+9702,2024,Winter,4,2,3,c,1,fusion involves smaller volume change,1,B
+9702,2024,Winter,4,2,3,c,2,smaller change in internal energy,1,B
+9702,2024,Winter,4,2,3,c,3,negligible work done,1,B
+9702,2024,Winter,4,2,4,a,1,random motion,1,B
+9702,2024,Winter,4,2,4,a,2,elastic collisions,1,B
+9702,2024,Winter,4,2,4,a,3,no intermolecular forces,1,B
+9702,2024,Winter,4,2,4,b,1,momentum change during collision with wall,1,B
+9702,2024,Winter,4,2,4,b,2,force on wall by molecule,1,B
+9702,2024,Winter,4,2,4,b,3,many molecules exert force across area,1,B
+9702,2024,Winter,4,2,4,c,1,both are ideal,1,B
+9702,2024,Winter,4,2,4,c,2,mass comparison,1,B
+9702,2024,Winter,4,2,4,c,3,number of molecules comparison,1,B
+9702,2024,Winter,4,2,5,a,1,arrow left and down,1,B
+9702,2024,Winter,4,2,5,b(i),1,0.016 m,1,A
+9702,2024,Winter,4,2,5,b(ii),1,w = 2 pi / T,1,C
+9702,2024,Winter,4,2,5,b(ii),2,16 rad s^-1,1,A
+9702,2024,Winter,4,2,5,c,1,dome starting/ending on x-axis,1,B
+9702,2024,Winter,4,2,5,c,2,max EK 4.7 * 10^-3 J,1,B
+9702,2024,Winter,4,2,5,c,3,correct domain,1,B
+9702,2024,Winter,4,2,6,a,1,force proportional to product of charges,1,B
+9702,2024,Winter,4,2,6,a,2,inversely proportional to square of separation,1,B
+9702,2024,Winter,4,2,6,b,1,radial lines,1,B
+9702,2024,Winter,4,2,6,b,2,equally spaced,1,B
+9702,2024,Winter,4,2,6,b,3,arrows away,1,B
+9702,2024,Winter,4,2,6,c(i),1,3.2 cm,1,A
+9702,2024,Winter,4,2,7,a,1,charge / potential difference,1,M
+9702,2024,Winter,4,2,7,a,2,charge on one plate,1,A
+9702,2024,Winter,4,2,7,b(i),1,straight line,1,B
+9702,2024,Winter,4,2,7,c(i),1,final pd V/4,1,B
+9702,2024,Winter,4,2,7,c(i),2,total charge Q,1,B
+9702,2024,Winter,4,2,7,c(i),3,correct division,1,B
+9702,2024,Winter,4,2,8,b(ii),1,sinusoidal from origin,1,B
+9702,2024,Winter,4,2,8,b(ii),2,2 cycles,1,B
+9702,2024,Winter,4,2,8,b(ii),3,peak 3.5 A,1,B
+9702,2024,Winter,4,2,9,d(i),1,straight line through origin,1,B
+9702,2024,Winter,4,2,10,a(i),1,cannot predict when/which nucleus decays,1,B
+9702,2024,Winter,2,2,1,a,1,quantity with magnitude and direction,1,B
+9702,2024,Winter,2,2,1,b(i),1,SI base units of D: kg m s^-2,1,C
+9702,2024,Winter,2,2,1,b(i),2,"SI base units of r, v",1,C
+9702,2024,Winter,2,2,1,b(i),3,kg m^-1 s^-1,1,A
+9702,2024,Winter,2,2,1,b(ii),1,W = U + D,1,A
+9702,2024,Winter,2,2,1,b(iii),1,U = rho g V,1,C
+9702,2024,Winter,2,2,1,b(iii),2,0.36 N,1,A
+9702,2024,Winter,2,2,2,a,1,product of mass and velocity,1,B
+9702,2024,Winter,2,2,2,b,1,F = m delta v / delta t,1,C
+9702,2024,Winter,2,2,2,b,2,8.7 N,1,A
+9702,2024,Winter,2,2,2,c,1,x = ut + 1/2 at^2,1,C
+9702,2024,Winter,2,2,2,c,2,8.0 m,1,A
+9702,2024,Winter,2,2,2,d(i),1,F = W / s,1,C
+9702,2024,Winter,2,2,2,d(i),2,14 N,1,A
+9702,2024,Winter,2,2,2,d(ii),1,starting at distance 0 with non-zero KE,1,B
+9702,2024,Winter,2,2,2,d(ii),2,straight line from 0 to x with positive gradient,1,B
+9702,2024,Winter,2,2,2,d(ii),3,straight horizontal line from x to x+18,1,B
+9702,2024,Winter,2,2,3,a(i),1,E = stress / strain,1,C
+9702,2024,Winter,2,2,3,a(i),2,2.4 * 10^10 Pa,1,A
+9702,2024,Winter,2,2,3,a(ii),1,"cross at (1.0%, 24 * 10^7 Pa)",1,B
+9702,2024,Winter,2,2,3,b,1,resultant force is zero,1,B
+9702,2024,Winter,2,2,3,b,2,resultant torque is zero,1,B
+9702,2024,Winter,2,2,3,c(i),1,individual moments,1,C
+9702,2024,Winter,2,2,3,c(i),2,sum of moments equation,1,C
+9702,2024,Winter,2,2,3,c(i),3,46 N,1,A
+9702,2024,Winter,2,2,3,c(ii),1,sigma = F / A,1,C
+9702,2024,Winter,2,2,3,c(ii),2,9.9 * 10^-4 m,1,A
+9702,2024,Winter,2,2,3,c(iii),1,elastic limit not reached,1,M
+9702,2024,Winter,2,2,3,c(iii),2,behaves elastically,1,A
+9702,2024,Winter,2,2,4,a,1,longitudinal: parallel to energy transfer,1,B
+9702,2024,Winter,2,2,4,a,2,transverse: perpendicular to energy transfer,1,B
+9702,2024,Winter,2,2,4,b(i),1,A at open end,1,B
+9702,2024,Winter,2,2,4,b(ii),1,f = v / lambda,1,C
+9702,2024,Winter,2,2,4,b(ii),2,lambda = 4 * distance,1,C
+9702,2024,Winter,2,2,4,b(ii),3,1900 Hz,1,A
+9702,2024,Winter,2,2,4,b(iii),1,wavelength longer,1,M
+9702,2024,Winter,2,2,4,b(iii),2,frequency lower,1,A
+9702,2024,Winter,2,2,5,a,1,energy transferred per unit charge,1,B
+9702,2024,Winter,2,2,5,b(i),1,heater,1,A
+9702,2024,Winter,2,2,5,b(ii),1,V = 7.0 * 0.86 = 6.0 V,1,A
+9702,2024,Winter,2,2,5,b(iii),1,I = V/R,1,C
+9702,2024,Winter,2,2,5,b(iii),2,5.7 A,1,A
+9702,2024,Winter,2,2,5,b(iv),1,Kirchhoff voltage law,1,C
+9702,2024,Winter,2,2,5,b(iv),2,210 V,1,A
+9702,2024,Winter,2,2,5,b(v),1,P = IV,1,C
+9702,2024,Winter,2,2,5,b(v),2,1200 W,1,A
+9702,2024,Winter,2,2,5,b(vi),1,useful power / total power,1,C
+9702,2024,Winter,2,2,5,b(vi),2,75% or 74%,1,A
+9702,2024,Winter,2,2,5,b(vii),1,decreases,1,A
+9702,2024,Winter,2,2,6,a,1,mass of alpha much greater,1,B
+9702,2024,Winter,2,2,6,a,2,both positively charged,1,B
+9702,2024,Winter,2,2,6,a,3,charge on alpha is twice,1,B
+9702,2024,Winter,2,2,6,b(i),1,"cross at (82, 212) labelled Q",1,B
+9702,2024,Winter,2,2,6,b(ii),1,beta-minus / electron,1,B
+9702,2024,Winter,2,2,6,b(ii),2,antineutrino,1,B
+9702,2024,Winter,2,2,6,c(i),1,conservation of momentum component,1,C
+9702,2024,Winter,2,2,6,c(i),2,equation substitution,1,C
+9702,2024,Winter,2,2,6,c(i),3,25 degrees,1,A
+9702,2024,Winter,2,2,6,c(ii),1,E = 1/2 m v^2,1,C
+9702,2024,Winter,2,2,6,c(ii),2,7.5 * 10^-13 J,1,A
+9702,2024,Winter,1,2,1,NULL,1,C,1,A
+9702,2024,Winter,1,2,2,NULL,1,A,1,A
+9702,2024,Winter,1,2,3,NULL,1,D,1,A
+9702,2024,Winter,1,2,4,NULL,1,A,1,A
+9702,2024,Winter,1,2,5,NULL,1,B,1,A
+9702,2024,Winter,1,2,6,NULL,1,C,1,A
+9702,2024,Winter,1,2,7,NULL,1,C,1,A
+9702,2024,Winter,1,2,8,NULL,1,B,1,A
+9702,2024,Winter,1,2,9,NULL,1,D,1,A
+9702,2024,Winter,1,2,10,NULL,1,C,1,A
+9702,2024,Winter,1,2,11,NULL,1,D,1,A
+9702,2024,Winter,1,2,12,NULL,1,A,1,A
+9702,2024,Winter,1,2,13,NULL,1,C,1,A
+9702,2024,Winter,1,2,14,NULL,1,D,1,A
+9702,2024,Winter,1,2,15,NULL,1,D,1,A
+9702,2024,Winter,1,2,16,NULL,1,B,1,A
+9702,2024,Winter,1,2,17,NULL,1,C,1,A
+9702,2024,Winter,1,2,18,NULL,1,C,1,A
+9702,2024,Winter,1,2,19,NULL,1,A,1,A
+9702,2024,Winter,1,2,20,NULL,1,C,1,A
+9702,2024,Winter,1,2,21,NULL,1,B,1,A
+9702,2024,Winter,1,2,22,NULL,1,A,1,A
+9702,2024,Winter,1,2,23,NULL,1,C,1,A
+9702,2024,Winter,1,2,24,NULL,1,C,1,A
+9702,2024,Winter,1,2,25,NULL,1,C,1,A
+9702,2024,Winter,1,2,26,NULL,1,B,1,A
+9702,2024,Winter,1,2,27,NULL,1,D,1,A
+9702,2024,Winter,1,2,28,NULL,1,B,1,A
+9702,2024,Winter,1,2,29,NULL,1,B,1,A
+9702,2024,Winter,1,2,30,NULL,1,B,1,A
+9702,2024,Winter,1,2,31,NULL,1,A,1,A
+9702,2024,Winter,1,2,32,NULL,1,B,1,A
+9702,2024,Winter,1,2,33,NULL,1,A,1,A
+9702,2024,Winter,1,2,34,NULL,1,B,1,A
+9702,2024,Winter,1,2,35,NULL,1,B,1,A
+9702,2024,Winter,1,2,36,NULL,1,A,1,A
+9702,2024,Winter,1,2,37,NULL,1,D,1,A
+9702,2024,Winter,1,2,38,NULL,1,B,1,A
+9702,2024,Winter,1,2,39,NULL,1,D,1,A
+9702,2024,Winter,1,2,40,NULL,1,C,1,A
+9702,2024,Summer,1,2,1,NULL,1,C,1,A
+9702,2024,Summer,1,2,2,NULL,1,D,1,A
+9702,2024,Summer,1,2,3,NULL,1,A,1,A
+9702,2024,Summer,1,2,4,NULL,1,D,1,A
+9702,2024,Summer,1,2,5,NULL,1,B,1,A
+9702,2024,Summer,1,2,6,NULL,1,B,1,A
+9702,2024,Summer,1,2,7,NULL,1,C,1,A
+9702,2024,Summer,1,2,8,NULL,1,A,1,A
+9702,2024,Summer,1,2,9,NULL,1,C,1,A
+9702,2024,Summer,1,2,10,NULL,1,A,1,A
+9702,2024,Summer,1,2,11,NULL,1,B,1,A
+9702,2024,Summer,1,2,12,NULL,1,C,1,A
+9702,2024,Summer,1,2,13,NULL,1,D,1,A
+9702,2024,Summer,1,2,14,NULL,1,C,1,A
+9702,2024,Summer,1,2,15,NULL,1,D,1,A
+9702,2024,Summer,1,2,16,NULL,1,A,1,A
+9702,2024,Summer,1,2,17,NULL,1,B,1,A
+9702,2024,Summer,1,2,18,NULL,1,C,1,A
+9702,2024,Summer,1,2,19,NULL,1,C,1,A
+9702,2024,Summer,1,2,20,NULL,1,D,1,A
+9702,2024,Summer,1,2,21,NULL,1,C,1,A
+9702,2024,Summer,1,2,22,NULL,1,D,1,A
+9702,2024,Summer,1,2,23,NULL,1,B,1,A
+9702,2024,Summer,1,2,24,NULL,1,B,1,A
+9702,2024,Summer,1,2,25,NULL,1,C,1,A
+9702,2024,Summer,1,2,26,NULL,1,A,1,A
+9702,2024,Summer,1,2,27,NULL,1,D,1,A
+9702,2024,Summer,1,2,28,NULL,1,D,1,A
+9702,2024,Summer,1,2,29,NULL,1,A,1,A
+9702,2024,Summer,1,2,30,NULL,1,C,1,A
+9702,2024,Summer,1,2,31,NULL,1,D,1,A
+9702,2024,Summer,1,2,32,NULL,1,C,1,A
+9702,2024,Summer,1,2,33,NULL,1,B,1,A
+9702,2024,Summer,1,2,34,NULL,1,A,1,A
+9702,2024,Summer,1,2,35,NULL,1,D,1,A
+9702,2024,Summer,1,2,36,NULL,1,A,1,A
+9702,2024,Summer,1,2,37,NULL,1,B,1,A
+9702,2024,Summer,1,2,38,NULL,1,D,1,A
+9702,2024,Summer,1,2,39,NULL,1,C,1,A
+9702,2024,Summer,1,2,40,NULL,1,C,1,A
+9702,2024,Summer,2,2,1,a,1,charge underlined (and no others),1,B
+9702,2024,Summer,2,2,1,b(i),1,I = P / A,1,C
+9702,2024,Summer,2,2,1,b(i),2,substitution with area conversion,1,C
+9702,2024,Summer,2,2,1,b(i),3,440 W m^-2,1,A
+9702,2024,Summer,2,2,1,b(ii),1,3 + 2 * (5/1300) * 100,1,C
+9702,2024,Summer,2,2,1,b(ii),2,4%,1,A
+9702,2024,Summer,2,2,2,a(i),1,39 m s^-1,1,A
+9702,2024,Summer,2,2,2,a(ii),1,tangent gradient,1,C
+9702,2024,Summer,2,2,2,a(ii),2,1.0 m s^-2,1,A
+9702,2024,Summer,2,2,2,b,1,Net Force = mg - F_up,1,C
+9702,2024,Summer,2,2,2,b,2,17 m s^-2,1,A
+9702,2024,Summer,2,2,2,b,3,upwards,1,B
+9702,2024,Summer,2,2,3,a,1,Q = It,1,C
+9702,2024,Summer,2,2,3,a,2,0.86 C,1,A
+9702,2024,Summer,2,2,3,b,1,P = IV,1,C
+9702,2024,Summer,2,2,3,b,2,990 GW,1,A
+9702,2024,Summer,2,2,3,c(i),1,R = rho L / A,1,C
+9702,2024,Summer,2,2,3,c(i),2,A = pi r^2,1,C
+9702,2024,Summer,2,2,3,c(i),3,2.3 * 10^-4 m,1,A
+9702,2024,Summer,2,2,3,d,1,E = stress / strain,1,C
+9702,2024,Summer,2,2,3,d,2,substitutions,1,C
+9702,2024,Summer,2,2,3,d,3,1.8 * 10^-6 m,1,A
+9702,2024,Summer,2,2,4,a,1,E = 1/2 k x^2,1,C
+9702,2024,Summer,2,2,4,a,2,0.093 J,1,A
+9702,2024,Summer,2,2,4,b(i),1,GPE = mgh,1,C
+9702,2024,Summer,2,2,4,b(i),2,h = L sin theta,1,C
+9702,2024,Summer,2,2,4,b(i),3,0.0091 J,1,A
+9702,2024,Summer,2,2,4,b(ii),1,EK = EE - delta GPE,1,C
+9702,2024,Summer,2,2,4,b(ii),2,EK = 1/2 m v^2,1,C
+9702,2024,Summer,2,2,4,b(ii),3,1.9 m s^-1,1,A
+9702,2024,Summer,2,2,4,c(i),1,F * x = mg * d,1,C
+9702,2024,Summer,2,2,4,c(i),2,moment equation,1,C
+9702,2024,Summer,2,2,4,c(i),3,0.077 m,1,A
+9702,2024,Summer,2,2,5,a,1,sum of emf = sum of pd in closed loop,1,B
+9702,2024,Summer,2,2,5,b(i),1,R = V / I,1,C
+9702,2024,Summer,2,2,5,b(i),2,450 Ohm,1,A
+9702,2024,Summer,2,2,6,a,1,n lambda = d sin theta,1,C
+9702,2024,Summer,2,2,6,a,2,n = 7.3 for 90 degrees,1,C
+9702,2024,Summer,2,2,6,a,3,15 fringes,1,A
+9702,2024,Summer,2,2,7,a,1,meson or hadron,1,B
+9702,2024,Summer,2,2,7,b,1,Q: anti-up / anti-charm,1,B
+9702,2024,Summer,2,2,7,b,2,R: up / charm,1,B
+9702,2024,Summer,4,2,1,a,1,angle when arc = radius,1,B
+9702,2024,Summer,4,2,1,b(i),1,arrow V pointing NE,1,B
+9702,2024,Summer,4,2,1,b(ii),1,arrow A pointing NW,1,B
+9702,2024,Summer,4,2,1,c(i),1,v = r w,1,C
+9702,2024,Summer,4,2,1,c(i),2,8.4 rad s^-1,1,A
+9702,2024,Summer,4,2,1,d,1,angular speed: same,1,B
+9702,2024,Summer,4,2,1,d,2,linear speed: less,1,B
+9702,2024,Summer,4,2,1,d,3,acceleration: less,1,B
+9702,2024,Summer,4,2,2,a,1,no net transfer of energy,1,B
+9702,2024,Summer,4,2,2,b(i),1,pV = nRT substitution,1,M1
+9702,2024,Summer,4,2,2,b(i),2,234 degrees C,1,A1
+9702,2024,Summer,4,2,4,a,1,straight line through origin (a proportional to x),1,B
+9702,2024,Summer,4,2,4,a,2,negative gradient (opposite directions),1,B
+9702,2024,Summer,4,2,5,a,1,work done per unit charge,1,B
+9702,2024,Summer,4,2,5,a,2,from infinity to the point,1,B
+9702,2024,Summer,4,2,5,b,1,"Radius X = 0.30 m, Radius Y = 0.10 m",1,B
+9702,2024,Summer,4,2,5,b,2,Both charges are positive,1,B
+9702,2024,Summer,4,2,5,b,3,Charge magnitudes are equal,1,B
+9702,2024,Summer,4,2,6,a,1,equal charge Q,1,B
+9702,2024,Summer,4,2,6,a,2,VX + VY = V,1,M1
+9702,2024,Summer,4,2,6,a,3,final derivation,1,A
+9702,2024,Summer,4,2,6,b(iii),1,positive gradient starts at 2.5,1,B
+9702,2024,Summer,4,2,6,b(iii),2,"passes through (400, 7.5)",1,B
+9702,2024,Summer,4,2,7,a,1,emf proportional to rate of change,1,M1
+9702,2024,Summer,4,2,7,a,2,of magnetic flux linkage,1,A1
+9702,2024,Summer,4,2,8,a(i),1,movement causes redshift,1,B
+9702,2024,Summer,4,2,8,a(i),2,observed frequency lower,1,B
+9702,2024,Summer,4,2,9,c(i),1,rising to peak left of 90,1,B
+9702,2024,Summer,4,2,9,c(i),2,steep positive then shallow negative,1,B
+9702,2024,Summer,4,3,1,a,1,work done per unit mass,1,B
+9702,2024,Summer,4,3,1,a,2,moving mass from infinity to the point,1,B
+9702,2024,Summer,4,3,2,a(i),1,0 K,1,B
+9702,2024,Summer,4,3,3,c,1,straight line positive gradient,1,B
+9702,2024,Summer,4,3,3,c,2,passing through origin,1,B
+9702,2024,Summer,4,3,4,c,1,maximum at non-zero frequency,1,B
+9702,2024,Summer,4,3,4,c,2,peak at 4.0 Hz,1,B
+9702,2024,Summer,4,3,5,b(i),1,straight vertical lines,1,B
+9702,2024,Summer,4,3,7,b(ii),1,sinusoidal minima on axis,1,B
+9702,2024,Summer,4,3,7,b(ii),2,correct frequency/phase,1,B
+9702,2024,Summer,4,3,7,b(ii),3,all maxima at 0.22 W,1,B
+9702,2024,Summer,2,3,1,a,1,kg m s^-2 for F,1,C
+9702,2024,Summer,2,3,1,a,2,kg m^-1 s^-1,1,A
+9702,2024,Summer,2,3,1,c,1,arrow downwards (weight),1,B
+9702,2024,Summer,2,3,1,c,2,arrows upwards (upthrust and drag),1,B
+9702,2024,Summer,2,3,2,b(i),1,4.3 m,1,A
+9702,2024,Summer,2,3,3,b(i),1,"P at (60, 5.4)",1,A
+9702,2024,Summer,2,3,3,b(ii),1,"E at (80, 5.9)",1,A
+9702,2024,Summer,2,3,4,b,1,arrow pointing vertically downwards,1,A
+9702,2024,Summer,2,3,4,d,1,displacement is sum of displacements,1,B
+9702,2024,Summer,1,3,1,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,2,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,3,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,3,4,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,5,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,6,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,7,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,8,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,9,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,10,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,11,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,12,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,13,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,14,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,15,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,16,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,17,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,18,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,3,19,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,3,20,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,3,21,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,22,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,23,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,24,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,25,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,26,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,3,27,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,28,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,29,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,30,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,31,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,32,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,33,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,3,34,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,35,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,36,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,3,37,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,3,38,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,39,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,3,40,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,1,1,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,2,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,3,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,1,4,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,5,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,6,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,7,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,8,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,9,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,10,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,11,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,12,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,13,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,1,14,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,15,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,16,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,17,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,18,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,1,19,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,20,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,21,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,22,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,23,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,24,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,25,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,26,NULL,1,Correct Option: A,1,B
+9702,2024,Summer,1,1,27,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,28,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,29,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,30,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,31,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,32,NULL,1,Correct Option: D,1,B
+9702,2024,Summer,1,1,33,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,34,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,35,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,36,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,37,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,38,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,1,1,39,NULL,1,Correct Option: B,1,B
+9702,2024,Summer,1,1,40,NULL,1,Correct Option: C,1,B
+9702,2024,Summer,4,1,1,a,1,work done per unit mass,1,B
+9702,2024,Summer,4,1,1,a,2,work done moving mass from infinity (to the point),1,B
+9702,2024,Summer,4,1,4,a,1,oscillation (of object) at maximum amplitude,1,B
+9702,2024,Summer,4,1,4,a,2,when driving frequency = natural frequency,1,B
+9702,2024,Winter,4,1,1,a,1,force proportional to product of masses,1,B
+9702,2024,Winter,4,1,1,a,2,force inversely proportional to square of separation,1,B
+9702,2024,Winter,4,1,2,a,1,thermal energy per unit mass,1,B
+9702,2024,Winter,4,1,2,a,2,energy per unit change in temperature,1,B
+9702,2024,Winter,4,1,4,a,1,acceleration proportional to displacement,1,B
+9702,2024,Winter,4,1,4,a,2,acceleration opposite to displacement,1,B
+9702,2024,Winter,1,1,1,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,2,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,3,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,4,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,5,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,6,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,7,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,8,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,9,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,10,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,11,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,12,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,13,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,14,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,15,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,16,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,17,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,18,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,19,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,20,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,21,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,22,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,23,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,24,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,25,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,26,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,27,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,28,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,29,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,30,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,31,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,32,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,1,33,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,34,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,35,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,1,36,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,37,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,1,38,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,39,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,1,40,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,2,1,1,a,1,mass per unit volume,1,B
+9702,2024,Winter,2,1,2,a,1,product of mass and velocity,1,B
+9702,2024,Winter,2,1,3,a,1,product of force and displacement in direction of force,1,B
+9702,2024,Winter,2,1,4,a,1,stress per unit strain,1,B
+9702,2024,Winter,1,3,1,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,2,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,3,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,4,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,5,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,6,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,7,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,8,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,9,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,10,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,11,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,12,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,13,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,14,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,15,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,16,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,17,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,18,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,19,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,20,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,21,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,22,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,23,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,24,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,25,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,26,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,27,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,28,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,29,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,30,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,31,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,32,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,33,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,34,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,35,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,36,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,1,3,37,NULL,1,Correct Option: C,1,B
+9702,2024,Winter,1,3,38,NULL,1,Correct Option: B,1,B
+9702,2024,Winter,1,3,39,NULL,1,Correct Option: A,1,B
+9702,2024,Winter,1,3,40,NULL,1,Correct Option: D,1,B
+9702,2024,Winter,4,3,1,a,1,force proportional to product of masses,1,B
+9702,2024,Winter,4,3,1,a,2,force inversely proportional to square of separation,1,B
+9702,2024,Winter,4,3,2,a,1,thermal energy per unit mass,1,B
+9702,2024,Winter,4,3,2,a,2,energy per unit change in temperature,1,B
+9702,2024,Winter,4,3,4,a,1,acceleration proportional to displacement,1,B
+9702,2024,Winter,4,3,4,a,2,acceleration opposite to displacement,1,B
+9702,2024,Winter,2,3,1,a,1,rate of change of velocity,1,B
+9702,2024,Winter,2,3,2,a,1,total momentum constant,1,M1
+9702,2024,Winter,2,3,2,a,2,for an isolated system,1,A1
+9702,2024,Winter,2,3,3,a,1,sum of clockwise moments equals sum of anticlockwise moments about same point,1,B1
+9702,2024,Winter,2,3,6,a,1,potential difference per unit current,1,B1
+9702,2025,Winter,1,1,1,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,2,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,3,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,4,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,5,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,6,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,7,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,8,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,9,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,10,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,11,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,12,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,13,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,14,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,15,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,16,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,17,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,18,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,19,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,20,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,21,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,22,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,23,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,24,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,25,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,26,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,1,27,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,28,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,29,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,30,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,31,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,32,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,33,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,34,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,35,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,36,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,1,37,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,1,38,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,39,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,1,40,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,1,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,2,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,3,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,4,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,5,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,6,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,7,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,8,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,9,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,10,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,11,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,12,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,13,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,14,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,15,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,16,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,17,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,18,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,19,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,20,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,21,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,22,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,23,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,24,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,25,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,26,NULL,1,Correct Option: B,1,B
+9702,2025,Winter,1,3,27,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,28,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,29,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,30,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,31,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,32,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,33,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,34,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,35,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,36,NULL,1,Correct Option: D,1,B
+9702,2025,Winter,1,3,37,NULL,1,Correct Option: C,1,B
+9702,2025,Winter,1,3,38,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,39,NULL,1,Correct Option: A,1,B
+9702,2025,Winter,1,3,40,NULL,1,Correct Option: B,1,B

@@ -1,0 +1,756 @@
+
+---PAGE 1---
+ 
+ 
+This document has 20 pages. Any blank pages are indicated. 
+IB24 11_9702_12/3RP  
+© UCLES 2024 
+ [Turn over
+ 
+*1750914496*
+Cambridge International AS & A Level 
+  
+ 
+PHYSICS 9702/12 
+ 
+Paper 1 Multiple Choice  October/November 2024 
+ 
+ 1 hour 15 minutes 
+ 
+You must answer on the multiple choice answer sheet. 
+ 
+You will need: Multiple choice answer sheet 
+ Soft clean eraser 
+ Soft pencil (type B or HB is recommended) 
+  
+ 
+INSTRUCTIONS  
+ There are forty questions on this paper. Answer all questions.  
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct 
+and record your choice in soft pencil on the multiple choice answer sheet.  
+ Follow the instructions on the multiple choice answer sheet. 
+ Write in soft pencil. 
+ Write your name, centre number and candidate number on the multiple choice answer sheet in the 
+spaces provided unless this has been done for you. 
+ Do not use correction fluid. 
+ Do not write on any bar codes. 
+ You may use a calculator. 
+ 
+ 
+INFORMATION 
+ The total mark for this paper is 40. 
+ Each correct answer will score one mark. 
+ Any rough working should be done on this question paper. 
+ 
+---PAGE 2---
+2 
+© UCLES 2024 9702/12/O/N/24  
+Data 
+acceleration of free fall g = 9.81  m s–2 
+speed of light in free space c = 3.00  108
+ m s–1 
+elementary charge e = 1.60  10–19
+ C 
+unified atomic mass unit 1  u = 1.66  10–27
+ kg 
+rest mass of proton mp = 1.67  10–27
+ kg 
+rest mass of electron me = 9.11  10–31
+ kg 
+Avogadro constant NA = 6.02  1023
+ mol–1 
+molar gas constant R = 8.31  J K–1
+ mol–1 
+Boltzmann constant k = 1.38  10–23
+ J K–1 
+gravitational constant G = 6.67  10–11
+ N m2
+ kg–2 
+permittivity of free space 0  = 8.85  10–12
+ F m–1 
+ (
+04
+1
+  = 8.99  109
+ m F–1) 
+Planck constant h = 6.63  10–34
+ J s 
+Stefan–Boltzmann constant  = 5.67  10–8
+ W m–2
+ K–4 
+ 
+ 
+ 
+Formulae 
+uniformly accelerated motion s = ut + 2
+2
+1 at  
+ v 
+2 = u 
+2 + 2as 
+hydrostatic pressure p =  gh 
+upthrust F =  gV 
+Doppler effect for sound waves of  = 
+s
+s
+vv
+vf
+
+ 
+electric current I  = Anvq 
+resistors in series R = R1 + R2 + ... 
+resistors in parallel 
+R
+1  = 
+1
+1
+R
+ + 
+2
+1
+R
+ + ... 
+ 
+---PAGE 3---
+3  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+1 A physical quantity consists of a magnitude and a unit. 
+ 
+Which row does not show a correct combination of a quantity and its unit? 
+ 
+ quantity unit 
+A mass gram 
+B length metre 
+C charge ampere 
+D temperature kelvin 
+ 
+ 
+2 A small car travels in a town. 
+ 
+What is a reasonable estimate of the kinetic energy of the car? 
+A 5  10
+4
+ J B 5  107
+ J C 5  1010
+ J D 5  1013
+ J 
+ 
+ 
+3 A solid bar has a square cross-section. Its length is measured  as 50.0
+ ± 0.2 cm and its width is 
+measured as 2.00 ± 0.01 cm. 
+ 
+These values are used to calculate the volume of the bar. 
+ 
+What is the percentage uncertainty in the calculated volume? 
+A ±  0.21% B ±  0.22% C ±  0.90% D ±  1.4% 
+ 
+ 
+---PAGE 4---
+4 
+© UCLES 2024 9702/12/O/N/24  
+4 The graph shows how the acceleration of an object moving in a straight line varies with time. 
+ 
+acceleration
+time
+0
+0  
+ 
+The object starts from rest. 
+ 
+Which graph shows the variation with time of the velocity of th e object over the same time 
+interval? 
+ 
+velocity
+time
+A
+velocity
+time
+B
+velocity
+time
+C
+velocity
+time
+D
+0
+0
+0
+0
+0
+0
+0
+0
+ 
+ 
+ 
+5 A stone falls vertically from r est. Air resistance is negligible. 
+ 
+What is the speed of the stone when it has fallen through a distance of 0.40
+ m? 
+A 2 . 0  m s–1 B 2 . 8  m s–1 C 3 . 9  m s–1 D 7 . 8  m s–1 
+ 
+ 
+---PAGE 5---
+5  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+6 A ball is thrown horizontally off a tall building. The ground is horizontal. Air resistance is 
+negligible. 
+ 
+Which statement about the motion of the ball is correct? 
+A The acceleration of the ball is always at right angles to the path of the ball. 
+B The ball follows a circular path until it hits the ground. 
+C The ball has constant acceleration. 
+D The ball’s time in the air is proportional to the velocity at which the ball is thrown. 
+ 
+ 
+7 A moving object strikes a stationary object. The collision is i nelastic. The objects move off 
+together. 
+ 
+Assume that the two objects form an isolated system. 
+ 
+Which row shows the possible values of total momentum and total  kinetic energy for the system 
+before and after the collision? 
+ 
+ 
+total momentum 
+before collision 
+/
+ kg m s–1 
+total momentum 
+after collision 
+/ kg m s–1 
+total kinetic 
+energy before 
+collision / J 
+total kinetic 
+energy after 
+collision / J 
+A 6 2 90 30 
+B 6 6 30 90 
+C 6 6 90 30 
+D 6 6 90 90 
+ 
+ 
+---PAGE 6---
+6 
+© UCLES 2024 9702/12/O/N/24  
+8 The graph shows how a quantity Y varies with a quantity X for an object falling vertically at its 
+terminal velocity towards the surface of the Earth. 
+ 
+0
+0
+Y
+X  
+ 
+Which quantities could X and Y represent? 
+ 
+ X  Y  
+A time acceleration 
+B time height above surface 
+C distance moved kinetic energy 
+D distance moved velocity 
+ 
+ 
+9 A ball of mass 2.0
+ kg travels horizontally with a speed of 4.0  m s–1. The ball collides with a wall 
+and rebounds in the opposite direction with a speed of 2.8  m s–1. The time of the collision is 
+150 ms. 
+ 
+What is the average force exerted on the wall? 
+A 16 N B 37 N C 53 N D 91 N 
+ 
+ 
+10 Two train carriages each of mass 5000
+ kg roll toward one another on a horizontal frictionless 
+track. One is travelling at a speed of 2.00 m s–1 and the other at a speed of 1.00 m s–1, as shown. 
+ 
+2.00 m s–1 1.00 m s–1
+5000 kg 5000  kg
+ 
+ 
+They collide and join together. 
+ 
+What is the kinetic energy lost during the collision? 
+A 1250 J B 7500 J C 11 250 J D 12 500 J 
+ 
+ 
+---PAGE 7---
+7  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+11 Which single condition must apply for an object to be in equilibrium? 
+A The object has a constant non-zero acceleration. 
+B The object is stationary. 
+C There are no forces acting on the object. 
+D The resultant force acting on the object is zero. 
+ 
+ 
+12 A kite is in equilibrium at the end of a string, as shown. 
+ 
+W
+string
+kite
+ 
+ 
+The kite has three forces acting on it: the weight W, the tension T in the string, and the force F 
+from the wind. 
+ 
+Which vector diagram represents the forces acting on the kite? 
+ 
+T
+A
+FW
+T
+B
+FW
+T
+C
+F
+W F
+T
+W
+D
+ 
+ 
+ 
+---PAGE 8---
+8 
+© UCLES 2024 9702/12/O/N/24  
+13 Four forces act about a point P, as shown. 
+ 
+P
+X
+Y
+7.0 m
+3.0 m6.0 N
+6.0 N
+5.0 N
+5.0 N
+60/g113
+ 
+ 
+The forces act in the same plane and produce no resultant moment about point P. 
+ 
+What is the length XY? 
+A 6 . 9  m B 1 2  m C 1 4  m D 2 4  m 
+ 
+ 
+14 A rectangular block of lead of density 1.13  10
+4
+ kg m–3 has sides of length 12.0  cm, 15.0 cm and 
+10.0 cm. 
+ 
+What is the maximum pressure the block can exert when resting on a table? 
+A 1 . 1 3 kPa B 1 . 7 0 kPa C 1 1 . 1 kPa D 16.6  kPa 
+ 
+ 
+15 What is the definition of power? 
+A work done in one second 
+B work done in unit time 
+C work done per second 
+D work done per unit time 
+ 
+ 
+16 A model car travels at a constant velocity of 12
+ m s–1 in a straight horizontal line. The input power 
+to the engine of the car is 800 W. The efficiency of the engine is 60%. 
+ 
+What is the total horizontal resistive force on the car? 
+A 2 7  N B 4 0  N C 6 7  N D 110  N 
+ 
+ 
+---PAGE 9---
+9  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+17 Which statement represents the principle of conservation of en ergy? 
+A Energy cannot be used faster than it is created. 
+B The supply of energy is limited, so energy must be conserved. 
+C The total energy in a closed system is constant. 
+D The total energy input to a system is equal to the useful energy output. 
+ 
+ 
+18 A barrel of mass 50  kg is loaded onto the back of a lorry 1.6  m high by pushing it up a frictionless 
+plank 3.4 m long. 
+ 
+1.6 m
+plank
+3.4 m
+barrel
+mass = 50 kg
+lorry
+ 
+ 
+What is the minimum work done? 
+A 8 0  J B 1 7 0  J C 7 8 0  J D 1700  J 
+ 
+ 
+19 What is a unit for stress? 
+A kg
+ m–1
+ s–2 B kg m–2
+ s–2 C N m–1 D N m 
+ 
+ 
+---PAGE 10---
+10 
+© UCLES 2024 9702/12/O/N/24  
+20 The graph shows the relationship between stress and strain for  three wires of the same linear 
+dimensions but made from different materials. 
+ 
+stress
+strain
+0.10
+0
+1.0
+P
+Q
+R
+ 
+ 
+Which statements are correct? 
+ 
+1 The extension of P is approxim ately twice that of Q for the same stress. 
+2 The ratio of the Young modulus for P to that of Q is approxim ately two. 
+3 For strain less than 0.1, R obeys Hooke’s law. 
+ 
+A 1, 2 and 3 B 1 and 3 only C 2 and 3 only D 2  o n l y  
+ 
+ 
+21 Four solid steel rods equally support an object weighing 10
+ kN. Each rod is of length 2.0  m and 
+cross-sectional area 250  mm2. The weight of the object causes the rods to contract by 0.10  mm. 
+The rods obey Hooke’s law. 
+ 
+What is the Young modulus of steel? 
+A 2 . 0   108
+ N m–2 
+B 2 . 0   1011
+ N m–2 
+C 8 . 0   108
+ N m–2 
+D 8 . 0   1011
+ N m–2 
+ 
+ 
+---PAGE 11---
+11  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+22 The graph shows how the length of a spring varies with the for ce applied to it. Two areas P and Q 
+are labelled. 
+ 
+length
+force
+0
+0
+Q
+P
+ 
+ 
+Which area represents the work done in stretching the spring? 
+A a r e a  P  
+B a r e a  Q  
+C area P + area Q 
+D area Q – area P 
+ 
+ 
+23 A horizontal beam of vertically polarised light of amplitude A is incident normally on a polarising 
+filter. The transmission axis of the filter is at an angle of 50 to the vertical. 
+ 
+What is the amplitude of the light in the beam after it has passed through the filter? 
+A 0 . 1 7A B 0 . 4 1A C 0 . 6 4A D 0 . 8 0A 
+ 
+ 
+---PAGE 12---
+12 
+© UCLES 2024 9702/12/O/N/24  
+24 A progressive longitudinal sound wave moves through air. The d iagram shows the positions of 
+the air particles along part of the wave at one instant. 
+ 
+PQ
+x  
+ 
+Point Q is a distance x from point P. 
+ 
+Which graph shows the variation of the displacement of the air particles with distance from P 
+along the wave? 
+ 
+displacement
+distancex
+A
+0
+0
+displacement
+distancex
+B
+0
+0
+displacement
+distancex
+C
+0
+0
+displacement
+distancex
+D
+0
+0
+ 
+ 
+ 
+25 An electromagnetic wave in free space has a frequency of 3.0  1016
+ Hz. 
+ 
+Which row gives the principal region of this wave and an exampl e of an electromagnetic wave 
+with a lower frequency? 
+ 
+ principal region wave with lower 
+frequency 
+A infrared visible light 
+B infrared X-rays 
+C ultraviolet visible light 
+D ultraviolet X-rays 
+ 
+ 
+---PAGE 13---
+13  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+26 A source of sound emits waves of a constant frequency. The sou rce moves at a constant speed 
+in a straight line relative to a stationary observer. 
+ 
+Which velocity of the source gives the smallest observed frequency? 
+ 
+ speed / m s–1 direction 
+A   5 away from observer 
+B 10 away from observer 
+C 15 towards observer 
+D 20 towards observer 
+ 
+ 
+27 What could describe the time-base of a cathode-ray oscilloscop e (CRO)? 
+A the frequency per division on the screen 
+B the number of divisions on the screen per unit frequency 
+C the number of divisions on the screen per unit time 
+D the time per division on the screen 
+ 
+ 
+28 What happens when two waves superpose at a point? 
+A Their amplitudes are added together. 
+B Their displacements are added together. 
+C Their frequencies are added together. 
+D Their velocities are added together. 
+ 
+ 
+29 An electromagnetic wave is diffracted as it passes through a s ingle slit. The width of the slit is 
+larger than the wavelength of the wave. 
+ 
+Which change will decrease the amount of diffraction of the wave? 
+A Decrease the frequency of the wave. 
+B Decrease the time period of the wave. 
+C Decrease the width of the slit. 
+D Increase the wavelength of the wave. 
+ 
+ 
+---PAGE 14---
+14 
+© UCLES 2024 9702/12/O/N/24  
+30 The diagram shows visible light incident normally on a diffrac tion grating. 
+ 
+diffraction grating
+incident
+light
+not to scale
+centre line
+screen
+centre of fourth
+order intensity
+maximum
+53/g113
+ 
+ 
+A pattern of intensity maxima forms on the screen. A line connecting the centre of the fourth order 
+intensity maximum with the centre of the diffraction grating fo rms an angle of 53  with the centre 
+line. The grating has a line spacing of 2.7  10–6
+ m. 
+ 
+What is the wavelength of the incident light? 
+A 4 . 1   10–7
+ m B 5 . 4   10–7
+ m C 1 . 6   10–6
+ m D 2 . 2   10–6
+ m 
+ 
+ 
+31 A horizontal glass tube, closed at one end, has a layer of dus t laid inside it on its lower side. 
+Sound is emitted from a loudspeaker that is placed near the open end of the tube. 
+ 
+The frequency of the sound is varied and, at one frequency, a s tationary wave is formed inside 
+the tube so that the dust forms small heaps. 
+ 
+The distance between four heaps of dust is 30
+ cm. 
+ 
+loudspeaker
+glass tube
+30 cm
+ 
+ 
+The speed of sound in the air in the tube is 330 m s–1. 
+ 
+What is the frequency of the sound emitted by the loudspeaker? 
+A 1650  Hz B 2 2 0 0 Hz C 3300  Hz D 6600  Hz 
+ 
+ 
+---PAGE 15---
+15  
+ 
+© UCLES 2024 9702/12/O/N/24 [Turn over 
+32 There is a current in a resistor for a short time interval. 
+ 
+Which statement about the total charge that passes through the resistor is correct? 
+A It can take any value. 
+B It is an integer multiple of the elementary charge. 
+C It is the elementary charge. 
+D It is the rate of flow of the current. 
+ 
+ 
+33 The potential difference V across a filament lamp is slowly raised from zero to its norma l 
+operating value. 
+ 
+Which graph represents the variation with V of the current I in the lamp? 
+ 
+0
+0
+I
+V
+A
+I
+V
+B
+I
+V
+C
+I
+V
+D
+0
+0
+0
+0
+0
+0  
+ 
+ 
+34 An electric current of 12
+ A is in a wire of length 0.35 m. 
+ 
+The average drift speed of the free electrons (charge carriers) in the wire is 5.0  10–4
+ m s–1. 
+ 
+How many free electrons are in the wire? 
+A 1 . 3   1016 B 5 . 3   1022 C 1 . 5   1023 D 4 . 3   1023 
+ 
+ 
+---PAGE 16---
+16 
+© UCLES 2024 9702/12/O/N/24  
+35 Three resistors are connected to a cell of negligible internal  resistance. 
+ 
+Which circuit has a combined resistance of 100 ? 
+ 
+100 /g58
+50 /g58
+100 /g58
+A
+C
+100 /g58 100 /g58 50 /g58
+D
+100 /g58
+100 /g58
+50 /g58
+B
+100 /g58
+100 /g58
+50 /g58
+ 
+ 
+ 
+36 Each of Kirchhoff’s laws is a statement based on the conservat ion of a physical quantity. 
+ 
+Which quantity is conserved in each law? 
+ 
+ Kirchhoff’s 
+first law 
+Kirchhoff’s 
+second law 
+A charge energy 
+B energy current 
+C power charge 
+D resistance power 
+ 
+ 
+37 A cell with electromotive force (e.m.f.) 1.50  V delivers a current of 0.26  A  t o  a  r e s i s t o r  o f  
+resistance 5.0  connected between its terminals. 
+ 
+What is the internal resistance of the cell? 
+A 0 . 0 4  B 0 . 2 0  C 0 . 3 9  D 0 . 7 7  
+ 
+ 
+---PAGE 17---
+17  
+ 
+© UCLES 2024 9702/12/O/N/24  
+38 What is not a quark flavour? 
+A charm 
+B meson 
+C strange 
+D up 
+ 
+ 
+39 How many down quarks are in a nucleus of hydrogen-3, H?3
+1  
+A 2  B 3  C 4  D 5  
+ 
+ 
+40 An isotope of boron decays to beryllium by 
++ emission. 
+ 
+Which particle is emitted in addition to the + particle? 
+A antineutrino 
+B e l e c t r o n  
+C neutrino 
+D neutron 
+ 
+ 
+---PAGE 18---
+18 
+© UCLES 2024 9702/12/O/N/24  
+BLANK PAGE
+---PAGE 19---
+19  
+ 
+© UCLES 2024 9702/12/O/N/24  
+BLANK PAGE
+---PAGE 20---
+20 
+ 
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity. 
+ 
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series. 
+ 
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. 
+ 
+© UCLES 2024 9702/12/O/N/24  
+BLANK PAGE 
+ 
+ 

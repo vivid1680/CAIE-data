@@ -1,0 +1,453 @@
+
+---PAGE 1---
+ 
+                                                                    
+ 
+ 
+ 
+ 
+This document consists of 15 printed pages. 
+ 
+© Cambridge University Press & Assessment 2024 
+ 
+[Turn over
+ 
+Cambridge International AS & A Level 
+ 
+PHYSICS 9702/43 
+Paper 4 A Level Structured Questions May/June 2024 
+MARK SCHEME 
+Maximum Mark: 100 
+ 
+ 
+Published 
+ 
+ 
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the 
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the 
+details of the discussions that took place at an Examiners’ meeting before marking began, which would have 
+considered the acceptability of alternative answers. 
+ 
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for 
+Teachers. 
+ 
+Cambridge International will not enter into discussions about these mark schemes. 
+ 
+Cambridge International is publishing the mark schemes for the May/June 2024 series for most 
+Cambridge IGCSE, Cambridge International A and AS Level and Cambridge Pre-U components, and some 
+Cambridge O Level components. 
+ 
+ 
+ 
+---PAGE 2---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 2 of 15 
+ 
+Generic Marking Principles 
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the 
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these 
+marking principles. 
+ 
+GENERIC MARKING PRINCIPLE 1: 
+ 
+Marks must be awarded in line with: 
+ 
+ the specific content of the mark scheme or the generic level descriptors for the question 
+ the specific skills defined in the mark scheme or in the generic level descriptors for the question 
+ the standard of response required by a candidate as exemplified by the standardisation scripts. 
+GENERIC MARKING PRINCIPLE 2: 
+ 
+Marks awarded are always whole marks (not half marks, or other fractions). 
+GENERIC MARKING PRINCIPLE 3: 
+ 
+Marks must be awarded positively: 
+ 
+ marks are awarded for correct/valid answers, as defined in the ma rk scheme. However, credit is given for valid answers which go beyond 
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate 
+ marks are awarded when candidates clearly demonstrate what they know and can do 
+ marks are not deducted for errors 
+ marks are not deducted for omissions 
+ answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assesse d by the 
+question as indicated by the mark scheme. The meaning, however, should be unambiguous. 
+GENERIC MARKING PRINCIPLE 4: 
+ 
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level 
+descriptors. 
+---PAGE 3---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 3 of 15 
+ 
+GENERIC MARKING PRINCIPLE 5: 
+ 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may 
+be limited according to the quality of the candidate responses seen). 
+GENERIC MARKING PRINCIPLE 6: 
+ 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or 
+grade descriptors in mind. 
+ 
+ 
+Science-Specific Marking Principles 
+ 
+1 Examiners should consider the context and scientific use of any keywords when awarding marks. Although keywords may be present, marks 
+should not be awarded if the keywords are used incorrectly.  
+2 The examiner should not choose between contradictory statements given in the same question part, and credit should not be awa rded for 
+any correct statement that is contradicted within the same question part. Wrong science that is irrelevant to the question should be ignored. 
+3 Although spellings do not have to be correct, spellings of syllabus terms must allow for clear and unambiguous separation fro m other 
+syllabus terms with which they may be confused (e.g. ethane / ethene, glucagon / glycogen, refraction / reflection). 
+4 The error carried forward (ecf) principle should be applied, where appropriate. If an incorrect answer is subsequently used i n a scientifically 
+correct way, the candidate should be awarded these subsequent marking points. Further guidance will be included in the mark scheme 
+where necessary and any exceptions to this general principle will be noted. 
+5 ‘List rule’ guidance 
+ 
+For questions that require n responses (e.g. State two reasons …): 
+ 
+ The response should be read as continuous prose,  even when numbered answer spaces are provided. 
+ Any response marked ignore in the mark scheme should not count towards n. 
+ Incorrect responses should not be awarded credit but will still count towards n. 
+ Read the entire response to check for any responses that cont radict those that would otherwise be credited. Credit should not be 
+awarded for any responses that are contradicted within the rest of the response. Where two responses contradict one another, this 
+should be treated as a single incorrect response. 
+ Non-contradictory responses after the first n responses may be ignored even if they include incorrect science. 
+---PAGE 4---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 4 of 15 
+ 
+6 Calculation specific guidance 
+ 
+Correct answers to calculations should be given full credit even if there is no working or incorrect working, unless the question states ‘show 
+your working’.  
+ 
+For questions in which the number of significant figures required is not stated, credit should be awarded for correct answers when rounded 
+by the examiner to the number of significant figures given in the mark scheme. This may not apply to measured values.  
+ 
+For answers given in standard form (e.g. a  10n) in which the convention of restricting the value of the coefficient (a) to a value between 1 
+and 10 is not followed, credit may still be awarded if the answer can be converted to the answer given in the mark scheme.  
+ 
+Unless a separate mark is given for a unit, a missing or incorrect unit will normally mean that the final calculation mark is not awarded. 
+Exceptions to this general principle will be noted in the mark scheme. 
+7 Guidance for chemical equations 
+ 
+Multiples / fractions of coefficients used in chemical equations are acceptable unless stated otherwise in the mark scheme.  
+ 
+State symbols given in an equation should be ignored unless asked for in the question or stated otherwise in the mark scheme. 
+ 
+ 
+  
+---PAGE 5---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 5 of 15 
+ 
+Abbreviations 
+ 
+/ Alternative and acceptable answers for the same marking point. 
+( ) Bracketed content indicates words which do not need to be explicitly seen to gain credit but which indicate the context for an answer. 
+The context does not need to be seen but if a context is given that is incorrect then the mark should not be awarded. 
+___ Underlined content must be present in answer to award the mark. This means either the exact word or another word that has the 
+same technical meaning. 
+ 
+Mark categories 
+ 
+B marks These are independent marks, which do not depend on other marks. For a B mark to be awarded, the point to which it refers must be 
+seen specifically in the candidate’s answer. 
+M marks These are method marks upon which A marks later depend. For an M mark to be awarded, the point to which it refers must be seen 
+specifically in the candidate’s answer. If a candidate is not awarded an M mark, then the later A mark cannot be awarded either. 
+C marks These are compensatory marks which can be awarded even if the points to which they refer are not written down by the can didate, 
+providing subsequent working gives evidence that they must have known them. For example, if an equation carries a C mark and the 
+candidate does not write down the actual equation but does correct working which shows the candidate knew the equation, then the 
+C mark is awarded. 
+If a correct answer is given to a numerical question, all of the preceding C marks are awarded automatically.  It is only necessary to 
+consider each of the C marks in turn when the numerical answer is not correct. 
+A marks These are answer marks.  They may depend on an M mark or allow a C mark to be awarded by implication. 
+ 
+ 
+---PAGE 6---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 6 of 15 
+ 
+Question Answer Marks 
+1(a) work done per unit mass B1 
+work done moving mass from infinity (to the point) B1 
+1(b)(i) potential is zero at infinity B1 
+work is done by (two) masses in moving them closer together 
+or 
+work is done on (two) masses in moving them apart 
+B1 
+1(b)(ii) magnitude of potential shown as 4
+ B1 
+potential negative and shown as a multiple of –
+  [potential = –4
+ if fully correct] B1 
+1(b)(iii) field strength at X: 
+ / 4R A1 
+field strength at Y: 4
+ / R A1 
+potential energy at X:  –M
+ A1 
+potential energy at Y: –8M
+ A1 
+---PAGE 7---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 7 of 15 
+ 
+Question Answer Marks 
+2(a)(i) 0  K B1 
+2(a)(ii) (measurement) depends on properties of the liquid B1 
+2(b)(i)  resistivity varies with temperature 
+ variation with temperature is linear 
+ unique value of resistivity for each (different value of) temperature 
+Any two points, 1 mark each 
+B2 
+2(b)(ii) thermometer has high heat capacity/specific heat capacity 
+or 
+energy transfer needed for thermometer to reach correct temperature 
+or 
+thermometer takes time to reach the correct temperature 
+B1 
+2(b)(iii) thermocouple B1 
+2(c) (variation is) inverse 
+or 
+(variation is) non-linear 
+B1 
+---PAGE 8---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 8 of 15 
+ 
+Question Answer Marks 
+3(a)(i) gas for which pV  T M1 
+where T is thermodynamic temperature A1 
+3(a)(ii) no intermolecular forces B1 
+(so) potential energy is zero B1 
+3(b)(i) pV = NkT C1 
+N  = (2.0  105  0.26) / (1.38  10–23  290) 
+ 
+  = 1.3  1025  
+A1 
+3(b)(ii) EK = (3/2) kT C1 
+EK  = (3/2)  1.38  10–23  290 
+ 
+ = 6.0  10–21 J  
+A1 
+3(b)(iii) internal energy = total KE + PE of molecules 
+or 
+PE = 0 so internal energy = total KE of molecules  
+B1 
+internal energy = 1.3  1025  6.0  10–21 
+ 
+    = 7.8  104 J  
+A1 
+3(c) straight line with positive gradient B1 
+line passing through the origin B1 
+---PAGE 9---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 9 of 15 
+ 
+Question Answer Marks 
+4(a) oscillation (of object) at maximum amplitude B1 
+when driving frequency = natural frequency (of system) B1 
+4(b)(i) light damping B1 
+4(b)(ii) oscillations (of ball) lose energy B1 
+(due to) resistive forces (acting on ball) B1 
+4(b)(iii) frequency = 1  / 0.25 
+ 
+    = 4.0  Hz  
+A1 
+4(c) curve showing a maximum amplitude at a single non-zero frequency B1 
+single maximum amplitude shown at 4.0 Hz B1 
+---PAGE 10---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 10 of 15 
+ 
+Question Answer Marks 
+5(a) force per unit charge B1 
+force on positive charge B1 
+5(b)(i) four straight vertical para llel lines, approximately evenly spaced B1 
+arrows downwards B1 
+5(b)(ii) E  = V / d C1 
+E  = 430 / 0.067 
+ 
+ = 6.4  103 N C–1 
+A1 
+5(b)(iii) smooth curve within plates and straight lines outside plates B1 
+direction of deflection shown as upwards B1 
+5(c)(i) into the page B1 
+5(c)(ii) forces are in opposite directions B1 
+(undeviated) when (magnitudes of) forces are equal B1 
+5(c)(iii) Eq = Bqv C1 
+B = E / v = (6.4  103) / (2.6  107) 
+ 
+ = 2.5  10–4 T  
+A1 
+---PAGE 11---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 11 of 15 
+ 
+Question Answer Marks 
+6(a)  p.d. across capacitor proportional to charge on capacitor  
+ p.d. across capacitor = p.d. across resistor  
+ current in resistor proportional to p.d. across resistor  
+ current in resistor = rate of decrease of charge on capacitor 
+Any two points, 1 mark each 
+B2 
+charge proportional to current so rate of decrease of current decreases as current decreases (therefore exponential shape) B1 
+6(b)(i) R = V / I 
+  
+ = 12  / (0.13  10–3) 
+C1 
+ = 9.2  104   A1 
+6(b)(ii) correct read-off of at least one pair of values for I and t C1 
+attempted read-off of t when I = 0.048 mA 
+ 
+or 
+ 
+substitution of a correct pair of values of I and t into I = 0.13 exp (– t / ) 
+C1 
+ = 4.3 s A1 
+6(c) 
+ = RC C1 
+C = 
+ / R = 4.3 / (9.2  104) 
+ 
+ = 4.7  10–5 F  
+A1 
+---PAGE 12---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 12 of 15 
+ 
+Question Answer Marks 
+7(a) rectification (of the input voltage) M1 
+full-wave A1 
+7(b)(i) P = V2 / R 
+ 
+or 
+ 
+maximum V = 9.0
+ V 
+C1 
+PMAX = 9.02 / 370 = 0.22 W A1 
+7(b)(ii) sinusoidal shape with minima sitting on the time axis B1 
+correct frequency and phase, with minima at 0, 0.02, 0.04, 0.06 and 0.08 s and maxima at 0.01, 0.03, 0.05 and 0.07 s B1 
+all maxima shown at 0.22 W B1 
+7(b)(iii) mean power = peak power  / 2 = 0.22 / 2 
+ 
+ = 0.11
+ W  
+A1 
+7(c) powe r–time graph is identical B1 
+(so) mean powers are equal B1 
+---PAGE 13---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 13 of 15 
+ 
+Question Answer Marks 
+8(a) packet  / quantum of energy M1 
+of electromagnetic radiation A1 
+8(b)(i) electron(s) B1 
+8(b)(ii) X labelled – and Y labelled + B1 
+8(c)(i) 0.032  MeV A1 
+8(c)(ii) momentum = E / c C1 
+momentum  = (0.032 × 1.60  10–13) / (3.00  108) 
+ 
+   = 1.7  10–23 N s  
+A1 
+8(c)(iii) E = hf  and   = c / f C1 
+ = hc / E 
+ 
+ = (6.63  10–34 × 3.00  108) / (0.032  1.60 × 10–13) 
+C1 
+ 
+ = 3.9  10–11 m  A1 
+8(d) discussion of bone and soft tissue B1 
+discussion of different attenuation (coefficients) 
+or 
+discussion differences in penetration / transmission / absorption 
+B1 
+ 
+transmitted intensities (by bone and tissue) are very different (leading to good contrast images) B1 
+---PAGE 14---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 14 of 15 
+ 
+Question Answer Marks 
+9(a) time for activity (of sample) to halve B1 
+9(b)(i) activity (of X at time t) B1 
+9(b)(ii)  Y is a stable isotope 
+ total number of nuclei is constant 
+ half-life (of X) is 13.6  s 
+ decay constant (of X) is 0.051  s–1 
+ amount (of X) at t = 0 is 0.066 mol 
+ activity (of X) at t = 0 is 2.0  1021 Bq 
+Any three points, 1 mark each 
+B3 
+9(c) mass of 1 nucleus = (7.3  10–4) / (4.0  1022) C1 
+nucleon number = mass of nucleus  / (1.66  10–27) C1 
+   = (7.3  10–4) / (4.0 × 1022  1.66 × 10–27) 
+ 
+    = 11 and given as an intege
+r 
+A1 
+---PAGE 15---
+9702/43 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 15 of 15 
+ 
+Question Answer Marks 
+10(a)(i) total powe r B1 
+power radiated (by the star) B1 
+10(a)(ii) standard candle has known luminosity B1 
+radiant flux intensity measured by observer B1 
+(distance calculated using) F = L / 4d2 B1 
+10(b)(i) luminosity = 4  r2T4 
+ 
+  = 4   5.67  10–8  (6.96  108)2 × 57804 
+C1 
+   = 3.85 × 10 26 W  A1 
+10(b)(ii) 
+MAXT = constant C1 
+temperature = (5780  501) / 624 
+ 
+   = 4640  K  
+A1 
+ 

@@ -1,0 +1,411 @@
+
+---PAGE 1---
+ 
+                                                                    
+ 
+ 
+ 
+ 
+This document consists of 14 printed pages. 
+ 
+© Cambridge University Press & Assessment 2024 
+ 
+[Turn over 
+ 
+Cambridge International AS & A Level 
+ 
+PHYSICS 9702/42 
+Paper 4 A Level Structured Questions October/November 2024 
+MARK SCHEME 
+Maximum Mark: 100 
+ 
+ 
+Published 
+ 
+ 
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the 
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the 
+details of the discussions that took place at an Examiners’ meeting before marking began, which would have 
+considered the acceptability of alternative answers. 
+ 
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for 
+Teachers. 
+ 
+Cambridge International will not enter into discussions about these mark schemes. 
+ 
+Cambridge International is publishing the mark schemes for the October/November 2024 series for most 
+Cambridge IGCSE, Cambridge International A and AS Level components, and some Cambridge O Level 
+components. 
+ 
+ 
+ 
+---PAGE 2---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 2 of 14  
+ 
+Generic Marking Principles 
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the 
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these 
+marking principles. 
+ 
+GENERIC MARKING PRINCIPLE 1: 
+ 
+Marks must be awarded in line with: 
+ 
+• the specific content of the mark scheme or the generic level descriptors for the question 
+• the specific skills defined in the mark scheme or in the generic level descriptors for the question 
+• the standard of response required by a candidate as exemplified by the standardisation scripts. 
+GENERIC MARKING PRINCIPLE 2: 
+ 
+Marks awarded are always whole marks (not half marks, or other fractions). 
+GENERIC MARKING PRINCIPLE 3: 
+ 
+Marks must be awarded positively: 
+ 
+• marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond 
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate 
+• marks are awarded when candidates clearly demonstrate what they know and can do 
+• marks are not deducted for errors 
+• marks are not deducted for omissions 
+• answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the 
+question as indicated by the mark scheme. The meaning, however, should be unambiguous. 
+GENERIC MARKING PRINCIPLE 4: 
+ 
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level 
+descriptors. 
+---PAGE 3---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 3 of 14  
+ 
+GENERIC MARKING PRINCIPLE 5: 
+ 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may 
+be limited according to the quality of the candidate responses seen). 
+GENERIC MARKING PRINCIPLE 6: 
+ 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or 
+grade descriptors in mind. 
+ 
+                                                               
+ 
+  
+---PAGE 4---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 4 of 14  
+ 
+Abbreviations 
+ 
+/ Alternative and acceptable answers for the same marking point. 
+( ) Bracketed content indicates words which do not need to be explicitly seen to gain credit but which indicate the context for an 
+answer. The context does not need to be seen but if a context is given that is incorrect then the mark should not be awarded. 
+___ Underlined content must be present in answer to award the mark. This means either the exact word or another word that has the 
+same technical meaning. 
+ 
+Mark categories 
+ 
+B marks These are independent marks, which do not depend on other marks. For a B mark to be awarded, the point to which it refers must 
+be seen specifically in the candidate’s answer. 
+M marks These are mandatory marks upon which A marks later depend. For an M mark to be awarded, the point to which it refers must be 
+seen specifically in the candidate’s answer. If a candidate is not awarded an M mark, then the later A mark cannot be awarded 
+either. 
+C marks These are compensatory marks which can be awarded even if the points to which they refer are not written down by the candidate, 
+providing subsequent working gives evidence that they must have known them. For example, if an equation carries a C mark and 
+the candidate does not write down the actual equation but does correct working which shows the candidate knew the equation, then 
+the C mark is awarded. 
+ 
+If a correct answer is given to a numerical question, all of the preceding C marks are awarded automatically. It is only necessary to 
+consider each of the C marks in turn when the numerical answer is not correct. 
+A marks These are answer marks. They may depend on an M mark or allow a C mark to be awarded by implication. 
+ 
+  
+---PAGE 5---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 5 of 14  
+ 
+ 
+Question Answer Marks 
+1(a)(i) v = r C1 
+  = 0.85  140 
+ 
+ = 120 m s–1 
+A1 
+1(a)(ii) a = r2  or  a = v2 / r C1 
+ a  = 0.85  1402  or  1202 / 0.85 
+ 
+ = 1.7  104 m s–2 
+A1 
+1(b)(i) direction of (induced) e.m.f. M1 
+ is such as to (produce effects that) oppose the change that caused it A1 
+1(b)(ii) T = 2 /  
+ 
+ = 2 / 140 = 0.045 s = 45 ms 
+A1 
+1(b)(iii)  = BA C1 
+  = 0.18    0.852 C1 
+  = 0.41 Wb A1 
+1(b)(iv) E =  / t C1 
+  = 0.41 / 0.045 
+ 
+ = 9.1 V 
+A1 
+1(b)(v) force (on spoke) must be anticlockwise, so current is from A to X (by Fleming’s left hand rule), so X is at the higher potential B1 
+---PAGE 6---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 6 of 14  
+ 
+Question Answer Marks 
+2(a) force per unit mass B1 
+2(b)(i) g = GM / x2 C1 
+  = (6.67  10–11  1.99  1030) / (1.47  1011)2 
+ 
+ = 6.14  10–3 N kg– 1 
+A1 
+2(b)(ii) EP = – GMm / x 
+ 
+ = – (6.67  10–11  1.99  1030  2.63) / (1.47  1011) 
+C1 
+  = – 2.37  109 J A1 
+2(c)(i) F = L / 4x2 C1 
+ (g = GM / x2 and so) x2 = GM / g 
+ 
+and 
+ 
+x2 = L / 4F 
+M1 
+ elimination of x and subsequent algebra shown leading to g = 4GMF / L A1 
+2(c)(ii) correct read-off of pair of values of g and F and full substitution of values of g, G, M and F into equation  
+e.g. L = (4  6.67  10–11  1.99  1030  1.83  103) / (8.0  10–3) 
+C1 
+ L = 3.8  1026 W A1 
+2(c)(iii) L = 4 r2T4 
+ 
+3.8  1026 = (4  5.67  10–8  57804)  r2 
+C1 
+ r = 6.9  108 m A1 
+---PAGE 7---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 7 of 14  
+ 
+Question Answer Marks 
+3(a) (thermal) energy per unit mass (to cause change of state) B1 
+ (thermal) energy to change state at constant temperature B1 
+3(b)(i) W = pV  C1 
+  = 1.0  105  0.017 = 1700 J = 1.7 kJ A1 
+3(b)(ii) U = Q + W C1 
+ Q = 17.6 + 1.7 
+ 
+ = 19.3 kJ 
+A1 
+3(b)(iii) mass = 710  7.2  10–5 
+ 
+         ( = 0.051 kg) 
+C1 
+ L = 19.3 / 0.051 
+ 
+ = 380 kJ kg–1 
+A1 
+3(c) fusion involves (much) smaller volume change (than vaporisation) B1 
+ smaller change in intermolecular spacing so smaller change in internal energy B1 
+ negligible work done (by substance during fusion) so LF is less (than LV) B1 
+---PAGE 8---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 8 of 14  
+ 
+Question Answer Marks 
+4(a) • molecules are in (constant) random motion 
+• (all) collisions between molecules are (perfectly) elastic 
+• no forces between molecules (except during collisions) 
+• volume of molecules is negligible (compared with volume of gas) 
+• collisions involving molecules are instantaneous 
+Any three points, 1 mark each 
+B3 
+4(b) • molecules collide with (walls of) container 
+• momentum of molecule changes during collision (with walls) 
+• change in momentum is caused by force on molecule by wall 
+• molecule experiences force from wall so molecule exerts force on wall 
+• many molecules exerting force across the area of the wall leads to pressure (on the wall) 
+Any three points, 1 mark each 
+B3 
+4(c) Any three bulleted points from: 
+ 
+• both gases are ideal 
+ 
+Up to 2 points from: 
+• mass of one molecule of gas X is 3.3  10–27 kg 
+• mass of one molecule of gas Y is 6.6  10–27 kg 
+• mass of one molecule of gas Y is double mass of one molecule of gas X 
+ 
+Up to 2 points from: 
+• sample of X contains 0.27 mol / 1.6  1023 molecules 
+• sample of Y contains 0.81 mol / 4.9  1023 molecules 
+• sample of Y contains treble the amount of gas / number of molecules as sample of X 
+  
+Up to 2 points from: 
+• mass of gas X is 5.4  10–4 kg 
+• mass of gas Y is 3.2  10–3 kg 
+• mass of gas Y is six times mass of gas X 
+B3 
+---PAGE 9---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 9 of 14  
+ 
+Question Answer Marks 
+ 5(a) arrow from sphere, perpendicular to string, pointing left and down B1 
+5(b)(i) amplitude = 0.016 m A1 
+5(b)(ii) angular frequency = 2 / T C1 
+     = 2 / 0.40 
+ 
+    = 16 rad s–1 
+A1 
+5(b)(iii) total energy = ½m2x02     C1 
+    = ½  0.15  15.72  0.0162 
+ 
+   = 4.7  10–3 J 
+A1 
+5(c) dome-shaped curve starting and ending on the x-axis, with peak at x = 0 B1 
+ maximum EK shown as 4.7  10–3 J B1 
+ minimum x shown as –0.016 m and maximum x shown as +0.016 m at the ends of the line B1 
+---PAGE 10---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 10 of 14  
+ 
+Question Answer Marks 
+6(a) (electric) force is (directly) proportional to product of charges B1 
+ force (between point charges) is inversely proportional to the square of their separation B1 
+6(b) at least four straight, radial lines to/from surface of sphere B1 
+ at least four straight radial lines drawn, approximately equally spaced B1 
+ arrows pointing away from the surface of the sphere B1 
+6(c)(i) radius = 3.2 cm A1 
+6(c)(ii) E = Q / (40x2) C1 
+ Q = e.g. 2.2  105  4  8.85  10–12  0.0322 C1 
+  = 2.5  10–8 C A1 
+6(c)(iii) • the (positive) charge is all the way around the surface 
+• a charge placed inside the sphere is pulled equally in all directions 
+• if the field was not zero, the charges would move (until field is zero) 
+• electric field lines go from positive charge to negative charge, and there are no negative charges inside the sphere 
+Any point, 1 mark 
+B1 
+---PAGE 11---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 11 of 14  
+ 
+Question Answer Marks 
+7(a) charge / potential (difference) M1 
+ charge is charge on one plate, and potential is p.d. between the plates A1 
+7(b)(i) straight line starting at the origin B1 
+ line with positive gradient ending at (V, Q) B1 
+7(b)(ii) work done is the area under the graph B1 
+ W = ½QV A1 
+7(c)(i) final p.d. shown as V / 4 for both capacitors B1 
+ final charges add together to give Q B1 
+ charge on Y = 3  charge on X (and both charges shown as a multiple of Q) 
+ 
+Fully correct answer: 
+ X Y 
+final p.d. V / 4 V / 4 
+final charge Q / 4 3Q / 4 
+ 
+B1 
+7(c)(ii) less than B1 
+---PAGE 12---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 12 of 14  
+ 
+Question Answer Marks 
+8(a) number of cycles per unit time B1 
+8(b)(i) period = 2 / 40 = 0.050 s = 50 ms A1 
+8(b)(ii) sinusoidal curve, starting at (0, 0) and initially increasing from there B1 
+ periodic line showing 2 cycles with period 50 ms from t = 0 to t = 100 ms B1 
+ all peaks shown at I = +3.5 A and all troughs shown at I = –3.5 A B1 
+8(b)(iii) Ir.m.s = 3.5 / √2 
+ 
+  = 2.5 A 
+A1 
+8(c) P = I2R C1 
+ peak power = 3.52  680 (= 8330 W) 
+or 
+mean power = 2.472  680 (= 4170 W) 
+M1 
+ peak and mean powers both calculated correctly, with supporting working, and compared leading to conclusion that mean 
+power is half the peak power 
+A1 
+---PAGE 13---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 13 of 14  
+ 
+Question Answer Marks 
+9(a) diffraction is characteristic of wave behaviour so shows that electrons can behave like waves B1 
+9(b) qV = ½mv2 C1 
+ p  = mv C1 
+ p = m  √(2qV / m) 
+ 
+ = √(2qVm) 
+A1 
+9(c) (electrons have) greater momentum so smaller (de Broglie) wavelength B1 
+ fringes become closer together B1 
+9(d)(i) straight line with positive gradient B1 
+ line with positive gradient passing through the origin B1 
+9(d)(ii) Planck constant B1 
+---PAGE 14---
+9702/42 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2024  
+ 
+© Cambridge University Press & Assessment 2024 Page 14 of 14  
+ 
+Question Answer Marks 
+10(a)(i) cannot predict when a particular nucleus will decay 
+or 
+cannot predict which nucleus will decay next 
+B1 
+10(a)(ii) (decay is) not affected by external (environmental) factors B1 
+10(a)(iii) fluctuations in (measured) count rate B1 
+10(b)(i) • large nuclei undergo fission whereas small nuclei undergo fusion 
+• fission involves one nucleus splitting into two (or more) (smaller) nuclei 
+• fusion involves two nuclei joining together to form one (larger) nucleus 
+• fission is (usually) initiated by neutron bombardment 
+• fusion is (usually) initiated by (very) high temperatures 
+Any three points, 1 mark each 
+B3 
+10(b)(ii) binding energy per nucleon is greatest for intermediate nucleon numbers 
+(may be shown on sketch graph with axes labelled ‘binding energy per nucleon’ and ‘nucleon number’) 
+B1 
+ both fusion and fission involve an increase in binding energy (per nucleon) B1 
+ 

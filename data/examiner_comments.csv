@@ -46,3 +46,71 @@ subject_code,year,session,paper_number,variant,question_number,label,comment_tex
 9702,2025,March,1,2,36,NULL,"Candidates found this question challenging. Candidates who recognised that V represents the terminal p.d. and that with an open circuit this would be equal to the e.m.f. selected the correct option B. Option D was the most popular, with candidates confusing the concept of terminal p.d. and e.m.f.. Option A was also popular, with candidates perhaps neglecting that the measurement of V would include the e.m.f.. Candidates would benefit from practicing problems involving sources with internal resistance, and from practical experience of working with this kind of circuit."
 9702,2025,March,1,2,38,NULL,This question on conservation of momentum was answered well by most candidates.
 9702,2025,March,1,2,39,NULL,"Around two thirds of candidates correctly answered this factual recall question. The most common incorrect answer was option B, indicating that students are not confident distinguishing between B+ and B- decay. The weakest candidates selected B, C and D equally, suggesting that the difference between quarks and antiquarks was not well understood."
+9702,2025,June,1,2,NULL,"The paper tested a wide range of AS topics. Candidates performed well on standard kinetic and energy calculations, though unit conversions in multi-prefix quantities and specific interpretations of wave graphs proved more challenging."
+9702,2025,June,1,2,2,"Candidates had to convert 0.25 kN mm^-2 to N m^-2. Many failed to account for the squared millimeter conversion (1 mm^2 = 10^-6 m^2), which led to the selection of C instead of the correct answer D (2.5 × 10^8 N m^-2)."
+9702,2025,June,1,2,6,This question required interpreting a velocity-time graph. Correct analysis of the area under the graph for the first 4 seconds (12×2 + 0.5×12×2 = 36 m) identified C as the correct statement.
+9702,2025,June,1,2,24,"Candidates were asked for the frequency of microwaves based on melted chocolate spots at antinodes. Recognizing that the distance between two adjacent antinodes is λ/2 (6.0 cm) was essential. Using v=fλ, the frequency was calculated as 2.5 GHz (Key C)."
+9702,2025,June,2,2,NULL,The paper provided a balanced mix of descriptive and calculative tasks. Most candidates showed a good grasp of Kirchhoff’s laws and vector representations. Performance was lower in questions requiring the formal derivation of the kinetic energy formula.
+9702,2025,June,2,2,1,Candidates were required to show EK = 1/2 mv2 using work done. Stronger responses correctly started with W=Fs and substituted F=ma and v2 = u2 + 2as.
+9702,2025,June,2,2,4,"In calculating the change in momentum for a bouncing ball, many candidates forgot that momentum is a vector. The change is m(v−(−u)), leading to 2.2 kg m s-1."
+9702,2025,June,2,2,6,This was a demanding task involving a potential divider with a parallel branch. Successful candidates calculated the current in the top branch (0.018 A) and used the remaining potential difference to find R = 230 Ω.
+9702,2025,June,4,2,NULL,"This paper tested complex A Level topics including Simple Harmonic Motion and Quantum Physics. Calculations involving astronomical units and nuclear decay ratios were generally well-executed, though drawing field lines for Earth’s magnetic field required more precision."
+9702,2025,June,4,2,1,"Candidates calculated the angular speed of the rear wheel as 37 rad s-1. For the large cog, the distance moved by the chain provided the arc length (0.24 m), leading to an angle of 1.6 rad."
+9702,2025,June,4,2,3,"Explaining the sign of work done was key. As the volume increased, work was done against the atmosphere, making it negative. The final specific heat capacity of aluminium was determined to be 898 J kg-1 °C-1."
+9702,2025,June,4,2,9,"From the VS against f graph, candidates extracted values for the threshold frequency (1.5×10^15 Hz) and calculated the work function (6.2 eV)."
+9702,2025,June,4,2,10,Candidates used the activities AX = 4A e^−λXt and AY = A e^−λYt with their respective half-lives (2T and 3T). Setting the expressions equal and solving for t yielded 12T.
+9702,2025,November,1,2,NULL,Candidates showed proficiency in standard physical definitions and basic algebraic manipulation. Areas requiring improvement included the application of ratios in wave intensity and the correct use of unit prefixes when squared or cubed.
+9702,2025,November,1,2,2,This question required converting 0.25kN mm^-2 to N m^-2. The most common error was incorrect conversion of the denominator.
+9702,2025,November,1,2,4,"Candidates analyzed the homogeneity of the pendulum equation. By equating units, it was clear that n must be 1/2."
+9702,2025,November,1,2,13,"This problem involved a rock dropped into a moving cart. While horizontal momentum is conserved, the increase in mass with no external horizontal force results in a decrease in velocity, thus reducing the total kinetic energy."
+9702,2025,November,2,2,NULL,"The paper tested a solid understanding of mechanics and electricity. Most candidates were able to correctly identify scalar and vector quantities, though derivation of formulae from first principles remains a challenge for some."
+9702,2025,November,2,2,1,Candidates demonstrated the derivation of EK = 1/2mv^2. Successful responses used the work formula W=Fs and substituted v^2 = u^2 + 2as (where u=0) to reach the final expression.
+9702,2025,November,2,2,2,This question required taking moments...
+9702,2025,November,2,2,6,Determining the resistance R required a clear understanding of potential dividers and parallel branches...
+9702,2025,November,4,2,NULL,Performance on this paper indicated a strong grasp of circular motion and thermodynamics. Precision in sketching field lines and interpreting exponential decay graphs were the main discriminators for higher marks.
+9702,2025,November,4,2,1,Using the bicycle speed of 17ms-1 and rear wheel radius of 0.46m candidates correctly calculated the angular speed as 37 rad s-1.
+9702,2025,November,4,2,6,Candidates were required to show the minimum wavelength of X-rays was 21pm. Using eV=hc/lambda provided the necessary evidence.
+9702,2025,November,4,2,9,Interpretation of photoelectric effect graphs yielded quantitative conclusions.
+9702,2025,November,4,2,10,Comparing activities of isotopes X and Y required solving...
+9702,2024,March,1,2,NULL,"In general, candidates scored well on definitions, but struggled with graphical kinematics and circuit ratio calculations."
+9702,2024,March,1,2,4,Most candidates analyzed the resultant force correctly.
+9702,2024,March,1,2,6,Many candidates confused total displacement with distance travelled on the velocity-time graph.
+9702,2024,March,1,2,7,This definition was well known by almost all candidates.
+9702,2024,March,1,2,9,A common error was forgetting to take the square root when using the kinetic energy equation.
+9702,2024,March,1,2,10,"The relationship between upthrust, drag force, and weight in fluid mechanics proved challenging to some."
+9702,2024,March,1,2,40,Candidates demonstrated strong understanding of quark composition changes during beta decay.
+9702,2024,March,2,2,NULL,NULL,"Candidates performed consistently well in structured calculations, particularly in electricity and mechanics. Descriptive questions involving particle physics and nuclear decay were answered with good technical vocabulary."
+9702,2024,March,2,2,8,b(i),Knowledge that mesons consist of a quark-antiquark pair was necessary.
+9702,2024,March,2,2,8,c(ii),"Candidates correctly identified that the nucleon number remains the same, as the emitted particles have nucleon numbers of zero."
+9702,2024,March,2,2,7,b,"This question involved calculating internal resistance r. Successful candidates used E = I(R+r) or E = V+Ir, correctly identifying E= 1.8V and I= 0.25A to find r= 1.2 Ω."
+9702,2024,March,4,2,NULL,NULL,"This paper presented rigorous challenges in fields such as thermal physics and astrophysics. The use of standard formulae was generally accurate, though candidates must ensure they define variables clearly."
+9702,2024,March,4,2,9,c(ii),"This calculation required the use of the reflection coefficient formula. Using the provided density and speed values, the intensity ratio was found to be 0.41. The transmitted fraction was then deduced as 59%."
+9702,2024,March,4,2,10,a(i),"Using the Stefan-Boltzmann law L = 4pi sigma r^2 T^4, candidates calculated the radius of the star. Given the luminosity and temperature, the radius was determined as 6.96 * 10^8 m."
+9702,2024,Winter,4,2,NULL,NULL,Candidates showed a strong grasp of astrophysics and nuclear physics. High marks were awarded for correct use of standard equations.
+9702,2024,Winter,4,2,9,c(ii),"Intensity ratio for ultrasound was calculated as 0.41 using the reflection coefficient formula, resulting in a transmitted fraction of 59%."
+9702,2024,Winter,4,2,10,a(i),"Stefan-Boltzmann law was applied to find the stellar radius, resulting in 6.96 * 10^8 m."
+9702,2024,Winter,2,2,NULL,NULL,"Candidates generally showed a solid understanding of core principles. Performance was high in calculations involving energy and electricity, though explanations regarding fundamental particles required more precision."
+9702,2024,Winter,2,2,6,a,A fundamental particle cannot be subdivided into smaller particles.
+9702,2024,Winter,2,2,6,b(i),Mesons consist of one quark and one antiquark.
+9702,2024,Winter,2,2,6,c(ii),Nucleon number is unchanged as emitted particles have a nucleon number of zero.
+9702,2024,Winter,1,2,NULL,NULL,"Candidates generally showed a solid understanding of core principles. Most were successful in straightforward recalls and basic calculations, though more complex conceptual linking was challenging."
+9702,2024,Summer,1,2,NULL,NULL,The paper tested a representative range of the AS syllabus. Candidates demonstrated strong recall of fundamental definitions and proficiency in standard calculations. Performance was strongest on mechanics and circuit analysis.
+9702,2024,Summer,2,2,NULL,NULL,"Candidates performed consistently well in structured calculations, particularly in electricity and mechanics. Descriptive questions involving particle physics were answered with good technical vocabulary."
+9702,2024,Summer,2,2,5,b(ii),Successful responses correctly identified the resistance of the thermistor as 25 Ohm from the graph.
+9702,2024,Summer,2,2,6,a,Fundamental particles are those which cannot be subdivided into smaller particles.
+9702,2024,Summer,2,2,6,b(ii),Mesons consist of a quark and antiquark pair.
+9702,2024,Summer,4,2,NULL,NULL,Candidates showed a strong grasp of astrophysics and nuclear physics. High marks were awarded for correct use of standard equations.
+9702,2024,Summer,4,2,10,b(ii),The intensity reflection coefficient for ultrasound between water and glass was calculated as 0.61 using the acoustic impedance values.
+9702,2024,Summer,4,3,NULL,NULL,Candidates demonstrated a solid understanding across a wide range of A Level topics. Responses to questions on capacitor discharge and radioactivity showed particular strength.
+9702,2024,Summer,2,3,NULL,NULL,Candidates performed well on mechanics but found the wave interference question challenging. Many correctly identified the three forces in the viscosity question.
+9702,2024,Summer,1,3,NULL,NULL,"Candidates generally performed well on variant 3 MCQ. Questions on mechanics and electricity showed high facility, while waves questions were more discriminating."
+9702,2024,Summer,1,1,NULL,NULL,Candidates generally performed well on physics variant 1. Mechanics and electricity concepts were reasonably well-applied.
+9702,2024,Summer,4,1,NULL,NULL,Candidates generally performed well on variant 1. Astrophysics and Medical Physics questions were particularly high-scoring. Some struggled with damping definitions in oscillations.
+9702,2024,Winter,4,1,NULL,NULL,Candidates found the gravitation and thermal physics questions accessible. Some difficulty seen in the field potential gradient explanation and specific details of pair annihilation in PET.
+9702,2024,Winter,1,1,NULL,NULL,Candidates generally performed well on physics variant 1 in Winter 2024. Questions involving vector relative velocity and electric potential energy showed good discrimination.
+9702,2024,Winter,2,1,NULL,NULL,Candidates generally performed well on variant 1. Mechanics and DC circuits questions showed good understanding of principles. Some difficulty in calculating quark composition for alpha particles.
+9702,2024,Winter,1,3,NULL,NULL,Candidates generally performed well on variant 3 in Winter 2024. Questions involving hydrostatic pressure and potentiometer dynamics were discriminating. Good grasp of SI units seen.
+9702,2024,Winter,4,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Questions on Kepler's Laws and SHM were particularly successful. Some issues noted with specific details of PET pair annihilation and potential gradient terminology.
+9702,2024,Winter,2,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Good performance on stationary waves and Doppler Effect. Some confusion noted regarding upthrust and Archimedes' Principle.
+9702,2025,Winter,1,1,NULL,NULL,Strong performance overall in Variant 1 of 2025. Candidates handled SHM and Gravitational fields well. Some issues noted with upthrust definitions and star spectra interpretation.
+9702,2025,Winter,1,3,NULL,NULL,Variant 3 results mirror Variant 1 for 2025. Candidates showed good grasp of mechanics and waves. Analysis of radioactive decay chains was strong.

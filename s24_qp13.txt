@@ -1,0 +1,820 @@
+
+---PAGE 1---
+ 
+ 
+This document has 20 pages. Any blank pages are indicated. 
+IB24 06_9702_13/2RP  
+© UCLES 2024 
+ [Turn over
+ 
+*8319070239*
+Cambridge International AS & A Level 
+  
+ 
+PHYSICS 9702/13 
+ 
+Paper 1 Multiple Choice May/June 2024 
+ 
+ 1 hour 15 minutes 
+ 
+You must answer on the multiple choice answer sheet. 
+ 
+You will need: Multiple choice answer sheet 
+ Soft clean eraser 
+ Soft pencil (type B or HB is recommended) 
+  
+ 
+INSTRUCTIONS  
+ There are forty questions on this paper. Answer all questions. 
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct 
+and record your choice in soft pencil on the multiple choice answer sheet. 
+ Follow the instructions on the multiple choice answer sheet. 
+ Write in soft pencil. 
+ Write your name, centre number and candidate number on the multiple choice answer sheet in the 
+spaces provided unless this has been done for you. 
+ Do not use correction fluid. 
+ Do not write on any bar codes. 
+ You may use a calculator. 
+ 
+ 
+INFORMATION 
+ The total mark for this paper is 40. 
+ Each correct answer will score one mark. 
+ Any rough working should be done on this question paper. 
+ 
+---PAGE 2---
+2 
+© UCLES 2024 9702/13/M/J/24  
+Data 
+acceleration of free fall g = 9.81  m s–2 
+speed of light in free space c = 3.00  108
+ m s–1 
+elementary charge e = 1.60  10–19
+ C 
+unified atomic mass unit 1  u = 1.66  10–27
+ kg 
+rest mass of proton mp = 1.67  10–27
+ kg 
+rest mass of electron me = 9.11  10–31
+ kg 
+Avogadro constant NA = 6.02  1023
+ mol–1 
+molar gas constant R = 8.31  J K–1
+ mol–1 
+Boltzmann constant k = 1.38  10–23
+ J K–1 
+gravitational constant G = 6.67  10–11
+ N m2
+ kg–2 
+permittivity of free space 0  = 8.85  10–12
+ F m–1 
+ (
+04
+1
+  = 8.99  109
+ m F–1) 
+Planck constant h = 6.63  10–34
+ J s 
+Stefan–Boltzmann constant  = 5.67  10–8
+ W m–2
+ K–4 
+ 
+ 
+ 
+Formulae 
+uniformly accelerated motion s = ut + 2
+2
+1 at  
+ v 
+2 = u 
+2 + 2as 
+hydrostatic pressure p =  gh 
+upthrust F =  gV 
+Doppler effect for sound waves of  = 
+s
+s
+vv
+vf
+
+ 
+electric current I  = Anvq 
+resistors in series R = R1 + R2 + ... 
+resistors in parallel 
+R
+1  = 
+1
+1
+R
+ + 
+2
+1
+R
+ + ... 
+ 
+---PAGE 3---
+3  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+1 What is equal to 0.000005  J? 
+A 5  mJ B 5  MJ C 5  J D 5  nJ 
+ 
+ 
+2 The measurement of a physical quantity may be subject to rando m errors and to systematic 
+errors. 
+ 
+Which statement is correct? 
+A A systematic error cannot be reduced by adjusting the apparatus. 
+B A systematic error results in a different reading each time th e measurement is taken. 
+C Random errors are always caused by the person taking the measu rement. 
+D Random errors can be reduced by taking the average of several measurements. 
+ 
+ 
+3 The Young modulus of the material of a wire is to be found. Th e Young modulus E
+  is given by the 
+equation shown. 
+ 
+E = 
+xd
+LF
+2
+4
+
+ 
+ 
+The wire is extended by a known force and the following measurements are made. 
+ 
+Which measurement has the largest effect on the uncertainty in the value of the calculated Young 
+modulus? 
+ 
+ measurement symbol value 
+A length of wire before force applied L 2.043  0.002 m 
+B diameter of wire d 0.54  0.02 mm 
+C force applied F 19.62  0.01 N 
+D extension of wire with force applied x 5.2  0.2 mm 
+ 
+ 
+4 Two physical quantities combined together as a product can pro duce a scalar quantity or a vector 
+quantity. 
+ 
+Which product of two quantities produces a scalar quantity? 
+A ( f o r c e )   (displacement of an object in the direction of the force) 
+B (mass)  (acceleration of the mass) 
+C (pressure)  (area on which the pressure acts) 
+D ( v e l o c i t y )   (time for which an object has that velocity) 
+ 
+ 
+---PAGE 4---
+4 
+© UCLES 2024 9702/13/M/J/24  
+5 The diagram shows a velocity–time graph for an object moving i n a straight line. 
+ 
+12
+9
+6
+3
+0
+01234
+velocity / m s–1
+time / s  
+ 
+What is the displacement during the last 2 seconds of the motion? 
+A 6 m B 12 m C 18 m D 24 m 
+ 
+ 
+6 A block is moving along a horizontal frictionless surface. A c onstant force F and a constant 
+resistive force of 5.0
+ N act on the block as it is moving in the direction of the force F, as shown. 
+ 
+direction of
+movement
+5.0 NF
+frictionless
+surface
+ 
+ 
+The graph shows the variation with time of the momentum of the block. 
+ 
+0
+1.5
+2.7
+0.40
+time / s
+momentum
+/ kg m s–1
+ 
+ 
+What is the magnitude of force F ? 
+A 2 . 0  N B 3 . 0  N C 5 . 0  N D 8 . 0  N 
+ 
+ 
+---PAGE 5---
+5  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+7 Newton’s third law describes two forces that are equal in magn itude and form a pair. 
+ 
+Which description of the two forces in such a pair is not correct? 
+A They act in opposite directions. 
+B They act on different objects. 
+C They are the same type of force. 
+D They cause an object to be in equilibrium. 
+ 
+ 
+8 The graph shows the variation with time of the speed of a rain drop falling vertically through air. 
+ 
+speed
+time
+0
+0  
+ 
+Which statement is correct? 
+A The acceleration decreases to produce a steady speed. 
+B The acceleration increases as the speed increases. 
+C The air resistance decreases as the speed increases. 
+D The resultant force increases as the speed increases. 
+ 
+ 
+9 Which statement about a perfectly elastic collision between tw o objects is correct? 
+A Total kinetic energy is conserved and the relative speed of ap proach equals the relative 
+speed of separation. 
+B Total kinetic energy is conserved but the relative speed of ap proach does not equal the 
+relative speed of separation. 
+C Total kinetic energy is not conserved and the relative speed of approach does not equal the 
+relative speed of separation. 
+D Total kinetic energy is not conserved but the relative speed of approach does equal the 
+relative speed of separation. 
+ 
+ 
+---PAGE 6---
+6 
+© UCLES 2024 9702/13/M/J/24  
+10 The diagram shows the view from above of a sprinkler system us ed to water a garden. 
+ 
+tube
+pivot of
+sprinkler
+direction of
+water jet
+0.15 m
+ 
+ 
+The sprinkler consists of a tube of length 0.15  m. The tube is pivoted in the middle and spins in a 
+horizontal plane as it lets out jets of water from each end. Th e two water jets are in opposite 
+directions to each other. Each water jet exerts a horizontal fo rce of 3.0  N on the tube at 
+right angles to the tube. 
+ 
+What is the magnitude of the torque on the tube from the water jets? 
+A 0  N m B 0 . 2 3 N m C 0 . 4 5 N m D 0 . 9 0 N m 
+ 
+ 
+11 An object is held in equilibrium by three forces. The forces a ll act in the same plane. The diagram 
+shows two of the forces that act on the object. 
+ 
+43 N
+17 N
+125/g113
+NOT TO
+SCALE
+ 
+ 
+The third force is missing from the diagram. 
+ 
+What is the third force? 
+ 
+36 N
+157/g113
+55 N
+165/g113
+55 N
+165/g113
+36 N
+157/g113
+ABCD
+ 
+ 
+ 
+---PAGE 7---
+7  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+12 The total number of forces actin g on an object is two. The object is in equilibrium. 
+ 
+Which statements about the forces are correct? 
+ 
+1 The two forces must have equal magnitudes. 
+2 The two forces must act in the same direction. 
+3 The two forces must act through the same point. 
+ 
+A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3 
+ 
+ 
+13 The diagram shows the arrangement of atoms in a particular cry stal. 
+ 
+ 
+ 
+Each atom is at the corner of a cube. 
+ 
+The mass of each atom is 3.5  10–25
+ kg. The density of the crystal is 9.2  103
+ kg m–3. 
+ 
+What is the shortest distance between the centres of two adjacent atoms? 
+A 3.8  10–29
+ m 
+B 6.2  10–15
+ m 
+C 3.4  10–10
+ m 
+D 3.0  10–9
+ m 
+ 
+ 
+14 Four measuring cylinders are filled with the same liquid to the heights shown. 
+ 
+At which position is the pressure the greatest? 
+ 
+30 cm
+A
+30 cm
+B
+10 cm
+C
+10 cm
+D
+ 
+ 
+ 
+---PAGE 8---
+8 
+© UCLES 2024 9702/13/M/J/24  
+15 In many filament lamps, as much as 92  J of energy is emitted as thermal energy for every 8  J of 
+energy emitted as light. 
+ 
+What is the efficiency of a filament lamp, as the percentage of  electrical energy converted to light 
+energy? 
+A 8% B 9% C 91% D 92% 
+ 
+ 
+16 What is a unit of power? 
+A J C–1 B J m–1 C J N–1 D J s–1 
+ 
+ 
+17 An object is in a uniform gravitational field. The graph shows  h o w  t h e  c h a n g e  i n  g r a v i t a t i o n a l  
+potential energy ∆ E
+P of the object varies with the vertical distance x moved by the object from a 
+fixed point. 
+ 
+0
+0
+/g39EP
+x  
+ 
+Which graph shows how the gravitational force F acting on the object varies with distance x? 
+ 
+0
+A
+0
+F
+x 0
+B
+0
+F
+x 0
+C
+0
+F
+x 0
+D
+0
+F
+x  
+ 
+ 
+---PAGE 9---
+9  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+18 A block of mass 2.0  kg is released from rest on a slope. It travels 7.0  m down the slope and falls a 
+vertical distance of 3.0 m. The block experiences a frictional force parallel to the slope of 5.0 N. 
+ 
+7.0 m
+3.0 m
+2.0 kg
+ 
+ 
+What is the speed of the block after falling this distance? 
+A 4 . 9  m s–1 B 6 . 6  m s–1 C 8 . 6  m s–1 D 1 0  m s–1 
+ 
+ 
+19 Two wires, one made of brass and the other of steel, are stretc hed in an experiment. Both wires 
+obey Hooke’s law during this experiment. 
+ 
+The Young modulus for brass is less than the Young modulus for steel. 
+ 
+Which graph shows how the stress varies with strain for both wires in this experiment? 
+ 0
+0
+stress
+strain
+A
+steel
+brass
+0
+0
+stress
+strain
+B
+steel
+brass
+0
+0
+stress
+strain
+C
+brass
+steel
+0
+0
+stress
+strain
+D
+brass
+steel
+ 
+ 
+ 
+---PAGE 10---
+10 
+© UCLES 2024 9702/13/M/J/24  
+20 A sample of material is stretched by a tensile force to a poin t beyond its elastic limit. The tensile 
+force is then reduced to zero. The force–extension graph is shown. 
+ 
+force
+extension
+X
+Y
+Z
+0
+0  
+ 
+Which area represents the net work done on the sample? 
+A X  B X + Y C Y + Z D Z  
+ 
+ 
+21 A wire is fixed at one end and is extended by a force F1 acting on the other end. This causes the 
+wire to have an elastic potential energy of 0.15 J. 
+ 
+The force applied to the wire is now changed to a force F2. This causes the wire to have a new 
+elastic potential energy of 0.60 J. 
+ 
+The wire obeys Hooke’s law. 
+ 
+What is the relationship between F1 and F2? 
+A F1 = 2F2 B F1 = 4F2 C 2 F1 = F2 D 4 F1 = F2 
+ 
+ 
+22 The diagram shows a representation of a wave on the screen of an oscilloscope. 
+ 
+1 cm
+ 
+ 
+The y-gain is set to 3.5 mV cm–1. 
+ 
+What is the amplitude of the wave? 
+A 0 . 5 7 mV B 3 . 5  mV C 7 . 0  mV D 1 4  mV 
+ 
+---PAGE 11---
+11  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+23 A transverse progressive wave on a string has a wavelength of 12 cm and an amplitude of 1.5 cm. 
+The speed of the wave on the string is 48 cm s–1. 
+ 
+What is the distance travelled by a point on the string in a time of 2.0 s? 
+A 1 2  cm B 2 4  cm C 4 8  cm D 9 6  cm 
+ 
+ 
+24 An ambulance siren emits a sound with a single frequency f. 
+ 
+The ambulance travels towards, passes close to, and then travel s away from a stationary 
+observer. 
+ 
+Which statement describes the frequency of the sound detected b y the observer as the 
+ambulance passes the observer? 
+A equal to f and decreasing 
+B equal to f and increasing 
+C greater than f and constant 
+D less than f and constant 
+ 
+ 
+25 An electromagnetic wave has a wavelength of 138 pm in a vacuum. 
+ 
+To which region of the electromagnetic spectrum does this wave belong? 
+A radio wave 
+B m i c r o w a v e  
+C visible light 
+D X-ray 
+ 
+ 
+---PAGE 12---
+12 
+© UCLES 2024 9702/13/M/J/24  
+26 A student investigates the polarisation of microwaves. The mic rowaves from the transmitter are 
+vertically polarised. A metal grille acts as a polarising filte r when placed between the microwave 
+transmitter and the receiver. The reading on the voltmeter is p roportional to the intensity of 
+microwaves transmitted through the grille. 
+ 
+When the transmission axis of the grille is vertical, the voltmeter reads 3.50 V. 
+ 
+transmitter
+metal grille
+receiver
+voltmeter
+ 
+ 
+The grille is then rotated through an angle . The voltmeter now reads 2.20 V. 
+ 
+What is  ? 
+A 37.5  B 3 9 . 0  C 5 1 . 0  D 52.5  
+ 
+ 
+27 Two waves superpose. A resultant wave pattern is formed. 
+ 
+Which statement about the two waves must be correct? 
+A They have the same amplitude. 
+B They are of the same type. 
+C They are transverse waves. 
+D They travel in opposite directions. 
+ 
+ 
+28 A water wave passes through a gap in a harbour wall and diffra cts. The gap has a width of 8
+ m. 
+ 
+8 m gap
+harbour wall
+direction of
+wave travel
+ 
+ 
+The wave travels directly towards the gap. 
+ 
+For which wavelength is the diffraction of the wave greatest? 
+A 1  m B 2  m C 4  m D 8  m 
+ 
+ 
+---PAGE 13---
+13  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+29 Light of wavelength 5.50  10–7
+ m from a laser is incident normally on a diffraction grating. 
+ 
+The diffracted light is incident on a semicircular screen, as shown in the view from above. 
+ 
+diffraction grating
+screen
+light,
+wavelength 5.50 /g117 10–7 m
+view from above  
+ 
+A total of 9 bright dots are formed on the screen. 
+ 
+The grating is at the centre of the semicircle. The lines of th e grating are vertical. The separation 
+between adjacent lines in the grating is d. 
+ 
+What is a possible value of d ? 
+A 2.25  10–6
+ m B 2 . 8 0   10–6
+ m C 4 . 4 0   10–6
+ m D 4 . 9 5   10–6
+ m 
+ 
+ 
+30 Which quantity is given by the product of charge and electric potential difference? 
+A current 
+B energy transferred 
+C power dissipated 
+D resistance 
+ 
+ 
+31 The current in a filament lamp is increased. 
+ 
+Which statement about the lamp is correct? 
+A The brightness of the lamp decreases. 
+B The potential difference across the filament decreases. 
+C The resistance of the filament decreases. 
+D The temperature of the filament increases. 
+ 
+ 
+---PAGE 14---
+14 
+© UCLES 2024 9702/13/M/J/24  
+32 A student builds the circuit shown. All the lamps are identica l. 
+ 
+Which lamp dissipates the most power? 
+ 
+A
+B
+C
+D
+ 
+ 
+ 
+33 The resistance of a metal cube is measured by placing it between two parallel plates, as shown. 
+ 
+X Y
+ 
+ 
+The cube has volume V and is made of a material with resistivity . The connections to the cube 
+have negligible resistance. 
+ 
+Which expression gives the electrical resistance of the metal cube between X and Y?  
+A  3
+1
+V  B  3
+2
+V  C 
+3
+1
+V
+  D 
+3
+2
+V
+  
+ 
+ 
+---PAGE 15---
+15  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+34 A circuit needs to be completed by connecting two resistors be tween points X and Y, as shown. 
+ 
+The resistors can be connected in series or in parallel with each other. 
+ 
+X
+Y
+ 
+ 
+Which combination of resistors produces the least resistance between X and Y? 
+ 
+ resistances 
+of resistors /  
+type of 
+combination 
+A 20 and 40 parallel 
+B 40 and 100 parallel 
+C 20 and 40 series 
+D 40 and 100 series 
+ 
+ 
+35 The diagram shows a circuit that includes a cell with internal  resistance. 
+ 
+I1
+I2
+ 
+ 
+The switch is initially open. 
+ 
+Which row describes the effects on currents I1 and I2 of closing the switch? 
+ 
+ I1 I2 
+A decreases decreases 
+B decreases stays the same 
+C increases decreases 
+D increases stays the same 
+ 
+ 
+---PAGE 16---
+16 
+© UCLES 2024 9702/13/M/J/24  
+36 The diagram shows a circuit consisting of a cell and three res istors R1, R2 and R3. 
+ 
+1.60 V
+0.48 V
+0.64 A
+0.32 A
+R3
+R1 R2
+ 
+ 
+The cell has electromotive force (e.m.f.) 1.60  V and negligible internal resistance. The current in 
+the cell is 0.64 A. 
+ 
+The potential difference across R1 is 0.48 V. 
+ 
+The current in R3 is 0.32 A. 
+ 
+What is the resistance of R2? 
+A 1 . 5   B 2 . 5   C 3 . 5   D 5 . 0   
+ 
+ 
+---PAGE 17---
+17  
+ 
+© UCLES 2024 9702/13/M/J/24 [Turn over 
+37 The diagram shows a potentiometer circuit used to compare the electromotive forces (e.m.f.), E1 
+and E2, of two cells. 
+ 
+XY is a uniform resistance wire. The fixed resistor has resistance R. 
+ 
+A sliding contact is moved along the wire XY. When the sliding contact is at position P, the 
+galvanometer reads zero. 
+ 
+R
+E1
+E2
+X YP
+ 
+ 
+The circuit is changed so that the galvanometer reads zero when  the sliding contact is at a new 
+position to the left of P. 
+ 
+Which change could have been made to the circuit? 
+A The wire XY was replaced with one of lower resistance. 
+B E2 was increased. 
+C E1 was decreased. 
+D R was decreased. 
+ 
+ 
+---PAGE 18---
+18 
+© UCLES 2024 9702/13/M/J/24  
+38 Nucleus P has 144 neutrons and 93 protons. Nucleus P is unstab le and undergoes -decay to 
+form nucleus Q. Nucleus Q then undergoes – decay to form nucleus R. 
+ 
+Nucleus P is represented by point P on the graph. 
+ 
+Which point on the graph represents nucleus R? 
+ 
+146
+145
+144
+143
+142
+141
+140
+90 91 92 93 94 95 96
+proton number
+number of
+neutrons
+B
+A D
+C
+P
+ 
+ 
+ 
+39 The diagrams show the quark composition of four different hadr ons. One of the hadrons is a 
++ particle. It has a charge of +e, where e is the elementary charge. 
+ 
+Which hadron could be the + particle? 
+ 
+d
+d s
+A
+s
+d s
+B
+s
+u s
+C
+u
+u s
+D
+key
+u = up quark
+d = down quark
+s = strange quark
+ 
+ 
+ 
+40 Which type of particle is comprised of the most quarks? 
+A antiquark 
+B baryon 
+C lepton 
+D meson 
+ 
+ 
+---PAGE 19---
+19  
+ 
+© UCLES 2024 9702/13/M/J/24  
+BLANK PAGE
+---PAGE 20---
+20 
+ 
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity. 
+ 
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series. 
+ 
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. 
+ 
+© UCLES 2024 9702/13/M/J/24  
+BLANK PAGE
+ 

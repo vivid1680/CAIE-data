@@ -1,0 +1,495 @@
+
+---PAGE 1---
+This document has 20 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS  & A Level
+*7026467468*
+PHYSICS 9702/22
+Paper 2 AS Level Structured Questions May/June 2025
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+DC (DE/SG) 342400/3
+© UCLES 2025
+,	,
+* 0000800000001 *
+¬W. 4mHuOªE^|5W
+¬?rtW{w_vb¨q
+¥e5ue5ueUe5uU
+DFD
+---PAGE 2---
+2
+9702/22/M/J/25© UCLES 2025
+Data
+acceleration of free fall g	 =	 9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÕĊ®Ġ´íÈõÏĪÅĊßú·þ×
+Ĭ¿ôóÖīïđØûĄ½­ĎÁãĦĂ
+ĥÅµĕõĕĥÕÅĥÕÅąĕÅõÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 3---
+3
+9702/22/M/J/25© UCLES 2025 [Turn over
+BLANK PAGE
+* 0000800000003 *
+,	,
+Ĭ×Ċ®Ġ´íÈõÏĪÅĊßü·þ×
+Ĭ¿óôÎĝóġáýíČĩĦĕãĖĂ
+ĥÅÅÕµõąµÕĕąÅąõåµÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 4---
+4
+9702/22/M/J/25© UCLES 2025
+1 (a) Table 1.1 lists some physical quantities. Identify with ticks (✓) which quantities are vectors 
+and which are scalars.
+Table 1.1
+quantity scalar vector
+acceleration
+displacement
+gravitational potential energy
+speed
+temperature
+ [2]
+ (b) A constant resultant force F acts on a car of mass m. The car moves from rest with constant 
+acceleration a along horizontal ground. When the car has displacement s, the speed of the 
+car is v.
+  (i) Using the concept of work done on the car, show that the kinetic energy EK of the car is 
+given by the equation
+EK = 1
+2 mv2.
+ [3]
+  (ii) The mass of the car is 920 kg. At time t = 0, the car is at rest. At time t = 5.8 s, its velocity 
+is 17 m s–1.
+   Calculate the kinetic energy of the car at time t = 5.8 s.
+ kinetic energy =  .......................................................J [1]
+* 0000800000004 *
+,	,
+ĬÕĊ®Ġ´íÈõÏĪÅĊÝú·Ā×
+Ĭ¿óñÎħāĨÖăöăËÊ·³ĞĂ
+ĥõĕÕõõąĕµµõÅÅõąµÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 5---
+5
+9702/22/M/J/25© UCLES 2025 [Turn over
+  (iii) Between time t = 0 and time t = 5.8 s, the work done against resistive forces is  
+4.7 × 104 J.
+   Determine the average output power of the car during this time.
+ power =  ..................................................... W [3]
+  (iv) At time t = 5.8 s, the speed of the car becomes constant.
+   State and explain whether the output power of the car is greater than, less than or the 
+same as the output power just before t = 5.8 s.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ [Total: 10]
+* 0000800000005 *
+,	,
+Ĭ×Ċ®Ġ´íÈõÏĪÅĊÝü·Ā×
+Ĭ¿ôòÖġýĘãõċÆď²ģ³ĎĂ
+ĥõĥĕµĕĥõåÅåÅÅĕĥõÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 6---
+6
+9702/22/M/J/25© UCLES 2025
+2 (a) Define the moment of a force about a point.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A tree of mass 270 kg grows out of sloping ground and is supported by a post, as shown in 
+Fig. 2.1.
+centre of gravity
+of tree
+ground
+1.2 m
+1.6 m
+Q
+P
+F, 1800 N
+support postθ
+Fig. 2.1 (not to scale)
+  The ground applies a total force R on the tree at point Q.
+  The centre of gravity of the tree is a horizontal distance of 1.2 m from Q.
+  The post applies a force F of 1800 N perpendicular to the line PQ. The line of action of F 
+passes through point P at an angle θ to the vertical. P is a horizontal distance of 1.6 m from Q.
+  The tree is in equilibrium and all forces act on the tree in the same plane.
+  (i) By taking moments about point Q, show that θ is 25°.
+ [3]
+* 0000800000006 *
+,	,
+ĬÙĊ®Ġ´íÈõÏĪÅĊàü¶þ×
+Ĭ¿óòÙīĥĎëòú¯ïÊĂěĞĂ
+ĥåÅĕµµĥÕĥåąÅąĕÅµĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 7---
+7
+9702/22/M/J/25© UCLES 2025 [Turn over
+  (ii) On Fig. 2.2, draw a labelled scale vector triangle to represent the forces acting on the 
+tree. The weight of the tree has been drawn to scale.
+weight
+Fig. 2.2
+ [2]
+  (iii) The tree exerts a pressure of 150 kPa on the top of the post.
+   Determine the surface area of the tree in contact with the post.
+ area =  .................................................... m2 [2]
+ [Total: 8]
+* 0000800000007 *
+,	,
+ĬÛĊ®Ġ´íÈõÏĪÅĊàú¶þ×
+Ĭ¿ôñÑĝĩĞÎĈćúë²ÖěĎĂ
+ĥåµÕõÕąµõÕÕÅąõåõąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 8---
+8
+9702/22/M/J/25© UCLES 2025
+3 Two progressive water waves X and Y travel along a straight line from point A to point B. The 
+variation of displacement of the waves with distance from A at an instant in time is shown in 
+Fig. 3.1.
+–20
+–10
+0
+10
+20
+displacement / cm
+0.20 0.4 0.6 0.8 1.0
+distance from A / m
+wave X
+wave Y
+Fig. 3.1
+ (a) State the amplitude of wave X.
+ amplitude =  ................................................... cm [1]
+ (b) Both waves have frequency 16 Hz.
+  (i) Determine the speed of wave X.
+ speed =  ................................................ m s–1 [2]
+  (ii) State and explain whether X and Y are coherent.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+* 0000800000008 *
+,		,
+ĬÙĊ®Ġ´íÈõÏĪÅĊÞü¶Ā×
+Ĭ¿ôôÑħěīéĊĀñĉĎøċĦĂ
+ĥĕĥÕµÕąĕĕõåÅÅõąõĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 9---
+9
+9702/22/M/J/25© UCLES 2025 [Turn over
+ (c) Wave X and wave Y superpose to form a resultant wave. 
+  On Fig. 3.2, sketch the variation of displacement of the resultant wave with distance from  A at 
+the instant of time shown in Fig. 3.1.
+–20
+–10
+0
+10
+20
+displacement / cm
+distance from A / m
+0.20 0.4 0.6 0.8 1.0
+Fig. 3.2
+ [2]
+ (d) The intensity of wave X is I X. The intensity of wave Y is I Y.
+  Use Fig. 3.1 to determine the ratio 
+I X
+I Y
+.
+ ratio =  ......................................................... [2]
+ [Total: 8]
+* 0000800000009 *
+,	
+,
+ĬÛĊ®Ġ´íÈõÏĪÅĊÞú¶Ā×
+Ĭ¿óóÙġėěÐðñ¸ÍĦäċĖĂ
+ĥĕĕĕõµĥõąąõÅÅĕĥµąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 10---
+10
+9702/22/M/J/25© UCLES 2025
+4 A small ball is dropped from rest from height h1 above the ground and falls vertically downwards. 
+The ball collides with the ground and bounces back vertically upwards, reaching a max imum 
+height h2. Fig. 4.1 shows the ball just before and just after hitting the ground.
+ball, mass 0.25 kg
+speed 5.2 m s–1
+speed 3.6 m s–1
+before hitting ground after hitting ground
+ground
+Fig. 4.1
+ The ball has mass 0.25 kg and is in contact with the ground for a time of 0.18 s.
+ Just before the ball hits the ground, it has speed 5.2 m s–1. Just after it leaves the ground, it has 
+speed 3.6 m s–1.
+ Air resistance acting on the ball is negligible.
+ (a) State and explain whether the collision is elastic or inelastic.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) (i) Calculate the change in momentum of the ball during the collision with the ground.
+ change in momentum =  ............................................ kg m s–1 [2]
+  (ii) Determine the average force on the ball during the collision with the ground.
+ force =  ......................................................N [2]
+* 0000800000010 *
+,	,
+ĬÙĊ®Ġ´íÈõÏĪÅĊßü¸þ×
+Ĭ¿ñôÜĥēíçāćÛĥĐĔ³ĎĂ
+ĥÅąĕµÕåĕµÅåąÅÕąõåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 11---
+11
+9702/22/M/J/25© UCLES 2025 [Turn over
+ (c) Calculate the ratio 
+h2
+h1
+ .
+ ratio =  ......................................................... [3]
+ [Total: 8]
+* 0000800000011 *
+,	,
+ĬÛĊ®Ġ´íÈõÏĪÅĊßú¸þ×
+Ĭ¿òóÔģďýÒ÷úĎ±ĨÈ³ĞĂ
+ĥÅõÕõµÅõåµõąÅµĥµµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 12---
+12
+9702/22/M/J/25© UCLES 2025
+5 (a) Define the Young modulus.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A wire of unstretched length 0.81 m is made of a metal with Young modulus 95 GPa. The 
+wire obeys Hooke’ s law and has a constant cross-sectional area. Fig. 5.1 shows the 
+force–extension graph for the wire.
+0
+100
+200
+300
+400
+500
+extension / 10–3 m
+force / N
+10 2 3 4 5
+Fig. 5.1
+  (i) Determine the cross-sectional area of the wire.
+ area =  .................................................... m2 [3]
+* 0000800000012 *
+,	,
+ĬÙĊ®Ġ´íÈõÏĪÅĊÝü¸Ā×
+Ĭ¿òòÔĩĝČåùñĕēÌĦãĖĂ
+ĥõåÕµµÅÕÅĕąąąµÅµåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 13---
+13
+9702/22/M/J/25© UCLES 2025 [Turn over
+  (ii) The extension of the wire is initially 2.0 × 10–3 m.
+   Determine the work done to increase the extension of the wire to 3.0 × 10–3 m.
+ work done =  .......................................................J [3]
+ [Total: 7]
+* 0000800000013 *
+,	,
+ĬÛĊ®Ġ´íÈõÏĪÅĊÝú¸Ā×
+Ĭ¿ññÜğġüÔÿĀÔÇ´²ãĦĂ
+ĥõÕĕõÕåµÕĥÕąąÕåõµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 14---
+14
+9702/22/M/J/25© UCLES 2025
+6 (a) Define electric potential difference across a component.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A circuit contains four resistors and a battery of electromotive force (e.m.f.) 8.0 V with 
+negligible internal resistance. When the variable resistor has resistance R, the currents in the 
+circuit are 0.030 A, I 1 and I 2, as shown in Fig. 6.1.
+I 2
+I 1
+8.0 V
+0.030 A
+210 Ω
+430 Ω 240 Ω
+R
+Fig. 6.1
+  (i) Determine the charge passing through the battery in a time of 4.0 minutes.
+ charge =  ......................................................C [2]
+  (ii) Calculate I1.
+ I 1 =  ...................................................... A [2]
+* 0000800000014 *
+,	,
+ĬÕĊ®Ġ´íÈõÏĪÅĊÞùµĂ×
+Ĭ¿òóÙġĎĄâĉċïīĩ¶ēĞĂ
+ĥÕÕÕµµĥĕµõÕÅÅĕąµĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 15---
+15
+9702/22/M/J/25© UCLES 2025 [Turn over
+  (iii) Calculate I2.
+ I 2 =  ...................................................... A [1]
+  (iv) Determine R.
+ R =  ......................................................Ω [2]
+* 0000800000015 *
+,	,
+Ĭ×Ċ®Ġ´íÈõÏĪÅĊÞûµĂ×
+Ĭ¿ñôÑħĒô×ïöº¯đĢēĎĂ
+ĥÕåĕõÕąõåąąÅÅõĥõõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 16---
+16
+9702/22/M/J/25© UCLES 2025
+ (c) The variable resistor in (b) is fitted with a scale so that its resistance can be accurately 
+determined.
+  The resistor of resistance 240 Ω is now replaced by a new resistor X of unknown resistance. 
+A galvanometer is connected as shown in Fig. 6.2.
+8.0 V
+210 Ω
+430 Ω X
+Fig. 6.2
+  With reference to ratios of resistances, explain how this circuit can be used to determine the 
+resistance of X.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ [Total: 10]
+* 0000800000016 *
+,	,
+ĬÕĊ®Ġ´íÈõÏĪÅĊàùµĄ×
+Ĭ¿ññÑĝĤõäñí±č­ÄăĦĂ
+ĥĥõĕµÕąÕÅåõÅąõÅõĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 17---
+17
+9702/22/M/J/25© UCLES 2025
+7 (a) State what is meant by a fundamental particle.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A nucleus X has 14 nucleons and p protons. The ratio of charge to mass for nucleus X is 
+4.1 × 107 C kg–1.
+  (i) Determine p.
+ p =  ......................................................... [3]
+  (ii) Nucleus X undergoes β– decay to form nucleus Z.
+   Complete the equation representing this decay.
+14
+......X  
+......
+......  Z + 
+......
+...... ..... + 
+......
+...... .....
+ [3]
+ (c) A sample of a radioactive substance emits particles that are positively charged and have a 
+continuous range of kinetic energies.
+  State and explain whether the nuclei in the sample are undergoing α-decay , β+ decay or 
+β– decay.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ [Total: 9]
+* 0000800000017 *
+,	,
+Ĭ×Ċ®Ġ´íÈõÏĪÅĊàûµĄ×
+Ĭ¿òòÙīĠąÕćĄøÉÅĘăĖĂ
+ĥĥąÕõµĥµÕÕåÅąĕåµõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 18---
+18
+9702/22/M/J/25© UCLES 2025
+BLANK PAGE
+* 0000800000018 *
+,		,
+ĬÕĊ®Ġ´íÈõÏĪÅĊÝù·Ă×
+Ĭ¿ôñÜğĬģÞúöěñ¯è»ĎĂ
+ĥµĕÕµÕåÕĥĕõąąÕÅõÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 19---
+19
+9702/22/M/J/25© UCLES 2025
+BLANK PAGE
+* 0000800000019 *
+,	
+,
+Ĭ×Ċ®Ġ´íÈõÏĪÅĊÝû·Ă×
+Ĭ¿óòÔĩĨēÛĀċÎåÇô»ĞĂ
+ĥµĥĕõµÅµõĥåąąµåµÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 20---
+20
+9702/22/M/J/25© UCLES 2025
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE
+* 0000800000020 *
+,	,
+ĬÕĊ®Ġ´íÈõÏĪÅĊßù·Ą×
+Ĭ¿óóÔģĖĖàĂĄÕćīÒëĖĂ
+ĥąµĕµµÅĕĕÅÕąÅµąµÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD

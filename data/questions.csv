@@ -433,3 +433,2437 @@ Show that the radius of the Sun is 6.93 × 10^8 m.",images/9702_m25_qp_42_fig10_
 9702,2025,March,4,2,10,b(ii),2,State and explain how the expected wavelength of the light observed from Z compares with the emitted wavelength.,NULL
 9702,2025,March,4,2,10,b(iii),2,"The luminosity of the Sun is 3.8 × 10^26 W.
 Use the information in (b)(i) to calculate the surface temperature of the Sun.",NULL
+9702,2025,June,1,2,1,NULL,1,"hour 15 minutes
+You must answer on the multiple choice answer sheet.
+You will need: Multiple choice answer sheet
+Soft clean eraser
+Soft pencil (type B or HB is recommended)
+INSTRUCTIONS
+ There are forty questions on this paper. Answer all questions.
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct
+and record your choice in soft pencil on the multiple choice an swer sheet.
+ Follow the instructions on the multiple choice answer sheet.
+ Write in soft pencil.
+ Write your name, centre number and candidate number on the mult iple choice answer sheet in the
+spaces provided unless this has been done for you.
+ Do not use correction fluid.
+ Do not write on any bar codes.
+ You may use a calculator.
+INFORMATION
+ The total mark for this paper is 40.
+ Each correct answer will score one mark.
+ Any rough working should be done on this question paper.
+2
+Data
+acceleration of free fall g = 9.81  m s–2
+speed of light in free space c = 3.00  108
+m s–1
+elementary charge e = 1.60  10–19
+C
+unified atomic mass unit 1  u = 1.66  10–27
+kg
+rest mass of proton mp = 1.67  10–27
+kg
+rest mass of electron me = 9.11  10–31
+kg
+Avogadro constant NA = 6.02  1023
+mol–1
+molar gas constant R = 8.31  J K–1
+mol–1
+Boltzmann constant k = 1.38  10–23
+J K–1
+gravitational constant G = 6.67  10–11
+N m2
+kg–2
+permittivity of free space 0  = 8.85  10–12
+F m–1
+(
+04
+1
+  = 8.99  109
+m F–1)
+Planck constant h = 6.63  10–34
+J s
+Stefan–Boltzmann constant  = 5.67  10–8
+W m–2
+K–4
+Formulae
+uniformly accelerated motion s = ut + 2
+2
+1 at
+v",NULL
+9702,2025,June,1,2,2,NULL,1,"= u
+2 + 2as
+hydrostatic pressure p =  gh
+upthrust F =  gV
+Doppler effect for sound waves of  =
+s
+s
+vv
+vf
+
+electric current I  = Anvq
+resistors in series R = R1 + R2 + ...
+resistors in parallel
+R
+1  =
+1
+1
+R
++
+2
+1
+R
++ ...
+3
+1 What must all physical quantities have?
+A a direction and a magnitude
+B a direction and a unit
+C a magnitude and a prefix
+D a magnitude and a unit
+2 What is 0.25
+kN mm–2 expressed in N m–2?
+A 0.00025  N m–2
+B 0 . 2 5 N m–2
+C 250  000 N m–2
+D 250  000 000 N m–2",NULL
+9702,2025,June,1,2,3,NULL,1,"A student calculates the density of a solid steel cube in an e xperiment.
+The measured mass is 975
+g  10 g and the measured length of side is 50 mm  1 mm.
+What is the density of the steel?
+A 7 . 8  g cm–3
+ 3.0%
+B 7 . 8  g cm–3
+ 7.0%
+C 7 . 8  g cm–3
+ 11%
+D 7 . 8  g cm–3
+ 13%",NULL
+9702,2025,June,1,2,4,NULL,1,"The time period T of a pendulum is given by
+T = 2
+n
+g
+L 
+
+
+
+
+where L is the length of the pendulum and g is the acceleration of free fall.
+The equation is homogeneous.
+What is the value of n?
+A –2 B –
+2
+1  C
+2
+1  D 2
+4",NULL
+9702,2025,June,1,2,5,NULL,1,"Radio waves can be used to measure the distance between Earth and the planet Jupiter.
+A pulse of radio waves is emitted from the surface of Earth. The pulse reflects from the surface of
+Jupiter and is detected again on Earth.
+The time between emitting and receiving the pulse is 3960 s.
+What is the distance between Earth and Jupiter?
+A 5.94  108
+km
+B 1.19  109
+km
+C 5.94  1011
+km
+D 1.19  1012
+km",NULL
+9702,2025,June,1,2,6,NULL,1,"The graph shows the variation with time of the velocity of a c ar.
+12
+6
+0
+0123456789
+time
+/ s
+velocity
+/ m s–1
+10
+Which statement is correct?
+A The car accelerates for 2  s, then stops for 4 s and then reverses.
+B The car accelerates at 12  m s–2 for 2 s.
+C The car travels a distance of 36  m in the first 4 s.
+D The car travels a distance of 48  m in the last 4 s.
+[diagram]",images/9702_s25_qp_12_q6.png
+9702,2025,June,1,2,7,NULL,1,"A solid object of mass 1.0
+kg falls vertically downwards in a vacuum.
+When the speed of the object is 60  m s–1, an additional constant force of 50  N suddenly starts to
+act vertically upwards on the object.
+What is the speed of the object 2.0 s after the additional force starts to act?
+A 2 0  m s–1 B 4 0  m s–1 C 8 0  m s–1 D 100  m s–1
+5",NULL
+9702,2025,June,1,2,8,NULL,1,"A stone is thrown upwards and follows a curved path.
+Air resistance is negligible.
+Why does the path have this shape?
+A The stone has a constant horizontal acceleration and constant vertical velocity.
+B The stone has a constant horizontal velocity and constant vertical acceleration.
+C The stone has a constant upward acceleration followed by a constant downward acceleration.
+D The stone has a constant upward velocity followed by a constant downward velocity.
+[diagram]",images/9702_s25_qp_12_q8.png
+9702,2025,June,1,2,9,NULL,1,"A rocket engine ejects 90
+kg of exhaust gas per second at a velocity of 190  m s–1 relative to the
+rocket.
+What is the force acting on the rocket due to the ejected gas?
+A 2 . 1  kN B 1 7  kN C 1 8  kN D 162  kN",NULL
+9702,2025,June,1,2,10,NULL,1,"Which statement does not describe an elastic collision between two objects?
+A The relative speed of approach of the two objects equals the r elative speed of separation.
+B The total kinetic energy of the objects is conserved.
+C The total kinetic energy of the objects is reduced.
+D The total linear momentum of the objects is conserved.",NULL
+9702,2025,June,1,2,11,NULL,1,"A cyclist is riding at a constant speed on a level road.
+According to Newton’s third law of motion, what is equal and op posite to the backward push of
+the back wheel on the road?
+A the force exerted by the cyclist on the pedals
+B the forward push of the road on the back wheel
+C the tension in the cycle chain
+D the total air resistance and friction force
+6",NULL
+9702,2025,June,1,2,12,NULL,1,"A stone is released from rest and falls a long distance in air .
+Which graph could show the variation with time t of the acceleration a of the stone?
+0
+0
+a
+A B
+t
+C D
+0
+0
+a
+t
+0
+0
+a
+t
+0
+0
+a
+t
+[diagram]",images/9702_s25_qp_12_q12.png
+9702,2025,June,1,2,13,NULL,1,"An empty cart is moving along a horizontal track at a constant  velocity.
+Resistive forces acting on the cart are negligible.
+A heavy rock is dropped vertically into the cart.
+velocity of rock
+velocity
+of cart
+The cart continues to move horizontally with the rock inside.
+How does the momentum and kinetic energy of the cart with the r ock inside compare with the
+momentum and kinetic energy of the empty cart?
+A The cart with the rock inside has a smaller momentum and a sma ller kinetic energy.
+B The cart with the rock inside has a smaller momentum and the s ame kinetic energy.
+C The cart with the rock inside has the same momentum and a smal ler kinetic energy.
+D The cart with the rock inside has the same momentum and the sa me kinetic energy.
+7
+[diagram]",images/9702_s25_qp_12_q13.png
+9702,2025,June,1,2,14,NULL,1,"A wooden block is held stationary in a container of water usin g a string that is attached to both
+the wooden block and the bottom of the container.
+wooden block
+string
+container
+water
+The wooden block has mass m and volume V. The water has density . The acceleration of
+free fall is g.
+What is the magnitude of the force acting on the block due to the tension in the string?
+A  gV B mg +  gV C mg D  gV – mg
+[diagram]",images/9702_s25_qp_12_q14.png
+9702,2025,June,1,2,15,NULL,1,"A square shop sign of uniform density has mass 2.4
+kg and sides of length 0.86 m.
+The sign is supported by a hinge along its top edge.
+There is friction in the hinge so that the sign hangs from it i n equilibrium at an angle of 15° to the
+vertical, as shown.
+15°
+0.86 msign
+hinge
+What is the moment about the hinge of the weight of the sign?
+A 2 . 6  N m B 4 . 0  N m C 5 . 2  N m D 9 . 8  N m
+8
+[diagram]",images/9702_s25_qp_12_q15.png
+9702,2025,June,1,2,16,NULL,1,"A block is submerged vertically in a liquid. The four diagrams  show the block viewed from the
+side.
+Which diagram shows, to scale, the forces exerted on equal areas of the block by the liquid?
+A C DB
+[diagram]",images/9702_s25_qp_12_q16.png
+9702,2025,June,1,2,17,NULL,1,"The diagram shows a couple.
+force
+force
+perpendicular
+distance between
+the forces
+How is the torque of the couple calculated?
+A
+2
+1   perpendicular distance between the forces  magnitude of one of the forces
+B perpendicular distance between the forces  magnitude of one of the forces
+C perpendicular distance between the forces  magnitude of the sum of the forces
+D 2   perpendicular distance between the forces  magnitude of one of the forces
+[diagram]",images/9702_s25_qp_12_q17.png
+9702,2025,June,1,2,18,NULL,1,"A ball of mass 1.2  kg travels horizontally at a speed of 3.0 m s–1.
+The ball hits a cushion and comes to rest over a horizontal distance of 0.020 m.
+What is the work done by the cushion on the ball to bring the ball to rest?
+A 0 . 2 4 J B 1 . 8  J C 5 . 4  J D 1 1  J
+9",NULL
+9702,2025,June,1,2,19,NULL,1,"A box of mass 4.9  kg is pushed at a constant velocity from point P at the bottom of an inclined
+plane to point Q at the top.
+The box is pushed by a force of 64 N acting parallel to the slope.
+The slope is inclined at an angle of 20° to the horizontal and the box moves through a vertical
+height of 5.8 m.
+Q
+P20°
+5.8 m
+64 N
+What is the work done against the frictional force acting on the block between P and Q?
+A 280  J B 810  J C 960  J D 1100  J
+[diagram]",images/9702_s25_qp_12_q19.png
+9702,2025,June,1,2,20,NULL,1,"Which expression gives the efficiency of a system?
+A
+outputenergy  useful
+inputenergy  total
+B inputenergy  total
+outputenergy  wasted+outputenergy  useful
+C inputenergy  total
+outputenergy  useful
+D inputenergy  total
+outputenergy  wasted",NULL
+9702,2025,June,1,2,21,NULL,1,"A student has a copper wire and a steel wire with equal length s and cross-sectional areas.
+The student hangs identical loads on the two wires.
+The extensions of the two wires are different.
+The student calculates the stress, strain and Young modulus of each wire.
+Which row identifies with a tick () the calculated values that are equal for both wires?
+stress strain Young modulus
+A 
+B  
+C   
+D   
+10",NULL
+9702,2025,June,1,2,22,NULL,1,"Two springs X and Y stretch elastically. The graphs show the v ariation with extension x of the
+force F applied to each spring.
+20
+0
+01 0
+F / N
+spring X
+80
+0
+05
+F / N
+x / cm x / cm
+spring Y
+Which statement is correct?
+A When each spring is given the same extension, the energy store d in Y is 4 times the energy
+stored in X.
+B When each spring is given the same extension, the energy store d in Y is 8 times the energy
+stored in X.
+C When the same force is applied to each spring, the energy stor ed in Y is 4 times the energy
+stored in X.
+D When the same force is applied to each spring, the energy stor ed in Y is 8 times the energy
+stored in X.
+[diagram]",images/9702_s25_qp_12_q22.png
+9702,2025,June,1,2,23,NULL,1,"Which phrase describes the strain at the elastic limit on a st ress–strain graph?
+A the maximum strain below which Hooke’s law is obeyed
+B the maximum strain below which the deformation is plastic
+C the minimum strain above which Hooke’s law is obeyed
+D the minimum strain above which the deformation is plastic
+11",NULL
+9702,2025,June,1,2,24,NULL,1,"A teacher removes the turntable from a microwave oven and plac es a bar of chocolate in the
+oven. She then switches the oven on for a short time.
+A stationary wave is formed in the oven.
+When the chocolate is removed, the teacher observes that there are two small sections of melted
+chocolate 6.0 cm apart with unmelted chocolate in between.
+Each section of melted chocolate is located at an antinode.
+6.0 cm
+melted
+chocolate
+Assume that the speed of the microwaves is 3.0  108
+m s–1.
+What is the frequency of the microwaves emitted by the oven?
+A 2 5  MHz B 5 0  MHz C 2 . 5  GHz D 5 . 0  GHz
+[diagram]",images/9702_s25_qp_12_q24.png
+9702,2025,June,1,2,25,NULL,1,"A sound wave travels from the left to the right.
+The graph shows the variation of the displacement to the right of particles in the sound wave with
+distance, at one instant.
+Which letter represents the centre of a compression?
+0
+0
+displacement
+to right
+distance
+A
+C
+BD
+12
+[diagram]",images/9702_s25_qp_12_q25.png
+9702,2025,June,1,2,26,NULL,1,"A buzzer emitting sound of frequency 846  Hz is attached to a string and rotated in a horizontal
+circle. The linear speed of the buzzer is 25.0 m s–1.
+observer
+buzzer
+The speed of sound is 340 m s–1.
+What is the maximum frequency heard by the observer?
+A 783  Hz B 788  Hz C 908  Hz D 913  Hz
+[diagram]",images/9702_s25_qp_12_q26.png
+9702,2025,June,1,2,27,NULL,1,"Vertically polarised light of intensity I0 is incident normally on a polarising filter.
+The transmission axis of the filter is at an angle   to the plane of polarisation of the light.
+The intensity of the light after passing through the filter is 3
+0I .
+/g84light
+intensity I0
+direction of
+transmission axis
+light
+intensity
+I0
+3
+What is  ?
+A 8 . 4 °  B 55° C 71° D 84°
+[diagram]",images/9702_s25_qp_12_q27.png
+9702,2025,June,1,2,28,NULL,1,"Which statement compares the behaviour of transverse and longi tudinal waves?
+A Only longitudinal waves can be diffracted.
+B Only longitudinal waves can travel in free space.
+C Only transverse waves can be coherent.
+D Only transverse waves can be polarised.
+13",NULL
+9702,2025,June,1,2,29,NULL,1,"A student uses a diffraction grating to determine the waveleng th of visible light from a source.
+The diffraction grating has 300 lines per mm. The student measu res the angle   of each order n
+of the intensity maxima. A graph of n against sin    is plotted. The line of best fit for the plotted
+points is shown and has gradient G.
+0
+0
+n
+sin /g84
+Which expression represents the wavelength, in m, of the visible light in terms of G?
+A 3   105
+G B 3 . 3   10–6
+G C
+G
+6–10  3.3   D
+G
+300
+[diagram]",images/9702_s25_qp_12_q29.png
+9702,2025,June,1,2,30,NULL,1,"Two waves meet.
+What is not a necessary condition for the waves to produce a stationary wave?
+A They must be of the same type.
+B They must have the same period.
+C They must have the same wavelength.
+D They must travel in the same direction.",NULL
+9702,2025,June,1,2,31,NULL,1,"Light of a single wavelength is incident normally on a double slit. Interference fringes are
+observed on a screen.
+The distance from the double slit to the screen is 0.60 m and the fringe separation is 1.8 mm.
+The distance from the double slit to the screen increases by 0.90 m.
+What is the new fringe separation?
+A 1 . 2  mm B 2 . 7  mm C 4 . 5  mm D 5 . 4  mm",NULL
+9702,2025,June,1,2,32,NULL,1,"A wire is made from a metal of constant resistivity. There is a constant current in the wire.
+Which statement about the potential difference across the wire is correct?
+A It is directly proportional to the length of the wire.
+B It is inversely proportional to the length of the wire.
+C It is directly proportional to the diameter of the wire.
+D It is inversely proportional to the diameter of the wire.
+14",NULL
+9702,2025,June,1,2,33,NULL,1,"T h e  I–V characteristics for three electrical components are shown.
+I
+V0
+0
+1
+I
+V0
+0
+2
+I
+V0
+0
+3
+Which components obey Ohm’s law?
+A 1, 2 and 3 B 1 and 2 only C 1 and 3 only D 1 only
+[diagram]",images/9702_s25_qp_12_q33.png
+9702,2025,June,1,2,34,NULL,1,"A resistor of resistance 200
+ is connected to a supply that has a p.d. of 4.00 V.
+How many electrons enter the resistor in 4.00 s?
+A 3.13  1016 B 1.25  1017 C 5.00  1017 D 1.25  1021",NULL
+9702,2025,June,1,2,35,NULL,1,"The diagram shows a cell of internal resistance 1.0 R connected to a variable resistor.
+1.0R
+When the variable resistor has an initial resistance of 2.0 R, the current in the cell is I1 and the
+terminal potential difference (p.d.) across the cell is V1.
+The variable resistor is now adjusted to a new resistance of 4.0R.
+What is the new current in the cell and the new terminal p.d. across the cell?
+current terminal p.d.
+A 0.50I1 1 . 0 V1
+B 0.50I1 1 . 2 V1
+C 0.60I1 1 . 0 V1
+D 0.60I1 1 . 2 V1
+15
+[diagram]",images/9702_s25_qp_12_q35.png
+9702,2025,June,1,2,36,NULL,1,"The diagram shows a four-terminal box connected to a battery a nd two ammeters.
+13
+24
+A
+A
+The currents in the two ammeters are identical.
+Which circuit, within the box, gives this result?
+13
+24
+A
+13
+24
+B
+13
+24
+C
+13
+24
+D
+[diagram]",images/9702_s25_qp_12_q36.png
+9702,2025,June,1,2,37,NULL,1,"Each of Kirchhoff’s two laws presumes that some quantity is co nserved.
+Which row states Kirchhoff’s first law and names the quantity that is conserved?
+statement quantity
+A
+The algebraic sum of currents
+at a junction is zero.
+charge
+B
+The algebraic sum of currents
+at a junction is zero.
+energy
+C
+The e.m.f. in a loop is equal to
+the algebraic sum of the product of
+current and resistance round the loop.
+charge
+D
+The e.m.f. in a loop is equal to
+the algebraic sum of the product of
+current and resistance round the loop.
+energy
+16
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the
+publisher will be pleased to make amends at the earliest possib le opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge
+Assessment International Education Copyright Acknowledgements B ooklet. This is produced for each series of examinations and is  freely available to download
+at www.cambridgeinternational.org after the live examination se ries.
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.",NULL
+9702,2025,June,1,2,38,NULL,1,"Two neutral atoms are isotopes of the same element.
+Which statement about the atoms is correct?
+A They have a different number of neutrons and a different numbe r of electrons.
+B They have a different number of neutrons and the same number o f protons.
+C They have the same number of neutrons and a different number o f electrons.
+D They have the same number of neutrons and the same number of p rotons.",NULL
+9702,2025,June,1,2,39,NULL,1,"What is the composition of a meson?
+A 1 quark and 1 antiquark
+B 1 quark and 2 antiquarks
+C 2 quarks and 1 antiquark
+D 3 quarks",NULL
+9702,2025,June,1,2,40,NULL,1,"A nucleus of carbon-11 contains 6 protons and 5 neutrons.
+The nucleus of carbon-11 decays by 
++ emission.
+What is the total number of up and down quarks in the product of the decay of this nucleus?
+up quarks down quarks
+A 15 18
+B 16 17
+C 17 16
+D 18 15",NULL
+9702,2025,June,2,2,1,a,2,Table 1.1 lists some physical quantities. Identify with ticks (✓) which quantities are vectors and which are scalars.,NULL
+9702,2025,June,2,2,1,b(i),3,"A constant resultant force F acts on a car of mass m. The car moves from rest with constant acceleration a along horizontal ground. When the car has displacement s, the speed of the car is v.
+Using the concept of work done on the car, show that the kinetic energy EK of the car is given by the equation EK = 1/2 mv2.",NULL
+9702,2025,June,2,2,1,b(ii),1,"The mass of the car is 920 kg. At time t = 0, the car is at rest. At time t = 5.8 s, its velocity is 17 m s–1.
+Calculate the kinetic energy of the car at time t = 5.8 s.",NULL
+9702,2025,June,2,2,1,b(iii),3,"Between time t = 0 and time t = 5.8 s, the work done against resistive forces is 4.7 × 104 J.
+Determine the average output power of the car during this time.",NULL
+9702,2025,June,2,2,1,b(iv),1,"At time t = 5.8 s, the speed of the car becomes constant.
+State and explain whether the output power of the car is greater than, less than or the same as the output power just before t = 5.8 s.",NULL
+9702,2025,June,2,2,2,a,1,Define the moment of a force about a point.,NULL
+9702,2025,June,2,2,2,b(i),3,"A tree of mass 270 kg grows out of sloping ground and is supported by a post, as shown in Fig. 2.1.
+[diagram]
+The ground applies a total force R on the tree at point Q.
+The centre of gravity of the tree is a horizontal distance of 1.2 m from Q.
+The post applies a force F of 1800 N perpendicular to the line PQ. The line of action of F passes through point P at an angle θ to the vertical. P is a horizontal distance of 1.6 m from Q.
+The tree is in equilibrium and all forces act on the tree in the same plane.
+By taking moments about point Q, show that θ is 25°.",images/9702_s25_qp_22_fig2_1.png
+9702,2025,June,2,2,2,b(ii),2,"On Fig. 2.2, draw a labelled scale vector triangle to represent the forces acting on the tree. The weight of the tree has been drawn to scale.
+[diagram]",images/9702_s25_qp_22_fig2_2.png
+9702,2025,June,2,2,2,b(iii),2,"The tree exerts a pressure of 150 kPa on the top of the post.
+Determine the surface area of the tree in contact with the post.",NULL
+9702,2025,June,2,2,3,a,1,"Two progressive water waves X and Y travel along a straight line from point A to point B. The variation of displacement of the waves with distance from A at an instant in time is shown in Fig. 3.1.
+[diagram]
+State the amplitude of wave X.",images/9702_s25_qp_22_fig3_1.png
+9702,2025,June,2,2,3,b(i),2,"Both waves have frequency 16 Hz.
+Determine the speed of wave X.",NULL
+9702,2025,June,2,2,3,b(ii),1,State and explain whether X and Y are coherent.,NULL
+9702,2025,June,2,2,3,c,2,"Wave X and wave Y superpose to form a resultant wave.
+On Fig. 3.2, sketch the variation of displacement of the resultant wave with distance from A at the instant of time shown in Fig. 3.1.
+[diagram]",images/9702_s25_qp_22_fig3_2.png
+9702,2025,June,2,2,3,d,2,"The intensity of wave X is IX. The intensity of wave Y is IY.
+Use Fig. 3.1 to determine the ratio IX/IY.",NULL
+9702,2025,June,2,2,4,a,1,"A small ball is dropped from rest from height h1 above the ground and falls vertically downwards. The ball collides with the ground and bounces back vertically upwards, reaching a maximum height h2. Fig. 4.1 shows the ball just before and just after hitting the ground.
+[diagram]
+The ball has mass 0.25 kg and is in contact with the ground for a time of 0.18 s.
+Just before the ball hits the ground, it has speed 5.2 m s–1. Just after it leaves the ground, it has speed 3.6 m s–1.
+Air resistance acting on the ball is negligible.
+State and explain whether the collision is elastic or inelastic.",images/9702_s25_qp_22_fig4_1.png
+9702,2025,June,2,2,4,b(i),2,Calculate the change in momentum of the ball during the collision with the ground.,NULL
+9702,2025,June,2,2,4,b(ii),2,Determine the average force on the ball during the collision with the ground.,NULL
+9702,2025,June,2,2,4,c,3,Calculate the ratio h2/h1.,NULL
+9702,2025,June,2,2,5,a,1,Define the Young modulus.,NULL
+9702,2025,June,2,2,5,b(i),3,"A wire of unstretched length 0.81 m is made of a metal with Young modulus 95 GPa. The wire obeys Hooke’s law and has a constant cross-sectional area. Fig. 5.1 shows the force–extension graph for the wire.
+[diagram]
+Determine the cross-sectional area of the wire.",images/9702_s25_qp_22_fig5_1.png
+9702,2025,June,2,2,5,b(ii),3,"The extension of the wire is initially 2.0 × 10–3 m.
+Determine the work done to increase the extension of the wire to 3.0 × 10–3 m.",NULL
+9702,2025,June,2,2,6,a,1,Define electric potential difference across a component.,NULL
+9702,2025,June,2,2,6,b(i),2,"A circuit contains four resistors and a battery of electromotive force (e.m.f.) 8.0 V with negligible internal resistance. When the variable resistor has resistance R, the currents in the circuit are 0.030 A, I1 and I2, as shown in Fig. 6.1.
+[diagram]
+Determine the charge passing through the battery in a time of 4.0 minutes.",images/9702_s25_qp_22_fig6_1.png
+9702,2025,June,2,2,6,b(ii),2,Calculate I1.,NULL
+9702,2025,June,2,2,6,b(iii),1,Calculate I2.,NULL
+9702,2025,June,2,2,6,b(iv),2,Determine R.,NULL
+9702,2025,June,2,2,6,c,2,"The variable resistor in (b) is fitted with a scale so that its resistance can be accurately determined. The resistor of resistance 240 Ω is now replaced by a new resistor X of unknown resistance. A galvanometer is connected as shown in Fig. 6.2.
+[diagram]
+With reference to ratios of resistances, explain how this circuit can be used to determine the resistance of X.",images/9702_s25_qp_22_fig6_2.png
+9702,2025,June,2,2,7,a,1,State what is meant by a fundamental particle.,NULL
+9702,2025,June,2,2,7,b(i),3,"A nucleus X has 14 nucleons and p protons. The ratio of charge to mass for nucleus X is 4.1 × 107 C kg–1.
+Determine p.",NULL
+9702,2025,June,2,2,7,b(ii),3,"Nucleus X undergoes β– decay to form nucleus Z.
+Complete the equation representing this decay.",NULL
+9702,2025,June,2,2,7,c,2,"A sample of a radioactive substance emits particles that are positively charged and have a continuous range of kinetic energies.
+State and explain whether the nuclei in the sample are undergoing α-decay, β+ decay or β– decay.",NULL
+9702,2025,June,4,2,1,a,1,Define the radian.,NULL
+9702,2025,June,4,2,1,b(i),2,"The rear wheel and the pedals of a bicycle are connected by a chain that passes around two cogs (toothed wheels), as shown in Fig. 1.1.
+[diagram]
+The small cog has a radius of 0.038 m and is fixed to the rear wheel so that it rotates with it.
+The large cog has a radius of 0.15 m and is fixed to the pedals so that it rotates with them.
+The rear wheel has a radius of 0.46 m.
+The bicycle is being pedalled so that it moves in a straight line at a constant speed of 17 m s–1.
+Calculate the angular speed of the rear wheel.",images/9702_s25_qp_42_fig1_1.png
+9702,2025,June,4,2,1,b(ii),2,Calculate the period of rotation of the small cog.,NULL
+9702,2025,June,4,2,1,b(iii),1,Show that the distance moved by point X on the chain during one full rotation of the small cog is 0.24 m.,NULL
+9702,2025,June,4,2,1,b(iv),2,Use the information in (b)(iii) to determine the angle through which the large cog rotates during one full rotation of the small cog.,NULL
+9702,2025,June,4,2,1,c,2,"The chain of the bicycle in (b) is moved onto a smaller cog fixed to the rear wheel. The speed of the bicycle does not change.
+Explain, without calculation, the effect of this change on the angular speed of the pedals.",NULL
+9702,2025,June,4,2,2,a(i),2,State what is represented by a gravitational field line.,NULL
+9702,2025,June,4,2,2,a(ii),2,"The Earth may be considered as a uniform sphere, as shown in Fig. 2.1.
+[diagram]
+On Fig. 2.1, draw field lines to represent the Earth’s gravitational field outside the Earth.",images/9702_s25_qp_42_fig2_1.png
+9702,2025,June,4,2,2,b(i),1,"The Earth’s magnetic field may be considered as being due to the Earth acting as a long solenoid, as shown in Fig. 2.2.
+[diagram]
+The magnetic poles do not align with the geographic poles, which are on the axis of rotation.
+Fig. 2.3 is a copy of Fig. 2.2 without the labels but with two magnetic field lines shown.
+[diagram]
+On Fig. 2.3, label the magnetic poles with the letters N and S to indicate which one is the magnetic N pole and which one is the magnetic S pole.","images/9702_s25_qp_42_fig2_2.png,images/9702_s25_qp_42_fig2_3.png"
+9702,2025,June,4,2,2,b(ii),2,"On Fig. 2.3, draw field lines to represent the Earth’s magnetic field outside the Earth.",NULL
+9702,2025,June,4,2,2,c(i),2,"An observer moves around the surface of the Earth.
+Use your answer in (a)(ii) to explain why the observed gravitational field of the Earth does not vary around the surface.",NULL
+9702,2025,June,4,2,2,c(ii),3,"With reference to your answer in (b)(ii), describe how the observed magnetic field of the Earth varies around the surface.",NULL
+9702,2025,June,4,2,3,a,2,Define specific heat capacity.,NULL
+9702,2025,June,4,2,3,b(i),2,"A block of aluminium has a volume of 3.612 × 10–3 m3 at a temperature of 0 °C.
+Aluminium has a density of 2.700 × 103 kg m–3 at 0 °C.
+It has a density of 2.620 × 103 kg m–3 at 500 °C.
+The block is heated so that its temperature increases from 0 °C to 500 °C at an atmospheric pressure of 1.01 × 105 Pa.
+The increase in internal energy of the block is 4.38 MJ.
+Calculate the mass of the block.",NULL
+9702,2025,June,4,2,3,b(ii),1,Show that the volume of the block at a temperature of 500 °C is 3.722 × 10–3 m3.,NULL
+9702,2025,June,4,2,3,b(iii),2,Use the information in (b)(ii) to determine the magnitude of the work done on the block when its temperature is raised from 0 °C to 500 °C.,NULL
+9702,2025,June,4,2,3,b(iv),2,Explain whether the work done on the block is positive or negative.,NULL
+9702,2025,June,4,2,3,b(v),3,"Use the first law of thermodynamics to determine, to three significant figures, a value for the specific heat capacity of aluminium. Explain your reasoning. Give a unit with your answer.",NULL
+9702,2025,June,4,2,3,c,1,"Without further calculation, suggest with a reason how doubling the pressure in (b) is likely to affect the answer in (b)(v).",NULL
+9702,2025,June,4,2,4,a(i),1,"The equation of state for an ideal gas may be written as pVA = NBT. State the meaning, in the equation, of the symbol T.",NULL
+9702,2025,June,4,2,4,a(ii),1,Identify the constant B.,NULL
+9702,2025,June,4,2,4,b(i),2,"The product pV for an ideal gas is also given by pV = 1/3 Nm 〈c2〉. State the meanings, in this equation, of the symbols m and 〈c2〉.",NULL
+9702,2025,June,4,2,4,b(ii),2,"Use the equations in (a) and (b) to derive an expression, in terms of A, B and T, for the mean kinetic energy EK of a molecule of the gas.",NULL
+9702,2025,June,4,2,4,c,2,"On Fig. 4.1, sketch the variation with T of the root-mean-square (r.m.s.) speed of the molecules of an ideal gas.
+[diagram]",images/9702_s25_qp_42_fig4_1.png
+9702,2025,June,4,2,5,a,2,State what is meant by simple harmonic motion.,NULL
+9702,2025,June,4,2,5,b(i),1,"A block is suspended by a spring. The block oscillates vertically with simple harmonic motion.
+The velocity v of the block varies with time t according to v = 0.56 cos(16t) where v is in m s–1 and t is in s.
+Calculate the period of the oscillation.",NULL
+9702,2025,June,4,2,5,b(ii),2,Determine the amplitude x0 of the oscillation.,NULL
+9702,2025,June,4,2,5,b(iii),1,"Use your answer in (b)(ii) to determine the equation for v in terms of the displacement x of the block, where v is in m s–1 and x is in m.",NULL
+9702,2025,June,4,2,5,b(iv),3,"On Fig. 5.1, sketch the variation of v with x.
+[diagram]",images/9702_s25_qp_42_fig5_1.png
+9702,2025,June,4,2,6,a,1,"Two parallel metal plates X and Y are separated by a distance of 0.041 m, as shown in Fig. 6.1.
+[diagram]
+There is a vacuum between the plates. An electron is at rest at the centre of plate X.
+A potential difference (p.d.) of 58 kV is applied across the plates. This causes the electron to accelerate towards plate Y.
+On Fig. 6.1, use the symbols + and – to indicate which of plates X and Y is the positive plate and which is the negative plate.",images/9702_s25_qp_42_fig6_1.png
+9702,2025,June,4,2,6,b(i),2,Calculate the electric field strength E between the plates. Give a unit with your answer.,NULL
+9702,2025,June,4,2,6,b(ii),2,Determine the acceleration of the electron.,NULL
+9702,2025,June,4,2,6,c(i),3,"Many electrons are now accelerated from rest from plate X to plate Y in Fig. 6.1. When the electrons hit plate Y, the absorption of their kinetic energies results in the emission of electromagnetic waves.
+Show that the minimum wavelength of these electromagnetic waves is 21 pm.",NULL
+9702,2025,June,4,2,6,c(ii),1,State the region of the electromagnetic spectrum that contains these waves.,NULL
+9702,2025,June,4,2,6,c(iii),2,Explain how these electromagnetic waves may be used to form images of internal body structures.,NULL
+9702,2025,June,4,2,7,a,1,"Fig. 7.1 shows a circuit containing a capacitor of capacitance C and a resistor of resistance R.
+[diagram]
+Initially, the switch is open and the potential difference (p.d.) across the capacitor is 12 V.
+The switch is closed at time t = 0 and the capacitor discharges through the resistor.
+Fig. 7.2 shows the variation of the charge Q on the capacitor with the p.d. VC across the capacitor as the capacitor discharges. Fig. 7.3 shows the variation of the current I in the resistor with the p.d. VR across the resistor as the capacitor discharges.
+[diagram]
+State the relationship between VC and VR.","images/9702_s25_qp_42_fig7_1.png,images/9702_s25_qp_42_fig7_2.png,images/9702_s25_qp_42_fig7_3.png"
+9702,2025,June,4,2,7,b(i),2,"Determine the capacitance C, in μF.",NULL
+9702,2025,June,4,2,7,b(ii),2,"Determine the resistance R, in kΩ.",NULL
+9702,2025,June,4,2,7,b(iii),2,Determine the time constant τ of the circuit.,NULL
+9702,2025,June,4,2,7,c,3,"Use Fig. 7.2, Fig. 7.3 and your answer in (a) to explain why the variation of Q with t is exponential in nature.",NULL
+9702,2025,June,4,2,8,a(i),1,"Fig. 8.1 shows a circuit that produces rectification of an alternating input voltage.
+[diagram]
+The input voltage VIN is sinusoidal. The rectified output voltage VOUT is applied across resistor R.
+The variation of VIN with time t has amplitude V0 and period T, as shown in Fig. 8.2.
+[diagram]
+The root-mean-square (r.m.s.) value of VIN is 6.0 V.
+State the type of rectification produced by the circuit of Fig. 8.1.","images/9702_s25_qp_42_fig8_1.png,images/9702_s25_qp_42_fig8_2.png"
+9702,2025,June,4,2,8,a(ii),1,Calculate V0.,NULL
+9702,2025,June,4,2,8,b(i),2,"Resistor R has resistance 45 Ω. Assume that there is no p.d. across the diode when it is conducting.
+Determine the peak power P0 in the resistor.",NULL
+9702,2025,June,4,2,8,b(ii),3,"On Fig. 8.3, sketch the variation of the power P in the resistor with t between t = 0 and t = 2T.
+[diagram]",images/9702_s25_qp_42_fig8_3.png
+9702,2025,June,4,2,8,b(iii),2,Use the answer in (b)(ii) to explain why the mean power in the resistor is 1/4(P0).,NULL
+9702,2025,June,4,2,8,b(iv),1,Use the information in (b)(iii) to determine the r.m.s. value of VOUT.,NULL
+9702,2025,June,4,2,9,a,2,State what is meant by the photoelectric effect.,NULL
+9702,2025,June,4,2,9,b(i),3,"The photoelectric effect is investigated in two stages using the circuit shown in Fig. 9.1.
+[diagram]
+The polished metal plate Y is illuminated with electromagnetic radiation of frequency f and constant power.
+In stage 1 of the investigation, frequency f is set to a constant value of 2.5 × 1015 Hz. The current I in the ammeter is varied by adjusting the potentiometer P. Fig. 9.2 shows the variation of I with the voltmeter reading V. There is a value VS of V at which the current just falls to zero.
+In stage 2 of the investigation, stage 1 is repeated for different values of frequency. As frequency f is varied, the voltmeter reading VS at which the current just falls to zero is measured. Fig. 9.3 shows the variation of VS with f.
+[diagram]
+Explain, with reference to photons, why VS depends on the frequency of the incident electromagnetic radiation.","images/9702_s25_qp_42_fig9_1.png,images/9702_s25_qp_42_fig9_2.png,images/9702_s25_qp_42_fig9_3.png"
+9702,2025,June,4,2,9,b(ii),3,State three quantitative conclusions that can be drawn from the results in Fig. 9.2 and Fig. 9.3.,NULL
+9702,2025,June,4,2,10,a,1,"Radioactive decay is a spontaneous process. State the meaning, in this context, of the term spontaneous.",NULL
+9702,2025,June,4,2,10,b(i),3,"Two radioactive isotopes X and Y each decay to form a stable isotope.
+A sample initially contains only atoms of isotope X. At this time, its activity is 4A.
+Another sample initially contains only atoms of Y. At this time, its activity is A.
+Fig. 10.1 shows the variation of the activity of each sample with time t between t = 0 and t = 6T.
+[diagram]
+Complete Table 10.1 to give expressions, in terms of either or both of A and T, for the quantities indicated for each of the samples.",images/9702_s25_qp_42_fig10_1.png
+9702,2025,June,4,2,10,b(ii),3,"Determine, in terms of T, the time at which the two samples will have equal activities.",NULL
+9702,2025,June,4,2,10,c,2,"A radiation detector is placed near to one of the samples in (b).
+Explain why the count rate measured by the detector is less than the activity of the sample.",NULL
+9702,2025,November,1,2,1,NULL,1,"hour 15 minutes
+You must answer on the multiple choice answer sheet.
+You will need: Multiple choice answer sheet
+Soft clean eraser
+Soft pencil (type B or HB is recommended)
+INSTRUCTIONS
+ There are forty questions on this paper. Answer all questions.
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct
+and record your choice in soft pencil on the multiple choice an swer sheet.
+ Follow the instructions on the multiple choice answer sheet.
+ Write in soft pencil.
+ Write your name, centre number and candidate number on the mult iple choice answer sheet in the
+spaces provided unless this has been done for you.
+ Do not use correction fluid.
+ Do not write on any bar codes.
+ You may use a calculator.
+INFORMATION
+ The total mark for this paper is 40.
+ Each correct answer will score one mark.
+ Any rough working should be done on this question paper.
+2
+Data
+acceleration of free fall g = 9.81  m s–2
+speed of light in free space c = 3.00  108
+m s–1
+elementary charge e = 1.60  10–19
+C
+unified atomic mass unit 1  u = 1.66  10–27
+kg
+rest mass of proton mp = 1.67  10–27
+kg
+rest mass of electron me = 9.11  10–31
+kg
+Avogadro constant NA = 6.02  1023
+mol–1
+molar gas constant R = 8.31  J K–1
+mol–1
+Boltzmann constant k = 1.38  10–23
+J K–1
+gravitational constant G = 6.67  10–11
+N m2
+kg–2
+permittivity of free space 0  = 8.85  10–12
+F m–1
+(
+04
+1
+  = 8.99  109
+m F–1)
+Planck constant h = 6.63  10–34
+J s
+Stefan–Boltzmann constant  = 5.67  10–8
+W m–2
+K–4
+Formulae
+uniformly accelerated motion s = ut + 2
+2
+1 at
+v",NULL
+9702,2025,November,1,2,2,NULL,1,"= u
+2 + 2as
+hydrostatic pressure p =  gh
+upthrust F =  gV
+Doppler effect for sound waves of  =
+s
+s
+vv
+vf
+
+electric current I  = Anvq
+resistors in series R = R1 + R2 + ...
+resistors in parallel
+R
+1  =
+1
+1
+R
++
+2
+1
+R
++ ...
+3
+1 What is a reasonable estimate of the weight of an adult human?
+A 7   100
+N B 7   102
+N C 7   104
+N D 7   106
+N
+2 What describes a set of data with a high precision?
+A data measured using equipment with small scale divisions
+B data that is close to the accepted value
+C data with each value having a low uncertainty
+D data with repeats that are close to each other",NULL
+9702,2025,November,1,2,3,NULL,1,"Which physical quantity could have units of N
+s2
+m–1?
+A acceleration
+B force
+C mass
+D momentum",NULL
+9702,2025,November,1,2,4,NULL,1,"A ball is released from rest. The distance the ball falls and the time the ball takes to fall that
+distance are both measured.
+The percentage uncertainty in the measured distance is negligible. The percentage uncertainty in
+the measured time is 4%.
+The distance and the time are then used to calculate the acceleration of free fall.
+Air resistance is negligible.
+What is the percentage uncertainty in the calculated value of the acceleration of free fall?
+A 2 %  B 4 %  C 8 %  D 16%",NULL
+9702,2025,November,1,2,5,NULL,1,"A car has an initial velocity u. The car then moves with constant acceleration a in a straight line
+through a displacement d. The car reaches a final velocity v.
+Which expression gives the initial velocity u of the car?
+A v – ad B
+adv 2–2
+C v + ad D v – 2
+2
+1 ad",NULL
+9702,2025,November,1,2,6,NULL,1,"A bicycle brakes so that it undergoes uniform deceleration fro m a speed of 8  m s–1 to 6 m s–1 over
+a distance of 7 m.
+The deceleration of the bicycle remains constant.
+Which further distance will the bicycle travel before coming to rest?
+A 7  m B 9  m C 1 6  m D 2 1  m
+4",NULL
+9702,2025,November,1,2,7,NULL,1,"The velocity–time graph for an object is shown.
+0
+0
+velocity
+time
+area 1
+area 2
+Which expression gives the total displacement of the object?
+A area 1 – area 2
+B
+()
+2
+2 area +  1 area
+C area 1 + area 2
+D area 2 – area 1
+[diagram]",images/9702_w25_qp_12_q7.png
+9702,2025,November,1,2,8,NULL,1,"Which statement describes the weight of an object?
+A It is equal to the mass of the object multiplied by its accele ration.
+B It is equal to the resultant force when the object falls at te rminal (constant) velocity.
+C It is the force acting on the object due to a gravitational fi eld.
+D It is the property of the object that resists change in motion .",NULL
+9702,2025,November,1,2,9,NULL,1,"What is a statement of the principle of conservation of moment um?
+A In an elastic collision, momentum is constant.
+B Momentum is the product of mass and velocity.
+C The force acting on a body is proportional to its rate of change of momentum.
+D The momentum of an isolated system is constant.
+5",NULL
+9702,2025,November,1,2,10,NULL,1,"The diagram shows the view from above of two balls moving alon g a horizontal frictionless
+surface before they collide. The momentum of each ball is also shown.
+4.0 N s
+8.0 N s
+The balls stick together during the collision.
+Which vector diagram represents the combined momentum of the balls after the collision?
+A CBD
+[diagram]",images/9702_w25_qp_12_q10.png
+9702,2025,November,1,2,11,NULL,1,"A skydiver is falling at constant velocity. She then opens her  parachute. The graph shows the
+variation with time of her velocity.
+0
+0
+time
+t1 t2 t3
+velocity
+Which statements about the motion of the skydiver are correct?
+1 The magnitude of the acceleration is maximum at time t2.
+2 The magnitude of the drag force at time t1 equals the magnitude of the drag force at
+time t3.
+3 The magnitude of the drag force is maximum at time t1.
+A 1 and 2 B 1 and 3 C 2 only D 3 only
+6
+[diagram]",images/9702_w25_qp_12_q11.png
+9702,2025,November,1,2,12,NULL,1,"Two different blocks, P and Q, slide towards each other on a h orizontal frictionless surface. The
+blocks have an elastic collision.
+The diagram shows the velocities of the two blocks immediately after the collision.
+P
+70 cm s–1
+Q
+20 cm s–1
+Which row gives possible velocities of the two blocks immediately before the collision?
+velocity of P velocity of Q
+A 10 cm s–1 to the right 60  cm s–1 to the left
+B 50 cm s–1 to the right zero
+C 20 cm s–1 to the left 70  cm s–1 to the right
+D 60 cm s–1 to the right 30  cm s–1 to the left
+[diagram]",images/9702_w25_qp_12_q12.png
+9702,2025,November,1,2,13,NULL,1,"Which diagram shows a couple?
+F
+F
+A
+FF F
+B
+F
+C
+F
+D
+7
+[diagram]",images/9702_w25_qp_12_q13.png
+9702,2025,November,1,2,14,NULL,1,"The diagram shows a uniform bar of mass M and length L resting on a pivot at a distance x from
+end X.
+x
+L
+X
+An object of mass m is placed on the bar at distance y from the pivot so that the bar is in
+equilibrium.
+What is an expression for y?
+A m
+xM  B m
+M (L – x) C m
+M
+2 (L – 2x) D m
+1 (Lm – xM )
+[diagram]",images/9702_w25_qp_12_q14.png
+9702,2025,November,1,2,15,NULL,1,"The mass and volume of an object are varied.
+Which two changes, when made together, must increase the density of the object?
+mass volume
+A decrease decrease
+B decrease increase
+C increase decrease
+D increase increase",NULL
+9702,2025,November,1,2,16,NULL,1,"On Earth, a solid object that is fully submerged in a liquid e xperiences an upthrust UE.
+On Mars, the same object, fully submerged in the same liquid, experiences an upthrust UM.
+The acceleration of free fall on Mars is 3.7 m s–2.
+Assume that the liquid’s density and the object’s volume have t he same values on Earth and
+Mars.
+What is the ratio
+M
+E
+?U
+U
+A 0 . 3 8  B 1 . 0  C 2 . 7  D 3 . 6",NULL
+9702,2025,November,1,2,17,NULL,1,"A student attempts to derive the formula for kinetic energy EK. She begins by considering an
+object of mass m that is initially at rest. A constant force F applied to the object causes it to
+accelerate to final velocity v in displacement s. The kinetic energy gained by the object is equal to
+the work done on the object by the force F.
+Which equation does the student not need in order to derive the formula for EK?
+A F = ma B W = Fs C E = Fs2
+1  D v
+2 = u
+2 + 2as
+8",NULL
+9702,2025,November,1,2,18,NULL,1,"A ball falls towards the ground from point X. Point X is 2.4  m above the ground.
+The ball rebounds from the ground and rises to point Y. Point Y is 1.8 m above the ground.
+A single value of the change in height h is used to calculate the change in gravitational potential
+energy of the ball from X to Y.
+What is the magnitude of h?
+A 0 . 6  m B 1 . 8  m C 2 . 4  m D 4 . 2  m",NULL
+9702,2025,November,1,2,19,NULL,1,"The diagram shows a block on a slope.
+h1.8 N
+8.0 m
+A constant force of 1.8  N in a direction parallel to the slope is exerted on the block.  This causes
+the block to move along the slope at a constant speed.
+The block moves a distance of 8.0  m along the slope and gains height h. The work done against
+the frictional force acting on the block is 4.8 J.
+The weight of the block is 4.0 N.
+What is the value of h?
+A 1 . 2  m B 2 . 4  m C 3 . 6  m D 4 . 8  m
+[diagram]",images/9702_w25_qp_12_q19.png
+9702,2025,November,1,2,20,NULL,1,"The motor of a crane lifts a load of mass 600
+kg. The load rises vertically at a constant speed of
+12 m per minute.
+What is the useful power output of the motor?
+A 0 . 1 2 kW B 1 . 2  kW C 7 . 2  kW D 7 1  kW
+9",NULL
+9702,2025,November,1,2,21,NULL,1,"A platform is supported by a spring. A box is placed onto the platform. The diagram shows the
+spring before and after the box is placed onto it.
+x
+before
+spring
+after
+box
+What is the term for the quantity marked as x?
+A compression
+B load
+C s t r a i n
+D stress
+[diagram]",images/9702_w25_qp_12_q21.png
+9702,2025,November,1,2,22,NULL,1,"A copper wire has length 1.7
+m and uniform diameter 0.64 mm.
+The Young modulus of copper is 1.2  1011
+Pa.
+What is the spring constant of the wire?
+A 2 . 3   104
+N m–1
+B 9 . 1   104
+N m–1
+C 4 . 5   107
+N m–1
+D 7 . 1   107
+N m–1",NULL
+9702,2025,November,1,2,23,NULL,1,"The graph shows how the extension of a spring varies with the force used to stretch it.
+10 20 30
+2.0
+4.0
+extension / cm
+force / kN
+0
+0
+What is the elastic potential energy of the spring when the extension is 4.0 cm?
+A 60 J B 120  J C 600  J D 1200  J
+10
+[diagram]",images/9702_w25_qp_12_q23.png
+9702,2025,November,1,2,24,NULL,1,"Which row describes a progressive longitudinal wave?
+transfers energy in
+a direction parallel
+to the oscillations
+requires a medium
+to travel through
+always travels at
+the same speed
+A false false true
+B false true true
+C true false false
+D true true false",NULL
+9702,2025,November,1,2,25,NULL,1,"What is the phase difference between points P and Q on the pro gressive wave shown in the
+diagram?
+P
+Q
+A 180° B 450° C 540° D 720°
+[diagram]",images/9702_w25_qp_12_q25.png
+9702,2025,November,1,2,26,NULL,1,"The graph shows the variation of displacement with distance fo r two progressive waves X and Y
+of the same type in the same medium.
+1.0
+0.5
+0
+–0.5
+–1.0
+0 2 4 6 8 10 12 14
+displacement
+/ cm
+distance / cm
+wave Y
+wave X
+The intensity of wave X is I.
+What is the intensity of wave Y?
+A 0 . 2 8 I B 0 . 5 3 I C 1 . 9 I D 3 . 5 I
+11
+[diagram]",images/9702_w25_qp_12_q26.png
+9702,2025,November,1,2,27,NULL,1,"A moving source emits sound of frequency 1200  Hz.
+A stationary observer hears sound of frequency 960 Hz. The speed of the sound is 340 m s–1.
+What could be the velocity of the source?
+A 6 8  m s–1 directly away from the observer
+B 6 8  m s–1 directly towards the observer
+C 8 5  m s–1 directly away from the observer
+D 8 5  m s–1 directly towards the observer",NULL
+9702,2025,November,1,2,28,NULL,1,"A light wave passes through a single slit and a diffraction pattern forms.
+What happens to the frequency and the speed of the wave when it is diffracted?
+frequency speed
+A decreases increases
+B increases decreases
+C no change decreases
+D no change no change",NULL
+9702,2025,November,1,2,29,NULL,1,"The equation n = d sin  can be used with a diffraction grating to find the wavelength of visible
+light.
+Which quantity is not correct for use in this equation?
+symbol quantity
+A d distance from grating to screen
+B  wavelength of light
+C n order of intensity maximum
+D  diffraction angle of intensity maximum",NULL
+9702,2025,November,1,2,30,NULL,1,"Two progressive sound waves move in opposite directions and su perpose to form a stationary
+wave.
+Which statement describes an antinode of this stationary wave?
+A a position where the phase difference between the two waves is  always 0°
+B a position where the phase difference between the two waves is  always 180°
+C a position where the stationary wave has maximum amplitude
+D a position where the stationary wave has minimum amplitude
+12",NULL
+9702,2025,November,1,2,31,NULL,1,"A student connects two loudspeakers to a signal generator.
+Q
+P
+signal
+generator
+As the student walks from P to Q, he notices that the loudness of the sound rises and falls
+repeatedly.
+What causes the loudness of the sound to vary?
+A diffraction of the sound waves
+B Doppler shift of the sound waves
+C interference of the sound waves
+D reflection of the sound waves
+[diagram]",images/9702_w25_qp_12_q31.png
+9702,2025,November,1,2,32,NULL,1,"The current in a resistor of constant resistance is 8.0
+mA. The power dissipated by the resistor
+is P.
+The current in the resistor is increased to 12.0 mA.
+What is the new power dissipated by the resistor?
+A 0 . 4 4P B 0 . 6 7P C 1 . 5 P D 2 . 3 P
+13",NULL
+9702,2025,November,1,2,33,NULL,1,"A  p i e c e  o f  w i r e  X  h a s  r e s i s t i v i t y  , length L and cross-sectional area A.  W i r e  X  h a s  a
+resistance R.
+A second piece of wire Y is made of a different metal. It has t he same resistance as X but has
+twice the length of X.
+Which row gives possible values for the resistivity and the cross-sectional area of Y?
+resistivity cross-sectional
+area
+A 2
+1  A2
+1
+B 2
+1  A
+C  A2
+1
+D 2 A",NULL
+9702,2025,November,1,2,34,NULL,1,"A cell of electromotive force (e.m.f.) E delivers a charge Q to an external circuit.
+Which statement is correct?
+A The energy dissipated in the external circuit is EQ.
+B The energy dissipated within the cell is EQ.
+C The external resistance is EQ.
+D The total energy dissipated in the cell and the external circu it is EQ.",NULL
+9702,2025,November,1,2,35,NULL,1,"The diagram shows a circuit with a battery of electromotive fo rce (e.m.f.) 60
+V and negligible
+internal resistance, a 20  k resistor, a thermistor and a voltmeter. The resistance of the
+thermistor is 20 k.
+V
+60 V
+The temperature of the thermistor decreases, and this causes its resistance to change by 50%.
+After this change, what is the reading on the voltmeter?
+A 2 0  V B 2 4  V C 3 6  V D 4 0  V
+14
+[diagram]",images/9702_w25_qp_12_q35.png
+9702,2025,November,1,2,36,NULL,1,"A potentiometer circuit is used to determine the electromotive  f o r c e  ( e . m . f . )  EX of a cell. The
+circuit includes a second cell of known e.m.f. E0 and negligible internal resistance, and a uniform
+resistance wire PQ of known length.
+EX is less than E0.
+The movable connection J can be positioned anywhere along the length of the resistance wire.
+Which circuit is suitable for determining EX?
+P
+E0
+EX
+A
+QJ P
+E0
+EX
+QJ
+P
+E0
+EX
+C
+QJ
+D
+P
+E0
+EX
+B
+QJ
+[diagram]",images/9702_w25_qp_12_q36.png
+9702,2025,November,1,2,37,NULL,1,"The principles of conservation of which two quantities are ass ociated with Kirchhoff’s first and
+second laws?
+first law second law
+A charge energy
+B charge voltage
+C energy charge
+D voltage charge
+15",NULL
+9702,2025,November,1,2,38,NULL,1,"An up quark in a hadron changes to a down quark.
+The elementary charge is e.
+What is the magnitude of the change in the charge of the hadron?
+A e3
+1  B e3
+2  C e D zero",NULL
+9702,2025,November,1,2,39,NULL,1,"A nucleus of magnesium-23 decays to form a nucleus of sodium-2 3, emitting a + particle and
+particle X.
+What is particle X?
+A an antineutrino
+B an electron
+C a neutron
+D a neutrino",NULL
+9702,2025,November,1,2,40,NULL,1,"A nucleus of U238
+92  decays in stages by emitting -particles and – particles, eventually forming a
+nucleus of Pb.206
+82
+How many -particles and how many – particles are emitted during the decay chain?
+-particles – particles
+A 8 6
+B 8 10
+C 16 6
+D 16 22
+16
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the
+publisher will be pleased to make amends at the earliest possib le opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge
+Assessment International Education Copyright Acknowledgements B ooklet. This is produced for each series of examinations and is  freely available to download
+at www.cambridgeinternational.org after the live examination se ries.
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE",NULL
+9702,2025,November,2,2,1,a,2,Scientists are investigating the variation in air pressure at different locations on a mountain. The scientists take measurements... Complete Table 1.1 by stating the SI base unit for each quantity and identifying whether each quantity is a scalar or a vector.,NULL
+9702,2025,November,2,2,1,b(i),2,"At one location, the density of the air is 1.1 kg m^-3. A spherical weather balloon is filled with a gas and released from rest. The balloon has radius 0.90 m. Calculate the upthrust acting on the balloon when it is released.",NULL
+9702,2025,November,2,2,1,b(ii),2,Explain why an upthrust acts on the balloon.,NULL
+9702,2025,November,2,2,1,b(iii),3,The balloon has weight 19 N. Calculate the magnitude of the initial acceleration of the balloon.,NULL
+9702,2025,November,2,2,1,c,2,"A quantity c relating to the motion of the balloon is calculated from three measured quantities k, F and v using the formula c = (2kF)/v^2. The percentage uncertainties in the measured quantities are k=5%, F=3%, v=4%. The calculated value of c is 1.8. Determine the absolute uncertainty in c.",NULL
+9702,2025,November,2,2,2,a(i),2,"A spacecraft in deep space uses jets of hot gas from its thrusters to change its velocity.
+Thruster A is a distance of 1.6 m leftwards from the centre of gravity. Thruster C is a distance of 0.40 m upwards. Thruster A produces a force of 60 N upwards. Thruster C produces a force of 220 N leftwards. Calculate the resultant moment due to these forces about the centre of gravity.
+[diagram]",images/9702_w25_qp_22_fig2_1.png
+9702,2025,November,2,2,2,a(ii),1,State and explain whether the forces from A and C are a couple.,NULL
+9702,2025,November,2,2,2,b,2,"Thrusters A and C are now switched off. Thruster B is activated at time t1, producing a constant force on the spacecraft until fuel runs out at t2. As fuel is used, the total mass decreases. On Fig 2.2, sketch the variation of speed of the spacecraft with time from t1 to t2.
+[diagram]",images/9702_w25_qp_22_fig2_2.png
+9702,2025,November,2,2,2,c(i),2,"The spacecraft now splits apart into a carrier and a payload as shown in Fig 2.3. During the split, an average force of 5500 N acts on the payload for a time of 0.36 s. The velocity of the payload increases by 8.5 m s^-1 in the upwards direction. The combined mass is 2.5x10^3 kg. State the principle of conservation of momentum.
+[diagram]",images/9702_w25_qp_22_fig2_3.png
+9702,2025,November,2,2,2,c(ii),2,Show that the mass of the payload is 230 kg.,NULL
+9702,2025,November,2,2,2,c(iii),3,Calculate the magnitude of the change in velocity of the carrier.,NULL
+9702,2025,November,2,2,3,a,2,"A spring is fixed at one end and attached to the frame of a pulley at the other end. A cable is passed around the wheel of the pulley. The spring is stretched... The spring obeys Hooke's law and has a spring constant k of 250 N m^-1. A force F acts on the spring. The tension in the cable is T. The pulley is in equilibrium. On Fig 3.2, draw labelled arrows to show the directions of the forces acting on the pulley.
+[diagram]",images/9702_w25_qp_22_fig3_1.png
+9702,2025,November,2,2,3,b(i),1,The force F is 110 N. Determine T.,NULL
+9702,2025,November,2,2,3,b(ii),2,Calculate the extension of the spring.,NULL
+9702,2025,November,2,2,3,c(i),2,"A second identical spring with the same spring constant of 250 N m^-1 is now also connected to the pulley, as shown in Fig. 3.3. The tension in the cable is kept the same. The pulley is again in equilibrium. Determine the extension of the springs.
+[diagram]",images/9702_w25_qp_22_fig3_3.png
+9702,2025,November,2,2,3,c(ii),2,The elastic potential energy stored in the spring in Fig 3.1 is E1. The total elastic potential energy stored in the two springs in Fig 3.3 is E2. Calculate the ratio E1/E2.,NULL
+9702,2025,November,2,2,4,a,3,"A laser emits visible light of a single frequency in a vacuum. The light is incident normally on a double slit and then forms a pattern of bright and dark fringes on a screen, as shown in Fig 4.1. The separation of the slits is 1.0x10^-3 m. The distance to the screen is 4.8 m. The distance between the centres of adjacent dark fringes is 3.3 mm. Explain how the pattern of bright and dark fringes is formed.
+[diagram]",images/9702_w25_qp_22_fig4_1.png
+9702,2025,November,2,2,4,b,4,Calculate the frequency of the light emitted by the laser.,NULL
+9702,2025,November,2,2,4,c,1,The double slit is removed. A second laser is placed beside the first laser. The second laser produces visible light of a different frequency. Explain why a steady pattern of bright and dark fringes is not formed.,NULL
+9702,2025,November,2,2,5,a,1,"Fig. 5.1 shows a circuit containing a battery, two fixed resistors X and Y, and a light-dependent resistor (LDR) Z. The battery has electromotive force 5.0 V and internal resistance 4.7 Ohms. The current in X is I1 and the current in Y is I2. The resistance of X is 100 Ohms. The resistance of Z varies with intensity of light as shown in Fig 5.2. State Kirchhoff's first law.
+[diagram]",images/9702_w25_qp_22_fig5_1.png
+9702,2025,November,2,2,5,b(i),2,The intensity of light incident on Z is 130 W m^-2. The current in the battery is 38 mA. Show that the terminal potential difference of the battery is 4.8 V.,NULL
+9702,2025,November,2,2,5,b(ii),3,Calculate the current I2 in Y.,NULL
+9702,2025,November,2,2,5,b(iii),2,Calculate the power dissipated in Y.,NULL
+9702,2025,November,2,2,5,b(iv),3,The intensity of the light incident on Z decreases. State and explain the effect on the terminal potential difference of the battery.,NULL
+9702,2025,November,2,2,6,a,1,State what is meant by a fundamental particle.,NULL
+9702,2025,November,2,2,6,b(i),2,Particle Q is a meson with a charge of 0. Determine a possible quark composition for Q.,NULL
+9702,2025,November,2,2,6,b(ii),3,Particle Q has a mass of 0.67 u and a kinetic energy of 2.1x10^-16 J. Calculate the speed of particle Q.,NULL
+9702,2025,November,2,2,6,c(i),1,Radium-228 is a radioactive nuclide. State the number of electrons in a neutral atom of radium-228.,NULL
+9702,2025,November,2,2,6,c(ii),2,"A nucleus of radium-228 undergoes a series of decays to form nucleus X. During the process, 5 alpha-particles and 4 beta- particles are emitted. Determine the number of protons and the number of neutrons in nucleus X.",NULL
+9702,2025,November,4,2,1,a(i),1,"The Earth may be considered as a uniform sphere of radius 6.37x10^6 m. Cambridge is at a point on the Earth's surface that has a latitude of 52.2 degrees north. As the Earth spins on its axis, Cambridge moves in a circle... Show that the radius of the circle around which Cambridge moves is 3.90x10^6 m.
+[diagram]",images/9702_w25_qp_42_fig1_1.png
+9702,2025,November,4,2,1,a(ii),3,Calculate the speed at which Cambridge moves around the circle.,NULL
+9702,2025,November,4,2,1,b(i),2,A student of mass 58.6 kg stands on horizontal ground in Cambridge. Determine the magnitude of the resultant force that acts to cause the circular motion of the student.,NULL
+9702,2025,November,4,2,1,b(ii),1,"On Fig 1.2, draw an arrow to show the direction of the resultant force that acts on the student.
+[diagram]",images/9702_w25_qp_42_fig1_2.png
+9702,2025,November,4,2,1,b(iii),2,"On Fig 1.3, draw labelled arrows from the student to show the directions of the forces that act on the student to cause the resultant force in (b)(ii).
+[diagram]",images/9702_w25_qp_42_fig1_3.png
+9702,2025,November,4,2,2,a,2,State Newton's law of gravitation.,NULL
+9702,2025,November,4,2,2,b,2,One of the basic assumptions of the kinetic theory of gases is that there are no forces exerted between the molecules of the gas except during collisions. State two other basic assumptions of the kinetic theory of gases.,NULL
+9702,2025,November,4,2,2,c(i),2,Hydrogen gas consists of molecules that each have a mass of 3.34x10^-27 kg. A spherical balloon contains 0.0160 mol of hydrogen gas at a temperature of 282 K. Volume is 1.87x10^-4 m^3. Determine the pressure of the gas.,NULL
+9702,2025,November,4,2,2,c(ii),2,Estimate the average separation of the hydrogen molecules in the gas.,NULL
+9702,2025,November,4,2,2,d(i),2,Use your answer in (c)(ii) to calculate the average gravitational force between adjacent molecules in hydrogen gas.,NULL
+9702,2025,November,4,2,2,d(ii),1,"By considering the weight of a molecule, suggest with a reason whether your answer in (d)(i) is consistent with the assumption of the kinetic theory of gases.",NULL
+9702,2025,November,4,2,3,a,2,State what is meant by two objects being in thermal equilibrium.,NULL
+9702,2025,November,4,2,3,b(i),1,"Fig 3.1 shows a type of thermometer called a constant volume gas thermometer... The value of delta h can be used to calculate the pressure. State the property of the liquid that is used to calculate the pressure.
+[diagram]",images/9702_w25_qp_42_fig3_1.png
+9702,2025,November,4,2,3,b(ii),2,State two disadvantages of using a constant volume gas thermometer to measure temperature.,NULL
+9702,2025,November,4,2,3,b(iii),1,Suggest one situation in which a constant volume gas thermometer would be an appropriate type of thermometer to choose for measuring temperature.,NULL
+9702,2025,November,4,2,3,b(iv),3,"Level X aligns with 2.31 cm on the scale. At 0 C, level Y aligns with 8.69 cm. At temperature theta, level Y aligns with 7.83 cm on the scale. Determine a value for theta in C.",NULL
+9702,2025,November,4,2,4,a,2,"A cylinder contains a fixed mass of an ideal gas at pressure 2Y and volume 6X. The gas undergoes a sequence of changes from its initial state A, through B, C, and D back to A. Fig 4.1 shows the variation. Fig 4.2 shows the variation with time of internal energy. State the first law of thermodynamics.
+[diagram]",images/9702_w25_qp_42_fig4_1.png
+9702,2025,November,4,2,4,b(i),1,Use Fig 4.1 and Fig 4.2 to determine the general expression for the internal energy U of the gas when it has pressure p and volume V.,NULL
+9702,2025,November,4,2,4,b(ii),2,An ideal gas at thermodynamic temperature T contains N molecules. Use your answer in (b)(i) and the equation of state for an ideal gas to deduce an expression for U in terms of N and T. Identify any other symbols you use.,NULL
+9702,2025,November,4,2,4,c(i),1,"Determine expressions, in terms of X and Y, for the work W done on the gas during change AB.",NULL
+9702,2025,November,4,2,4,c(ii),1,"Determine expressions, in terms of X and Y, for the work W done on the gas during change CD.",NULL
+9702,2025,November,4,2,4,d,3,"Use your answers in (c) and the first law of thermodynamics to determine an expression, in terms of X and Y, for the net thermal energy Q supplied to the gas during one full cycle ABCDA. Explain your reasoning.",NULL
+9702,2025,November,4,2,5,a(i),2,"A steel ball on the end of a thin string oscillates with small oscillations, as shown in Fig 5.1. The displacement of the centre of the ball from equilibrium is x. Fig 5.2 shows the variation with x of acceleration a. Explain how Fig 5.2 shows that the oscillations of the ball are simple harmonic.
+[diagram]",images/9702_w25_qp_42_fig5_1.png
+9702,2025,November,4,2,5,a(ii),3,Determine the period T of the oscillations.,NULL
+9702,2025,November,4,2,5,b(i),2,"At time t=0, when the displacement of the ball has its maximum value, the ball is immersed in a trough containing thick oil so that the ball is just below surface... State what is meant by damping.",NULL
+9702,2025,November,4,2,5,b(ii),3,"On Fig 5.3, sketch a possible variation of the displacement x of the ball with t between t=0 and t=2T.
+[diagram]",images/9702_w25_qp_42_fig5_3.png
+9702,2025,November,4,2,6,a,1,Define electric field at a point.,NULL
+9702,2025,November,4,2,6,b(i),2,"An isolated conducting sphere in a vacuum has a capacitance of 69 pF. The charge on the sphere is +83 pC. On Fig 6.1, draw field lines to represent the electric field outside the sphere due to the charge on the sphere.
+[diagram]",images/9702_w25_qp_42_fig6_1.png
+9702,2025,November,4,2,6,b(ii),2,Calculate the electric potential at the surface of the sphere.,NULL
+9702,2025,November,4,2,6,b(iii),2,Determine the radius of the sphere.,NULL
+9702,2025,November,4,2,6,b(iv),2,Calculate the electric field strength E at the surface of the sphere.,NULL
+9702,2025,November,4,2,6,c,2,The sphere in (b) is discharged by connecting it to earth (0V) through a resistor of 120 MOhms. Calculate the time taken for the charge to fall to 26 pC.,NULL
+9702,2025,November,4,2,7,a(i),1,An alternating voltage V varies with time t according to V = 18 cos 40 pi t... show that the period is 0.050 s.,NULL
+9702,2025,November,4,2,7,a(ii),1,Determine the root-mean-square (rms) voltage.,NULL
+9702,2025,November,4,2,7,b,3,"On Fig 7.1, sketch the variation of V with t for values of t from t=0 to t=100 ms.
+[diagram]",images/9702_w25_qp_42_fig7_1.png
+9702,2025,November,4,2,7,c,3,"The alternating voltage is rectified to produce an output voltage across load resistor R as shown in Fig 7.2. Fig 7.3 shows the variation with t of the power P in the load resistor. State three conclusions that can be drawn from Fig 7.3.
+[diagram]",images/9702_w25_qp_42_fig7_2.png
+9702,2025,November,4,2,8,a,3,"Fig 8.1 shows the three lowest-frequency lines in the part of the emission spectrum for hydrogen that relates to electron transitions to the ground state. Use the photon model of electromagnetic radiation to explain how the existence of spectral lines in the emission spectrum provides evidence for discrete electron energy levels in the hydrogen atom.
+[diagram]",images/9702_w25_qp_42_fig8_1.png
+9702,2025,November,4,2,8,b(i),1,"The energy of the ground state in a hydrogen atom is -13.6 eV. Calculate the energy, in J, of the ground state.",NULL
+9702,2025,November,4,2,8,b(ii),2,Show that the energy difference between levels n=1 and n=2 is 10.2 eV.,NULL
+9702,2025,November,4,2,8,b(iii),4,Complete Table 8.1 to show the energy differences from the ground state.,NULL
+9702,2025,November,4,2,9,a,2,State what is meant by the mass defect of a nucleus.,NULL
+9702,2025,November,4,2,9,b,4,The nuclear fusion reaction for the formation of helium-4 from deuterium is represented... Table 9.1 shows masses. Calculate the energy released in the formation of 1.00 mol of helium-4.,NULL
+9702,2025,November,4,2,9,c(i),2,The star Sirius has a radius of 1.19x10^9 m and loses mass due to nuclear fusion at a rate of 1.09x10^11 kg s^-1. Determine a value for the luminosity of Sirius. Give a unit.,NULL
+9702,2025,November,4,2,9,c(ii),2,Use your answer to determine the surface temperature of Sirius.,NULL
+9702,2025,November,4,2,9,d,3,Explain how cosmologists use standard candles to estimate the distance of a galaxy from the Earth.,NULL
+9702,2025,November,4,2,10,a,1,State what is meant by contrast in an X-ray image.,NULL
+9702,2025,November,4,2,10,b(i),1,"X-rays of intensity I0 are incident normally on a structure as shown in Fig 10.1. Material P has a linear attenuation coefficient of 0.35 cm^-1. The X-rays emerging from region A have intensity 0.053I0. Show that the intensity of X-rays emerging in region B is 0.13I0.
+[diagram]",images/9702_w25_qp_42_fig10_1.png
+9702,2025,November,4,2,10,b(ii),3,Determine the linear attenuation coefficient mu of material Q.,NULL
+9702,2025,November,4,2,10,b(iii),1,Use the information in b(i) to suggest why the X-rays emerging from the structure form an image that has poor contrast.,NULL
+9702,2025,November,4,2,10,c,3,Explain how X-rays are used in computed tomography (CT) scanning to produce a three-dimensional image of an internal structure.,NULL
+9702,2024,March,1,2,1,NULL,1,"hour 15 minutes
+You must answer on the multiple choice answer sheet.
+You will need: Multiple choice answer sheet
+Soft clean eraser
+Soft pencil (type B or HB is recommended)
+INSTRUCTIONS
+ There are forty questions on this paper. Answer all questions.
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct
+and record your choice in soft pencil on the multiple choice answer sheet.
+ Follow the instructions on the multiple choice answer sheet.
+ Write in soft pencil.
+ Write your name, centre number and candidate number on the multiple choice answer sheet in the
+spaces provided unless this has been done for you.
+ Do not use correction fluid.
+ Do not write on any bar codes.
+ You may use a calculator.
+INFORMATION
+ The total mark for this paper is 40.
+ Each correct answer will score one mark.
+ Any rough working should be done on this question paper.
+2
+Data
+acceleration of free fall g = 9.81  m s–2
+speed of light in free space c = 3.00  108
+m s–1
+elementary charge e = 1.60  10–19
+C
+unified atomic mass unit 1  u = 1.66  10–27
+kg
+rest mass of proton mp = 1.67  10–27
+kg
+rest mass of electron me = 9.11  10–31
+kg
+Avogadro constant NA = 6.02  1023
+mol–1
+molar gas constant R = 8.31  J K–1
+mol–1
+Boltzmann constant k = 1.38  10–23
+J K–1
+gravitational constant G = 6.67  10–11
+N m2
+kg–2
+permittivity of free space 0  = 8.85  10–12
+F m–1
+(
+04
+1
+  = 8.99  109
+m F–1)
+Planck constant h = 6.63  10–34
+J s
+Stefan–Boltzmann constant  = 5.67  10–8
+W m–2
+K–4
+Formulae
+uniformly accelerated motion s = ut + 2
+2
+1 at
+v",NULL
+9702,2024,March,1,2,2,NULL,1,"= u
+2 + 2as
+hydrostatic pressure p =  gh
+upthrust F =  gV
+Doppler effect for sound waves of  =
+s
+s
+vv
+vf
+
+electric current I  = Anvq
+resistors in series R = R1 + R2 + ...
+resistors in parallel
+R
+1  =
+1
+1
+R
++
+2
+1
+R
++ ...
+3
+1 Which row shows a physical quantity and its base unit in the S I system?
+quantity unit
+A current A
+B force N
+C mass g
+D temperature C
+2 A  c a r  o f  m a s s  8 5 0
+kg is travelling in a horizontal straight line. The diagram sho w s  t h e  t w o
+horizontal forces acting on the car in opposite directions.
+1200 N
+1600 N
+One force has magnitude 1200 N, and the other force has magnitude 1600 N.
+What is the magnitude of the acceleration of the car?
+A 0 . 4 7 m s–2 B 1 . 4  m s–2 C 1 . 9  m s–2 D 3 . 3  m s–2
+[diagram]",images/9702_m24_qp_12_q2.png
+9702,2024,March,1,2,3,NULL,1,"An object of mass m is suspended by a spring from a fixed point.
+object of
+mass m
+spring
+The spring has spring constant k. The object is set into vertical oscillations of period T.
+Which equation for T is homogeneous with respect to base units?
+A T = 2 
+
+
+m
+k  B T = 2 
+
+
+k
+m  C T = 2
+m
+k  D T = 2
+k
+m
+4
+[diagram]",images/9702_m24_qp_12_q3.png
+9702,2024,March,1,2,4,NULL,1,"An object of fixed mass is initially at rest at point P. The o bject then moves away from point P
+with uniform acceleration.
+Which statement describes the resultant force acting on the object when it is moving?
+A It increases uniformly with respect to time.
+B It is constant but not zero.
+C It is proportional to the displacement from point P.
+D It is zero.",NULL
+9702,2024,March,1,2,5,NULL,1,"A projectile is launched at an angle of 25  to the horizontal with a horizontal component of
+velocity of 13
+m s–1.
+What is the vertical component of the velocity of the projectile when it is launched?
+A 5 . 5  m s–1 B 6 . 1  m s–1 C 1 2  m s–1 D 1 4  m s–1",NULL
+9702,2024,March,1,2,6,NULL,1,"A ball is released from rest at position X at time zero. At 1. 0
+s, it bounces inelastically from a
+horizontal surface and rebounds, reaching the top of its first bounce at 1.5 s.
+10
+5
+0
+–5
+velocity
+/ms
+–1
+time / s
+0 1.0.0.5 1.5
+What is the total displacement of the ball from its original position X at 1.5 s?
+A 1 . 2 5 m B 3 . 7 5 m C 5 . 0 0 m D 6 . 2 5 m
+[diagram]",images/9702_m24_qp_12_q6.png
+9702,2024,March,1,2,7,NULL,1,"What is the definition of acceleration?
+A change in velocity per unit time
+B rate of change of speed per unit time
+C rate of change of velocity per unit time
+D resultant force per unit mass
+5",NULL
+9702,2024,March,1,2,8,NULL,1,"Two balls P and Q, of equal mass, move along a straight line d irectly towards each other as
+shown.
+P
+1.30 m s–1
+Q
+0.50 m s–1
+Ball P has velocity 1.30 m s–1 to the right. Ball Q has velocity 0.50 m s–1 to the left.
+P and Q collide with one another. The collision is perfectly el astic and the total momentum is
+conserved.
+Which diagram correctly shows the motion of P and Q after the collision?
+P
+C
+0.50 m s–1
+Q
+1.30 m s–1
+P
+D
+0.19 m s–1
+Q
+0.99 m s–1
+P
+A
+0.22 m s–1
+Q
+0.58 m s–1
+P
+B
+0.40 m s–1
+Q
+0.40 m s–1
+[diagram]",images/9702_m24_qp_12_q8.png
+9702,2024,March,1,2,9,NULL,1,"A basketball player hits a ball  vertically downwards with a sp eed of 2.4
+m s–1 from a height of
+0.90 m.
+Air resistance is negligible.
+What is the speed of the ball as it hits the ground?
+A 4 . 2  m s–1 B 4 . 8  m s–1 C 1 8  m s–1 D 2 3  m s–1
+6",NULL
+9702,2024,March,1,2,10,NULL,1,"A ball falls through a liquid at a constant speed. It is acted  upon by three forces: an upthrust, a
+drag force and its weight.
+The liquid has a uniform density.
+Which statement is correct?
+A The drag force increases with increasing depth.
+B The drag force is equal to the sum of the upthrust and weight.
+C The upthrust is constant with increasing depth.
+D The weight is greater than the sum of the drag force and the upthrust.",NULL
+9702,2024,March,1,2,11,NULL,1,"Some small solid cubes each have mass 1.0
+kg and sides of length 5.0  cm. These small cubes
+are stacked together to form a large solid cube with sides of length 2.0 m.
+What is the weight of the large cube?
+A 0 . 3 9 kN B 0 . 3 9 MN C 0 . 6 3 MN D 0 . 6 3 GN",NULL
+9702,2024,March,1,2,12,NULL,1,"A borehole of depth 2000
+m contains both oil and water, as shown. The pressure due to th e
+liquids at the bottom of the borehole is 17.5  MPa. The density of the oil is 830  kg m–3 a n d  t h e
+density of the water is 1000 kg m–3.
+oil
+water
+x
+2000 m
+What is the depth x of the oil?
+A 907 m B 1000 m C 1090 m D 1270 m
+7
+[diagram]",images/9702_m24_qp_12_q12.png
+9702,2024,March,1,2,13,NULL,1,"A rod is pivoted at one end. Initially the angle   of the rod to the horizontal is 0.
+The weight of the rod causes a moment M about the pivot.
+The rod is then rotated in the vertical plane so that the angle    of the rod increases from 0  to
+180.
+Which graph shows the variation of M with  ?
+0
+0 90/g113 180/g113 90/g113 180/g113
+90/g113 180/g113 90/g113 180/g113
+M
+A
+/g84
+0
+0
+M
+B
+/g84
+0
+0
+M
+C
+/g84/g84
+0
+0
+M
+D
+8
+[diagram]",images/9702_m24_qp_12_q13.png
+9702,2024,March,1,2,14,NULL,1,"A hinged trapdoor is held closed in the horizontal position by  a cable.
+Three forces act on the trapdoor: the weight  W of the door, the tension T in the cable and the
+force H at the hinge.
+wall
+hinge
+trapdoor
+cable
+W
+H
+T
+Which list gives the three forces in increasing order of magnitude?
+A H, T, W B T, H, W C W, H, T D W, T, H
+[diagram]",images/9702_m24_qp_12_q14.png
+9702,2024,March,1,2,15,NULL,1,"What is the definition of force?
+A the product of mass and acceleration
+B the product of mass and velocity
+C the rate of change of momentum
+D the rate of transfer of energy",NULL
+9702,2024,March,1,2,16,NULL,1,"A boat moves at a constant velocity v through still water.
+A constant drag force F acts on the boat.
+What is the power used by the boat to move through the water?
+A
+Fv2
+1  B Fv C 2
+2
+1 Fv  D 2Fv
+9",NULL
+9702,2024,March,1,2,17,NULL,1,"The diagram shows four forces acting on a circular disc.
+F
+F
+F
+F
+Each force has magnitude F. Two of the forces act vertically and the other two forces act
+horizontally.
+All four forces act in the same plane as the disc. No other forces act on the disc.
+The disc has diameter d.
+Which statement is correct?
+A The disc is in equilibrium because the resultant force is zero .
+B The disc is not in equilibrium because the resultant force is 4F.
+C The disc is in equilibrium because the resultant torque is zer o.
+D The disc is not in equilibrium because the resultant torque is 2Fd.
+[diagram]",images/9702_m24_qp_12_q17.png
+9702,2024,March,1,2,18,NULL,1,"A ball is projected into the air from horizontal ground and fo llows the path shown in the diagram.
+horizontal groundnot to scale
+path of ball
+1.5 m 1.3 m
+1.8 m 1.6 m
+Q
+R S
+T
+At points Q, R, S and T, the ball has kinetic energies EQ, ER, ES and ET respectively. The heights
+above the ground of these four points are shown.
+Air resistance is negligible.
+Which difference in kinetic energies is the smallest?
+A EQ – ES B ES – ER C ET – EQ D ET – ER
+10
+[diagram]",images/9702_m24_qp_12_q18.png
+9702,2024,March,1,2,19,NULL,1,"The battery of a small tablet computer is initially uncharged.  It is connected to a constant 10  W
+power supply for 2.0 hours to charge the battery.
+The efficiency of the charging process is 80%.
+What is the total energy stored in the battery?
+A 1 . 6   101
+J B 1 . 6   103
+J C 5 . 8   104
+J D 5 . 8   106
+J",NULL
+9702,2024,March,1,2,20,NULL,1,"An initially stationary firework explodes and splits into two fragments that move horizontally in
+opposite directions.
+The total kinetic energy transferred to the fragments by the explosion is E.
+One fragment has mass m and the other one has mass 2m.
+What is the speed of the fragment of mass m immediately after the explosion?
+A
+m
+E  B
+m
+E2  C
+m
+E
+3
+2  D
+m
+E
+3
+4",NULL
+9702,2024,March,1,2,21,NULL,1,"A spring is fixed at one end and extended by applying force F to the other end. The spring has
+extension x and elastic potential energy E
+P. The spring constant is k.
+The spring obeys Hooke’s law.
+Which relationship is correct for this spring?
+A EP  F B EP  x C EP  k D EP  x
+2",NULL
+9702,2024,March,1,2,22,NULL,1,"A force–extension graph is produced for a metal wire.
+What must describe the limit of proportionality of the wire?
+A the point at which the wire breaks
+B the point beyond which Hooke’s law is not obeyed
+C the point beyond which the wire cannot return to its original length
+D the point beyond which the wire starts to deform plastically
+11",NULL
+9702,2024,March,1,2,23,NULL,1,"A spring has a spring constant of 6.0  N cm–1. It is joined to another spring whose spring constant
+is 4.0 N cm–1. A load of 80 N is suspended from this composite spring.
+load
+80 N
+6.0 N cm–1
+4.0 N cm–1
+What is the extension of this composite spring?
+A 8 . 0  cm B 1 6  cm C 1 7  cm D 3 3  cm
+[diagram]",images/9702_m24_qp_12_q23.png
+9702,2024,March,1,2,24,NULL,1,"The range of frequencies of sound waves emitted by blue whales  is 10
+Hz to 40 Hz.
+The speed of sound in seawater is approximately 1.5 km s–1.
+What is the approximate range of wavelengths of the sound waves emitted by blue whales?
+A 6 . 7  mm to 27 mm
+B 3 . 8  cm to 15 cm
+C 6 . 7  m to 27 m
+D 3 8  m to 150 m
+12",NULL
+9702,2024,March,1,2,25,NULL,1,"A sound wave is detected by a microphone and displayed on the screen of a cathode-ray
+oscilloscope (CRO).
+1 cm
+1 cm
+The frequency of the wave is 2.5 kHz.
+What is the setting on the time-base of the CRO?
+A 0 . 1  ms cm–1 B 0 . 4  ms cm–1 C 0 . 1  s cm–1 D 0 . 4  s cm–1
+[diagram]",images/9702_m24_qp_12_q25.png
+9702,2024,March,1,2,26,NULL,1,"A source of sound waves with constant frequency moves towards a stationary observer.
+The observer compares the sound waves arriving at the observer’ s position with the waves
+emitted by the source of sound.
+What is detected by the observer?
+A a decreased frequency of the sound waves
+B no change in frequency of the sound waves
+C a decreased wavelength of the sound waves
+D no change in wavelength of the sound waves",NULL
+9702,2024,March,1,2,27,NULL,1,"Which type of waves cannot be polarised?
+A radio waves
+B sound waves
+C ultraviolet waves
+D X-rays
+13",NULL
+9702,2024,March,1,2,28,NULL,1,"A beam of light with power P has an area of cross-section A.
+The amplitude of the light waves in the beam is X.
+The beam of light is then changed to one with the same frequenc y but with an increased
+amplitude of 4X and an area of cross-section reduced to .
+3
+A
+What is the power of the new beam?
+A 1 . 3 P B 5 . 3 P C 1 2 P D 4 8 P",NULL
+9702,2024,March,1,2,29,NULL,1,"Two loudspeakers are connected to the same signal generator. T he signal generator produces a
+single frequency. The loudspeakers face each other so that a st ationary sound wave is set up in
+the region between the loudspeakers.
+loudspeaker
+microphone
+to CRO
+A microphone is connected to a cathode-ray oscilloscope (CRO) and positioned between the two
+loudspeakers.
+The microphone is moved along a line joining the two loudspeakers.
+The signal on the CRO shows 5 maximum amplitudes as the microph one moves. The
+microphone moves a distance of 2.0  m  f r o m  t h e  p o s i t i o n  t h a t  g i v e s  t h e  f i r s t  m a x i m u m  t o  t h e
+position that gives the fifth maximum.
+What is the wavelength of the sound wave?
+A 0 . 4 0 m B 0 . 5 0 m C 0 . 8 0 m D 1 . 0  m
+[diagram]",images/9702_m24_qp_12_q29.png
+9702,2024,March,1,2,30,NULL,1,"Two wave sources emit coherent waves.
+Which condition must be correct for the coherent waves?
+A The waves are emitted in phase.
+B The waves are emitted and move in opposite directions.
+C The waves are emitted with a constant phase difference.
+D The waves are emitted with the same amplitude.
+14",NULL
+9702,2024,March,1,2,31,NULL,1,"A student sets up an experiment to investigate double-slit int erference.
+The student uses light of a single wavelength from a laser to i lluminate a double slit so that a
+pattern of interference fringes is observed on the screen.
+laser
+r
+p
+double slit
+q
+screen
+fringes
+observed here
+The student finds that the fringes are very close together.
+What could the student decrease in order to increase the separation of the fringes on the
+screen?
+A the distance p from the laser to the double slit
+B the distance q from the double slit to the screen
+C the separation r of the slits
+D the wavelength of the light from the laser
+[diagram]",images/9702_m24_qp_12_q31.png
+9702,2024,March,1,2,32,NULL,1,"What are the definitions of potential difference (p.d.) and ele ctromotive force (e.m.f.), in terms of
+energy transfer W and charge q
+?
+p.d. e.m.f.
+A q
+W  q
+W
+B q
+W  Wq
+C Wq q
+W
+D Wq Wq",NULL
+9702,2024,March,1,2,33,NULL,1,"The diagram shows a network consisting of three resistors.
+X Y
+4.7 k/g58
+1.2 k/g58
+2.2 k/g58
+What is the combined resistance of the network between terminal X and terminal Y?
+A 0.67 k B 1.6 k C 3.2 k D 8.1 k
+15
+[diagram]",images/9702_m24_qp_12_q33.png
+9702,2024,March,1,2,34,NULL,1,"A resistor dissipates 25  W of power when there is a potential difference (p.d.) of 4.0 V across it.
+What is the resistance of the resistor?
+A 0 . 1 6  B 0 . 6 4  C 1 0 0   D 400  ",NULL
+9702,2024,March,1,2,35,NULL,1,"The diagram shows a cell with internal resistance connected in  parallel with a fixed resistor and a
+variable resistor.
+I
+V
+The resistance of the variable resistor is decreased.
+What happens to the potential difference V across the variable resistor and the current I in the
+variable resistor?
+V I
+A decreases decreases
+B decreases increases
+C increases decreases
+D increases increases
+[diagram]",images/9702_m24_qp_12_q35.png
+9702,2024,March,1,2,36,NULL,1,"A radioactive source produces a beam of -particles in a vacuum. The average current caused
+by the -particles in the beam is 1.5  10–9
+A.
+The beam is incident on a metal target.
+What is the average number of -particles hitting the metal target in a time of 3.0 s?
+A 4 . 7   109 B 9 . 4   109 C 1 . 4   1010 D 2 . 8   1010
+16
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.",NULL
+9702,2024,March,1,2,37,NULL,1,"The charge carriers in a metal wire are free electrons.
+Which statement about the charge of each free electron is correct?
+A The magnitude of the charge increases with the potential diffe rence across the wire.
+B The magnitude of the charge is zero unless there is a potentia l difference across the wire.
+C The sign and magnitude of the charge do not depend on the potential difference across the
+wire.
+D The sign of the charge depends on the potential difference acr oss the wire.",NULL
+9702,2024,March,1,2,38,NULL,1,"Which flavours of quark have charge + ?3
+2 e
+charm strange top bottom
+A     k e y
+B      = has charge + e 3
+2
+C      = does not have charge + e 3
+2
+D    
+[diagram]",images/9702_m24_qp_12_q38.png
+9702,2024,March,1,2,39,NULL,1,"An unstable nucleus of an element decays by emitting an -particle or a – particle to become a
+nucleus of a different element. This nucleus is also unstable a n d  e m i t s  a n  -particle or a
+– particle. The process continues until an isotope of the original element is produced.
+What is the minimum possible number of these particles emitted?
+A 2  B 3  C 4  D 5",NULL
+9702,2024,March,1,2,40,NULL,1,"A nucleus of carbon-10,  10
+6C, decays by beta-emission to form a nucleus of boron-10, 10
+5B.
+For this decay process, what is the change to a nucleon and wha t is the change in the quark
+composition of the nucleon?
+change to nucleon change in
+quark composition
+A proton to neutron down becomes up
+B proton to neutron up becomes down
+C neutron to proton down becomes up
+D neutron to proton up becomes down",NULL
+9702,2024,March,2,2,1,a,1,Table 1.1 lists some SI quantities. Complete the table by indicating with a tick (✓) which rows are SI base quantities.,NULL
+9702,2024,March,2,2,1,b,2,Use the definition of power to determine its SI base units.,NULL
+9702,2024,March,2,2,1,c,3,A light meter is used to measure the intensity of light in a classroom. Daylight is incident normally on the sensor of the meter. The sensor has an area of 2.2 cm^2. The reading on the meter is 950 W m^-2. Calculate the power of the daylight incident on the sensor.,NULL
+9702,2024,March,2,2,2,a,1,Define acceleration.,NULL
+9702,2024,March,2,2,2,b,3,"An Olympic diver stands on a platform above a pool of water, as shown in Fig. 2.1. When the diver is on the platform his centre of gravity is a vertical height of 9.0 m above the surface of the water. The diver jumps from the platform with a velocity of 5.9 m s^-1 at an angle of 60° to the horizontal. Air resistance is negligible. When the diver hits the surface of the water, his centre of gravity is a vertical height of 1.2 m above the surface of the water. Calculate the speed of the diver at the instant he hits the surface of the water.",images/9702_m24_22_qp_fig2_1.png
+9702,2024,March,2,2,2,c(i),2,The diver in (b) enters the water and decelerates. Describe and explain the variation of the viscous drag force acting on the diver in the water as he moves downwards.,NULL
+9702,2024,March,2,2,2,c(ii),1,The diver has a volume of 7.5 * 10^-2 m^3. The density of the water is 1.0 * 10^3 kg m^-3. Show that the upthrust acting on the diver when he is entirely underwater is 740 N.,NULL
+9702,2024,March,2,2,2,c(iii),4,At a particular instant when the diver is entirely underwater his horizontal velocity is zero. The viscous drag force acting on him at this instant is 950 N vertically upwards. The diver has mass 78 kg. Determine the magnitude and direction of the acceleration of the diver.,NULL
+9702,2024,March,2,2,3,NULL,NULL,"A thin metal wire X, of diameter 1.2 * 10^-3 m, is used to suspend a model planet, as shown in Fig. 3.1.",images/9702_m24_22_qp_fig3_1.png
+9702,2024,March,2,2,3,a(i),3,The variation with strain of the stress for wire X is shown in Fig. 3.2. The strain in X is 5.4 * 10^-3. Use Fig. 3.2 to calculate the force exerted on the wire by the model planet.,images/9702_m24_22_qp_fig3_2.png
+9702,2024,March,2,2,3,a(ii),3,The elastic potential energy of X is 0.31 J. Calculate the original length of the wire before the model planet was attached.,NULL
+9702,2024,March,2,2,3,b,2,"Wire X is replaced by a new wire, Y, with the same original length and diameter but double the Young modulus of X. Wire Y also obeys Hooke's law. On Fig. 3.2, draw a line representing the variation with strain of the stress for Y.",NULL
+9702,2024,March,2,2,4,a,2,A nucleus P undergoes alpha-decay to form nucleus Q. Complete the equation for this decay: 215/84 P -> .../... Q + .../... alpha,NULL
+9702,2024,March,2,2,4,b(i),2,State the principle of conservation of momentum.,NULL
+9702,2024,March,2,2,4,b(ii),2,"Before the decay, nucleus P has a speed of 3.2 * 10^5 m s^-1. After the decay, nucleus Q is stationary. Calculate the speed of the alpha particle after the decay.",NULL
+9702,2024,March,2,2,5,a,1,"By reference to the direction of propagation of energy, state what is meant by a transverse wave.",NULL
+9702,2024,March,2,2,5,b,1,A space telescope is designed to detect electromagnetic radiation with wavelengths in the range 12 um to 28 um. State the region of the electromagnetic spectrum for this radiation.,NULL
+9702,2024,March,2,2,5,c,3,A detector on another space telescope detects an electromagnetic wave. The signal from the detector is transmitted to Earth and displayed on an oscilloscope as shown in Fig. 5.1. The time-base setting on the oscilloscope is 5.0 * 10^-15 s cm^-1. Calculate the wavelength of the detected electromagnetic wave.,images/9702_m24_22_qp_fig5_1.png
+9702,2024,March,2,2,6,a(i),3,Coherent visible light... is illustrated in Fig. 6.1. There are seven bright fringes. Explain how the pattern of bright and dark interference fringes is formed.,images/9702_m24_22_qp_fig6_1.png
+9702,2024,March,2,2,6,a(ii),3,The distance between the centres of bright fringe X and bright fringe Y in the pattern is 10.2 mm. The slit spacing is 1.2 mm. The distance from the slits to the screen is 3.1 m. Calculate the wavelength of the light incident on the slits.,NULL
+9702,2024,March,2,2,6,a(iii),1,The light is replaced by different visible light with a shorter wavelength. State how the new fringe separation will compare to the original fringe separation.,NULL
+9702,2024,March,2,2,6,b(i),1,"A stationary wave is formed on a stretched string AB, as shown in Fig. 6.2. P, Q and R are points on the string. On Fig. 6.2, draw a cross (x) to show the position of a node.",images/9702_m24_22_qp_fig6_2.png
+9702,2024,March,2,2,6,b(ii),1,State the phase difference between P and Q.,NULL
+9702,2024,March,2,2,6,b(iii),1,State the phase difference between P and R.,NULL
+9702,2024,March,2,2,7,a,1,Define electric potential difference.,NULL
+9702,2024,March,2,2,7,b,3,"A cell of e.m.f. 1.8 V and internal resistance r is connected in parallel with a resistor of resistance 6.0 Ohm and a filament lamp, as shown in Fig. 7.1. The switch S is open. The ammeter reading is 0.25 A. Determine the internal resistance r of the cell.",images/9702_m24_22_qp_fig7_1.png
+9702,2024,March,2,2,7,c(i),1,"At time t1 switch S is closed. Fig. 7.2 shows the variation with time t of the ammeter reading I. State whether the e.m.f. of the cell after t1 is greater than, less than or the same as it was before t1.",images/9702_m24_22_qp_fig7_2.png
+9702,2024,March,2,2,7,c(ii),3,"By considering the effect of the lamp on the total resistance of the circuit, explain the variation of the ammeter reading shown in Fig. 7.2.",NULL
+9702,2024,March,2,2,8,a,1,State the name of the class (group) of fundamental particles that contains a neutrino.,NULL
+9702,2024,March,2,2,8,b(i),1,A hadron P has a charge of +1e. The hadron P is composed of a down antiquark and only one other quark. Identify a possible flavour for this other quark.,NULL
+9702,2024,March,2,2,8,b(ii),1,State what type of hadron is P.,NULL
+9702,2024,March,2,2,8,c(i),1,"Nucleus Q undergoes radioactive decay to form nucleus R, emitting an antineutrino and another particle X, as shown in the decay equation: Q -> R + X + anti-nu. State what particle is represented by X.",NULL
+9702,2024,March,2,2,8,c(ii),1,Compare the nucleon numbers of Q and R.,NULL
+9702,2024,March,2,2,8,c(iii),1,Compare the charges of Q and R.,NULL
+9702,2024,March,4,2,1,a,2,Explain why the gravitational potential near to a point mass is negative.,NULL
+9702,2024,March,4,2,1,b(i),2,The variation with 1/r of phi is shown in Fig. 1.1. Show that the mass of the planet is 8.8 * 10^25 kg.,images/9702_m24_42_qp_fig1_1.png
+9702,2024,March,4,2,1,b(ii),3,The period of rotation of the planet is 0.72 Earth days. A satellite in orbit around the planet remains above the same point on the surface. Determine the radius R of the orbit.,NULL
+9702,2024,March,4,2,1,b(iii),3,The speed of the satellite is 8400 m s^-1. Mass is 1200 kg. Determine the additional energy required to move the satellite to infinity.,NULL
+9702,2024,March,4,2,2,a,2,"By referring to both kinetic energy and potential energy, explain what is meant by the internal energy of an ideal gas.",NULL
+9702,2024,March,4,2,2,b(i),2,"Sealed in a cylinder by a piston, as shown in Fig. 2.1. Initial volume 1.24 * 10^-4 m^3. Thermal energy supplied and volume increases by 5.20 * 10^-5 m^3. Pressure is 1.01 * 10^5 Pa. Calculate work done by gas.",images/9702_m24_42_qp_fig2_1.png
+9702,2024,March,4,2,2,b(ii),2,Calculate the final thermodynamic temperature T of the gas.,NULL
+9702,2024,March,4,2,2,b(iii),2,Mass is 16 g. Net transfer of 960 J. Calculate specific heat capacity c at this pressure.,NULL
+9702,2024,March,4,2,2,c,3,Piston now fixed. Same temp change. Use first law of thermodynamics to compare c for this situation.,NULL
+9702,2024,March,4,2,3,NULL,NULL,"A small object of mass 24 g rests on a platform. The platform is attached to an oscillator, as shown in Fig. 3.1.",images/9702_m24_42_qp_fig3_1.png
+9702,2024,March,4,2,3,a,3,Total energy 2.2 * 10^-4 J. Total distance in one oscillation 14 mm. Calculate angular frequency omega.,NULL
+9702,2024,March,4,2,3,b(i),2,Calculate maximum amplitude so object does not lose contact.,NULL
+9702,2024,March,4,2,3,b(ii),2,State and explain position where object first loses contact.,NULL
+9702,2024,March,4,2,4,a,2,Three capacitors connected as shown in Fig. 4.1. Determine total capacitance.,images/9702_m24_42_qp_fig4_1.png
+9702,2024,March,4,2,4,b,2,45 uF capacitor. PD increases from 8.0 V to 9.6 V. Calculate increase in energy delta E.,NULL
+9702,2024,March,4,2,4,c(i),1,Complete circuit in Fig. 4.2 by adding a smoothing capacitor.,images/9702_m24_42_qp_fig4_2.png
+9702,2024,March,4,2,4,c(ii),3,Variation in Fig. 4.3. Determine time constant.,images/9702_m24_42_qp_fig4_3.png
+9702,2024,March,4,2,4,d(i),1,Mean power for full-wave rectified (max 16 W).,NULL
+9702,2024,March,4,2,4,d(ii),1,Mean power for half-wave rectified.,NULL
+9702,2024,March,4,2,5,a,2,State names of two quantities that vary during circular motion at constant speed.,NULL
+9702,2024,March,4,2,5,b(i),3,Consider magnetic force. Show that B = 2 pi m / (q T).,NULL
+9702,2024,March,4,2,5,b(ii),2,Alpha particle. T = 2.5 us. Calculate B.,NULL
+9702,2024,March,4,2,5,b(iii),1,Second alpha particle. Radius 2r. State and explain periods.,NULL
+9702,2024,March,4,2,5,b(iv),2,Speed 1.1 * 10^6 m s^-1. Calculate electric field strength E.,NULL
+9702,2024,March,4,2,6,a(i),1,Coil C inside solenoid shown in Fig. 6.1. Move from X to Y. Sketch flux linkage in Fig. 6.2.,images/9702_m24_42_qp_fig6_1.png
+9702,2024,March,4,2,6,a(i),1,Sketch Fig 6.2,images/9702_m24_42_qp_fig6_2.png
+9702,2024,March,4,2,6,a(ii),2,Explain shape of line in (a)(i).,NULL
+9702,2024,March,4,2,6,a(iii),2,Current varies as shown in Fig. 6.3. Calculate maximum flux linkage.,images/9702_m24_42_qp_fig6_3.png
+9702,2024,March,4,2,6,a(iv),3,"On Fig. 6.4, sketch induced emf E.",images/9702_m24_42_qp_fig6_4.png
+9702,2024,March,4,2,6,b,3,Metal spring shown in Fig. 6.5. Describe and explain change in distance between turns.,images/9702_m24_42_qp_fig6_5.png
+9702,2024,March,4,2,7,a,2,Photon energy 3.11 * 10^-19 J. Calculate momentum.,NULL
+9702,2024,March,4,2,7,b(i),2,"Laser 350 mW, 640 nm. Determine number of photons in 1.0 s.",NULL
+9702,2024,March,4,2,7,b(ii),2,Incident normally and absorbed. Show that F = P/c.,NULL
+9702,2024,March,4,2,7,c(i),1,Work function in Table 7.1. Explain term threshold wavelength.,NULL
+9702,2024,March,4,2,7,c(ii),2,Calculate value of character threshold wavelength for metals in Table 7.1.,NULL
+9702,2024,March,4,2,8,a,2,State meant by binding energy of a nucleus.,NULL
+9702,2024,March,4,2,8,b(i),1,U-235 absorbs neutron ... xenon-142 + strontium-90 + neutrons. Determine number of neutrons.,NULL
+9702,2024,March,4,2,8,b(ii),2,Binding energy in Table 8.1. Calculate energy released from fission of one U-235.,NULL
+9702,2024,March,4,2,8,b(iii),1,Suggest reason why xenon-142 is unstable.,NULL
+9702,2024,March,4,2,8,b(iv),3,"After 6.0 s, decayed/undecayed = 31. Calculate half-life.",NULL
+9702,2024,March,4,2,9,a(i),2,84 kV PD. Calculate minimum wavelength of X-rays.,NULL
+9702,2024,March,4,2,9,a(ii),2,Melting points in Table 9.1. Suggest why tungsten used.,NULL
+9702,2024,March,4,2,9,b,3,Soft tissue and bone in Fig. 9.1. Transmitted intensity 13%. Data in Table 9.2. Determine x.,images/9702_m24_42_qp_fig9_1.png
+9702,2024,March,4,2,9,c(i),2,Define specific acoustic impedance.,NULL
+9702,2024,March,4,2,9,c(ii),2,Calculate percentage of intensity of ultrasound transmitted at boundary.,NULL
+9702,2024,March,4,2,9,c(iii),2,Suggest two reasons why transmitted intensity is less.,NULL
+9702,2024,March,4,2,10,a(i),2,"Sun Temp 5780 K, Lum 3.85 * 10^26 W. Calculate radius of Sun.",NULL
+9702,2024,March,4,2,10,a(ii),2,Earth distance 1.50 * 10^11 m. Calculate radiant flux intensity F.,NULL
+9702,2024,March,4,2,10,a(iii),2,"Shown in Fig. 10.1. Another star same radius, lower temp. Sketch in Fig. 10.1.",images/9702_m24_42_qp_fig10_1.png
+9702,2024,March,4,2,10,b(i),1,Galaxy moving away. Sun spectrum in Fig. 10.2. Sketch emission spectrum for star in Corona Borealis in Fig. 10.3.,images/9702_m24_42_qp_fig10_2.png
+9702,2024,March,4,2,10,b(i),1,Sketch in Fig 10.3,images/9702_m24_42_qp_fig10_3.png
+9702,2024,March,4,2,10,b(ii),2,Galaxy moving away at 21400 km s^-1. Calculate observed wavelength of lowest visible energy emission.,NULL
+9702,2024,March,4,2,10,b(iii),1,State whether temperature calculation is too high or too low.,NULL
+9702,2024,Winter,4,2,1,NULL,NULL,"A metal wheel consists of an axle A, eight spokes and a rim, as shown in Fig. 1.1.",images/9702_w24_42_qp_fig1_1.png
+9702,2024,Winter,4,2,1,a(i),2,Determine the speed of point X.,NULL
+9702,2024,Winter,4,2,1,a(ii),2,Determine centripetal acceleration.,NULL
+9702,2024,Winter,4,2,1,b(i),2,State Lenz's law.,NULL
+9702,2024,Winter,4,2,1,b(ii),1,Show time for one revolution is 45 ms.,NULL
+9702,2024,Winter,4,2,1,b(iii),3,Calculate magnetic flux cut by spoke AX.,NULL
+9702,2024,Winter,4,2,2,a,1,Define gravitational field.,NULL
+9702,2024,Winter,4,2,2,b(i),2,Probe distance 1.47 * 10^11 m. Calculate g.,NULL
+9702,2024,Winter,4,2,2,b(ii),2,Determine gravitational potential energy.,NULL
+9702,2024,Winter,4,2,2,c(i),3,Show g and F relation.,NULL
+9702,2024,Winter,4,2,2,c(ii),2,Fig. 2.1 shows variation. Determine luminosity L.,images/9702_w24_42_qp_fig2_1.png
+9702,2024,Winter,4,2,3,a,2,Define specific latent heat.,NULL
+9702,2024,Winter,4,2,3,b(i),2,Liquid vaporises. Show work done is 1.7 kJ.,NULL
+9702,2024,Winter,4,2,3,b(ii),2,Calculate thermal energy Q.,NULL
+9702,2024,Winter,4,2,3,c,3,Suggest and explain if LF less than LV.,NULL
+9702,2024,Winter,4,2,4,a,3,State three basic assumptions of kinetic theory.,NULL
+9702,2024,Winter,4,2,4,b,3,Explain how molecular movement causes pressure.,NULL
+9702,2024,Winter,4,2,4,c,3,Conclusions from Fig. 4.1 and 4.2.,images/9702_w24_42_qp_fig4_1.png
+9702,2024,Winter,4,2,4,c,3,Fig 4.2 data,images/9702_w24_42_qp_fig4_2.png
+9702,2024,Winter,4,2,5,a,1,Draw arrow on Fig. 5.1 for resultant force.,images/9702_w24_42_qp_fig5_1.png
+9702,2024,Winter,4,2,5,b(i),1,State amplitude from Fig. 5.2.,images/9702_w24_42_qp_fig5_2.png
+9702,2024,Winter,4,2,5,b(ii),2,Determine angular frequency.,NULL
+9702,2024,Winter,4,2,5,c,3,Sketch kinetic energy in Fig. 5.3.,images/9702_w24_42_qp_fig5_3.png
+9702,2024,Winter,4,2,6,a,2,State Coulomb's law.,NULL
+9702,2024,Winter,4,2,6,b,3,Draw field lines on Fig. 6.1.,images/9702_w24_42_qp_fig6_1.png
+9702,2024,Winter,4,2,6,c(i),1,Determine radius from Fig. 6.2.,images/9702_w24_42_qp_fig6_2.png
+9702,2024,Winter,4,2,7,a,2,Define capacitance.,NULL
+9702,2024,Winter,4,2,7,b(i),2,Sketch charge vs p.d. in Fig. 7.1.,images/9702_w24_42_qp_fig7_1.png
+9702,2024,Winter,4,2,7,c(i),3,Connected to Y in Fig. 7.2. Complete Table 7.1.,images/9702_w24_42_qp_fig7_2.png
+9702,2024,Winter,4,2,8,b(ii),3,Sketch I vs t in Fig. 8.1.,images/9702_w24_42_qp_fig8_1.png
+9702,2024,Winter,4,2,9,d(i),2,Sketch p vs 1/lambda in Fig. 9.1.,images/9702_w24_42_qp_fig9_1.png
+9702,2024,Winter,4,2,10,a(i),1,State meant by random.,NULL
+9702,2024,Winter,2,2,1,a,1,State what is meant by a vector quantity.,NULL
+9702,2024,Winter,2,2,1,b,NULL,"A sphere falls vertically through a liquid that has density 830 kg m^-3. The sphere has radius r and constant velocity v, as shown in Fig. 1.1.",images/9702_w24_22_qp_fig1_1.png
+9702,2024,Winter,2,2,1,b(i),3,The drag force D acting on the sphere is given by D = 6 pi r eta v. Determine the SI base units of eta.,NULL
+9702,2024,Winter,2,2,1,b(ii),1,"State an equation showing relationship between magnitudes of weight W, drag force D and upthrust U.",NULL
+9702,2024,Winter,2,2,1,b(iii),2,Volume is 4.6 cm^3. D is 0.32 N. Calculate weight of sphere.,NULL
+9702,2024,Winter,2,2,2,a,1,Define momentum.,NULL
+9702,2024,Winter,2,2,2,b,2,"Child on scooter, mass 16 kg. Accelerates from rest for 1.1 s to speed 0.60 m s^-1. Determine average resultant force.",NULL
+9702,2024,Winter,2,2,2,c,2,Travels down slope shown in Fig. 2.1. Acceleration 0.85 m s^-2 for 3.7 s from speed 0.60 m s^-1. Calculate distance x.,images/9702_w24_22_qp_fig2_1.png
+9702,2024,Winter,2,2,2,d(i),2,Braking force to maintain constant velocity from B to C (18 m) as shown in Fig. 2.2. Work done 250 J. Determine braking force.,images/9702_w24_22_qp_fig2_2.png
+9702,2024,Winter,2,2,2,d(ii),3,"On Fig. 2.3, sketch variation of kinetic energy with distance from A to C.",images/9702_w24_22_qp_fig2_3.png
+9702,2024,Winter,2,2,3,a(i),2,Stress vs strain in Fig. 3.1. Determine Young modulus.,images/9702_w24_22_qp_fig3_1.png
+9702,2024,Winter,2,2,3,a(ii),1,"On Fig. 3.1, draw cross to show limit of proportionality Q.",NULL
+9702,2024,Winter,2,2,3,b,2,State conditions for equilibrium.,NULL
+9702,2024,Winter,2,2,3,c(i),3,Shelf AB horizontally as shown in Fig. 3.2. Weight 33 N. Cup 1.5 N at 0.12 m from B. Determine tension T.,images/9702_w24_22_qp_fig3_2.png
+9702,2024,Winter,2,2,3,c(ii),2,Stress is 1.5 * 10^7 Pa. Determine radius.,NULL
+9702,2024,Winter,2,2,3,c(iii),2,Stress doubles. State and explain behavior using Fig. 3.1.,NULL
+9702,2024,Winter,2,2,4,a,2,Compare oscillations of transverse and longitudinal waves.,NULL
+9702,2024,Winter,2,2,4,b(i),1,Stationary wave in Fig. 4.1. Mark A at antinode.,images/9702_w24_22_qp_fig4_1.png
+9702,2024,Winter,2,2,4,b(ii),3,Distance 4.5 * 10^-2 m. Speed 340 m s^-1. Determine frequency.,NULL
+9702,2024,Winter,2,2,4,b(iii),2,Piston moved left. Frequency changed to form same number of antinodes. Explain change to frequency.,NULL
+9702,2024,Winter,2,2,5,a,1,Define potential difference.,NULL
+9702,2024,Winter,2,2,5,b,NULL,Power supply 230 V. Current 7.0 A. Circuit shown in Fig. 5.1.,images/9702_w24_22_qp_fig5_1.png
+9702,2024,Winter,2,2,5,b(i),1,Identify component X.,NULL
+9702,2024,Winter,2,2,5,b(ii),1,Show pd across 0.86 Ohm is 6.0 V.,NULL
+9702,2024,Winter,2,2,5,b(iii),2,Determine current I1.,NULL
+9702,2024,Winter,2,2,5,b(iv),2,Calculate pd across component X.,NULL
+9702,2024,Winter,2,2,5,b(v),2,Calculate power in X.,NULL
+9702,2024,Winter,2,2,5,b(vi),2,Determine percentage efficiency.,NULL
+9702,2024,Winter,2,2,5,b(vii),1,170 Ohm removed. State if current in supply increases/decreases.,NULL
+9702,2024,Winter,2,2,6,a,3,Compare alpha with beta+ in terms of mass and charge.,NULL
+9702,2024,Winter,2,2,6,b,NULL,"P undergoes alpha-decay to Q, then Q decays to R. Fig. 6.1 shows proton/nucleon numbers.",images/9702_w24_22_qp_fig6_1.png
+9702,2024,Winter,2,2,6,b(i),1,"On Fig. 6.1, draw cross for Q.",NULL
+9702,2024,Winter,2,2,6,b(ii),2,State names of particles as Q decays to R.,NULL
+9702,2024,Winter,2,2,6,c,NULL,P traveling at constant velocity. After decay Q at 68 degrees. Alpha at theta as shown in Fig. 6.2.,images/9702_w24_22_qp_fig6_2.png
+9702,2024,Winter,2,2,6,c(i),3,Determine theta.,NULL
+9702,2024,Winter,2,2,6,c(ii),2,Calculate kinetic energy of alpha.,NULL
+9702,2024,Winter,1,2,1,NULL,1,Which row does not show a correct combination of a quantity and its unit?,NULL
+9702,2024,Winter,1,2,2,NULL,1,What is a reasonable estimate of the kinetic energy of the car?,NULL
+9702,2024,Winter,1,2,3,NULL,1,A solid bar has a square cross-section. Calculate percentage uncertainty in volume.,NULL
+9702,2024,Winter,1,2,4,NULL,1,Which graph shows the variation with time of the velocity of the object?,images/9702_w24_12_qp_fig4.png
+9702,2024,Winter,1,2,5,NULL,1,Stone falls vertically. What is the speed after 0.40 m?,NULL
+9702,2024,Winter,1,2,6,NULL,1,Ball thrown horizontally. Which statement about motion is correct?,NULL
+9702,2024,Winter,1,2,7,NULL,1,Moving object strikes stationary object. Possible values of momentum/KE?,NULL
+9702,2024,Winter,1,2,8,NULL,1,Which quantities could X and Y represent for terminal velocity?,images/9702_w24_12_qp_fig8.png
+9702,2024,Winter,1,2,9,NULL,1,Ball collides with wall and rebounds. Average force?,NULL
+9702,2024,Winter,1,2,10,NULL,1,Two train carriages collide and join. Kinetic energy lost?,images/9702_w24_12_qp_fig10.png
+9702,2024,Winter,1,2,11,NULL,1,Single condition for equilibrium?,NULL
+9702,2024,Winter,1,2,12,NULL,1,Kite in equilibrium. Which vector diagram represents forces?,images/9702_w24_12_qp_fig12.png
+9702,2024,Winter,1,2,13,NULL,1,Four forces act about point P. Length XY?,images/9702_w24_12_qp_fig13.png
+9702,2024,Winter,1,2,14,NULL,1,Rectangular block of lead. Maximum pressure?,NULL
+9702,2024,Winter,1,2,15,NULL,1,Definition of power?,NULL
+9702,2024,Winter,1,2,16,NULL,1,Model car constant velocity. Total horizontal resistive force?,NULL
+9702,2024,Winter,1,2,17,NULL,1,Principle of conservation of energy?,NULL
+9702,2024,Winter,1,2,18,NULL,1,Barrel loaded onto lorry. Minimum work done?,images/9702_w24_12_qp_fig18.png
+9702,2024,Winter,1,2,19,NULL,1,Unit for stress?,NULL
+9702,2024,Winter,1,2,20,NULL,1,Stress-strain relationship for three wires. Correct statements?,images/9702_w24_12_qp_fig20.png
+9702,2024,Winter,1,2,21,NULL,1,Four solid steel rods support object. Young modulus of steel?,NULL
+9702,2024,Winter,1,2,22,NULL,1,Which area represents work done in stretching the spring?,images/9702_w24_12_qp_fig22.png
+9702,2024,Winter,1,2,23,NULL,1,Vertically polarised light amplitude A. Amplitude after filter?,NULL
+9702,2024,Winter,1,2,24,NULL,1,Progressive longitudinal sound wave. Variation of displacement graph?,images/9702_w24_12_qp_fig24.png
+9702,2024,Winter,1,2,25,NULL,1,Electromagnetic wave frequency 3.0*10^16 Hz. Principal region?,NULL
+9702,2024,Winter,1,2,26,NULL,1,Source of sound moves. Smallest observed frequency?,NULL
+9702,2024,Winter,1,2,27,NULL,1,Description of time-base of a CRO?,NULL
+9702,2024,Winter,1,2,28,NULL,1,What happens when two waves superpose?,NULL
+9702,2024,Winter,1,2,29,NULL,1,Single slit diffraction. Change to decrease diffraction?,NULL
+9702,2024,Winter,1,2,30,NULL,1,Visible light incident on grating. Wavelength?,images/9702_w24_12_qp_fig30.png
+9702,2024,Winter,1,2,31,NULL,1,Horizontal glass tube dust heaps. Frequency of sound?,images/9702_w24_12_qp_fig31.png
+9702,2024,Winter,1,2,32,NULL,1,Total charge through resistor. Correct statement?,NULL
+9702,2024,Winter,1,2,33,NULL,1,Filament lamp pd raised. I-V graph?,images/9702_w24_12_qp_fig33.png
+9702,2024,Winter,1,2,34,NULL,1,Current 12 A in wire. Number of free electrons?,NULL
+9702,2024,Winter,1,2,35,NULL,1,Three resistors connected. Circuit with 100 Ohm combined resistance?,images/9702_w24_12_qp_fig35.png
+9702,2024,Winter,1,2,36,NULL,1,Kirchhoff's laws conservation basis?,NULL
+9702,2024,Winter,1,2,37,NULL,1,Cell internal resistance calculation.,NULL
+9702,2024,Winter,1,2,38,NULL,1,Not a quark flavour?,NULL
+9702,2024,Winter,1,2,39,NULL,1,Down quarks in hydrogen-3 nucleus?,NULL
+9702,2024,Winter,1,2,40,NULL,1,Beta-plus emission additional particle?,NULL
+9702,2024,Summer,1,2,1,NULL,1,Which quantity is a scalar?,NULL
+9702,2024,Summer,1,2,2,NULL,1,Density of a solid sphere mass M and diameter d. Which expression is correct?,NULL
+9702,2024,Summer,1,2,3,NULL,1,Velocity vs time graph for falling object. Terminal velocity point?,NULL
+9702,2024,Summer,1,2,4,NULL,1,Percentage uncertainty in kinetic energy calculation.,NULL
+9702,2024,Summer,1,2,5,NULL,1,Ball falling with air resistance. Which statement about acceleration is correct?,images/9702_s24_12_qp_fig5.png
+9702,2024,Summer,1,2,6,NULL,1,Force vs time graph for collision. Average force?,images/9702_s24_12_qp_fig6.png
+9702,2024,Summer,1,2,7,NULL,1,Elastic collision between two spheres. Which property is conserved?,NULL
+9702,2024,Summer,1,2,8,NULL,1,Density calculation for a cube.,NULL
+9702,2024,Summer,1,2,9,NULL,1,Two forces in equilibrium. Resultant moment about point P?,NULL
+9702,2024,Summer,1,2,10,NULL,1,Beam in equilibrium on two supports. Force calculation.,images/9702_s24_12_qp_fig10.png
+9702,2024,Summer,1,2,11,NULL,1,Diagram showing forces on a kite. Resultant force?,images/9702_s24_12_qp_fig11.png
+9702,2024,Summer,1,2,12,NULL,1,Hydrostatic pressure calculation in two liquids.,images/9702_s24_12_qp_fig12.png
+9702,2024,Summer,1,2,13,NULL,1,Efficiency calculation for a motor lifting a load.,NULL
+9702,2024,Summer,1,2,14,NULL,1,Work done per unit time definition?,NULL
+9702,2024,Summer,1,2,15,NULL,1,Mass-spring system extensions.,images/9702_s24_12_qp_fig15.png
+9702,2024,Summer,1,2,16,NULL,1,Young modulus calculation for a wire.,NULL
+9702,2024,Summer,1,2,17,NULL,1,Stress-strain graph regions and Hooke's law.,NULL
+9702,2024,Summer,1,2,18,NULL,1,Progressive transverse wave. Phase difference between points?,images/9702_s24_12_qp_fig18.png
+9702,2024,Summer,1,2,19,NULL,1,Sound wave intensity vs distance.,images/9702_s24_12_qp_fig19.png
+9702,2024,Summer,1,2,20,NULL,1,Doppler effect calculation for a moving source.,images/9702_s24_12_qp_fig20.png
+9702,2024,Summer,1,2,21,NULL,1,Electromagnetic wave spectrum regions.,images/9702_s24_12_qp_fig21.png
+9702,2024,Summer,1,2,22,NULL,1,Polarisation of electromagnetic waves.,NULL
+9702,2024,Summer,1,2,23,NULL,1,Stationary wave on a string. Node positions?,images/9702_s24_12_qp_fig23.png
+9702,2024,Summer,1,2,24,NULL,1,Diffraction of waves through a slit.,NULL
+9702,2024,Summer,1,2,25,NULL,1,Interference pattern from two sources.,NULL
+9702,2024,Summer,1,2,26,NULL,1,Diffraction grating wavelength calculation.,images/9702_s24_12_qp_fig26.png
+9702,2024,Summer,1,2,27,NULL,1,Cathode-ray oscilloscope settings.,NULL
+9702,2024,Summer,1,2,28,NULL,1,What is the definition of current?,NULL
+9702,2024,Summer,1,2,29,NULL,1,Charge carrier drift speed in a wire.,NULL
+9702,2024,Summer,1,2,30,NULL,1,Potential difference across a parallel combination of resistors.,NULL
+9702,2024,Summer,1,2,31,NULL,1,Kirchhoff's first law application to a junction.,images/9702_s24_12_qp_fig31.png
+9702,2024,Summer,1,2,32,NULL,1,Resistance of a thermistor from graph.,NULL
+9702,2024,Summer,1,2,33,NULL,1,Internal resistance of a battery.,NULL
+9702,2024,Summer,1,2,34,NULL,1,Potentiometer circuit balance length.,NULL
+9702,2024,Summer,1,2,35,NULL,1,Combined resistance of three resistors.,images/9702_s24_12_qp_fig35.png
+9702,2024,Summer,1,2,36,NULL,1,Electricity circuit Kirchhoff's second law loop.,images/9702_s24_12_qp_fig36.png
+9702,2024,Summer,1,2,37,NULL,1,Which particle is a baryon?,NULL
+9702,2024,Summer,1,2,38,NULL,1,Quark composition of a neutron.,NULL
+9702,2024,Summer,1,2,39,NULL,1,Weak interaction decay particle emitted.,NULL
+9702,2024,Summer,1,2,40,NULL,1,Beta-minus decay nucleus change.,NULL
+9702,2024,Summer,2,2,1,a,1,"Circle all scalar quantities in the list: acceleration, charge, displacement, momentum, weight.",NULL
+9702,2024,Summer,2,2,1,b,NULL,A square solar panel with sides of length 1300 mm is shown in Fig. 1.1.,images/9702_s24_22_qp_fig1_1.png
+9702,2024,Summer,2,2,1,b(i),3,Solar radiation power 750 W. Determine intensity.,NULL
+9702,2024,Summer,2,2,1,b(ii),2,"Uncertainty in length 5 mm, in power 3%. Calculate percentage uncertainty in intensity.",NULL
+9702,2024,Summer,2,2,2,a,NULL,A skydiver jumps from aircraft. Velocity-time graph is shown in Fig. 2.1.,images/9702_s24_22_qp_fig2_1.png
+9702,2024,Summer,2,2,2,a(i),1,State terminal velocity.,NULL
+9702,2024,Summer,2,2,2,a(ii),2,Determine acceleration at 18 s.,NULL
+9702,2024,Summer,2,2,2,b,3,Mass 68 kg. Parachute opens and average upward force 1800 N. Determine acceleration.,NULL
+9702,2024,Summer,2,2,3,a,2,Average current 3.3 * 10^4 A for 2.6 * 10^-5 s. Calculate charge.,NULL
+9702,2024,Summer,2,2,3,b,2,Potential 3.0 * 10^7 V. Calculate power GW.,NULL
+9702,2024,Summer,2,2,3,c,NULL,Copper building strip shown in Fig. 3.1.,images/9702_s24_22_qp_fig3_1.png
+9702,2024,Summer,2,2,3,c(i),3,"Resistance 9.6 mOhm, resistivity 1.7 * 10^-8, length 95 m. Determine radius.",NULL
+9702,2024,Summer,2,2,3,d,NULL,Pressure applied as shown in Fig. 3.2.,images/9702_s24_22_qp_fig3_2.png
+9702,2024,Summer,2,2,3,d,3,Pressure 1.9 * 10^6 Pa. Young modulus 1.3 * 10^11 Pa. Width 0.12 m. Calculate compression x.,NULL
+9702,2024,Summer,2,2,4,a,NULL,Pinball machine spring 8.0 cm compressed as shown in Fig. 4.1.,images/9702_s24_22_qp_fig4_1.png
+9702,2024,Summer,2,2,4,a,2,Spring constant 29 N m^-1. Calculate elastic energy.,NULL
+9702,2024,Summer,2,2,4,b(i),3,Ball mass 45 g launched angle 15 degrees. Determine gain in GPE.,NULL
+9702,2024,Summer,2,2,4,b(ii),3,Calculate launch speed.,NULL
+9702,2024,Summer,2,2,4,c,NULL,Ball launched as shown in Fig. 4.2.,images/9702_s24_22_qp_fig4_2.png
+9702,2024,Summer,2,2,4,c(i),3,Force 1.7 N at 2.0 cm. Calculate distance d from hinge.,NULL
+9702,2024,Summer,2,2,5,a,1,State Kirchhoff's second law.,NULL
+9702,2024,Summer,2,2,5,b,NULL,Circuit and thermistor graph shown in Fig. 5.1 and 5.2.,images/9702_s24_22_qp_fig5_1.png
+9702,2024,Summer,2,2,5,b,NULL,Thermistor characteristic.,images/9702_s24_22_qp_fig5_2.png
+9702,2024,Summer,2,2,5,b(i),2,9.0 V supply. PD across X is 4.0 V at 11 mA. Calculate resistance of X.,NULL
+9702,2024,Summer,2,2,6,a,NULL,Semicircular screen shown in Fig. 6.1.,images/9702_s24_22_qp_fig6_1.png
+9702,2024,Summer,2,2,6,a,3,"Wavelength 520 nm, slit separation 3.8 microns. Calculate number of bright fringes.",NULL
+9702,2024,Summer,2,2,7,a,1,Identify category (category/hadron).,NULL
+9702,2024,Summer,2,2,7,b,2,Identify second quarks in Q and R from Table 7.1.,NULL
+9702,2024,Summer,4,2,1,a,1,Define radian.,NULL
+9702,2024,Summer,4,2,1,b,NULL,Metal disc spins as shown in Fig. 1.1.,images/9702_s24_42_qp_fig1_1.png
+9702,2024,Summer,4,2,1,b(i),1,Draw arrow V for velocity of clay.,NULL
+9702,2024,Summer,4,2,1,b(ii),1,Draw arrow A for acceleration.,NULL
+9702,2024,Summer,4,2,1,c,NULL,Disc radius 9.3 cm. Clay speed 0.68 m s^-1.,NULL
+9702,2024,Summer,4,2,1,c(i),2,Determine angular speed Omega.,NULL
+9702,2024,Summer,4,2,1,d,NULL,Second clay attached as shown in Fig. 1.2.,images/9702_s24_42_qp_fig1_2.png
+9702,2024,Summer,4,2,1,d,3,"Compare angular speed, linear speed, and acceleration for second piece.",NULL
+9702,2024,Summer,4,2,2,a,1,State what is meant by thermal equilibrium.,NULL
+9702,2024,Summer,4,2,2,b,NULL,Two cylinders shown in Fig. 2.1.,images/9702_s24_42_qp_fig2_1.png
+9702,2024,Summer,4,2,2,b(i),2,"Cylinder X: 0.740 mol, 0.0260 m^3, 1.20 * 10^5 Pa. Determine temperature.",NULL
+9702,2024,Summer,4,2,4,a,NULL,Oscillating block and graph shown in Fig. 4.1 and 4.2.,images/9702_s24_42_qp_fig4_1.png
+9702,2024,Summer,4,2,4,a,NULL,Acceleration-displacement graph.,images/9702_s24_42_qp_fig4_2.png
+9702,2024,Summer,4,2,4,a,2,Explain how Fig. 4.2 shows SHM.,NULL
+9702,2024,Summer,4,2,5,a,2,Define electric potential.,NULL
+9702,2024,Summer,4,2,5,b,NULL,Two spheres and graph in Fig. 5.1 and 5.2.,images/9702_s24_42_qp_fig5_1.png
+9702,2024,Summer,4,2,5,b,NULL,Potential variation graph.,images/9702_s24_42_qp_fig5_2.png
+9702,2024,Summer,4,2,5,b,3,State three conclusions about the spheres from Fig. 5.2.,NULL
+9702,2024,Summer,4,2,6,a,NULL,Capacitor circuit shown in Fig. 6.1.,images/9702_s24_42_qp_fig6_1.png
+9702,2024,Summer,4,2,6,a,3,Derive expression for total capacitance in series.,NULL
+9702,2024,Summer,4,2,6,b(iii),2,Sketch energy stored variation with CQ graph template in Fig. 6.2.,images/9702_s24_42_qp_fig6_2.png
+9702,2024,Summer,4,2,7,a,2,State Faraday's law of electromagnetic induction.,NULL
+9702,2024,Summer,4,2,7,b,NULL,Coil in field shown in Fig. 7.1.,images/9702_s24_42_qp_fig7_1.png
+9702,2024,Summer,4,2,7,b,NULL,B-t graph variation in Fig. 7.2.,images/9702_s24_42_qp_fig7_2.png
+9702,2024,Summer,4,2,7,b,NULL,Induced emf variation template in Fig. 7.3.,images/9702_s24_42_qp_fig7_3.png
+9702,2024,Summer,4,2,8,a,NULL,Hydrogen emission spectrum in star star shown in Fig. 8.1.,images/9702_s24_42_qp_fig8_1.png
+9702,2024,Summer,4,2,8,a(i),2,Explain why observed lines differ.,NULL
+9702,2024,Summer,4,2,9,c(i),2,Sketch binding energy per nucleon variation with A graph template in Fig. 9.1.,images/9702_s24_42_qp_fig9_1.png
+9702,2024,Summer,4,3,1,a,2,Define gravitational potential at a point.,NULL
+9702,2024,Summer,4,3,1,b,NULL,Two planets of mass M and 3M shown in Fig. 1.1.,images/9702_s24_43_qp_fig1_1.png
+9702,2024,Summer,4,3,2,a,NULL,Temperature scales.,NULL
+9702,2024,Summer,4,3,2,a(i),1,State thermodynamic temperature at absolute zero.,NULL
+9702,2024,Summer,4,3,2,b,NULL,Platinum thermometer shown in Fig. 2.1.,images/9702_s24_43_qp_fig2_1.png
+9702,2024,Summer,4,3,2,b,NULL,Resistivity variation in Fig. 2.2.,images/9702_s24_43_qp_fig2_2.png
+9702,2024,Summer,4,3,3,c,2,Sketch variation of internal energy with volume on Fig. 3.1.,images/9702_s24_43_qp_fig3_1.png
+9702,2024,Summer,4,3,4,a,NULL,Vibration generator setup in Fig. 4.1.,images/9702_s24_43_qp_fig4_1.png
+9702,2024,Summer,4,3,4,b,NULL,Displacement-time graph in Fig. 4.2.,images/9702_s24_43_qp_fig4_2.png
+9702,2024,Summer,4,3,4,c,2,Sketch resonance peak template on Fig. 4.3.,images/9702_s24_43_qp_fig4_3.png
+9702,2024,Summer,4,3,5,b,NULL,Conducting plates in Fig. 5.1.,images/9702_s24_43_qp_fig5_1.png
+9702,2024,Summer,4,3,5,b(i),2,Draw four field lines between plates on Fig. 5.1.,NULL
+9702,2024,Summer,4,3,6,a,NULL,RC circuit and graph in Fig. 6.1 and 6.2.,images/9702_s24_43_qp_fig6_1.png
+9702,2024,Summer,4,3,6,a,NULL,Current variation.,images/9702_s24_43_qp_fig6_2.png
+9702,2024,Summer,4,3,7,b,NULL,Rectifier circuit in Fig. 7.1.,images/9702_s24_43_qp_fig7_1.png
+9702,2024,Summer,4,3,7,b,NULL,VOUT graph.,images/9702_s24_43_qp_fig7_2.png
+9702,2024,Summer,4,3,7,b(ii),3,Sketch power variation on Fig. 7.3.,images/9702_s24_43_qp_fig7_3.png
+9702,2024,Summer,4,3,8,b,NULL,X-ray tube in Fig. 8.1.,images/9702_s24_43_qp_fig8_1.png
+9702,2024,Summer,4,3,9,b,NULL,Radioactive decay in Fig. 9.1.,images/9702_s24_43_qp_fig9_1.png
+9702,2024,Summer,2,3,1,a,2,Derive SI base units of viscosity Eta.,NULL
+9702,2024,Summer,2,3,1,c,NULL,Sphere shown in Fig. 1.1.,images/9702_s24_23_qp_fig1_1.png
+9702,2024,Summer,2,3,1,c,2,Draw and label arrows for three forces acting on sphere as it moves through liquid.,NULL
+9702,2024,Summer,2,3,2,b,NULL,Object projected from slope in Fig. 2.1.,images/9702_s24_23_qp_fig2_1.png
+9702,2024,Summer,2,3,2,b(i),1,Calculate horizontal distance travelled in 0.71 s.,NULL
+9702,2024,Summer,2,3,3,b,NULL,Force-extension graph in Fig. 3.1.,images/9702_s24_23_qp_fig3_1.png
+9702,2024,Summer,2,3,3,b(i),1,Label limit of proportionality P on Fig. 3.1.,NULL
+9702,2024,Summer,2,3,3,b(ii),1,Label elastic limit E on Fig. 3.1.,NULL
+9702,2024,Summer,2,3,4,a,NULL,Transverse wave in Fig. 4.1.,images/9702_s24_23_qp_fig4_1.png
+9702,2024,Summer,2,3,4,b,1,Draw arrow at T for direction of movement.,NULL
+9702,2024,Summer,2,3,4,c,NULL,Distance between R and T in Fig. 4.2.,images/9702_s24_23_qp_fig4_2.png
+9702,2024,Summer,2,3,4,d,NULL,Interference pattern in water tank in Fig. 4.3.,images/9702_s24_23_qp_fig4_3.png
+9702,2024,Summer,2,3,5,b,NULL,Circuit diagram in Fig. 5.1.,images/9702_s24_23_qp_fig5_1.png
+9702,2024,Summer,2,3,6,b,NULL,Energy spectrum in Fig. 6.1.,images/9702_s24_23_qp_fig6_1.png
+9702,2024,Summer,1,3,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,Summer,1,3,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,Summer,1,3,3,NULL,1,Multiple Choice Question 3,NULL
+9702,2024,Summer,1,3,4,NULL,1,Multiple Choice Question 4,NULL
+9702,2024,Summer,1,3,5,NULL,1,Multiple Choice Question 5,images/9702_s24_13_qp_fig5.png
+9702,2024,Summer,1,3,6,NULL,1,Multiple Choice Question 6,images/9702_s24_13_qp_fig6.png
+9702,2024,Summer,1,3,7,NULL,1,Multiple Choice Question 7,NULL
+9702,2024,Summer,1,3,8,NULL,1,Multiple Choice Question 8,images/9702_s24_13_qp_fig8.png
+9702,2024,Summer,1,3,9,NULL,1,Multiple Choice Question 9,NULL
+9702,2024,Summer,1,3,10,NULL,1,Multiple Choice Question 10,images/9702_s24_13_qp_fig10.png
+9702,2024,Summer,1,3,11,NULL,1,Multiple Choice Question 11,images/9702_s24_13_qp_fig11.png
+9702,2024,Summer,1,3,12,NULL,1,Multiple Choice Question 12,NULL
+9702,2024,Summer,1,3,13,NULL,1,Multiple Choice Question 13,images/9702_s24_13_qp_fig13.png
+9702,2024,Summer,1,3,14,NULL,1,Multiple Choice Question 14,images/9702_s24_13_qp_fig14.png
+9702,2024,Summer,1,3,15,NULL,1,Multiple Choice Question 15,NULL
+9702,2024,Summer,1,3,16,NULL,1,Multiple Choice Question 16,NULL
+9702,2024,Summer,1,3,17,NULL,1,Multiple Choice Question 17,images/9702_s24_13_qp_fig17.png
+9702,2024,Summer,1,3,18,NULL,1,Multiple Choice Question 18,images/9702_s24_13_qp_fig18.png
+9702,2024,Summer,1,3,19,NULL,1,Multiple Choice Question 19,images/9702_s24_13_qp_fig19.png
+9702,2024,Summer,1,3,20,NULL,1,Multiple Choice Question 20,images/9702_s24_13_qp_fig20.png
+9702,2024,Summer,1,3,21,NULL,1,Multiple Choice Question 21,NULL
+9702,2024,Summer,1,3,22,NULL,1,Multiple Choice Question 22,images/9702_s24_13_qp_fig22.png
+9702,2024,Summer,1,3,23,NULL,1,Multiple Choice Question 23,NULL
+9702,2024,Summer,1,3,24,NULL,1,Multiple Choice Question 24,NULL
+9702,2024,Summer,1,3,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,Summer,1,3,26,NULL,1,Multiple Choice Question 26,images/9702_s24_13_qp_fig26.png
+9702,2024,Summer,1,3,27,NULL,1,Multiple Choice Question 27,NULL
+9702,2024,Summer,1,3,28,NULL,1,Multiple Choice Question 28,images/9702_s24_13_qp_fig28.png
+9702,2024,Summer,1,3,29,NULL,1,Multiple Choice Question 29,images/9702_s24_13_qp_fig29.png
+9702,2024,Summer,1,3,30,NULL,1,Multiple Choice Question 30,NULL
+9702,2024,Summer,1,3,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,Summer,1,3,32,NULL,1,Multiple Choice Question 32,images/9702_s24_13_qp_fig32.png
+9702,2024,Summer,1,3,33,NULL,1,Multiple Choice Question 33,images/9702_s24_13_qp_fig33.png
+9702,2024,Summer,1,3,34,NULL,1,Multiple Choice Question 34,images/9702_s24_13_qp_fig34.png
+9702,2024,Summer,1,3,35,NULL,1,Multiple Choice Question 35,images/9702_s24_13_qp_fig35.png
+9702,2024,Summer,1,3,36,NULL,1,Multiple Choice Question 36,images/9702_s24_13_qp_fig36.png
+9702,2024,Summer,1,3,37,NULL,1,Multiple Choice Question 37,images/9702_s24_13_qp_fig37.png
+9702,2024,Summer,1,3,38,NULL,1,Multiple Choice Question 38,images/9702_s24_13_qp_fig38.png
+9702,2024,Summer,1,3,39,NULL,1,Multiple Choice Question 39,images/9702_s24_13_qp_fig39.png
+9702,2024,Summer,1,3,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,Summer,1,1,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,Summer,1,1,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,Summer,1,1,3,NULL,1,Multiple Choice Question 3,images/9702_s24_11_qp_fig3.png
+9702,2024,Summer,1,1,4,NULL,1,Multiple Choice Question 4,NULL
+9702,2024,Summer,1,1,5,NULL,1,Multiple Choice Question 5,NULL
+9702,2024,Summer,1,1,6,NULL,1,Multiple Choice Question 6,NULL
+9702,2024,Summer,1,1,7,NULL,1,Multiple Choice Question 7,images/9702_s24_11_qp_fig7.png
+9702,2024,Summer,1,1,8,NULL,1,Multiple Choice Question 8,NULL
+9702,2024,Summer,1,1,9,NULL,1,Multiple Choice Question 9,images/9702_s24_11_qp_fig9.png
+9702,2024,Summer,1,1,10,NULL,1,Multiple Choice Question 10,NULL
+9702,2024,Summer,1,1,11,NULL,1,Multiple Choice Question 11,NULL
+9702,2024,Summer,1,1,12,NULL,1,Multiple Choice Question 12,NULL
+9702,2024,Summer,1,1,13,NULL,1,Multiple Choice Question 13,images/9702_s24_11_qp_fig13.png
+9702,2024,Summer,1,1,14,NULL,1,Multiple Choice Question 14,images/9702_s24_11_qp_fig14.png
+9702,2024,Summer,1,1,15,NULL,1,Multiple Choice Question 15,images/9702_s24_11_qp_fig15.png
+9702,2024,Summer,1,1,16,NULL,1,Multiple Choice Question 16,images/9702_s24_11_qp_fig16.png
+9702,2024,Summer,1,1,17,NULL,1,Multiple Choice Question 17,NULL
+9702,2024,Summer,1,1,18,NULL,1,Multiple Choice Question 18,NULL
+9702,2024,Summer,1,1,19,NULL,1,Multiple Choice Question 19,NULL
+9702,2024,Summer,1,1,20,NULL,1,Multiple Choice Question 20,images/9702_s24_11_qp_fig20.png
+9702,2024,Summer,1,1,21,NULL,1,Multiple Choice Question 21,NULL
+9702,2024,Summer,1,1,22,NULL,1,Multiple Choice Question 22,images/9702_s24_11_qp_fig22.png
+9702,2024,Summer,1,1,23,NULL,1,Multiple Choice Question 23,NULL
+9702,2024,Summer,1,1,24,NULL,1,Multiple Choice Question 24,NULL
+9702,2024,Summer,1,1,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,Summer,1,1,26,NULL,1,Multiple Choice Question 26,NULL
+9702,2024,Summer,1,1,27,NULL,1,Multiple Choice Question 27,NULL
+9702,2024,Summer,1,1,28,NULL,1,Multiple Choice Question 28,images/9702_s24_11_qp_fig28.png
+9702,2024,Summer,1,1,29,NULL,1,Multiple Choice Question 29,NULL
+9702,2024,Summer,1,1,30,NULL,1,Multiple Choice Question 30,images/9702_s24_11_qp_fig30.png
+9702,2024,Summer,1,1,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,Summer,1,1,32,NULL,1,Multiple Choice Question 32,NULL
+9702,2024,Summer,1,1,33,NULL,1,Multiple Choice Question 33,images/9702_s24_11_qp_fig33.png
+9702,2024,Summer,1,1,34,NULL,1,Multiple Choice Question 34,images/9702_s24_11_qp_fig34.png
+9702,2024,Summer,1,1,35,NULL,1,Multiple Choice Question 35,images/9702_s24_11_qp_fig35.png
+9702,2024,Summer,1,1,36,NULL,1,Multiple Choice Question 36,images/9702_s24_11_qp_fig36.png
+9702,2024,Summer,1,1,37,NULL,1,Multiple Choice Question 37,NULL
+9702,2024,Summer,1,1,38,NULL,1,Multiple Choice Question 38,NULL
+9702,2024,Summer,1,1,39,NULL,1,Multiple Choice Question 39,NULL
+9702,2024,Summer,1,1,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,Summer,4,1,1,a,2,Define gravitational potential at a point.,NULL
+9702,2024,Summer,4,1,2,b,NULL,Platinum resistance thermometer in Fig. 2.1 and Resistivity graph in Fig. 2.2.,images/9702_s24_41_qp_fig2_1.png
+9702,2024,Summer,4,1,3,c,NULL,Internal energy variation template in Fig. 3.1.,images/9702_s24_41_qp_fig3_1.png
+9702,2024,Summer,4,1,4,a,2,Define resonance.,NULL
+9702,2024,Summer,4,1,4,c,NULL,Amplitude-frequency template in Fig. 4.3.,images/9702_s24_41_qp_fig4_3.png
+9702,2024,Summer,4,1,5,b,NULL,Electric field template in Fig. 5.1.,images/9702_s24_41_qp_fig5_1.png
+9702,2024,Summer,4,1,8,b,NULL,X-ray tube diagram in Fig. 8.1.,images/9702_s24_41_qp_fig8_1.png
+9702,2024,Summer,4,1,9,b,NULL,Radioactive decay graph in Fig. 9.1.,images/9702_s24_41_qp_fig9_1.png
+9702,2024,Winter,4,1,1,a,2,State Newton's law of gravitation.,NULL
+9702,2024,Winter,4,1,2,a,2,Define specific heat capacity.,NULL
+9702,2024,Winter,4,1,2,b,NULL,Temperature-time blocks in Fig. 2.1.,images/9702_w24_41_qp_fig2_1.png
+9702,2024,Winter,4,1,4,a,2,Define simple harmonic motion (SHM).,NULL
+9702,2024,Winter,4,1,6,c,NULL,Input VIN square wave in Fig. 6.2 and VOUT in Fig. 6.3.,images/9702_w24_41_qp_fig6_3.png
+9702,2024,Winter,4,1,10,c,NULL,Hubble Law v-d template in Fig. 10.1.,images/9702_w24_41_qp_fig10_1.png
+9702,2024,Winter,1,1,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,Winter,1,1,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,Winter,1,1,3,NULL,1,Multiple Choice Question 3,NULL
+9702,2024,Winter,1,1,4,NULL,1,Multiple Choice Question 4,NULL
+9702,2024,Winter,1,1,5,NULL,1,Multiple Choice Question 5,images/9702_w24_11_qp_fig5.png
+9702,2024,Winter,1,1,6,NULL,1,Multiple Choice Question 6,NULL
+9702,2024,Winter,1,1,7,NULL,1,Multiple Choice Question 7,NULL
+9702,2024,Winter,1,1,8,NULL,1,Multiple Choice Question 8,images/9702_w24_11_qp_fig8.png
+9702,2024,Winter,1,1,9,NULL,1,Multiple Choice Question 9,images/9702_w24_11_qp_fig9.png
+9702,2024,Winter,1,1,10,NULL,1,Multiple Choice Question 10,images/9702_w24_11_qp_fig10.png
+9702,2024,Winter,1,1,11,NULL,1,Multiple Choice Question 11,NULL
+9702,2024,Winter,1,1,12,NULL,1,Multiple Choice Question 12,images/9702_w24_11_qp_fig12.png
+9702,2024,Winter,1,1,13,NULL,1,Multiple Choice Question 13,NULL
+9702,2024,Winter,1,1,14,NULL,1,Multiple Choice Question 14,images/9702_w24_11_qp_fig14.png
+9702,2024,Winter,1,1,15,NULL,1,Multiple Choice Question 15,NULL
+9702,2024,Winter,1,1,16,NULL,1,Multiple Choice Question 16,images/9702_w24_11_qp_fig16.png
+9702,2024,Winter,1,1,17,NULL,1,Multiple Choice Question 17,images/9702_w24_11_qp_fig17.png
+9702,2024,Winter,1,1,18,NULL,1,Multiple Choice Question 18,images/9702_w24_11_qp_fig18.png
+9702,2024,Winter,1,1,19,NULL,1,Multiple Choice Question 19,NULL
+9702,2024,Winter,1,1,20,NULL,1,Multiple Choice Question 20,NULL
+9702,2024,Winter,1,1,21,NULL,1,Multiple Choice Question 21,images/9702_w24_11_qp_fig21.png
+9702,2024,Winter,1,1,22,NULL,1,Multiple Choice Question 22,NULL
+9702,2024,Winter,1,1,23,NULL,1,Multiple Choice Question 23,images/9702_w24_11_qp_fig23.png
+9702,2024,Winter,1,1,24,NULL,1,Multiple Choice Question 24,images/9702_w24_11_qp_fig24.png
+9702,2024,Winter,1,1,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,Winter,1,1,26,NULL,1,Multiple Choice Question 26,NULL
+9702,2024,Winter,1,1,27,NULL,1,Multiple Choice Question 27,NULL
+9702,2024,Winter,1,1,28,NULL,1,Multiple Choice Question 28,NULL
+9702,2024,Winter,1,1,29,NULL,1,Multiple Choice Question 29,NULL
+9702,2024,Winter,1,1,30,NULL,1,Multiple Choice Question 30,NULL
+9702,2024,Winter,1,1,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,Winter,1,1,32,NULL,1,Multiple Choice Question 32,images/9702_w24_11_qp_fig32.png
+9702,2024,Winter,1,1,33,NULL,1,Multiple Choice Question 33,NULL
+9702,2024,Winter,1,1,34,NULL,1,Multiple Choice Question 34,images/9702_w24_11_qp_fig34.png
+9702,2024,Winter,1,1,35,NULL,1,Multiple Choice Question 35,NULL
+9702,2024,Winter,1,1,36,NULL,1,Multiple Choice Question 36,images/9702_w24_11_qp_fig36.png
+9702,2024,Winter,1,1,37,NULL,1,Multiple Choice Question 37,images/9702_w24_11_qp_fig37.png
+9702,2024,Winter,1,1,38,NULL,1,Multiple Choice Question 38,NULL
+9702,2024,Winter,1,1,39,NULL,1,Multiple Choice Question 39,NULL
+9702,2024,Winter,1,1,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,Winter,2,1,1,a,1,Define density.,NULL
+9702,2024,Winter,2,1,1,b,NULL,Cuboidal glass block in Fig. 1.1.,images/9702_w24_21_qp_fig1_1.png
+9702,2024,Winter,2,1,2,a,1,Define momentum.,NULL
+9702,2024,Winter,2,1,2,c,NULL,Acceleration-time template in Fig. 2.2.,images/9702_w24_21_qp_fig2_2.png
+9702,2024,Winter,2,1,3,a,1,Define work done.,NULL
+9702,2024,Winter,2,1,3,b,NULL,Falling block setup in Fig. 3.1.,images/9702_w24_21_qp_fig3_1.png
+9702,2024,Winter,2,1,4,a,1,Define Young modulus.,NULL
+9702,2024,Winter,2,1,4,b,NULL,Force-extension template in Fig. 4.1.,images/9702_w24_21_qp_fig4_1.png
+9702,2024,Winter,2,1,6,a,NULL,Interference setup in Fig. 6.1.,images/9702_w24_21_qp_fig6_1.png
+9702,2024,Winter,2,1,7,b,NULL,Series-Parallel transition templates in Fig. 7.1 and Fig. 7.2.,images/9702_w24_21_qp_fig7_2.png
+9702,2024,Winter,1,3,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,Winter,1,3,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,Winter,1,3,3,NULL,1,Multiple Choice Question 3,NULL
+9702,2024,Winter,1,3,4,NULL,1,Multiple Choice Question 4,images/9702_w24_13_qp_fig4.png
+9702,2024,Winter,1,3,5,NULL,1,Multiple Choice Question 5,images/9702_w24_13_qp_fig5.png
+9702,2024,Winter,1,3,6,NULL,1,Multiple Choice Question 6,NULL
+9702,2024,Winter,1,3,7,NULL,1,Multiple Choice Question 7,NULL
+9702,2024,Winter,1,3,8,NULL,1,Multiple Choice Question 8,images/9702_w24_13_qp_fig8.png
+9702,2024,Winter,1,3,9,NULL,1,Multiple Choice Question 9,images/9702_w24_13_qp_fig9.png
+9702,2024,Winter,1,3,10,NULL,1,Multiple Choice Question 10,NULL
+9702,2024,Winter,1,3,11,NULL,1,Multiple Choice Question 11,NULL
+9702,2024,Winter,1,3,12,NULL,1,Multiple Choice Question 12,NULL
+9702,2024,Winter,1,3,13,NULL,1,Multiple Choice Question 13,NULL
+9702,2024,Winter,1,3,14,NULL,1,Multiple Choice Question 14,images/9702_w24_13_qp_fig14.png
+9702,2024,Winter,1,3,15,NULL,1,Multiple Choice Question 15,images/9702_w24_13_qp_fig15.png
+9702,2024,Winter,1,3,16,NULL,1,Multiple Choice Question 16,images/9702_w24_13_qp_fig16.png
+9702,2024,Winter,1,3,17,NULL,1,Multiple Choice Question 17,NULL
+9702,2024,Winter,1,3,18,NULL,1,Multiple Choice Question 18,NULL
+9702,2024,Winter,1,3,19,NULL,1,Multiple Choice Question 19,images/9702_w24_13_qp_fig19.png
+9702,2024,Winter,1,3,20,NULL,1,Multiple Choice Question 20,NULL
+9702,2024,Winter,1,3,21,NULL,1,Multiple Choice Question 21,images/9702_w24_13_qp_fig21.png
+9702,2024,Winter,1,3,22,NULL,1,Multiple Choice Question 22,NULL
+9702,2024,Winter,1,3,23,NULL,1,Multiple Choice Question 23,images/9702_w24_13_qp_fig23.png
+9702,2024,Winter,1,3,24,NULL,1,Multiple Choice Question 24,images/9702_w24_13_qp_fig24.png
+9702,2024,Winter,1,3,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,Winter,1,3,26,NULL,1,Multiple Choice Question 26,images/9702_w24_13_qp_fig26.png
+9702,2024,Winter,1,3,27,NULL,1,Multiple Choice Question 27,images/9702_w24_13_qp_fig27.png
+9702,2024,Winter,1,3,28,NULL,1,Multiple Choice Question 28,NULL
+9702,2024,Winter,1,3,29,NULL,1,Multiple Choice Question 29,images/9702_w24_13_qp_fig29.png
+9702,2024,Winter,1,3,30,NULL,1,Multiple Choice Question 30,images/9702_w24_13_qp_fig30.png
+9702,2024,Winter,1,3,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,Winter,1,3,32,NULL,1,Multiple Choice Question 32,NULL
+9702,2024,Winter,1,3,33,NULL,1,Multiple Choice Question 33,images/9702_w24_13_qp_fig33.png
+9702,2024,Winter,1,3,34,NULL,1,Multiple Choice Question 34,NULL
+9702,2024,Winter,1,3,35,NULL,1,Multiple Choice Question 35,images/9702_w24_13_qp_fig35.png
+9702,2024,Winter,1,3,36,NULL,1,Multiple Choice Question 36,images/9702_w24_13_qp_fig36.png
+9702,2024,Winter,1,3,37,NULL,1,Multiple Choice Question 37,images/9702_w24_13_qp_fig37.png
+9702,2024,Winter,1,3,38,NULL,1,Multiple Choice Question 38,NULL
+9702,2024,Winter,1,3,39,NULL,1,Multiple Choice Question 39,NULL
+9702,2024,Winter,1,3,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,Winter,4,3,1,a,2,State Newton's law of gravitation.,NULL
+9702,2024,Winter,4,3,1,b,NULL,Variation with distance scale in Fig. 1.1.,images/9702_w24_43_qp_fig1_1.png
+9702,2024,Winter,4,3,2,a,2,Define specific heat capacity.,NULL
+9702,2024,Winter,4,3,2,b,NULL,Temperature-time blocks in Fig. 2.1.,images/9702_w24_43_qp_fig2_1.png
+9702,2024,Winter,4,3,4,a,2,Define simple harmonic motion (SHM).,NULL
+9702,2024,Winter,4,3,4,b,NULL,Velocity-height templates in Fig. 4.2 and Fig. 4.3.,images/9702_w24_43_qp_fig4_3.png
+9702,2024,Winter,4,3,6,c,NULL,Rectification templates in Fig. 6.2 and Fig. 6.3.,images/9702_w24_43_qp_fig6_3.png
+9702,2024,Winter,4,3,7,b,NULL,Magnetic field templates in Fig. 7.1 and Fig. 7.2.,images/9702_w24_43_qp_fig7_2.png
+9702,2024,Winter,4,3,10,c,NULL,Hubble Law relationship template in Fig. 10.1.,images/9702_w24_43_qp_fig10_1.png
+9702,2024,Winter,2,3,1,a,1,Define acceleration.,NULL
+9702,2024,Winter,2,3,1,b,NULL,Parcel projected from aircraft in Fig. 1.1.,images/9702_w24_23_qp_fig1_1.png
+9702,2024,Winter,2,3,2,a,2,State the principle of conservation of momentum.,NULL
+9702,2024,Winter,2,3,2,b,NULL,Ball collision setup in Fig. 2.1.,images/9702_w24_23_qp_fig2_1.png
+9702,2024,Winter,2,3,3,a,1,State the principle of moments.,NULL
+9702,2024,Winter,2,3,3,b,NULL,Floating beam setup in Fig. 3.1.,images/9702_w24_23_qp_fig3_1.png
+9702,2024,Winter,2,3,3,c,NULL,x-h variation graph template in Fig. 3.2.,images/9702_w24_23_qp_fig3_2.png
+9702,2024,Winter,2,3,5,a,NULL,Stationary wave on string XY in Fig. 5.1.,images/9702_w24_23_qp_fig5_1.png
+9702,2024,Winter,2,3,5,b,NULL,Doppler Effect sound observer setup in Fig. 5.2 and Fig. 5.3.,images/9702_w24_23_qp_fig5_3.png
+9702,2024,Winter,2,3,6,a,1,Define resistance.,NULL
+9702,2024,Winter,2,3,6,c,NULL,Resistor-Thermistor circuit template in Fig. 6.1.,images/9702_w24_23_qp_fig6_1.png
+9702,2025,Winter,1,1,1,NULL,1,MCQ Statement 1,NULL
+9702,2025,Winter,1,1,2,NULL,1,MCQ Statement 2,NULL
+9702,2025,Winter,1,1,3,NULL,1,MCQ Statement 3,NULL
+9702,2025,Winter,1,1,4,NULL,1,MCQ Statement 4,images/9702_w25_11_qp_fig4.png
+9702,2025,Winter,1,1,5,NULL,1,MCQ Statement 5,NULL
+9702,2025,Winter,1,1,6,NULL,1,MCQ Statement 6,images/9702_w25_11_qp_fig6.png
+9702,2025,Winter,1,1,7,NULL,1,MCQ Statement 7,images/9702_w25_11_qp_fig7.png
+9702,2025,Winter,1,1,8,NULL,1,MCQ Statement 8,images/9702_w25_11_qp_fig8.png
+9702,2025,Winter,1,1,9,NULL,1,MCQ Statement 9,NULL
+9702,2025,Winter,1,1,10,NULL,1,MCQ Statement 10,NULL
+9702,2025,Winter,1,1,11,NULL,1,MCQ Statement 11,images/9702_w25_11_qp_fig11.png
+9702,2025,Winter,1,1,12,NULL,1,MCQ Statement 12,NULL
+9702,2025,Winter,1,1,13,NULL,1,MCQ Statement 13,images/9702_w25_11_qp_fig13.png
+9702,2025,Winter,1,1,14,NULL,1,MCQ Statement 14,images/9702_w25_11_qp_fig14.png
+9702,2025,Winter,1,1,15,NULL,1,MCQ Statement 15,NULL
+9702,2025,Winter,1,1,16,NULL,1,MCQ Statement 16,NULL
+9702,2025,Winter,1,1,17,NULL,1,MCQ Statement 17,NULL
+9702,2025,Winter,1,1,18,NULL,1,MCQ Statement 18,images/9702_w25_11_qp_fig18.png
+9702,2025,Winter,1,1,19,NULL,1,MCQ Statement 19,NULL
+9702,2025,Winter,1,1,20,NULL,1,MCQ Statement 20,images/9702_w25_11_qp_fig20.png
+9702,2025,Winter,1,1,21,NULL,1,MCQ Statement 21,NULL
+9702,2025,Winter,1,1,22,NULL,1,MCQ Statement 22,NULL
+9702,2025,Winter,1,1,23,NULL,1,MCQ Statement 23,images/9702_w25_11_qp_fig23.png
+9702,2025,Winter,1,1,24,NULL,1,MCQ Statement 24,NULL
+9702,2025,Winter,1,1,25,NULL,1,MCQ Statement 25,images/9702_w25_11_qp_fig25.png
+9702,2025,Winter,1,1,26,NULL,1,MCQ Statement 26,NULL
+9702,2025,Winter,1,1,27,NULL,1,MCQ Statement 27,NULL
+9702,2025,Winter,1,1,28,NULL,1,MCQ Statement 28,images/9702_w25_11_qp_fig28.png
+9702,2025,Winter,1,1,29,NULL,1,MCQ Statement 29,images/9702_w25_11_qp_fig29.png
+9702,2025,Winter,1,1,30,NULL,1,MCQ Statement 30,NULL
+9702,2025,Winter,1,1,31,NULL,1,MCQ Statement 31,NULL
+9702,2025,Winter,1,1,32,NULL,1,MCQ Statement 32,NULL
+9702,2025,Winter,1,1,33,NULL,1,MCQ Statement 33,images/9702_w25_11_qp_fig33.png
+9702,2025,Winter,1,1,34,NULL,1,MCQ Statement 34,images/9702_w25_11_qp_fig34.png
+9702,2025,Winter,1,1,35,NULL,1,MCQ Statement 35,images/9702_w25_11_qp_fig35.png
+9702,2025,Winter,1,1,36,NULL,1,MCQ Statement 36,images/9702_w25_11_qp_fig36.png
+9702,2025,Winter,1,1,37,NULL,1,MCQ Statement 37,images/9702_w25_11_qp_fig37.png
+9702,2025,Winter,1,1,38,NULL,1,MCQ Statement 38,images/9702_w25_11_qp_fig38.png
+9702,2025,Winter,1,1,39,NULL,1,MCQ Statement 39,NULL
+9702,2025,Winter,1,1,40,NULL,1,MCQ Statement 40,NULL
+9702,2025,Winter,2,1,1,a,1,Define acceleration.,NULL
+9702,2025,Winter,2,1,1,b,NULL,Rocket velocity-time graph analysis.,images/9702_w25_21_qp_fig1_1.png
+9702,2025,Winter,2,1,2,a,1,Define pressure.,NULL
+9702,2025,Winter,2,1,2,b,NULL, फोर्सेस on ball in oil.,images/9702_w25_21_qp_fig2_1.png
+9702,2025,Winter,2,1,3,a,1,Define Young modulus.,NULL
+9702,2025,Winter,2,1,4,a,2,State meant by diffraction.,NULL
+9702,2025,Winter,2,1,4,b,NULL,Diffraction grating diagram.,images/9702_w25_21_qp_fig4_1.png
+9702,2025,Winter,4,1,1,a,2,Describe uniform circular motion.,NULL
+9702,2025,Winter,4,1,1,b,NULL,Polystyrene ball shadow SHM.,images/9702_w25_41_qp_fig1_1.png
+9702,2025,Winter,4,1,3,a,1,Define gravitational field.,NULL
+9702,2025,Winter,4,1,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_41_qp_fig3_4.png
+9702,2025,Winter,4,1,4,b,NULL,pV-kT graph analysis.,images/9702_w25_41_qp_fig4_1.png
+9702,2025,Winter,4,1,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_41_qp_fig9_2.png
+9702,2025,Winter,1,3,1,NULL,1,MCQ Statement 1,NULL
+9702,2025,Winter,1,3,2,NULL,1,MCQ Statement 2,NULL
+9702,2025,Winter,1,3,3,NULL,1,MCQ Statement 3,NULL
+9702,2025,Winter,1,3,4,NULL,1,MCQ Statement 4,images/9702_w25_13_qp_fig4.png
+9702,2025,Winter,1,3,5,NULL,1,MCQ Statement 5,NULL
+9702,2025,Winter,1,3,6,NULL,1,MCQ Statement 6,images/9702_w25_13_qp_fig6.png
+9702,2025,Winter,1,3,7,NULL,1,MCQ Statement 7,images/9702_w25_13_qp_fig7.png
+9702,2025,Winter,1,3,8,NULL,1,MCQ Statement 8,images/9702_w25_13_qp_fig8.png
+9702,2025,Winter,1,3,9,NULL,1,MCQ Statement 9,NULL
+9702,2025,Winter,1,3,10,NULL,1,MCQ Statement 10,NULL
+9702,2025,Winter,1,3,11,NULL,1,MCQ Statement 11,images/9702_w25_13_qp_fig11.png
+9702,2025,Winter,1,3,12,NULL,1,MCQ Statement 12,NULL
+9702,2025,Winter,1,3,13,NULL,1,MCQ Statement 13,images/9702_w25_13_qp_fig13.png
+9702,2025,Winter,1,3,14,NULL,1,MCQ Statement 14,images/9702_w25_13_qp_fig14.png
+9702,2025,Winter,1,3,15,NULL,1,MCQ Statement 15,NULL
+9702,2025,Winter,1,3,16,NULL,1,MCQ Statement 16,NULL
+9702,2025,Winter,1,3,17,NULL,1,MCQ Statement 17,NULL
+9702,2025,Winter,1,3,18,NULL,1,MCQ Statement 18,images/9702_w25_13_qp_fig18.png
+9702,2025,Winter,1,3,19,NULL,1,MCQ Statement 19,NULL
+9702,2025,Winter,1,3,20,NULL,1,MCQ Statement 20,images/9702_w25_13_qp_fig20.png
+9702,2025,Winter,1,3,21,NULL,1,MCQ Statement 21,NULL
+9702,2025,Winter,1,3,22,NULL,1,MCQ Statement 22,NULL
+9702,2025,Winter,1,3,23,NULL,1,MCQ Statement 23,images/9702_w25_13_qp_fig23.png
+9702,2025,Winter,1,3,24,NULL,1,MCQ Statement 24,NULL
+9702,2025,Winter,1,3,25,NULL,1,MCQ Statement 25,images/9702_w25_13_qp_fig25.png
+9702,2025,Winter,1,3,26,NULL,1,MCQ Statement 26,NULL
+9702,2025,Winter,1,3,27,NULL,1,MCQ Statement 27,NULL
+9702,2025,Winter,1,3,28,NULL,1,MCQ Statement 28,images/9702_w25_13_qp_fig28.png
+9702,2025,Winter,1,3,29,NULL,1,MCQ Statement 29,images/9702_w25_13_qp_fig29.png
+9702,2025,Winter,1,3,30,NULL,1,MCQ Statement 30,NULL
+9702,2025,Winter,1,3,31,NULL,1,MCQ Statement 31,NULL
+9702,2025,Winter,1,3,32,NULL,1,MCQ Statement 32,NULL
+9702,2025,Winter,1,3,33,NULL,1,MCQ Statement 33,images/9702_w25_13_qp_fig33.png
+9702,2025,Winter,1,3,34,NULL,1,MCQ Statement 34,images/9702_w25_13_qp_fig34.png
+9702,2025,Winter,1,3,35,NULL,1,MCQ Statement 35,images/9702_w25_13_qp_fig35.png
+9702,2025,Winter,1,3,36,NULL,1,MCQ Statement 36,images/9702_w25_13_qp_fig36.png
+9702,2025,Winter,1,3,37,NULL,1,MCQ Statement 37,images/9702_w25_13_qp_fig37.png
+9702,2025,Winter,1,3,38,NULL,1,MCQ Statement 38,images/9702_w25_13_qp_fig38.png
+9702,2025,Winter,1,3,39,NULL,1,MCQ Statement 39,NULL
+9702,2025,Winter,1,3,40,NULL,1,MCQ Statement 40,NULL
+9702,2025,Winter,2,3,1,a,1,Define acceleration.,NULL
+9702,2025,Winter,2,3,1,b,NULL,Rocket velocity-time graph analysis.,images/9702_w25_23_qp_fig1_1.png
+9702,2025,Winter,2,3,2,a,1,Define pressure.,NULL
+9702,2025,Winter,2,3,2,b,NULL, फोर्सेस on ball in oil.,images/9702_w25_23_qp_fig2_1.png
+9702,2025,Winter,2,3,3,a,1,Define Young modulus.,NULL
+9702,2025,Winter,2,3,4,a,2,State meant by diffraction.,NULL
+9702,2025,Winter,2,3,4,b,NULL,Diffraction grating diagram.,images/9702_w25_23_qp_fig4_1.png
+9702,2025,Winter,4,3,1,a,2,Describe uniform circular motion.,NULL
+9702,2025,Winter,4,3,1,b,NULL,Polystyrene ball shadow SHM.,images/9702_w25_43_qp_fig1_1.png
+9702,2025,Winter,4,3,3,a,1,Define gravitational field.,NULL
+9702,2025,Winter,4,3,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_43_qp_fig3_4.png
+9702,2025,Winter,4,3,4,b,NULL,pV-kT graph analysis.,images/9702_w25_43_qp_fig4_1.png
+9702,2025,Winter,4,3,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_43_qp_fig9_2.png

@@ -1,0 +1,90 @@
+
+---PAGE 1---
+9702 PHYSICS
+Paper 9702/12
+Multiple Choice
+Question Num-
+ber Key Question Num-
+ber Key
+1 D 21 A
+2 D 22 B
+3 B 23 D
+4 C 24 C
+5 A 25 B
+6 C 26 D
+7 A 27 B
+8 B 28 D
+9 B 29 C
+10 C 30 D
+11 B 31 C
+12 D 32 A
+13 C 33 D
+14 D 34 C
+15 A 35 D
+16 A 36 D
+17 B 37 A
+18 C 38 B
+19 B 39 A
+20 C 40 B
+General Comments
+Candidates showed proficiency in standard physical definitions and basic algebraic manipulation.
+Areas requiring improvement included the application of ratios in wave intensity and the correct
+use of unit prefixes when squared or cubed. [cite: 505]
+Comments on Specific Questions
+Question 2
+This question required converting 0.25kN mm −2 toN m −2. The most common error was
+incorrect conversion of the denominator (1mm 2 = 10−6 m2). Correct application led to 2.5×
+108 N m −2. [cite: 81, 86]
+Question 4
+Candidates analyzed the homogeneity of the pendulum equationT= 2π(L/g) n. By equating
+units,s= (m/(m s −2))n, it was clear thatnmust be 1/2. [cite: 96, 97, 104]
+Question 13
+This problem involved a rock dropped into a moving cart. While horizontal momentum is
+conserved (same as empty cart), the increase in mass with no external horizontal force results
+in a decrease in velocity, thus reducing the total kinetic energy. [cite: 188, 190, 199]
+1
+---PAGE 2---
+Paper 9702/22
+AS Level Structured Questions
+General Comments
+The paper tested a solid understanding of mechanics and electricity. Most candidates were
+able to correctly identify scalar and vector quantities, though derivation of formulae from first
+principles remains a challenge for some. [cite: 1408, 1511]
+Comments on Specific Questions
+Question 1
+(b)(i) Candidates demonstrated the derivation ofE K = 1/2mv 2. Successful responses used
+the work formulaW=F sand substitutedv 2 =u 2 + 2as(whereu= 0) to reach the final
+expression. [cite: 1511, 1693]
+Question 2
+(b)(i) This question required taking moments about point Q to find the angle of the support
+post. Candidates who correctly identified the perpendicular distances (1.2m for weight and the
+length PQ for force F) were successful in showingθ= 25 ◦. [cite: 1515, 1747]
+Question 6
+(b)(iv) Determining the resistance R required a clear understanding of potential dividers and
+parallel branches. The currentI 2 (0.018A) was used with the remaining potential across the
+parallel section to findR= 230 Ω. [cite: 1570, 1981]
+2
+---PAGE 3---
+Paper 9702/42
+A Level Structured Questions
+General Comments
+Performance on this paper indicated a strong grasp of circular motion and thermodynamics.
+Precision in sketching field lines and interpreting exponential decay graphs were the main dis-
+criminators for higher marks. [cite: 1209, 1312]
+Comments on Specific Questions
+Question 1
+(b)(i) Using the bicycle speed of 17m s −1 and rear wheel radius of 0.46m, candidates correctly
+calculated the angular speed as 37rad s −1. [cite: 644, 645, 1312]
+Question 6
+(c)(i) Candidates were required to show the minimum wavelength of X-rays was 21pm. Using
+eV=hc/λwith a p.d. of 58kVprovided the necessary evidence for the calculation. [cite: 897,
+925, 1372]
+Question 9
+(b)(ii) Interpretation of the photoelectric effect graphs yielded quantitative conclusions. Can-
+didates extracted the threshold frequency (1.5×10 15 Hz) and work function (6.2eV) from the
+VS vsfplot. [cite: 1091, 1393]
+Question 10
+(b)(ii) Comparing activities of isotopes X and Y required solving 4A e −λX t =A e −λY t. Using
+the determined half-lives (2Tand 3T), the time at which activities are equal was found to be
+12T. [cite: 1142, 1178, 1400]
+3

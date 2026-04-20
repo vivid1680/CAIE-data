@@ -1,0 +1,588 @@
+
+---PAGE 1---
+This document has 28 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS & A Level
+*9345587678*
+PHYSICS 9702/42
+Paper 4 A Level Structured Questions February/March 2024
+ 2 hours
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 100.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+DC (PB/FC) 331328/4
+© UCLES 2024
+---PAGE 2---
+2
+9702/42/F/M/24© UCLES 2024
+Data
+acceleration of free fall g	 =	9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	1.66	 × 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ ( 4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  =  R
+1
+1
+ + R
+1
+2
+ + ...
+---PAGE 3---
+3
+9702/42/F/M/24© UCLES 2024 [Turn over2
+gravitational	potential	 ϕ	 =	–  r
+GM
+gravitational	potential	energy	 EP	 =	–  r
+GMm
+pressure	of	an	ideal	gas	 p = V
+Nm
+3
+1  〈c2〉
+simple	harmonic	motion	 a	 =	–  ω 2x
+velocity	of	particle	in	s.h.m.	 v = v0 cos ωt
+ v = ! ω ()xx0
+22-
+electric	potential	 V = r
+Q
+4 0rf
+electrical	potential	energy	 EP = r
+Qq
+4 0rf
+capacitors	in	series	 C
+1  =  C
+1
+1
+ + C
+1
+2
+ + ...
+capacitors	in	parallel	 C = C1 + C2 + ...
+discharge	of	a	capacitor	 x = ex RC
+t
+0
+-
+Hall	voltage	 VH = I
+ntq
+B
+alternating	current/voltage	 x = x0 sin ωt
+radioactive	decay	 x = x0e– λt
+decay	constant	 λ = .
+t
+0 693
+2
+1
+intensity	reflection	coefficient	 I
+IR
+0
+ = 
+()
+()
+ZZ
+ZZ
+12
+2
+12
+2
++
+-
+Stefan–Boltzmann	law	 L = 4πσr 2T 4
+Doppler	redshift		  ∆λ
+λ  á f
+fD  á c
+v
+---PAGE 4---
+4
+9702/42/F/M/24© UCLES 2024
+1 (a) Explain why the gravitational potential near to a point mass is negative.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A planet may be assumed to be a uniform sphere. It has gravitational potential φ at distance r 
+from the centre of the planet.
+  The variation with 1
+r  of φ is shown in Fig. 1.1.
+–2.4
+–2.0
+–1.6
+–1.2
+–0.8
+–0.4
+/ 108 J kg–1
+0
+0 0.5 1.0 1.5 2.0 2.5 3.0
+/ 10–8 m–1
+3.5 4.0
+φ
+r
+1
+Fig. 1.1
+---PAGE 5---
+5
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (i) Show that the mass of the planet is 8.8 × 1025 kg.
+[2]
+  (ii) The period of rotation of the planet is 0.72 Earth days.
+   A satellite in orbit around the planet remains above the same point on the surface of the 
+planet.
+   Use the mass of the planet in (b)(i) to determine the radius R of the orbit of the satellite.
+ R =  ...................................................... m [3]
+  (iii) The speed of the satellite in (b)(ii) is 8400 m s–1. The mass of the satellite is 1200 kg.
+   Determine the additional energy required to move the satellite from its orbit to infinity.
+ energy required =  ....................................................... J [3]
+[Total: 10]
+---PAGE 6---
+6
+9702/42/F/M/24© UCLES 2024
+2 (a) By referring to both kinetic energy and potential energy, explain what is meant by the internal 
+energy of an ideal gas.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A fixed mass of an ideal gas at a temperature of 20  °C is sealed in a cylinder by a piston, as 
+shown in Fig. 2.1.
+cylinder
+gas piston
+Fig. 2.1
+  The initial volume of the gas is 1.24 × 10–4
+ m3.
+  Thermal energy is supplied to the gas and its volume increases by 5.20 × 10–5 m3.
+  (i) The piston is freely moving so that the gas is always at atmospheric pressure.
+   Atmospheric pressure is 1.01 × 105 Pa.
+   Calculate the work done by the gas.
+ work done by gas =  ....................................................... J [2]
+---PAGE 7---
+7
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (ii) Calculate the final thermodynamic temperature T of the gas.
+ T =  ......................................................  K [2]
+  (iii) The mass of the gas is 16 g. For this expansion, there is a net transfer of 960 J of thermal 
+energy to the gas.
+   Calculate the specific heat capacity c of the gas at this pressure.
+ c =  .......................................... J kg–1 K–1 [2]
+ (c) The gas in (b) is allowed to return to its starting temperature. The piston is now fixed in 
+position.
+  Thermal energy is supplied to increase the temperature to the same final temperature as in (b).
+  Use the first law of thermodynamics to suggest and explain how the specific heat capacity of 
+the gas for this situation compares with the value in (b)(iii).
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+[Total: 11]
+---PAGE 8---
+8
+9702/42/F/M/24© UCLES 2024
+3 A small object of mass 24 g rests on a platform. The platform is attached to an oscillator, as shown 
+in Fig. 3.1.
+platform
+oscillator
+object
+Fig. 3.1
+ The oscillator moves the platform up and down.
+ (a) The total energy of the oscillations of the object is 2.2 × 10–4 J.
+  In one oscillation the object travels a total distance of 14 mm.
+  Calculate the angular frequency ω of the oscillations.
+ ω =  .............................................. rad s–1 [3]
+ (b) The frequency of the oscillator is fixed, and the amplitude of the oscillations is gradually 
+increased.
+  (i) Calculate the maximum amplitude of the oscillations so the object does not lose contact 
+with the platform.
+ amplitude =  ...................................................... m [2]
+---PAGE 9---
+9
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (ii) The amplitude of the oscillations is increased so it is greater than the value in (b)(i).
+   State and explain the position in an oscillation where the object first loses contact with 
+the platform.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+[Total: 7]
+---PAGE 10---
+10
+9702/42/F/M/24© UCLES 2024
+4 (a) Three capacitors are connected as shown in Fig. 4.1.
+45 μF
+10 μF
+20 μF
+Fig. 4.1
+  Determine the total capacitance, in μF, of the network of three capacitors.
+ capacitance =  ....................................................  μF [2]
+ (b) A capacitor of capacitance 45 μF is connected to a variable power supply initially set at 8.0 V. 
+The output of the power supply increases so that the potential difference (p.d.) across the 
+capacitor increases to 9.6 V.
+  Calculate the increase in energy ΔE stored in the capacitor.
+ ΔE =  ....................................................... J [2]
+ (c) A sinusoidal a.c. power supply is connected to the input of a bridge rectifier.
+  The output of the rectifier is connected to a load resistor.
+  (i) Complete the circuit in  Fig. 4.2 by adding a capacitor to smooth the p.d. across the 
+load resistor.
+connections from
+output of bridge
+rectifier
+load
+resistor
+Fig. 4.2
+[1]
+---PAGE 11---
+11
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (ii) The variation with time t of the p.d. V of the smoothed output is shown in Fig. 4.3.
+0
+0
+2
+4
+1
+3
+V / V
+t / ms
+5 10 15 20 25 30
+Fig. 4.3
+   Determine the time constant, in ms, of the smoothing circuit.
+ time constant =  .................................................... ms [3]
+ (d) A sinusoidal a.c. power supply has a maximum power of 16 W.
+  State the value of the mean power when the output of the power supply is:
+  (i) full‑wave rectified
+ mean power =  .....................................................  W [1]
+  (ii) half‑wave rectified.
+ mean power =  .....................................................  W [1]
+[Total: 10]
+---PAGE 12---
+12
+9702/42/F/M/24© UCLES 2024
+5 (a) An object travels in a circle at constant speed.
+  State the names of two quantities that vary during the motion of the object.
+1  ................................................................................................................................................
+2  ................................................................................................................................................
+[2]
+ (b) A charged particle of mass m and with charge q enters a region of uniform magnetic field, 
+perpendicular to the field lines. The magnetic flux density is B.
+  The particle travels in a circle with period T and radius r.
+  (i) By considering the magnetic force acting on the particle, show that
+B = 2πm
+qT  .
+[3]
+  (ii) The particle is an alpha particle. The period of the circular motion is 2.5 μs.
+   Calculate B.
+ B =  ....................................................... T [2]
+  (iii) A second alpha particle is in the same uniform field. It travels in a circle of radius 2r.
+   State and explain how the periods of the motion of the two particles compare.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+---PAGE 13---
+13
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (iv) The speed of the alpha particle in (b)(ii) is 1.1 × 106 m s–1. An electric field is applied so 
+that this particle now moves with constant velocity.
+   Use your answer in (b)(ii) to calculate the electric field strength E. Give the unit with 
+your answer.
+E = ............................................... unit ............................. [2]
+[Total: 10]
+---PAGE 14---
+14
+9702/42/F/M/24© UCLES 2024
+6 (a) A small coil C has 64 turns and cross‑sectional area 0.71  cm2. The coil is placed inside a 
+solenoid as shown in Fig. 6.1.
+central axis
+solenoidcurrent coil C
+X Y
+Fig. 6.1
+  The centre of coil C is on the central axis of the solenoid.
+  (i) There is a constant current in the solenoid.
+   Coil C is moved through the solenoid from position X to position Y.
+   On Fig. 6.2, sketch a line to show the variation of the magnetic flux linkage in coil C with 
+position as it moves from X to Y.
+flux linkage
+position
+X
+0
+Y
+Fig. 6.2
+[1]
+  (ii) Explain the shape of your line in (a)(i).
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+---PAGE 15---
+15
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (iii) Coil C is now held stationary at X. The current in the solenoid varies so that the magnetic 
+flux density B at X varies from time 0 to time 4t as shown in Fig. 6.3.
+B / T
+time
+0
+0
+4t
+0.040
+0.080
+3t2tt
+Fig. 6.3
+   Calculate the maximum magnetic flux linkage in coil C.
+ flux linkage =  ...................................................  Wb [2]
+  (iv) On Fig. 6.4, sketch a line to show the induced electromotive force (e.m.f.) E in coil C 
+from time 0 to time 4t.
+E
+0 4t3t2tt0 time
+Fig. 6.4
+[3]
+---PAGE 16---
+16
+9702/42/F/M/24© UCLES 2024
+ (b) A metal spring rests on a smooth table. The turns of the spring are equally spaced. The ends 
+of the spring are connected to a d.c. power supply, as shown in Fig. 6.5.
+to power
+supply
+smooth table
+to power
+supply
+spring
+Fig. 6.5
+  The spring is connected to the d.c. power supply using flexible leads. The spring is not under 
+tension.
+  With reference to magnetic fields, describe and explain the change in the distance between 
+the turns of the spring when the power supply is first switched on.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+[Total: 11]
+---PAGE 17---
+17
+9702/42/F/M/24© UCLES 2024 [Turn over
+BLANK PAGE
+---PAGE 18---
+18
+9702/42/F/M/24© UCLES 2024
+7 (a) A photon has an energy of 3.11 × 10–19 J.
+  Calculate the momentum of the photon.
+ momentum =  .................................................... N s [2]
+ (b) A laser beam has a power of 350 mW. The light from the laser has a wavelength of 640 nm.
+  (i) Determine the number of photons emitted by the laser in a time of 1.0 s.
+ number =  ......................................................... [2]
+  (ii) The laser beam is incident normally on a surface that absorbs all of the photons.
+   Show that the force F exerted on the surface by the laser beam is given by
+F = P
+c  
+   where P is the power of the laser beam and c is the speed of light.
+[2]
+---PAGE 19---
+19
+9702/42/F/M/24© UCLES 2024 [Turn over
+ (c) Light of a single wavelength is incident on the surface of different metals. The work function 
+energy of the metals is given in Table 7.1.
+Table 7.1
+metal work function energy / eV
+tungsten 4.49
+magnesium 3.68
+potassium 2.26
+  (i) Explain the term threshold wavelength.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (ii) For the metals in Table 7.1, calculate the value of the largest threshold wavelength.
+ threshold wavelength =  ...................................................... m [2]
+[Total: 9]
+---PAGE 20---
+20
+9702/42/F/M/24© UCLES 2024
+8 (a) State what is meant by the binding energy of a nucleus.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A nucleus of uranium‑235 absorbs a neutron and becomes unstable. It then undergoes a 
+fission reaction. One possible reaction is
+235
+92U + 1
+0n  142
+54Xe + 90
+38Sr + neutrons.
+  (i) Determine the number of neutrons produced in this fission reaction.
+ number =  ......................................................... [1]
+  (ii) Data for the binding energies per nucleon for this fission reaction are given in Table 8.1.
+Table 8.1
+isotope binding energy per nucleon / MeV
+uranium‑235 7.59
+xenon‑142 8.37
+strontium‑90 8.72
+   Calculate the energy released, in MeV, from the fission of one nucleus of uranium‑235.
+ energy =  .................................................  MeV [2]
+---PAGE 21---
+21
+9702/42/F/M/24© UCLES 2024 [Turn over
+  (iii) The isotope xenon‑142 is unstable. The isotope xenon‑132 is stable.
+   Suggest a reason why xenon‑142 is unstable.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (iv) Xenon‑142 decays into the isotope caesium‑142.
+   A sample initially contains only nuclei of xenon‑142. After a time equal to 6.0 s, the ratio
+number of decayed nuclei of xenon‑142
+number of undecayed nuclei of xenon‑142
+   is equal to 31.
+   Calculate the half‑life of xenon‑142. Show your working.
+ half‑life =  ....................................................... s [3]
+[Total: 9]
+---PAGE 22---
+22
+9702/42/F/M/24© UCLES 2024
+9 (a) Electrons in a vacuum are accelerated through a potential difference of 84  kV. The electrons 
+then strike a metal target and X‑rays are produced.
+  (i) Calculate the minimum wavelength of the X‑rays that are produced.
+ wavelength =  ...................................................... m [2]
+  (ii) The melting points of two metals are given in Table 9.1.
+Table 9.1
+metal melting point / °C
+copper 1090
+tungsten 3420
+   Suggest why the metal target is made from tungsten rather than copper.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ (b) An X‑ray beam is incident normally on a sample of soft tissue and bone as shown in Fig. 9.1.
+soft tissue
+X-ray
+beam
+bone
+Fig. 9.1
+  Data for the two materials are given in Table 9.2.
+---PAGE 23---
+23
+9702/42/F/M/24© UCLES 2024 [Turn over
+Table 9.2
+medium linear attenuation coefficient
+μ / cm–1
+specific acoustic impedance
+Z / 106 kg m–2 s–1
+soft tissue 0.22 1.7
+bone 3.0 7.8
+  
+  The total thickness of soft tissue is x. The total thickness of bone is also x.
+  The incident intensity of the X‑ray beam is I0. The transmitted intensity of the X‑ray beam is 
+13% of the incident intensity.
+  Determine x, in cm.
+ x =  .................................................... cm [3]
+ (c) (i) Define the specific acoustic impedance of a medium.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) Use data from Table 9.2 to calculate the percentage of the intensity of ultrasound that is 
+transmitted at a boundary between soft tissue and bone.
+ percentage transmitted =  ......................................................% [2]
+---PAGE 24---
+24
+9702/42/F/M/24© UCLES 2024
+  (iii) The ultrasound is now incident on the sample of soft tissue and bone shown in Fig. 9.1.
+   Suggest two reasons why the transmitted intensity through the sample is less than the 
+answer in (c)(ii).
+1  ........................................................................................................................................
+ ...........................................................................................................................................
+2  ........................................................................................................................................
+ ...........................................................................................................................................
+[2]
+[Total: 13]
+---PAGE 25---
+25
+9702/42/F/M/24© UCLES 2024 [Turn over
+10 (a) The Sun has a surface temperature of 5780 K. The luminosity of the Sun is 3.85 × 1026 W.
+  (i) Calculate the radius of the Sun.
+ radius =  ...................................................... m [2]
+  (ii) The Earth is a distance of 1.50 × 1011 m from the Sun.
+   Calculate the radiant flux intensity F of the radiation from the Sun at a distance of 
+1.50 × 1011 m. Give a unit with your answer.
+F = ............................... unit ......................... [2]
+  (iii) The variation with wavelength of the intensity of radiation emitted from the Sun is shown 
+in Fig. 10.1.
+intensity
+wavelength0
+0
+Fig. 10.1
+   Another star has the same radius as the Sun but has a lower surface temperature.
+   On Fig. 10.1, sketch a line to show the variation with wavelength of the intensity of the 
+radiation emitted for this star. [2]
+---PAGE 26---
+26
+9702/42/F/M/24© UCLES 2024
+ (b) A galaxy in the constellation Corona Borealis is moving away from the Earth.
+  (i) The visible emission spectrum for the Sun is shown in Fig. 10.2.
+350 400 450 500 550
+wavelength / nm
+600 650 700
+Fig. 10.2
+   The lines are at wavelengths of 397  nm, 410  nm, 434  nm, 486  nm and 656  nm. The 
+compositions of the Sun and a star in the Corona Borealis galaxy are similar.
+   On Fig. 10.3, sketch the emission spectrum for the star in the Corona Borealis galaxy as 
+observed from the Earth. No calculations are required.
+350 400 450 500 550
+wavelength / nm
+600 650 700
+Fig. 10.3
+[1]
+  (ii) The galaxy in Corona Borealis is moving away from the Earth at a speed of 21 400 km s–1.
+   Use information from (b)(i) to calculate, in nm, the observed wavelength of the lowest 
+visible energy emission for the star in the Corona Borealis galaxy.
+ wavelength =  .................................................... nm [2]
+  (iii) The wavelength in (b)(ii) is used to calculate a value for the surface temperature of the 
+star in the Corona Borealis galaxy. The calculation does not give an accurate value.
+   State and explain whether this value of temperature is too high or too low.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+[Total: 10]
+---PAGE 27---
+27
+9702/42/F/M/24© UCLES 2024
+BLANK PAGE
+---PAGE 28---
+28
+9702/42/F/M/24© UCLES 2024
+BLANK PAGE
+Permission to reproduce items where third ‑party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer ‑related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.

@@ -1,0 +1,675 @@
+
+---PAGE 1---
+This document has 24 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS  & A Level
+*9458776740*
+DC (DE) 345927
+© UCLES 2024
+PHYSICS 9702/41
+Paper 4 A Level Structured Questions October/November 2024
+ 2 hours
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 100.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+,	,
+* 0000800000001 *
+¬O> 4mHuOªE^z6W
+¬_zU¦£\0nz
+¥UueUEUEuUeU
+
+---PAGE 2---
+2
+9702/41/O/N/24© UCLES 2024
+Data
+acceleration of free fall g	 =	9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  =  R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊßü¸þ×
+ĬßĝùØĢþąãùíÓáğ¾ÂĔĂ
+ĥąĕĕµõĥµõÕąąąµĥĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 3---
+3
+9702/41/O/N/24© UCLES 2024 [Turn over
+2
+gravitational	potential	 ϕ	 =	–  r
+GM
+gravitational	potential	energy	 EP	 =	–  r
+GMm
+pressure	of	an	ideal	gas	 p = V
+Nm
+3
+1  〈c2〉
+simple	harmonic	motion	 a	 =	– ω 2x
+velocity	of	particle	in	s.h.m.	 v = v0 cos ωt
+ v = ! ω ()xx0
+22-
+electric	potential	 V = r
+Q
+4 0rf
+electrical	potential	energy	 EP = r
+Qq
+4 0rf
+capacitors	in	series	 C
+1  =  C
+1
+1
+ + C
+1
+2
+ + ...
+capacitors	in	parallel	 C = C1 + C2 + ...
+discharge	of	a	capacitor	 x = ex RC
+t
+0
+-
+Hall	voltage	 VH = I
+ntq
+B
+alternating	current/voltage	 x = x0 sin ωt
+radioactive	decay	 x = x0e– λt
+decay	constant	 λ = .
+t
+0 693
+2
+1
+intensity	reflection	coefficient	 I
+IR
+0
+ = 
+()
+()
+ZZ
+ZZ
+12
+2
+12
+2
++
+-
+Stefan–Boltzmann	law	 L = 4πσr 2T 4
+Doppler	redshift		  ∆λ
+λ  á f
+fD  á c
+v
+* 0000800000003 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊßú¸þ×
+ĬßĞúÐĨĂõÖÿĄĖõėĚÂĤĂ
+ĥąĥÕõĕąÕĥåÕąąÕąÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 4---
+4
+9702/41/O/N/24© UCLES 2024
+1 (a) State Newton’s law of gravitation.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A planet may be considered as a uniform sphere.
+  A  satellite is in circular orbit of period T around the planet at a height h above the surface.  
+  The height of the orbit can be adjusted by use of the satellite’ s rocket engines.
+  Fig. 1.1 shows the variation with h of T 
+2
+3 .
+0
+0 2 4 6
+h / 106 m
+8 10 12
+400
+800
+1200
+1600
+/sT 3
+2
+3
+2
+Fig. 1.1
+  (i)  By reference to forces, explain why the orbit of the satellite is circular.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+* 0000800000004 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÝü¸Ā×
+ĬßĞûÐĞôôáāċč×»¼ÒĜĂ
+ĥµµÕµĕąõąąåąÅÕåÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 5---
+5
+9702/41/O/N/24© UCLES 2024 [Turn over
+  (ii) Use Newton’s law of gravitation to show that h and T are related by
+(h + B)3 = GA
+4π2 T 2
+   where G is the gravitational constant and A and B are constants that depend on the 
+properties of the planet.
+    [3]
+  (iii) Use the gradient and intercept of the line in Fig. 1.1 to determine values for A and B.
+   Give units with your answers.
+A = ....................................... unit ..................
+B = ....................................... unit .................. 
+[5]
+[Total: 12]
+* 0000800000005 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÝú¸Ā×
+ĬßĝüØĬðĄØ÷öÜăÃĠÒĬĂ
+ĥµÅĕõõĥĕĕõõąÅµÅĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 6---
+6
+9702/41/O/N/24© UCLES 2024
+2 (a) Define specific heat capacity.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) Two solid blocks X and Y are made from dif ferent metals. The blocks have different initial 
+temperatures. Block Y is initially at room temperature.
+  The blocks are placed in direct thermal contact with each other at time t = 0. Fig. 2.1 shows 
+the variation with t of the temperatures of the two blocks.
+0
+0 0.5 1.0 1.5
+t / min
+2.0 2.5 3.0
+25
+50
+temperature / °C
+75
+100
+X
+Y
+Fig. 2.1
+* 0000800000006 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊàúµþ×
+ĬßĞüÛĢĘĊÐôćáģ»ýúĜĂ
+ĥĥĥĕõÕĥµÕĕÕąąµĥÕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 7---
+7
+9702/41/O/N/24© UCLES 2024 [Turn over
+  (i) State three conclusions that may be drawn from Fig. 2.1. The conclusions may be 
+qualitative or quantitative.
+1  ........................................................................................................................................
+ ...........................................................................................................................................
+2  ........................................................................................................................................
+ ...........................................................................................................................................
+3  ........................................................................................................................................
+ ...........................................................................................................................................
+[3]
+  (ii) The ratio mass of block Y
+mass of block X is equal to 1.3.
+   The metal in block Y has a specific heat capacity of 901 J kg–1 K–1.
+   Determine the specific heat capacity of the metal in block X.
+ specific heat capacity =  ..........................................J kg–1 K–1 [3]
+    [Total: 8]
+* 0000800000007 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊàüµþ×
+ĬßĝûÓĨĜúéĆúĨ·ÃÙúĬĂ
+ĥĥĕÕµµąÕÅĥąąąÕąĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 8---
+8
+9702/41/O/N/24© UCLES 2024
+3 (a) (i) State what is meant by the Avogadro constant.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (ii) State the relationship between the Avogadro constant NA, the molar gas constant R and 
+the Boltzmann constant k.
+ [1]
+ (b) Two samples X and Y of ideal gases are both at thermodynamic temperature T.
+  Sample X has volume V and consists of N molecules, each of mass m.
+  Sample Y has volume 2V and consists of 2N molecules, each of mass 2m.
+  (i) Complete Table 3.1 by giving expressions, in terms of some or all of N, m, T, V and the 
+constants in (a)(ii), for the quantities indicated.
+Table 3.1
+sample X sample Y
+pressure
+amount of 
+substance
+mean-square speed 
+of molecules
+internal energy
+ [4]
+* 0000800000008 *
+,		,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÞúµĀ×
+ĬßĝúÓĞĪïÎČñğĕğûĪĔĂ
+ĥÕÅÕõµąõåÅõąÅÕåĕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 9---
+9
+9702/41/O/N/24© UCLES 2024 [Turn over
+  (ii) The temperature of sample X is now varied.
+   On Fig. 3.1, sketch the variation with thermodynamic temperature of the root-mean-
+square (r.m.s.) speed of the molecules of the gas.
+0
+0
+thermodynamic temperature
+r.m.s. speed
+Fig. 3.1
+ [2]
+ [Total: 8]
+* 0000800000009 *
+,	
+,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÞüµĀ×
+ĬßĞùÛĬĦÿëîĀêÁėßĪĤĂ
+ĥÕµĕµÕĥĕµµåąÅµÅÕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 10---
+10
+9702/41/O/N/24© UCLES 2024
+4 (a) State what is meant by simple harmonic motion.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A block is suspended from a spring, as shown in Fig. 4.1.
+spring
+block
+floor
+h
+Fig. 4.1
+  The block is pulled down and released at time t = 0.  It then oscillates vertically with simple 
+harmonic motion.
+  Fig. 4.2 shows the variation of the velocity v of the block with height h of the base of the block 
+above the floor.
+–10
+–5
+0
+v / cm s–1
+5
+10
+0 2 4 6
+h / cm
+8 10 12
+Fig. 4.2
+* 0000800000010 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊßú·þ×
+ĬßĠúÚĠĢĩÔăúÅùĝďÒĬĂ
+ĥąåĕõµåõąõõÅÅõåĕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 11---
+11
+9702/41/O/N/24© UCLES 2024 [Turn over
+  (i) Determine the amplitude, in cm, of the oscillations.
+ amplitude =  ....................................................cm [1]
+  (ii) Show that the angular frequency of the oscillations is 3.2 rad s–1.
+ [2]
+  (iii) Calculate the period T of the oscillations.
+ T =  .......................................................s [2]
+  (iv) On Fig. 4.3, sketch the variation of h with time t from t = 0 to t = 6.0 s.
+0
+0 1 2 3
+t / s
+4 5 6
+2.5
+5.0
+h / cm
+7.5
+10.0
+Fig. 4.3
+ [4]
+ [Total: 11]
+* 0000800000011 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊßü·þ×
+ĬßğùÒĪĞęåõćĄÝĕËÒĜĂ
+ĥąÕÕµÕÅĕĕąåÅÅĕÅÕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 12---
+12
+9702/41/O/N/24© UCLES 2024
+5 (a) State the relationship between electric field and electric potential.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) Two charged isolated insulating spheres X and Y are near to each other, as shown in Fig. 5.1.
+X Y
+P
+Fig. 5.1
+  P  is a point on the line joining the centres of the spheres.
+  Explain why it is not possible for the total electric potential and the resultant electric field to 
+simultaneously be zero at point P.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ (c) The magnitudes of the charges on spheres X and Y in Fig. 5.1 are Q and 2Q respectively.  
+  The spheres may be considered as point charges at their centres.
+  Point P  is a distance x from the centre of sphere X.
+  The electric potential at point P  is zero.
+  (i) Show that the distance y of point P from the centre of sphere Y is equal to 2x.
+[2]
+* 0000800000012 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÝú·Ā×
+ĬßğüÒĤĐĐÒûĀċÿ¹ĩÂĤĂ
+ĥµąÕõÕÅµõåÕÅąĕĥÕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 13---
+13
+9702/41/O/N/24© UCLES 2024 [Turn over
+  (ii) State an expression, in terms of Q, x and the permittivity of free space ε0, for the electric 
+field strength EX at P due to sphere X.
+ E X =  ......................................................... [1]
+  (iii) Determine an expression, in terms of Q, x and ε0, for the resultant electric field strength 
+E at point P due to the two spheres.
+ E =  .........................................................  [2]
+ [Total: 10]
+* 0000800000013 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÝü·Ā×
+ĬßĠûÚĦĔĠçýñ¾ÛÁ­ÂĔĂ
+ĥµõĕµµåÕĥÕąÅąõąĕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 14---
+14
+9702/41/O/N/24© UCLES 2024
+6 (a) (i) State what is meant by rectification of an alternating voltage.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (ii) State the difference between half-wave rectification and full-wave rectification.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ (b) (i) Complete Fig. 6.1 to show a circuit that produces half-wave rectification of an alternating 
+input voltage VIN to produce output voltage VOUT across the resistor R.
+VIN VOUTRC
+Fig. 6.1
+ [2]
+  (ii) State the purpose of the capacitor C in the circuit of Fig. 6.1.
+ 
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ (c) The input voltage VIN in Fig. 6.1 is a square wave. Fig. 6.2 shows the variation of V IN with 
+time t.
+–12
+0
+VIN / V
++12
+0 0.01 0.02
+t / s
+0.03 0.04
+Fig. 6.2
+* 0000800000014 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÞû¶Ă×
+ĬßğùÛĬğĘÕċöġ÷Ĝ¹òĜĂ
+ĥĕõÕõÕĥõąÅąąÅµåÕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 15---
+15
+9702/41/O/N/24© UCLES 2024 [Turn over
+  Fig. 6.3 shows the variation of V OUT with t.
+0
+4
+VOUT / V
+12
+8
+0 0.01 0.02
+t / s
+0.03 0.04
+Fig. 6.3
+  The maximum energy stored in the capacitor is 0.041 J.
+  (i) Show that the capacitance of C is 570 μF.
+[2]
+  (ii) Determine the resistance of R.
+ resistance =  ..................................................... Ω [3]
+[Total: 11]
+* 0000800000015 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÞù¶Ă×
+ĬßĠúÓĞģĨäíċèãĤĝòĬĂ
+ĥĕąĕµµąĕĕµÕąÅÕÅĕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 16---
+16
+9702/41/O/N/24© UCLES 2024
+7 (a) Define magnetic flux density.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A long, straight wire carries a current into the page, as shown in Fig. 7.1.
+Fig. 7.1
+  On Fig. 7.1, draw four field lines to represent the magnetic field around the wire due to the 
+current in it. [3]
+ (c) Two identical wires X and Y are placed parallel to each other. The wires both carry current 
+into the page, as shown in Fig. 7.2.
+X Y
+Fig. 7.2
+* 0000800000016 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊàû¶Ą×
+ĬßĠûÓĨđġ×óĄßāÀ¿ĢĔĂ
+ĥåÕĕõµąµõĕåąąÕĥĕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 17---
+17
+9702/41/O/N/24© UCLES 2024 [Turn over
+  (i)  Explain why the two wires exert a magnetic force on each other.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) On Fig. 7.2, draw an arrow to show the direction of the magnetic force exerted on wire X.  
+   Label your arrow F. [1]
+  (iii) The current in X is double the current in Y.
+   State how the magnetic force exerted on wire Y compares with the magnetic force 
+exerted on wire X. 
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (iv) The direction of the current in both wires is now reversed.
+   State, with a reason, the effect of this change on the direction of the force on wire X.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ [Total: 11]
+* 0000800000017 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊàù¶Ą×
+ĬßğüÛĢčđâąíĪÕ¸ěĢĤĂ
+ĥååÕµÕĥÕĥĥõąąµąÕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 18---
+18
+9702/41/O/N/24© UCLES 2024
+8 A polished sheet of magnesium in a vacuum emits electrons when it is illuminated by ultraviolet 
+radiation.
+ (a) State the name of this phenomenon.
+ ............................................................................................................................................. [1]
+ (b) For emission of electrons to occur, the frequency of the ultraviolet radiation must be at least 
+8.8 × 1014 Hz.
+  (i) Calculate the work function energy of magnesium.
+ work function energy =  ...................................................... J [2]
+  (ii) For ultraviolet radiation with a frequency of 11 × 1014 Hz, calculate the maximum speed 
+of the emitted electrons.
+ maximum speed =  ................................................ m s–1 [3]
+* 0000800000018 *
+,		,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÝû¸Ă×
+ĬßĝûÚĦę÷Ùüċąĝ¾ëÚĬĂ
+ĥõµÕõµåµÕååÅąõĥĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 19---
+19
+9702/41/O/N/24© UCLES 2024 [Turn over
+ (c) The frequency f of the ultraviolet radiation incident on the magnesium sheet is varied between 
+8.0 × 1014 Hz and 11 × 1014 Hz.
+  On Fig. 8.1, sketch the variation with f of the maximum kinetic energy E MAX of the emitted 
+electrons. Use the space below for any working that you need.
+0
+0.5
+EMAX / 10–19 J
+f / 1014 Hz
+1.5
+2.0
+1.0
+8.0 8.5 9.0 9.5 10.0 10.5 11.0
+Fig. 8.1
+ [3]
+ [Total: 9]
+* 0000800000019 *
+,	
+,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÝù¸Ă×
+ĬßĞüÒĤĕćàþöÄ¹¶ïÚĜĂ
+ĥõÅĕµÕÅÕÅÕõÅąĕąÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 20---
+20
+9702/41/O/N/24© UCLES 2024
+BLANK PAGE
+* 0000800000020 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊßû¸Ą×
+ĬßĞùÒĪħĂÛĄíËěĚÍÊĤĂ
+ĥÅĕĕõÕÅõåõąÅÅĕåÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 21---
+21
+9702/41/O/N/24© UCLES 2024 [Turn over
+9 Fluorine-18 (18
+9F) decays by beta-plus (β+) emission with a half-life of 110 minutes.
+ (a) (i) State the name of the beta-plus particle.
+ ..................................................................................................................................... [1]
+  (ii) Show that the decay constant of fluorine-18 is 1.05 × 10–4 s–1.
+  [1]
+  (iii) Determine the activity of 2.1 × 10–12 kg of fluorine-18.
+ activity =  .................................................... Bq [3]
+ (b) A small sample of fluorine-18 injected into the body acts as a tracer for use in medical imaging.
+  (i) Describe how the interaction of a β + particle with an electron in the body enables the 
+formation of an image. 
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+  (ii) Suggest why 110 minutes is a suitable half-life for a nuclide used as a tracer in medical 
+diagnosis.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ [Total: 10]
+* 0000800000021 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊßù¸Ą×
+ĬßĝúÚĠīòÞöĄþ¿ĢĉÊĔĂ
+ĥÅĥÕµµåĕµąÕÅÅõÅĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 22---
+22
+9702/41/O/N/24© UCLES 2024
+10 (a) Explain how redshift leads to the idea that the Universe is expanding.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ (b) Stars in a distant galaxy emit radiation. The total luminosity of the stars in the galaxy is 
+1.90 × 1036 W.
+  The emission spectrum of the radiation contains a line X at a wavelength of 658 nm.
+  Radiation from the galaxy is observed on the Earth. The observed radiation has a radiant flux 
+intensity of 8.42 × 10–16 W m–2. In the observed emission spectrum, line X is at a wavelength 
+of 726 nm.
+  Determine: 
+  (i) the distance d of the galaxy from the Earth
+ d =  ..................................................... m [2]
+  (ii) the speed v of the galaxy relative to the Earth.
+ v =  ................................................ m s–1 [2]
+* 0000800000022 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÞùµĂ×
+ĬßĞúÕĦăüæññ÷ßĚĬĢĤĂ
+ĥĕÅÕµĕåµõĥõÅąõĥÕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 23---
+23
+9702/41/O/N/24© UCLES 2024
+ (c) Observations of many galaxies, such as the one in (b), lead to many pairs of values of d and 
+v. Plotting these values reveals a trend.
+  (i) On Fig. 10.1, sketch the variation of v with d.
+0
+0
+d
+v
+Fig. 10.1
+ [2]
+  (ii) State the name of the quantity represented by the gradient of the line in Fig. 10.1.
+ ..................................................................................................................................... [1]
+ [Total: 10]
+* 0000800000023 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÞûµĂ×
+ĬßĝùÍĤÿČÓćĀ²ûĢ°ĢĔĂ
+ĥĕµĕõõÅÕĥĕåÅąĕąĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 24---
+24
+9702/41/O/N/24© UCLES 2024
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE
+* 0000800000024 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊàùµĄ×
+ĬßĝüÍĪíýèĉć¹Ù¾ĎòĬĂ
+ĥåĥĕµõÅõąµÕÅÅĕåĕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN

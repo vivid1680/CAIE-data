@@ -1,0 +1,364 @@
+
+---PAGE 1---
+This document has 20 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS & A Level
+PHYSICS 9702/23
+Paper 2 AS Level Structured Questions May/June 2024
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+*9497165122*
+DC (SL/SW) 329786/3
+© UCLES 2024
+---PAGE 2---
+2
+9702/23/M/J/24© UCLES 2024
+Data
+acceleration of free fall g	 =	 9.81 m s –2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	 × 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K –1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ ( 4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+ 
+---PAGE 3---
+3
+9702/23/M/J/24© UCLES 2024 [Turn over
+Data
+acceleration of free fall g	 =	 9.81 m s –2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	 × 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K –1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ ( 4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+BLANK PAGE
+---PAGE 4---
+4
+9702/23/M/J/24© UCLES 2024
+1 The drag force FD acting on a sphere falling through a liquid is given by
+FD = 6πηr v
+ where r is the radius of the sphere,
+  v is the speed of the sphere in the liquid and
+  η is a property of the liquid called the viscosity.
+ (a) Show that the SI base units of viscosity are kg m–1 s–1.
+ [2]
+ (b) The sphere has a radius of 3.0 cm and is falling vertically downwards at a terminal velocity of 
+2.0 m s–1 through the liquid. The drag force acting on the sphere is 0.096 N.
+  Calculate the viscosity of the liquid.
+ viscosity =  ......................................... kg m–1 s–1 [2]
+ (c) The sphere is shown in Fig. 1.1.
+sphere
+liquid
+Fig. 1.1
+  On Fig. 1.1, draw and label arrows to represent the directions of the three forces acting on 
+the sphere as it falls at terminal velocity through the liquid. [2]
+---PAGE 5---
+5
+9702/23/M/J/24© UCLES 2024 [Turn over
+ (d) (i) The density of the liquid is 920 kg m–3. 
+   Show that the upthrust acting on the sphere is 1.0 N.
+ [2]
+  (ii) Calculate the mass of the sphere.
+ mass =  ....................................................  kg [2]
+ [Total: 10]
+---PAGE 6---
+6
+9702/23/M/J/24© UCLES 2024
+2 (a) Define displacement from a point.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) An object is projected horizontally at a speed of 6.0 m s–1 from a slope, as shown in Fig. 2.1.
+object
+6.0 m s–1
+slope
+horizontal θ
+Fig. 2.1 (not to scale)
+  The slope is at an angle θ to the horizontal. Air resistance is negligible.
+  The object lands on the slope a time of 0.71 s later and stops without rolling or bouncing.
+  (i) Determine the horizontal distance travelled by the object.
+ distance =  ..................................................... m [1]
+  (ii) Determine the vertical distance travelled by the object.
+ distance =  ..................................................... m [2]
+---PAGE 7---
+7
+9702/23/M/J/24© UCLES 2024 [Turn over
+  (iii) Use your answers in (b)(i) and (b)(ii) to calculate θ.
+ θ =  ....................................................... ° [2]
+  (iv) Determine the magnitude of the displacement of the object from its original position.
+ displacement =  ..................................................... m [2]
+  (v) By considering energy, calculate the speed of the object just before it lands.
+ speed =  ................................................ m s–1 [3]
+ [Total: 11]
+---PAGE 8---
+8
+9702/23/M/J/24© UCLES 2024
+3 (a) State Hooke’s law.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) The variation of the applied force with the extension for a sample of a material is shown in 
+Fig. 3.1.
+0
+0
+2
+4
+6
+8
+10
+40 80 120
+extension / mm
+force / N
+160 200
+X
+Fig. 3.1
+  The sample behaves elastically up to an extension of 80 mm and breaks at point X.
+  (i) On the line in Fig. 3.1, draw a cross (×) to show the limit of proportionality. Label this 
+cross with the letter P. [1]
+  (ii) On the line in Fig. 3.1, draw a cross (×) to show the elastic limit. Label this cross with the 
+letter E. [1]
+---PAGE 9---
+9
+9702/23/M/J/24© UCLES 2024 [Turn over
+ (c) The sample in (b) has a cross-sectional area of 0.40 mm2 and an initial length of 3.2 m.
+  For deformations within the limit of proportionality of the sample, determine:
+  (i) the spring constant of the sample
+ spring constant =  ............................................... N m–1 [2]
+  (ii) the Young modulus of the material from which the sample is made.
+ Young modulus =  .................................................... Pa [3]
+ (d) Determine an estimate of the work done on the sample as it is extended from zero extension 
+to its breaking point. Explain your reasoning.
+ work done =  ......................................................  J [2]
+---PAGE 10---
+10
+9702/23/M/J/24© UCLES 2024
+ (e) A second sample of the same material has a larger cross-sectional area than the original 
+sample but the same initial length. The two samples are each deformed with the limit of 
+proportionality.
+  State and explain qualitatively how the spring constant of the second sample compares with 
+that of the original sample.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ [Total: 12]
+---PAGE 11---
+11
+9702/23/M/J/24© UCLES 2024 [Turn over
+BLANK PAGE
+---PAGE 12---
+12
+9702/23/M/J/24© UCLES 2024
+4 A progressive transverse wave travelling from left to right is shown at an instant in time in Fig. 4.1.
+T
+R direction of travelwave
+Fig. 4.1
+ R and T are points on the wave.
+ (a) State the phase difference between the points R and T.
+ phase difference =  ....................................................... ° [1]
+ (b) On Fig. 4.1, draw an arrow at point T to show the direction of movement of point T at the 
+instant shown. [1]
+ (c) The horizontal distance between R and T is 0.62 cm, as shown in Fig. 4.2.
+T
+R
+0.62 cm
+Fig. 4.2 (not to scale)
+  The speed of the wave is 0.27 m s–1.
+  Calculate the frequency of the wave.
+ frequency =  .................................................... Hz [3]
+---PAGE 13---
+13
+9702/23/M/J/24© UCLES 2024 [Turn over
+ (d) The wave is a water wave produced by a dipper S1 attached to a vibrator in a ripple tank.
+  An identical dipper S 2 is attached to the same vibrator. The two dippers produce an 
+interference pattern on the water in the tank, as shown in Fig. 4.3.
+S1
+wave troughs
+wave crests
+water
+S2
+P
+Fig. 4.3 (not to scale)
+  The wave crests from each source are represented by solid lines on Fig. 4.3 and the wave 
+troughs are represented by dashed lines.
+  At point P in Fig. 4.3, the wave from S1 has the same amplitude A as the wave from S2.
+  Describe and explain the amplitude of the resultant wave at point P.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ [Total: 8]
+---PAGE 14---
+14
+9702/23/M/J/24© UCLES 2024
+5 (a) (i) State Kirchhoff’s second law.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (ii) State the conservation law that gives rise to Kirchhoff’s second law.
+ ..................................................................................................................................... [1]
+ (b) A circuit contains a cell of internal resistance r and two resistors of resistances R1 and R2, as 
+shown in Fig. 5.1.
+R1
+r
+R2
+V
+I
+Fig. 5.1
+  The potential difference (p.d.) across the two resistors is V.
+  The current in the cell is I.
+---PAGE 15---
+15
+9702/23/M/J/24© UCLES 2024 [Turn over
+  (i) Use Kirchhoff’s laws to show that the total resistance RT of the external circuit is given by
+1
+RT
+ = 1
+R1
+ + 1
+R2 .
+ [2]
+  (ii) The electromotive force (e.m.f.) of the cell is 1.50 V. 
+   When the values of R1 and R2 are 10 Ω and 15 Ω respectively, the p.d. measured by the 
+voltmeter is 1.38 V.
+   Calculate the internal resistance r of the cell.
+ r =  .....................................................  Ω [3]
+---PAGE 16---
+16
+9702/23/M/J/24© UCLES 2024
+ (c) A third resistor is added in parallel with R1 and R2 in the circuit in Fig. 5.1.
+ 
+  State and explain the effect, if any, of this change on:
+  (i) the current in the cell
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) the p.d. measured by the voltmeter.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ [Total: 11]
+---PAGE 17---
+17
+9702/23/M/J/24© UCLES 2024 [Turn over
+BLANK PAGE
+---PAGE 18---
+18
+9702/23/M/J/24© UCLES 2024
+6 Nuclei of an isotope of samarium (Sm) each contain 62 protons and 85 neutrons.
+ (a) State the nuclide notation in the form A
+ZX for this isotope of samarium.
+  [1]
+ (b) This isotope of samarium is radioactive and decays by emitting particles. Gamma-radiation is 
+not emitted. The energy spectrum of the emitted particles is shown in Fig. 6.1.
+number of particles
+kinetic energy
+of particle
+00
+Fig. 6.1
+  (i) Explain how Fig. 6.1 shows that this isotope of samarium emits α-particles and does not 
+emit β-particles. 
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) This isotope of samarium decays to an isotope of neodymium (Nd).
+   Give the radioactive decay equation for this decay. Include the nucleon and proton 
+numbers of all the particles involved.
+ [2]
+---PAGE 19---
+19
+9702/23/M/J/24© UCLES 2024
+ (c) A baryon is composed of three quarks which all have different flavours. The baryon has a 
+charge of 0.
+  Two of the quarks in the baryon are an up quark and a bottom quark.
+  (i) Determine, in terms of the elementary charge e, the charge on the third quark in the 
+baryon.
+ charge =  ....................................................... e [2]
+  (ii) State a possible flavour for the third quark in the baryon.
+ ..................................................................................................................................... [1]
+ [Total: 8]
+---PAGE 20---
+20
+9702/23/M/J/24© UCLES 2024
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE
