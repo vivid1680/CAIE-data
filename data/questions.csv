@@ -2320,550 +2320,550 @@ D neutron to proton up becomes down",NULL
 9702,2024,March,4,2,10,b(i),1,Sketch in Fig 10.3,images/9702_m24_42_qp_fig10_3.png
 9702,2024,March,4,2,10,b(ii),2,Galaxy moving away at 21400 km s^-1. Calculate observed wavelength of lowest visible energy emission.,NULL
 9702,2024,March,4,2,10,b(iii),1,State whether temperature calculation is too high or too low.,NULL
-9702,2024,Winter,4,2,1,NULL,NULL,"A metal wheel consists of an axle A, eight spokes and a rim, as shown in Fig. 1.1.",images/9702_w24_42_qp_fig1_1.png
-9702,2024,Winter,4,2,1,a(i),2,Determine the speed of point X.,NULL
-9702,2024,Winter,4,2,1,a(ii),2,Determine centripetal acceleration.,NULL
-9702,2024,Winter,4,2,1,b(i),2,State Lenz's law.,NULL
-9702,2024,Winter,4,2,1,b(ii),1,Show time for one revolution is 45 ms.,NULL
-9702,2024,Winter,4,2,1,b(iii),3,Calculate magnetic flux cut by spoke AX.,NULL
-9702,2024,Winter,4,2,2,a,1,Define gravitational field.,NULL
-9702,2024,Winter,4,2,2,b(i),2,Probe distance 1.47 * 10^11 m. Calculate g.,NULL
-9702,2024,Winter,4,2,2,b(ii),2,Determine gravitational potential energy.,NULL
-9702,2024,Winter,4,2,2,c(i),3,Show g and F relation.,NULL
-9702,2024,Winter,4,2,2,c(ii),2,Fig. 2.1 shows variation. Determine luminosity L.,images/9702_w24_42_qp_fig2_1.png
-9702,2024,Winter,4,2,3,a,2,Define specific latent heat.,NULL
-9702,2024,Winter,4,2,3,b(i),2,Liquid vaporises. Show work done is 1.7 kJ.,NULL
-9702,2024,Winter,4,2,3,b(ii),2,Calculate thermal energy Q.,NULL
-9702,2024,Winter,4,2,3,c,3,Suggest and explain if LF less than LV.,NULL
-9702,2024,Winter,4,2,4,a,3,State three basic assumptions of kinetic theory.,NULL
-9702,2024,Winter,4,2,4,b,3,Explain how molecular movement causes pressure.,NULL
-9702,2024,Winter,4,2,4,c,3,Conclusions from Fig. 4.1 and 4.2.,images/9702_w24_42_qp_fig4_1.png
-9702,2024,Winter,4,2,4,c,3,Fig 4.2 data,images/9702_w24_42_qp_fig4_2.png
-9702,2024,Winter,4,2,5,a,1,Draw arrow on Fig. 5.1 for resultant force.,images/9702_w24_42_qp_fig5_1.png
-9702,2024,Winter,4,2,5,b(i),1,State amplitude from Fig. 5.2.,images/9702_w24_42_qp_fig5_2.png
-9702,2024,Winter,4,2,5,b(ii),2,Determine angular frequency.,NULL
-9702,2024,Winter,4,2,5,c,3,Sketch kinetic energy in Fig. 5.3.,images/9702_w24_42_qp_fig5_3.png
-9702,2024,Winter,4,2,6,a,2,State Coulomb's law.,NULL
-9702,2024,Winter,4,2,6,b,3,Draw field lines on Fig. 6.1.,images/9702_w24_42_qp_fig6_1.png
-9702,2024,Winter,4,2,6,c(i),1,Determine radius from Fig. 6.2.,images/9702_w24_42_qp_fig6_2.png
-9702,2024,Winter,4,2,7,a,2,Define capacitance.,NULL
-9702,2024,Winter,4,2,7,b(i),2,Sketch charge vs p.d. in Fig. 7.1.,images/9702_w24_42_qp_fig7_1.png
-9702,2024,Winter,4,2,7,c(i),3,Connected to Y in Fig. 7.2. Complete Table 7.1.,images/9702_w24_42_qp_fig7_2.png
-9702,2024,Winter,4,2,8,b(ii),3,Sketch I vs t in Fig. 8.1.,images/9702_w24_42_qp_fig8_1.png
-9702,2024,Winter,4,2,9,d(i),2,Sketch p vs 1/lambda in Fig. 9.1.,images/9702_w24_42_qp_fig9_1.png
-9702,2024,Winter,4,2,10,a(i),1,State meant by random.,NULL
-9702,2024,Winter,2,2,1,a,1,State what is meant by a vector quantity.,NULL
-9702,2024,Winter,2,2,1,b,NULL,"A sphere falls vertically through a liquid that has density 830 kg m^-3. The sphere has radius r and constant velocity v, as shown in Fig. 1.1.",images/9702_w24_22_qp_fig1_1.png
-9702,2024,Winter,2,2,1,b(i),3,The drag force D acting on the sphere is given by D = 6 pi r eta v. Determine the SI base units of eta.,NULL
-9702,2024,Winter,2,2,1,b(ii),1,"State an equation showing relationship between magnitudes of weight W, drag force D and upthrust U.",NULL
-9702,2024,Winter,2,2,1,b(iii),2,Volume is 4.6 cm^3. D is 0.32 N. Calculate weight of sphere.,NULL
-9702,2024,Winter,2,2,2,a,1,Define momentum.,NULL
-9702,2024,Winter,2,2,2,b,2,"Child on scooter, mass 16 kg. Accelerates from rest for 1.1 s to speed 0.60 m s^-1. Determine average resultant force.",NULL
-9702,2024,Winter,2,2,2,c,2,Travels down slope shown in Fig. 2.1. Acceleration 0.85 m s^-2 for 3.7 s from speed 0.60 m s^-1. Calculate distance x.,images/9702_w24_22_qp_fig2_1.png
-9702,2024,Winter,2,2,2,d(i),2,Braking force to maintain constant velocity from B to C (18 m) as shown in Fig. 2.2. Work done 250 J. Determine braking force.,images/9702_w24_22_qp_fig2_2.png
-9702,2024,Winter,2,2,2,d(ii),3,"On Fig. 2.3, sketch variation of kinetic energy with distance from A to C.",images/9702_w24_22_qp_fig2_3.png
-9702,2024,Winter,2,2,3,a(i),2,Stress vs strain in Fig. 3.1. Determine Young modulus.,images/9702_w24_22_qp_fig3_1.png
-9702,2024,Winter,2,2,3,a(ii),1,"On Fig. 3.1, draw cross to show limit of proportionality Q.",NULL
-9702,2024,Winter,2,2,3,b,2,State conditions for equilibrium.,NULL
-9702,2024,Winter,2,2,3,c(i),3,Shelf AB horizontally as shown in Fig. 3.2. Weight 33 N. Cup 1.5 N at 0.12 m from B. Determine tension T.,images/9702_w24_22_qp_fig3_2.png
-9702,2024,Winter,2,2,3,c(ii),2,Stress is 1.5 * 10^7 Pa. Determine radius.,NULL
-9702,2024,Winter,2,2,3,c(iii),2,Stress doubles. State and explain behavior using Fig. 3.1.,NULL
-9702,2024,Winter,2,2,4,a,2,Compare oscillations of transverse and longitudinal waves.,NULL
-9702,2024,Winter,2,2,4,b(i),1,Stationary wave in Fig. 4.1. Mark A at antinode.,images/9702_w24_22_qp_fig4_1.png
-9702,2024,Winter,2,2,4,b(ii),3,Distance 4.5 * 10^-2 m. Speed 340 m s^-1. Determine frequency.,NULL
-9702,2024,Winter,2,2,4,b(iii),2,Piston moved left. Frequency changed to form same number of antinodes. Explain change to frequency.,NULL
-9702,2024,Winter,2,2,5,a,1,Define potential difference.,NULL
-9702,2024,Winter,2,2,5,b,NULL,Power supply 230 V. Current 7.0 A. Circuit shown in Fig. 5.1.,images/9702_w24_22_qp_fig5_1.png
-9702,2024,Winter,2,2,5,b(i),1,Identify component X.,NULL
-9702,2024,Winter,2,2,5,b(ii),1,Show pd across 0.86 Ohm is 6.0 V.,NULL
-9702,2024,Winter,2,2,5,b(iii),2,Determine current I1.,NULL
-9702,2024,Winter,2,2,5,b(iv),2,Calculate pd across component X.,NULL
-9702,2024,Winter,2,2,5,b(v),2,Calculate power in X.,NULL
-9702,2024,Winter,2,2,5,b(vi),2,Determine percentage efficiency.,NULL
-9702,2024,Winter,2,2,5,b(vii),1,170 Ohm removed. State if current in supply increases/decreases.,NULL
-9702,2024,Winter,2,2,6,a,3,Compare alpha with beta+ in terms of mass and charge.,NULL
-9702,2024,Winter,2,2,6,b,NULL,"P undergoes alpha-decay to Q, then Q decays to R. Fig. 6.1 shows proton/nucleon numbers.",images/9702_w24_22_qp_fig6_1.png
-9702,2024,Winter,2,2,6,b(i),1,"On Fig. 6.1, draw cross for Q.",NULL
-9702,2024,Winter,2,2,6,b(ii),2,State names of particles as Q decays to R.,NULL
-9702,2024,Winter,2,2,6,c,NULL,P traveling at constant velocity. After decay Q at 68 degrees. Alpha at theta as shown in Fig. 6.2.,images/9702_w24_22_qp_fig6_2.png
-9702,2024,Winter,2,2,6,c(i),3,Determine theta.,NULL
-9702,2024,Winter,2,2,6,c(ii),2,Calculate kinetic energy of alpha.,NULL
-9702,2024,Winter,1,2,1,NULL,1,Which row does not show a correct combination of a quantity and its unit?,NULL
-9702,2024,Winter,1,2,2,NULL,1,What is a reasonable estimate of the kinetic energy of the car?,NULL
-9702,2024,Winter,1,2,3,NULL,1,A solid bar has a square cross-section. Calculate percentage uncertainty in volume.,NULL
-9702,2024,Winter,1,2,4,NULL,1,Which graph shows the variation with time of the velocity of the object?,images/9702_w24_12_qp_fig4.png
-9702,2024,Winter,1,2,5,NULL,1,Stone falls vertically. What is the speed after 0.40 m?,NULL
-9702,2024,Winter,1,2,6,NULL,1,Ball thrown horizontally. Which statement about motion is correct?,NULL
-9702,2024,Winter,1,2,7,NULL,1,Moving object strikes stationary object. Possible values of momentum/KE?,NULL
-9702,2024,Winter,1,2,8,NULL,1,Which quantities could X and Y represent for terminal velocity?,images/9702_w24_12_qp_fig8.png
-9702,2024,Winter,1,2,9,NULL,1,Ball collides with wall and rebounds. Average force?,NULL
-9702,2024,Winter,1,2,10,NULL,1,Two train carriages collide and join. Kinetic energy lost?,images/9702_w24_12_qp_fig10.png
-9702,2024,Winter,1,2,11,NULL,1,Single condition for equilibrium?,NULL
-9702,2024,Winter,1,2,12,NULL,1,Kite in equilibrium. Which vector diagram represents forces?,images/9702_w24_12_qp_fig12.png
-9702,2024,Winter,1,2,13,NULL,1,Four forces act about point P. Length XY?,images/9702_w24_12_qp_fig13.png
-9702,2024,Winter,1,2,14,NULL,1,Rectangular block of lead. Maximum pressure?,NULL
-9702,2024,Winter,1,2,15,NULL,1,Definition of power?,NULL
-9702,2024,Winter,1,2,16,NULL,1,Model car constant velocity. Total horizontal resistive force?,NULL
-9702,2024,Winter,1,2,17,NULL,1,Principle of conservation of energy?,NULL
-9702,2024,Winter,1,2,18,NULL,1,Barrel loaded onto lorry. Minimum work done?,images/9702_w24_12_qp_fig18.png
-9702,2024,Winter,1,2,19,NULL,1,Unit for stress?,NULL
-9702,2024,Winter,1,2,20,NULL,1,Stress-strain relationship for three wires. Correct statements?,images/9702_w24_12_qp_fig20.png
-9702,2024,Winter,1,2,21,NULL,1,Four solid steel rods support object. Young modulus of steel?,NULL
-9702,2024,Winter,1,2,22,NULL,1,Which area represents work done in stretching the spring?,images/9702_w24_12_qp_fig22.png
-9702,2024,Winter,1,2,23,NULL,1,Vertically polarised light amplitude A. Amplitude after filter?,NULL
-9702,2024,Winter,1,2,24,NULL,1,Progressive longitudinal sound wave. Variation of displacement graph?,images/9702_w24_12_qp_fig24.png
-9702,2024,Winter,1,2,25,NULL,1,Electromagnetic wave frequency 3.0*10^16 Hz. Principal region?,NULL
-9702,2024,Winter,1,2,26,NULL,1,Source of sound moves. Smallest observed frequency?,NULL
-9702,2024,Winter,1,2,27,NULL,1,Description of time-base of a CRO?,NULL
-9702,2024,Winter,1,2,28,NULL,1,What happens when two waves superpose?,NULL
-9702,2024,Winter,1,2,29,NULL,1,Single slit diffraction. Change to decrease diffraction?,NULL
-9702,2024,Winter,1,2,30,NULL,1,Visible light incident on grating. Wavelength?,images/9702_w24_12_qp_fig30.png
-9702,2024,Winter,1,2,31,NULL,1,Horizontal glass tube dust heaps. Frequency of sound?,images/9702_w24_12_qp_fig31.png
-9702,2024,Winter,1,2,32,NULL,1,Total charge through resistor. Correct statement?,NULL
-9702,2024,Winter,1,2,33,NULL,1,Filament lamp pd raised. I-V graph?,images/9702_w24_12_qp_fig33.png
-9702,2024,Winter,1,2,34,NULL,1,Current 12 A in wire. Number of free electrons?,NULL
-9702,2024,Winter,1,2,35,NULL,1,Three resistors connected. Circuit with 100 Ohm combined resistance?,images/9702_w24_12_qp_fig35.png
-9702,2024,Winter,1,2,36,NULL,1,Kirchhoff's laws conservation basis?,NULL
-9702,2024,Winter,1,2,37,NULL,1,Cell internal resistance calculation.,NULL
-9702,2024,Winter,1,2,38,NULL,1,Not a quark flavour?,NULL
-9702,2024,Winter,1,2,39,NULL,1,Down quarks in hydrogen-3 nucleus?,NULL
-9702,2024,Winter,1,2,40,NULL,1,Beta-plus emission additional particle?,NULL
-9702,2024,Summer,1,2,1,NULL,1,Which quantity is a scalar?,NULL
-9702,2024,Summer,1,2,2,NULL,1,Density of a solid sphere mass M and diameter d. Which expression is correct?,NULL
-9702,2024,Summer,1,2,3,NULL,1,Velocity vs time graph for falling object. Terminal velocity point?,NULL
-9702,2024,Summer,1,2,4,NULL,1,Percentage uncertainty in kinetic energy calculation.,NULL
-9702,2024,Summer,1,2,5,NULL,1,Ball falling with air resistance. Which statement about acceleration is correct?,images/9702_s24_12_qp_fig5.png
-9702,2024,Summer,1,2,6,NULL,1,Force vs time graph for collision. Average force?,images/9702_s24_12_qp_fig6.png
-9702,2024,Summer,1,2,7,NULL,1,Elastic collision between two spheres. Which property is conserved?,NULL
-9702,2024,Summer,1,2,8,NULL,1,Density calculation for a cube.,NULL
-9702,2024,Summer,1,2,9,NULL,1,Two forces in equilibrium. Resultant moment about point P?,NULL
-9702,2024,Summer,1,2,10,NULL,1,Beam in equilibrium on two supports. Force calculation.,images/9702_s24_12_qp_fig10.png
-9702,2024,Summer,1,2,11,NULL,1,Diagram showing forces on a kite. Resultant force?,images/9702_s24_12_qp_fig11.png
-9702,2024,Summer,1,2,12,NULL,1,Hydrostatic pressure calculation in two liquids.,images/9702_s24_12_qp_fig12.png
-9702,2024,Summer,1,2,13,NULL,1,Efficiency calculation for a motor lifting a load.,NULL
-9702,2024,Summer,1,2,14,NULL,1,Work done per unit time definition?,NULL
-9702,2024,Summer,1,2,15,NULL,1,Mass-spring system extensions.,images/9702_s24_12_qp_fig15.png
-9702,2024,Summer,1,2,16,NULL,1,Young modulus calculation for a wire.,NULL
-9702,2024,Summer,1,2,17,NULL,1,Stress-strain graph regions and Hooke's law.,NULL
-9702,2024,Summer,1,2,18,NULL,1,Progressive transverse wave. Phase difference between points?,images/9702_s24_12_qp_fig18.png
-9702,2024,Summer,1,2,19,NULL,1,Sound wave intensity vs distance.,images/9702_s24_12_qp_fig19.png
-9702,2024,Summer,1,2,20,NULL,1,Doppler effect calculation for a moving source.,images/9702_s24_12_qp_fig20.png
-9702,2024,Summer,1,2,21,NULL,1,Electromagnetic wave spectrum regions.,images/9702_s24_12_qp_fig21.png
-9702,2024,Summer,1,2,22,NULL,1,Polarisation of electromagnetic waves.,NULL
-9702,2024,Summer,1,2,23,NULL,1,Stationary wave on a string. Node positions?,images/9702_s24_12_qp_fig23.png
-9702,2024,Summer,1,2,24,NULL,1,Diffraction of waves through a slit.,NULL
-9702,2024,Summer,1,2,25,NULL,1,Interference pattern from two sources.,NULL
-9702,2024,Summer,1,2,26,NULL,1,Diffraction grating wavelength calculation.,images/9702_s24_12_qp_fig26.png
-9702,2024,Summer,1,2,27,NULL,1,Cathode-ray oscilloscope settings.,NULL
-9702,2024,Summer,1,2,28,NULL,1,What is the definition of current?,NULL
-9702,2024,Summer,1,2,29,NULL,1,Charge carrier drift speed in a wire.,NULL
-9702,2024,Summer,1,2,30,NULL,1,Potential difference across a parallel combination of resistors.,NULL
-9702,2024,Summer,1,2,31,NULL,1,Kirchhoff's first law application to a junction.,images/9702_s24_12_qp_fig31.png
-9702,2024,Summer,1,2,32,NULL,1,Resistance of a thermistor from graph.,NULL
-9702,2024,Summer,1,2,33,NULL,1,Internal resistance of a battery.,NULL
-9702,2024,Summer,1,2,34,NULL,1,Potentiometer circuit balance length.,NULL
-9702,2024,Summer,1,2,35,NULL,1,Combined resistance of three resistors.,images/9702_s24_12_qp_fig35.png
-9702,2024,Summer,1,2,36,NULL,1,Electricity circuit Kirchhoff's second law loop.,images/9702_s24_12_qp_fig36.png
-9702,2024,Summer,1,2,37,NULL,1,Which particle is a baryon?,NULL
-9702,2024,Summer,1,2,38,NULL,1,Quark composition of a neutron.,NULL
-9702,2024,Summer,1,2,39,NULL,1,Weak interaction decay particle emitted.,NULL
-9702,2024,Summer,1,2,40,NULL,1,Beta-minus decay nucleus change.,NULL
-9702,2024,Summer,2,2,1,a,1,"Circle all scalar quantities in the list: acceleration, charge, displacement, momentum, weight.",NULL
-9702,2024,Summer,2,2,1,b,NULL,A square solar panel with sides of length 1300 mm is shown in Fig. 1.1.,images/9702_s24_22_qp_fig1_1.png
-9702,2024,Summer,2,2,1,b(i),3,Solar radiation power 750 W. Determine intensity.,NULL
-9702,2024,Summer,2,2,1,b(ii),2,"Uncertainty in length 5 mm, in power 3%. Calculate percentage uncertainty in intensity.",NULL
-9702,2024,Summer,2,2,2,a,NULL,A skydiver jumps from aircraft. Velocity-time graph is shown in Fig. 2.1.,images/9702_s24_22_qp_fig2_1.png
-9702,2024,Summer,2,2,2,a(i),1,State terminal velocity.,NULL
-9702,2024,Summer,2,2,2,a(ii),2,Determine acceleration at 18 s.,NULL
-9702,2024,Summer,2,2,2,b,3,Mass 68 kg. Parachute opens and average upward force 1800 N. Determine acceleration.,NULL
-9702,2024,Summer,2,2,3,a,2,Average current 3.3 * 10^4 A for 2.6 * 10^-5 s. Calculate charge.,NULL
-9702,2024,Summer,2,2,3,b,2,Potential 3.0 * 10^7 V. Calculate power GW.,NULL
-9702,2024,Summer,2,2,3,c,NULL,Copper building strip shown in Fig. 3.1.,images/9702_s24_22_qp_fig3_1.png
-9702,2024,Summer,2,2,3,c(i),3,"Resistance 9.6 mOhm, resistivity 1.7 * 10^-8, length 95 m. Determine radius.",NULL
-9702,2024,Summer,2,2,3,d,NULL,Pressure applied as shown in Fig. 3.2.,images/9702_s24_22_qp_fig3_2.png
-9702,2024,Summer,2,2,3,d,3,Pressure 1.9 * 10^6 Pa. Young modulus 1.3 * 10^11 Pa. Width 0.12 m. Calculate compression x.,NULL
-9702,2024,Summer,2,2,4,a,NULL,Pinball machine spring 8.0 cm compressed as shown in Fig. 4.1.,images/9702_s24_22_qp_fig4_1.png
-9702,2024,Summer,2,2,4,a,2,Spring constant 29 N m^-1. Calculate elastic energy.,NULL
-9702,2024,Summer,2,2,4,b(i),3,Ball mass 45 g launched angle 15 degrees. Determine gain in GPE.,NULL
-9702,2024,Summer,2,2,4,b(ii),3,Calculate launch speed.,NULL
-9702,2024,Summer,2,2,4,c,NULL,Ball launched as shown in Fig. 4.2.,images/9702_s24_22_qp_fig4_2.png
-9702,2024,Summer,2,2,4,c(i),3,Force 1.7 N at 2.0 cm. Calculate distance d from hinge.,NULL
-9702,2024,Summer,2,2,5,a,1,State Kirchhoff's second law.,NULL
-9702,2024,Summer,2,2,5,b,NULL,Circuit and thermistor graph shown in Fig. 5.1 and 5.2.,images/9702_s24_22_qp_fig5_1.png
-9702,2024,Summer,2,2,5,b,NULL,Thermistor characteristic.,images/9702_s24_22_qp_fig5_2.png
-9702,2024,Summer,2,2,5,b(i),2,9.0 V supply. PD across X is 4.0 V at 11 mA. Calculate resistance of X.,NULL
-9702,2024,Summer,2,2,6,a,NULL,Semicircular screen shown in Fig. 6.1.,images/9702_s24_22_qp_fig6_1.png
-9702,2024,Summer,2,2,6,a,3,"Wavelength 520 nm, slit separation 3.8 microns. Calculate number of bright fringes.",NULL
-9702,2024,Summer,2,2,7,a,1,Identify category (category/hadron).,NULL
-9702,2024,Summer,2,2,7,b,2,Identify second quarks in Q and R from Table 7.1.,NULL
-9702,2024,Summer,4,2,1,a,1,Define radian.,NULL
-9702,2024,Summer,4,2,1,b,NULL,Metal disc spins as shown in Fig. 1.1.,images/9702_s24_42_qp_fig1_1.png
-9702,2024,Summer,4,2,1,b(i),1,Draw arrow V for velocity of clay.,NULL
-9702,2024,Summer,4,2,1,b(ii),1,Draw arrow A for acceleration.,NULL
-9702,2024,Summer,4,2,1,c,NULL,Disc radius 9.3 cm. Clay speed 0.68 m s^-1.,NULL
-9702,2024,Summer,4,2,1,c(i),2,Determine angular speed Omega.,NULL
-9702,2024,Summer,4,2,1,d,NULL,Second clay attached as shown in Fig. 1.2.,images/9702_s24_42_qp_fig1_2.png
-9702,2024,Summer,4,2,1,d,3,"Compare angular speed, linear speed, and acceleration for second piece.",NULL
-9702,2024,Summer,4,2,2,a,1,State what is meant by thermal equilibrium.,NULL
-9702,2024,Summer,4,2,2,b,NULL,Two cylinders shown in Fig. 2.1.,images/9702_s24_42_qp_fig2_1.png
-9702,2024,Summer,4,2,2,b(i),2,"Cylinder X: 0.740 mol, 0.0260 m^3, 1.20 * 10^5 Pa. Determine temperature.",NULL
-9702,2024,Summer,4,2,4,a,NULL,Oscillating block and graph shown in Fig. 4.1 and 4.2.,images/9702_s24_42_qp_fig4_1.png
-9702,2024,Summer,4,2,4,a,NULL,Acceleration-displacement graph.,images/9702_s24_42_qp_fig4_2.png
-9702,2024,Summer,4,2,4,a,2,Explain how Fig. 4.2 shows SHM.,NULL
-9702,2024,Summer,4,2,5,a,2,Define electric potential.,NULL
-9702,2024,Summer,4,2,5,b,NULL,Two spheres and graph in Fig. 5.1 and 5.2.,images/9702_s24_42_qp_fig5_1.png
-9702,2024,Summer,4,2,5,b,NULL,Potential variation graph.,images/9702_s24_42_qp_fig5_2.png
-9702,2024,Summer,4,2,5,b,3,State three conclusions about the spheres from Fig. 5.2.,NULL
-9702,2024,Summer,4,2,6,a,NULL,Capacitor circuit shown in Fig. 6.1.,images/9702_s24_42_qp_fig6_1.png
-9702,2024,Summer,4,2,6,a,3,Derive expression for total capacitance in series.,NULL
-9702,2024,Summer,4,2,6,b(iii),2,Sketch energy stored variation with CQ graph template in Fig. 6.2.,images/9702_s24_42_qp_fig6_2.png
-9702,2024,Summer,4,2,7,a,2,State Faraday's law of electromagnetic induction.,NULL
-9702,2024,Summer,4,2,7,b,NULL,Coil in field shown in Fig. 7.1.,images/9702_s24_42_qp_fig7_1.png
-9702,2024,Summer,4,2,7,b,NULL,B-t graph variation in Fig. 7.2.,images/9702_s24_42_qp_fig7_2.png
-9702,2024,Summer,4,2,7,b,NULL,Induced emf variation template in Fig. 7.3.,images/9702_s24_42_qp_fig7_3.png
-9702,2024,Summer,4,2,8,a,NULL,Hydrogen emission spectrum in star star shown in Fig. 8.1.,images/9702_s24_42_qp_fig8_1.png
-9702,2024,Summer,4,2,8,a(i),2,Explain why observed lines differ.,NULL
-9702,2024,Summer,4,2,9,c(i),2,Sketch binding energy per nucleon variation with A graph template in Fig. 9.1.,images/9702_s24_42_qp_fig9_1.png
-9702,2024,Summer,4,3,1,a,2,Define gravitational potential at a point.,NULL
-9702,2024,Summer,4,3,1,b,NULL,Two planets of mass M and 3M shown in Fig. 1.1.,images/9702_s24_43_qp_fig1_1.png
-9702,2024,Summer,4,3,2,a,NULL,Temperature scales.,NULL
-9702,2024,Summer,4,3,2,a(i),1,State thermodynamic temperature at absolute zero.,NULL
-9702,2024,Summer,4,3,2,b,NULL,Platinum thermometer shown in Fig. 2.1.,images/9702_s24_43_qp_fig2_1.png
-9702,2024,Summer,4,3,2,b,NULL,Resistivity variation in Fig. 2.2.,images/9702_s24_43_qp_fig2_2.png
-9702,2024,Summer,4,3,3,c,2,Sketch variation of internal energy with volume on Fig. 3.1.,images/9702_s24_43_qp_fig3_1.png
-9702,2024,Summer,4,3,4,a,NULL,Vibration generator setup in Fig. 4.1.,images/9702_s24_43_qp_fig4_1.png
-9702,2024,Summer,4,3,4,b,NULL,Displacement-time graph in Fig. 4.2.,images/9702_s24_43_qp_fig4_2.png
-9702,2024,Summer,4,3,4,c,2,Sketch resonance peak template on Fig. 4.3.,images/9702_s24_43_qp_fig4_3.png
-9702,2024,Summer,4,3,5,b,NULL,Conducting plates in Fig. 5.1.,images/9702_s24_43_qp_fig5_1.png
-9702,2024,Summer,4,3,5,b(i),2,Draw four field lines between plates on Fig. 5.1.,NULL
-9702,2024,Summer,4,3,6,a,NULL,RC circuit and graph in Fig. 6.1 and 6.2.,images/9702_s24_43_qp_fig6_1.png
-9702,2024,Summer,4,3,6,a,NULL,Current variation.,images/9702_s24_43_qp_fig6_2.png
-9702,2024,Summer,4,3,7,b,NULL,Rectifier circuit in Fig. 7.1.,images/9702_s24_43_qp_fig7_1.png
-9702,2024,Summer,4,3,7,b,NULL,VOUT graph.,images/9702_s24_43_qp_fig7_2.png
-9702,2024,Summer,4,3,7,b(ii),3,Sketch power variation on Fig. 7.3.,images/9702_s24_43_qp_fig7_3.png
-9702,2024,Summer,4,3,8,b,NULL,X-ray tube in Fig. 8.1.,images/9702_s24_43_qp_fig8_1.png
-9702,2024,Summer,4,3,9,b,NULL,Radioactive decay in Fig. 9.1.,images/9702_s24_43_qp_fig9_1.png
-9702,2024,Summer,2,3,1,a,2,Derive SI base units of viscosity Eta.,NULL
-9702,2024,Summer,2,3,1,c,NULL,Sphere shown in Fig. 1.1.,images/9702_s24_23_qp_fig1_1.png
-9702,2024,Summer,2,3,1,c,2,Draw and label arrows for three forces acting on sphere as it moves through liquid.,NULL
-9702,2024,Summer,2,3,2,b,NULL,Object projected from slope in Fig. 2.1.,images/9702_s24_23_qp_fig2_1.png
-9702,2024,Summer,2,3,2,b(i),1,Calculate horizontal distance travelled in 0.71 s.,NULL
-9702,2024,Summer,2,3,3,b,NULL,Force-extension graph in Fig. 3.1.,images/9702_s24_23_qp_fig3_1.png
-9702,2024,Summer,2,3,3,b(i),1,Label limit of proportionality P on Fig. 3.1.,NULL
-9702,2024,Summer,2,3,3,b(ii),1,Label elastic limit E on Fig. 3.1.,NULL
-9702,2024,Summer,2,3,4,a,NULL,Transverse wave in Fig. 4.1.,images/9702_s24_23_qp_fig4_1.png
-9702,2024,Summer,2,3,4,b,1,Draw arrow at T for direction of movement.,NULL
-9702,2024,Summer,2,3,4,c,NULL,Distance between R and T in Fig. 4.2.,images/9702_s24_23_qp_fig4_2.png
-9702,2024,Summer,2,3,4,d,NULL,Interference pattern in water tank in Fig. 4.3.,images/9702_s24_23_qp_fig4_3.png
-9702,2024,Summer,2,3,5,b,NULL,Circuit diagram in Fig. 5.1.,images/9702_s24_23_qp_fig5_1.png
-9702,2024,Summer,2,3,6,b,NULL,Energy spectrum in Fig. 6.1.,images/9702_s24_23_qp_fig6_1.png
-9702,2024,Summer,1,3,1,NULL,1,Multiple Choice Question 1,NULL
-9702,2024,Summer,1,3,2,NULL,1,Multiple Choice Question 2,NULL
-9702,2024,Summer,1,3,3,NULL,1,Multiple Choice Question 3,NULL
-9702,2024,Summer,1,3,4,NULL,1,Multiple Choice Question 4,NULL
-9702,2024,Summer,1,3,5,NULL,1,Multiple Choice Question 5,images/9702_s24_13_qp_fig5.png
-9702,2024,Summer,1,3,6,NULL,1,Multiple Choice Question 6,images/9702_s24_13_qp_fig6.png
-9702,2024,Summer,1,3,7,NULL,1,Multiple Choice Question 7,NULL
-9702,2024,Summer,1,3,8,NULL,1,Multiple Choice Question 8,images/9702_s24_13_qp_fig8.png
-9702,2024,Summer,1,3,9,NULL,1,Multiple Choice Question 9,NULL
-9702,2024,Summer,1,3,10,NULL,1,Multiple Choice Question 10,images/9702_s24_13_qp_fig10.png
-9702,2024,Summer,1,3,11,NULL,1,Multiple Choice Question 11,images/9702_s24_13_qp_fig11.png
-9702,2024,Summer,1,3,12,NULL,1,Multiple Choice Question 12,NULL
-9702,2024,Summer,1,3,13,NULL,1,Multiple Choice Question 13,images/9702_s24_13_qp_fig13.png
-9702,2024,Summer,1,3,14,NULL,1,Multiple Choice Question 14,images/9702_s24_13_qp_fig14.png
-9702,2024,Summer,1,3,15,NULL,1,Multiple Choice Question 15,NULL
-9702,2024,Summer,1,3,16,NULL,1,Multiple Choice Question 16,NULL
-9702,2024,Summer,1,3,17,NULL,1,Multiple Choice Question 17,images/9702_s24_13_qp_fig17.png
-9702,2024,Summer,1,3,18,NULL,1,Multiple Choice Question 18,images/9702_s24_13_qp_fig18.png
-9702,2024,Summer,1,3,19,NULL,1,Multiple Choice Question 19,images/9702_s24_13_qp_fig19.png
-9702,2024,Summer,1,3,20,NULL,1,Multiple Choice Question 20,images/9702_s24_13_qp_fig20.png
-9702,2024,Summer,1,3,21,NULL,1,Multiple Choice Question 21,NULL
-9702,2024,Summer,1,3,22,NULL,1,Multiple Choice Question 22,images/9702_s24_13_qp_fig22.png
-9702,2024,Summer,1,3,23,NULL,1,Multiple Choice Question 23,NULL
-9702,2024,Summer,1,3,24,NULL,1,Multiple Choice Question 24,NULL
-9702,2024,Summer,1,3,25,NULL,1,Multiple Choice Question 25,NULL
-9702,2024,Summer,1,3,26,NULL,1,Multiple Choice Question 26,images/9702_s24_13_qp_fig26.png
-9702,2024,Summer,1,3,27,NULL,1,Multiple Choice Question 27,NULL
-9702,2024,Summer,1,3,28,NULL,1,Multiple Choice Question 28,images/9702_s24_13_qp_fig28.png
-9702,2024,Summer,1,3,29,NULL,1,Multiple Choice Question 29,images/9702_s24_13_qp_fig29.png
-9702,2024,Summer,1,3,30,NULL,1,Multiple Choice Question 30,NULL
-9702,2024,Summer,1,3,31,NULL,1,Multiple Choice Question 31,NULL
-9702,2024,Summer,1,3,32,NULL,1,Multiple Choice Question 32,images/9702_s24_13_qp_fig32.png
-9702,2024,Summer,1,3,33,NULL,1,Multiple Choice Question 33,images/9702_s24_13_qp_fig33.png
-9702,2024,Summer,1,3,34,NULL,1,Multiple Choice Question 34,images/9702_s24_13_qp_fig34.png
-9702,2024,Summer,1,3,35,NULL,1,Multiple Choice Question 35,images/9702_s24_13_qp_fig35.png
-9702,2024,Summer,1,3,36,NULL,1,Multiple Choice Question 36,images/9702_s24_13_qp_fig36.png
-9702,2024,Summer,1,3,37,NULL,1,Multiple Choice Question 37,images/9702_s24_13_qp_fig37.png
-9702,2024,Summer,1,3,38,NULL,1,Multiple Choice Question 38,images/9702_s24_13_qp_fig38.png
-9702,2024,Summer,1,3,39,NULL,1,Multiple Choice Question 39,images/9702_s24_13_qp_fig39.png
-9702,2024,Summer,1,3,40,NULL,1,Multiple Choice Question 40,NULL
-9702,2024,Summer,1,1,1,NULL,1,Multiple Choice Question 1,NULL
-9702,2024,Summer,1,1,2,NULL,1,Multiple Choice Question 2,NULL
-9702,2024,Summer,1,1,3,NULL,1,Multiple Choice Question 3,images/9702_s24_11_qp_fig3.png
-9702,2024,Summer,1,1,4,NULL,1,Multiple Choice Question 4,NULL
-9702,2024,Summer,1,1,5,NULL,1,Multiple Choice Question 5,NULL
-9702,2024,Summer,1,1,6,NULL,1,Multiple Choice Question 6,NULL
-9702,2024,Summer,1,1,7,NULL,1,Multiple Choice Question 7,images/9702_s24_11_qp_fig7.png
-9702,2024,Summer,1,1,8,NULL,1,Multiple Choice Question 8,NULL
-9702,2024,Summer,1,1,9,NULL,1,Multiple Choice Question 9,images/9702_s24_11_qp_fig9.png
-9702,2024,Summer,1,1,10,NULL,1,Multiple Choice Question 10,NULL
-9702,2024,Summer,1,1,11,NULL,1,Multiple Choice Question 11,NULL
-9702,2024,Summer,1,1,12,NULL,1,Multiple Choice Question 12,NULL
-9702,2024,Summer,1,1,13,NULL,1,Multiple Choice Question 13,images/9702_s24_11_qp_fig13.png
-9702,2024,Summer,1,1,14,NULL,1,Multiple Choice Question 14,images/9702_s24_11_qp_fig14.png
-9702,2024,Summer,1,1,15,NULL,1,Multiple Choice Question 15,images/9702_s24_11_qp_fig15.png
-9702,2024,Summer,1,1,16,NULL,1,Multiple Choice Question 16,images/9702_s24_11_qp_fig16.png
-9702,2024,Summer,1,1,17,NULL,1,Multiple Choice Question 17,NULL
-9702,2024,Summer,1,1,18,NULL,1,Multiple Choice Question 18,NULL
-9702,2024,Summer,1,1,19,NULL,1,Multiple Choice Question 19,NULL
-9702,2024,Summer,1,1,20,NULL,1,Multiple Choice Question 20,images/9702_s24_11_qp_fig20.png
-9702,2024,Summer,1,1,21,NULL,1,Multiple Choice Question 21,NULL
-9702,2024,Summer,1,1,22,NULL,1,Multiple Choice Question 22,images/9702_s24_11_qp_fig22.png
-9702,2024,Summer,1,1,23,NULL,1,Multiple Choice Question 23,NULL
-9702,2024,Summer,1,1,24,NULL,1,Multiple Choice Question 24,NULL
-9702,2024,Summer,1,1,25,NULL,1,Multiple Choice Question 25,NULL
-9702,2024,Summer,1,1,26,NULL,1,Multiple Choice Question 26,NULL
-9702,2024,Summer,1,1,27,NULL,1,Multiple Choice Question 27,NULL
-9702,2024,Summer,1,1,28,NULL,1,Multiple Choice Question 28,images/9702_s24_11_qp_fig28.png
-9702,2024,Summer,1,1,29,NULL,1,Multiple Choice Question 29,NULL
-9702,2024,Summer,1,1,30,NULL,1,Multiple Choice Question 30,images/9702_s24_11_qp_fig30.png
-9702,2024,Summer,1,1,31,NULL,1,Multiple Choice Question 31,NULL
-9702,2024,Summer,1,1,32,NULL,1,Multiple Choice Question 32,NULL
-9702,2024,Summer,1,1,33,NULL,1,Multiple Choice Question 33,images/9702_s24_11_qp_fig33.png
-9702,2024,Summer,1,1,34,NULL,1,Multiple Choice Question 34,images/9702_s24_11_qp_fig34.png
-9702,2024,Summer,1,1,35,NULL,1,Multiple Choice Question 35,images/9702_s24_11_qp_fig35.png
-9702,2024,Summer,1,1,36,NULL,1,Multiple Choice Question 36,images/9702_s24_11_qp_fig36.png
-9702,2024,Summer,1,1,37,NULL,1,Multiple Choice Question 37,NULL
-9702,2024,Summer,1,1,38,NULL,1,Multiple Choice Question 38,NULL
-9702,2024,Summer,1,1,39,NULL,1,Multiple Choice Question 39,NULL
-9702,2024,Summer,1,1,40,NULL,1,Multiple Choice Question 40,NULL
-9702,2024,Summer,4,1,1,a,2,Define gravitational potential at a point.,NULL
-9702,2024,Summer,4,1,2,b,NULL,Platinum resistance thermometer in Fig. 2.1 and Resistivity graph in Fig. 2.2.,images/9702_s24_41_qp_fig2_1.png
-9702,2024,Summer,4,1,3,c,NULL,Internal energy variation template in Fig. 3.1.,images/9702_s24_41_qp_fig3_1.png
-9702,2024,Summer,4,1,4,a,2,Define resonance.,NULL
-9702,2024,Summer,4,1,4,c,NULL,Amplitude-frequency template in Fig. 4.3.,images/9702_s24_41_qp_fig4_3.png
-9702,2024,Summer,4,1,5,b,NULL,Electric field template in Fig. 5.1.,images/9702_s24_41_qp_fig5_1.png
-9702,2024,Summer,4,1,8,b,NULL,X-ray tube diagram in Fig. 8.1.,images/9702_s24_41_qp_fig8_1.png
-9702,2024,Summer,4,1,9,b,NULL,Radioactive decay graph in Fig. 9.1.,images/9702_s24_41_qp_fig9_1.png
-9702,2024,Winter,4,1,1,a,2,State Newton's law of gravitation.,NULL
-9702,2024,Winter,4,1,2,a,2,Define specific heat capacity.,NULL
-9702,2024,Winter,4,1,2,b,NULL,Temperature-time blocks in Fig. 2.1.,images/9702_w24_41_qp_fig2_1.png
-9702,2024,Winter,4,1,4,a,2,Define simple harmonic motion (SHM).,NULL
-9702,2024,Winter,4,1,6,c,NULL,Input VIN square wave in Fig. 6.2 and VOUT in Fig. 6.3.,images/9702_w24_41_qp_fig6_3.png
-9702,2024,Winter,4,1,10,c,NULL,Hubble Law v-d template in Fig. 10.1.,images/9702_w24_41_qp_fig10_1.png
-9702,2024,Winter,1,1,1,NULL,1,Multiple Choice Question 1,NULL
-9702,2024,Winter,1,1,2,NULL,1,Multiple Choice Question 2,NULL
-9702,2024,Winter,1,1,3,NULL,1,Multiple Choice Question 3,NULL
-9702,2024,Winter,1,1,4,NULL,1,Multiple Choice Question 4,NULL
-9702,2024,Winter,1,1,5,NULL,1,Multiple Choice Question 5,images/9702_w24_11_qp_fig5.png
-9702,2024,Winter,1,1,6,NULL,1,Multiple Choice Question 6,NULL
-9702,2024,Winter,1,1,7,NULL,1,Multiple Choice Question 7,NULL
-9702,2024,Winter,1,1,8,NULL,1,Multiple Choice Question 8,images/9702_w24_11_qp_fig8.png
-9702,2024,Winter,1,1,9,NULL,1,Multiple Choice Question 9,images/9702_w24_11_qp_fig9.png
-9702,2024,Winter,1,1,10,NULL,1,Multiple Choice Question 10,images/9702_w24_11_qp_fig10.png
-9702,2024,Winter,1,1,11,NULL,1,Multiple Choice Question 11,NULL
-9702,2024,Winter,1,1,12,NULL,1,Multiple Choice Question 12,images/9702_w24_11_qp_fig12.png
-9702,2024,Winter,1,1,13,NULL,1,Multiple Choice Question 13,NULL
-9702,2024,Winter,1,1,14,NULL,1,Multiple Choice Question 14,images/9702_w24_11_qp_fig14.png
-9702,2024,Winter,1,1,15,NULL,1,Multiple Choice Question 15,NULL
-9702,2024,Winter,1,1,16,NULL,1,Multiple Choice Question 16,images/9702_w24_11_qp_fig16.png
-9702,2024,Winter,1,1,17,NULL,1,Multiple Choice Question 17,images/9702_w24_11_qp_fig17.png
-9702,2024,Winter,1,1,18,NULL,1,Multiple Choice Question 18,images/9702_w24_11_qp_fig18.png
-9702,2024,Winter,1,1,19,NULL,1,Multiple Choice Question 19,NULL
-9702,2024,Winter,1,1,20,NULL,1,Multiple Choice Question 20,NULL
-9702,2024,Winter,1,1,21,NULL,1,Multiple Choice Question 21,images/9702_w24_11_qp_fig21.png
-9702,2024,Winter,1,1,22,NULL,1,Multiple Choice Question 22,NULL
-9702,2024,Winter,1,1,23,NULL,1,Multiple Choice Question 23,images/9702_w24_11_qp_fig23.png
-9702,2024,Winter,1,1,24,NULL,1,Multiple Choice Question 24,images/9702_w24_11_qp_fig24.png
-9702,2024,Winter,1,1,25,NULL,1,Multiple Choice Question 25,NULL
-9702,2024,Winter,1,1,26,NULL,1,Multiple Choice Question 26,NULL
-9702,2024,Winter,1,1,27,NULL,1,Multiple Choice Question 27,NULL
-9702,2024,Winter,1,1,28,NULL,1,Multiple Choice Question 28,NULL
-9702,2024,Winter,1,1,29,NULL,1,Multiple Choice Question 29,NULL
-9702,2024,Winter,1,1,30,NULL,1,Multiple Choice Question 30,NULL
-9702,2024,Winter,1,1,31,NULL,1,Multiple Choice Question 31,NULL
-9702,2024,Winter,1,1,32,NULL,1,Multiple Choice Question 32,images/9702_w24_11_qp_fig32.png
-9702,2024,Winter,1,1,33,NULL,1,Multiple Choice Question 33,NULL
-9702,2024,Winter,1,1,34,NULL,1,Multiple Choice Question 34,images/9702_w24_11_qp_fig34.png
-9702,2024,Winter,1,1,35,NULL,1,Multiple Choice Question 35,NULL
-9702,2024,Winter,1,1,36,NULL,1,Multiple Choice Question 36,images/9702_w24_11_qp_fig36.png
-9702,2024,Winter,1,1,37,NULL,1,Multiple Choice Question 37,images/9702_w24_11_qp_fig37.png
-9702,2024,Winter,1,1,38,NULL,1,Multiple Choice Question 38,NULL
-9702,2024,Winter,1,1,39,NULL,1,Multiple Choice Question 39,NULL
-9702,2024,Winter,1,1,40,NULL,1,Multiple Choice Question 40,NULL
-9702,2024,Winter,2,1,1,a,1,Define density.,NULL
-9702,2024,Winter,2,1,1,b,NULL,Cuboidal glass block in Fig. 1.1.,images/9702_w24_21_qp_fig1_1.png
-9702,2024,Winter,2,1,2,a,1,Define momentum.,NULL
-9702,2024,Winter,2,1,2,c,NULL,Acceleration-time template in Fig. 2.2.,images/9702_w24_21_qp_fig2_2.png
-9702,2024,Winter,2,1,3,a,1,Define work done.,NULL
-9702,2024,Winter,2,1,3,b,NULL,Falling block setup in Fig. 3.1.,images/9702_w24_21_qp_fig3_1.png
-9702,2024,Winter,2,1,4,a,1,Define Young modulus.,NULL
-9702,2024,Winter,2,1,4,b,NULL,Force-extension template in Fig. 4.1.,images/9702_w24_21_qp_fig4_1.png
-9702,2024,Winter,2,1,6,a,NULL,Interference setup in Fig. 6.1.,images/9702_w24_21_qp_fig6_1.png
-9702,2024,Winter,2,1,7,b,NULL,Series-Parallel transition templates in Fig. 7.1 and Fig. 7.2.,images/9702_w24_21_qp_fig7_2.png
-9702,2024,Winter,1,3,1,NULL,1,Multiple Choice Question 1,NULL
-9702,2024,Winter,1,3,2,NULL,1,Multiple Choice Question 2,NULL
-9702,2024,Winter,1,3,3,NULL,1,Multiple Choice Question 3,NULL
-9702,2024,Winter,1,3,4,NULL,1,Multiple Choice Question 4,images/9702_w24_13_qp_fig4.png
-9702,2024,Winter,1,3,5,NULL,1,Multiple Choice Question 5,images/9702_w24_13_qp_fig5.png
-9702,2024,Winter,1,3,6,NULL,1,Multiple Choice Question 6,NULL
-9702,2024,Winter,1,3,7,NULL,1,Multiple Choice Question 7,NULL
-9702,2024,Winter,1,3,8,NULL,1,Multiple Choice Question 8,images/9702_w24_13_qp_fig8.png
-9702,2024,Winter,1,3,9,NULL,1,Multiple Choice Question 9,images/9702_w24_13_qp_fig9.png
-9702,2024,Winter,1,3,10,NULL,1,Multiple Choice Question 10,NULL
-9702,2024,Winter,1,3,11,NULL,1,Multiple Choice Question 11,NULL
-9702,2024,Winter,1,3,12,NULL,1,Multiple Choice Question 12,NULL
-9702,2024,Winter,1,3,13,NULL,1,Multiple Choice Question 13,NULL
-9702,2024,Winter,1,3,14,NULL,1,Multiple Choice Question 14,images/9702_w24_13_qp_fig14.png
-9702,2024,Winter,1,3,15,NULL,1,Multiple Choice Question 15,images/9702_w24_13_qp_fig15.png
-9702,2024,Winter,1,3,16,NULL,1,Multiple Choice Question 16,images/9702_w24_13_qp_fig16.png
-9702,2024,Winter,1,3,17,NULL,1,Multiple Choice Question 17,NULL
-9702,2024,Winter,1,3,18,NULL,1,Multiple Choice Question 18,NULL
-9702,2024,Winter,1,3,19,NULL,1,Multiple Choice Question 19,images/9702_w24_13_qp_fig19.png
-9702,2024,Winter,1,3,20,NULL,1,Multiple Choice Question 20,NULL
-9702,2024,Winter,1,3,21,NULL,1,Multiple Choice Question 21,images/9702_w24_13_qp_fig21.png
-9702,2024,Winter,1,3,22,NULL,1,Multiple Choice Question 22,NULL
-9702,2024,Winter,1,3,23,NULL,1,Multiple Choice Question 23,images/9702_w24_13_qp_fig23.png
-9702,2024,Winter,1,3,24,NULL,1,Multiple Choice Question 24,images/9702_w24_13_qp_fig24.png
-9702,2024,Winter,1,3,25,NULL,1,Multiple Choice Question 25,NULL
-9702,2024,Winter,1,3,26,NULL,1,Multiple Choice Question 26,images/9702_w24_13_qp_fig26.png
-9702,2024,Winter,1,3,27,NULL,1,Multiple Choice Question 27,images/9702_w24_13_qp_fig27.png
-9702,2024,Winter,1,3,28,NULL,1,Multiple Choice Question 28,NULL
-9702,2024,Winter,1,3,29,NULL,1,Multiple Choice Question 29,images/9702_w24_13_qp_fig29.png
-9702,2024,Winter,1,3,30,NULL,1,Multiple Choice Question 30,images/9702_w24_13_qp_fig30.png
-9702,2024,Winter,1,3,31,NULL,1,Multiple Choice Question 31,NULL
-9702,2024,Winter,1,3,32,NULL,1,Multiple Choice Question 32,NULL
-9702,2024,Winter,1,3,33,NULL,1,Multiple Choice Question 33,images/9702_w24_13_qp_fig33.png
-9702,2024,Winter,1,3,34,NULL,1,Multiple Choice Question 34,NULL
-9702,2024,Winter,1,3,35,NULL,1,Multiple Choice Question 35,images/9702_w24_13_qp_fig35.png
-9702,2024,Winter,1,3,36,NULL,1,Multiple Choice Question 36,images/9702_w24_13_qp_fig36.png
-9702,2024,Winter,1,3,37,NULL,1,Multiple Choice Question 37,images/9702_w24_13_qp_fig37.png
-9702,2024,Winter,1,3,38,NULL,1,Multiple Choice Question 38,NULL
-9702,2024,Winter,1,3,39,NULL,1,Multiple Choice Question 39,NULL
-9702,2024,Winter,1,3,40,NULL,1,Multiple Choice Question 40,NULL
-9702,2024,Winter,4,3,1,a,2,State Newton's law of gravitation.,NULL
-9702,2024,Winter,4,3,1,b,NULL,Variation with distance scale in Fig. 1.1.,images/9702_w24_43_qp_fig1_1.png
-9702,2024,Winter,4,3,2,a,2,Define specific heat capacity.,NULL
-9702,2024,Winter,4,3,2,b,NULL,Temperature-time blocks in Fig. 2.1.,images/9702_w24_43_qp_fig2_1.png
-9702,2024,Winter,4,3,4,a,2,Define simple harmonic motion (SHM).,NULL
-9702,2024,Winter,4,3,4,b,NULL,Velocity-height templates in Fig. 4.2 and Fig. 4.3.,images/9702_w24_43_qp_fig4_3.png
-9702,2024,Winter,4,3,6,c,NULL,Rectification templates in Fig. 6.2 and Fig. 6.3.,images/9702_w24_43_qp_fig6_3.png
-9702,2024,Winter,4,3,7,b,NULL,Magnetic field templates in Fig. 7.1 and Fig. 7.2.,images/9702_w24_43_qp_fig7_2.png
-9702,2024,Winter,4,3,10,c,NULL,Hubble Law relationship template in Fig. 10.1.,images/9702_w24_43_qp_fig10_1.png
-9702,2024,Winter,2,3,1,a,1,Define acceleration.,NULL
-9702,2024,Winter,2,3,1,b,NULL,Parcel projected from aircraft in Fig. 1.1.,images/9702_w24_23_qp_fig1_1.png
-9702,2024,Winter,2,3,2,a,2,State the principle of conservation of momentum.,NULL
-9702,2024,Winter,2,3,2,b,NULL,Ball collision setup in Fig. 2.1.,images/9702_w24_23_qp_fig2_1.png
-9702,2024,Winter,2,3,3,a,1,State the principle of moments.,NULL
-9702,2024,Winter,2,3,3,b,NULL,Floating beam setup in Fig. 3.1.,images/9702_w24_23_qp_fig3_1.png
-9702,2024,Winter,2,3,3,c,NULL,x-h variation graph template in Fig. 3.2.,images/9702_w24_23_qp_fig3_2.png
-9702,2024,Winter,2,3,5,a,NULL,Stationary wave on string XY in Fig. 5.1.,images/9702_w24_23_qp_fig5_1.png
-9702,2024,Winter,2,3,5,b,NULL,Doppler Effect sound observer setup in Fig. 5.2 and Fig. 5.3.,images/9702_w24_23_qp_fig5_3.png
-9702,2024,Winter,2,3,6,a,1,Define resistance.,NULL
-9702,2024,Winter,2,3,6,c,NULL,Resistor-Thermistor circuit template in Fig. 6.1.,images/9702_w24_23_qp_fig6_1.png
-9702,2025,Winter,1,1,1,NULL,1,MCQ Statement 1,NULL
-9702,2025,Winter,1,1,2,NULL,1,MCQ Statement 2,NULL
-9702,2025,Winter,1,1,3,NULL,1,MCQ Statement 3,NULL
-9702,2025,Winter,1,1,4,NULL,1,MCQ Statement 4,images/9702_w25_11_qp_fig4.png
-9702,2025,Winter,1,1,5,NULL,1,MCQ Statement 5,NULL
-9702,2025,Winter,1,1,6,NULL,1,MCQ Statement 6,images/9702_w25_11_qp_fig6.png
-9702,2025,Winter,1,1,7,NULL,1,MCQ Statement 7,images/9702_w25_11_qp_fig7.png
-9702,2025,Winter,1,1,8,NULL,1,MCQ Statement 8,images/9702_w25_11_qp_fig8.png
-9702,2025,Winter,1,1,9,NULL,1,MCQ Statement 9,NULL
-9702,2025,Winter,1,1,10,NULL,1,MCQ Statement 10,NULL
-9702,2025,Winter,1,1,11,NULL,1,MCQ Statement 11,images/9702_w25_11_qp_fig11.png
-9702,2025,Winter,1,1,12,NULL,1,MCQ Statement 12,NULL
-9702,2025,Winter,1,1,13,NULL,1,MCQ Statement 13,images/9702_w25_11_qp_fig13.png
-9702,2025,Winter,1,1,14,NULL,1,MCQ Statement 14,images/9702_w25_11_qp_fig14.png
-9702,2025,Winter,1,1,15,NULL,1,MCQ Statement 15,NULL
-9702,2025,Winter,1,1,16,NULL,1,MCQ Statement 16,NULL
-9702,2025,Winter,1,1,17,NULL,1,MCQ Statement 17,NULL
-9702,2025,Winter,1,1,18,NULL,1,MCQ Statement 18,images/9702_w25_11_qp_fig18.png
-9702,2025,Winter,1,1,19,NULL,1,MCQ Statement 19,NULL
-9702,2025,Winter,1,1,20,NULL,1,MCQ Statement 20,images/9702_w25_11_qp_fig20.png
-9702,2025,Winter,1,1,21,NULL,1,MCQ Statement 21,NULL
-9702,2025,Winter,1,1,22,NULL,1,MCQ Statement 22,NULL
-9702,2025,Winter,1,1,23,NULL,1,MCQ Statement 23,images/9702_w25_11_qp_fig23.png
-9702,2025,Winter,1,1,24,NULL,1,MCQ Statement 24,NULL
-9702,2025,Winter,1,1,25,NULL,1,MCQ Statement 25,images/9702_w25_11_qp_fig25.png
-9702,2025,Winter,1,1,26,NULL,1,MCQ Statement 26,NULL
-9702,2025,Winter,1,1,27,NULL,1,MCQ Statement 27,NULL
-9702,2025,Winter,1,1,28,NULL,1,MCQ Statement 28,images/9702_w25_11_qp_fig28.png
-9702,2025,Winter,1,1,29,NULL,1,MCQ Statement 29,images/9702_w25_11_qp_fig29.png
-9702,2025,Winter,1,1,30,NULL,1,MCQ Statement 30,NULL
-9702,2025,Winter,1,1,31,NULL,1,MCQ Statement 31,NULL
-9702,2025,Winter,1,1,32,NULL,1,MCQ Statement 32,NULL
-9702,2025,Winter,1,1,33,NULL,1,MCQ Statement 33,images/9702_w25_11_qp_fig33.png
-9702,2025,Winter,1,1,34,NULL,1,MCQ Statement 34,images/9702_w25_11_qp_fig34.png
-9702,2025,Winter,1,1,35,NULL,1,MCQ Statement 35,images/9702_w25_11_qp_fig35.png
-9702,2025,Winter,1,1,36,NULL,1,MCQ Statement 36,images/9702_w25_11_qp_fig36.png
-9702,2025,Winter,1,1,37,NULL,1,MCQ Statement 37,images/9702_w25_11_qp_fig37.png
-9702,2025,Winter,1,1,38,NULL,1,MCQ Statement 38,images/9702_w25_11_qp_fig38.png
-9702,2025,Winter,1,1,39,NULL,1,MCQ Statement 39,NULL
-9702,2025,Winter,1,1,40,NULL,1,MCQ Statement 40,NULL
-9702,2025,Winter,2,1,1,a,1,Define acceleration.,NULL
-9702,2025,Winter,2,1,1,b,NULL,Rocket velocity-time graph analysis.,images/9702_w25_21_qp_fig1_1.png
-9702,2025,Winter,2,1,2,a,1,Define pressure.,NULL
-9702,2025,Winter,2,1,2,b,NULL, फोर्सेस on ball in oil.,images/9702_w25_21_qp_fig2_1.png
-9702,2025,Winter,2,1,3,a,1,Define Young modulus.,NULL
-9702,2025,Winter,2,1,4,a,2,State meant by diffraction.,NULL
-9702,2025,Winter,2,1,4,b,NULL,Diffraction grating diagram.,images/9702_w25_21_qp_fig4_1.png
-9702,2025,Winter,4,1,1,a,2,Describe uniform circular motion.,NULL
-9702,2025,Winter,4,1,1,b,NULL,Polystyrene ball shadow SHM.,images/9702_w25_41_qp_fig1_1.png
-9702,2025,Winter,4,1,3,a,1,Define gravitational field.,NULL
-9702,2025,Winter,4,1,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_41_qp_fig3_4.png
-9702,2025,Winter,4,1,4,b,NULL,pV-kT graph analysis.,images/9702_w25_41_qp_fig4_1.png
-9702,2025,Winter,4,1,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_41_qp_fig9_2.png
-9702,2025,Winter,1,3,1,NULL,1,MCQ Statement 1,NULL
-9702,2025,Winter,1,3,2,NULL,1,MCQ Statement 2,NULL
-9702,2025,Winter,1,3,3,NULL,1,MCQ Statement 3,NULL
-9702,2025,Winter,1,3,4,NULL,1,MCQ Statement 4,images/9702_w25_13_qp_fig4.png
-9702,2025,Winter,1,3,5,NULL,1,MCQ Statement 5,NULL
-9702,2025,Winter,1,3,6,NULL,1,MCQ Statement 6,images/9702_w25_13_qp_fig6.png
-9702,2025,Winter,1,3,7,NULL,1,MCQ Statement 7,images/9702_w25_13_qp_fig7.png
-9702,2025,Winter,1,3,8,NULL,1,MCQ Statement 8,images/9702_w25_13_qp_fig8.png
-9702,2025,Winter,1,3,9,NULL,1,MCQ Statement 9,NULL
-9702,2025,Winter,1,3,10,NULL,1,MCQ Statement 10,NULL
-9702,2025,Winter,1,3,11,NULL,1,MCQ Statement 11,images/9702_w25_13_qp_fig11.png
-9702,2025,Winter,1,3,12,NULL,1,MCQ Statement 12,NULL
-9702,2025,Winter,1,3,13,NULL,1,MCQ Statement 13,images/9702_w25_13_qp_fig13.png
-9702,2025,Winter,1,3,14,NULL,1,MCQ Statement 14,images/9702_w25_13_qp_fig14.png
-9702,2025,Winter,1,3,15,NULL,1,MCQ Statement 15,NULL
-9702,2025,Winter,1,3,16,NULL,1,MCQ Statement 16,NULL
-9702,2025,Winter,1,3,17,NULL,1,MCQ Statement 17,NULL
-9702,2025,Winter,1,3,18,NULL,1,MCQ Statement 18,images/9702_w25_13_qp_fig18.png
-9702,2025,Winter,1,3,19,NULL,1,MCQ Statement 19,NULL
-9702,2025,Winter,1,3,20,NULL,1,MCQ Statement 20,images/9702_w25_13_qp_fig20.png
-9702,2025,Winter,1,3,21,NULL,1,MCQ Statement 21,NULL
-9702,2025,Winter,1,3,22,NULL,1,MCQ Statement 22,NULL
-9702,2025,Winter,1,3,23,NULL,1,MCQ Statement 23,images/9702_w25_13_qp_fig23.png
-9702,2025,Winter,1,3,24,NULL,1,MCQ Statement 24,NULL
-9702,2025,Winter,1,3,25,NULL,1,MCQ Statement 25,images/9702_w25_13_qp_fig25.png
-9702,2025,Winter,1,3,26,NULL,1,MCQ Statement 26,NULL
-9702,2025,Winter,1,3,27,NULL,1,MCQ Statement 27,NULL
-9702,2025,Winter,1,3,28,NULL,1,MCQ Statement 28,images/9702_w25_13_qp_fig28.png
-9702,2025,Winter,1,3,29,NULL,1,MCQ Statement 29,images/9702_w25_13_qp_fig29.png
-9702,2025,Winter,1,3,30,NULL,1,MCQ Statement 30,NULL
-9702,2025,Winter,1,3,31,NULL,1,MCQ Statement 31,NULL
-9702,2025,Winter,1,3,32,NULL,1,MCQ Statement 32,NULL
-9702,2025,Winter,1,3,33,NULL,1,MCQ Statement 33,images/9702_w25_13_qp_fig33.png
-9702,2025,Winter,1,3,34,NULL,1,MCQ Statement 34,images/9702_w25_13_qp_fig34.png
-9702,2025,Winter,1,3,35,NULL,1,MCQ Statement 35,images/9702_w25_13_qp_fig35.png
-9702,2025,Winter,1,3,36,NULL,1,MCQ Statement 36,images/9702_w25_13_qp_fig36.png
-9702,2025,Winter,1,3,37,NULL,1,MCQ Statement 37,images/9702_w25_13_qp_fig37.png
-9702,2025,Winter,1,3,38,NULL,1,MCQ Statement 38,images/9702_w25_13_qp_fig38.png
-9702,2025,Winter,1,3,39,NULL,1,MCQ Statement 39,NULL
-9702,2025,Winter,1,3,40,NULL,1,MCQ Statement 40,NULL
-9702,2025,Winter,2,3,1,a,1,Define acceleration.,NULL
-9702,2025,Winter,2,3,1,b,NULL,Rocket velocity-time graph analysis.,images/9702_w25_23_qp_fig1_1.png
-9702,2025,Winter,2,3,2,a,1,Define pressure.,NULL
-9702,2025,Winter,2,3,2,b,NULL, फोर्सेस on ball in oil.,images/9702_w25_23_qp_fig2_1.png
-9702,2025,Winter,2,3,3,a,1,Define Young modulus.,NULL
-9702,2025,Winter,2,3,4,a,2,State meant by diffraction.,NULL
-9702,2025,Winter,2,3,4,b,NULL,Diffraction grating diagram.,images/9702_w25_23_qp_fig4_1.png
-9702,2025,Winter,4,3,1,a,2,Describe uniform circular motion.,NULL
-9702,2025,Winter,4,3,1,b,NULL,Polystyrene ball shadow SHM.,images/9702_w25_43_qp_fig1_1.png
-9702,2025,Winter,4,3,3,a,1,Define gravitational field.,NULL
-9702,2025,Winter,4,3,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_43_qp_fig3_4.png
-9702,2025,Winter,4,3,4,b,NULL,pV-kT graph analysis.,images/9702_w25_43_qp_fig4_1.png
-9702,2025,Winter,4,3,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_43_qp_fig9_2.png
+9702,2024,November,4,2,1,NULL,NULL,"A metal wheel consists of an axle A, eight spokes and a rim, as shown in Fig. 1.1.",images/9702_w24_42_qp_fig1_1.png
+9702,2024,November,4,2,1,a(i),2,Determine the speed of point X.,NULL
+9702,2024,November,4,2,1,a(ii),2,Determine centripetal acceleration.,NULL
+9702,2024,November,4,2,1,b(i),2,State Lenz's law.,NULL
+9702,2024,November,4,2,1,b(ii),1,Show time for one revolution is 45 ms.,NULL
+9702,2024,November,4,2,1,b(iii),3,Calculate magnetic flux cut by spoke AX.,NULL
+9702,2024,November,4,2,2,a,1,Define gravitational field.,NULL
+9702,2024,November,4,2,2,b(i),2,Probe distance 1.47 * 10^11 m. Calculate g.,NULL
+9702,2024,November,4,2,2,b(ii),2,Determine gravitational potential energy.,NULL
+9702,2024,November,4,2,2,c(i),3,Show g and F relation.,NULL
+9702,2024,November,4,2,2,c(ii),2,Fig. 2.1 shows variation. Determine luminosity L.,images/9702_w24_42_qp_fig2_1.png
+9702,2024,November,4,2,3,a,2,Define specific latent heat.,NULL
+9702,2024,November,4,2,3,b(i),2,Liquid vaporises. Show work done is 1.7 kJ.,NULL
+9702,2024,November,4,2,3,b(ii),2,Calculate thermal energy Q.,NULL
+9702,2024,November,4,2,3,c,3,Suggest and explain if LF less than LV.,NULL
+9702,2024,November,4,2,4,a,3,State three basic assumptions of kinetic theory.,NULL
+9702,2024,November,4,2,4,b,3,Explain how molecular movement causes pressure.,NULL
+9702,2024,November,4,2,4,c,3,Conclusions from Fig. 4.1 and 4.2.,images/9702_w24_42_qp_fig4_1.png
+9702,2024,November,4,2,4,c,3,Fig 4.2 data,images/9702_w24_42_qp_fig4_2.png
+9702,2024,November,4,2,5,a,1,Draw arrow on Fig. 5.1 for resultant force.,images/9702_w24_42_qp_fig5_1.png
+9702,2024,November,4,2,5,b(i),1,State amplitude from Fig. 5.2.,images/9702_w24_42_qp_fig5_2.png
+9702,2024,November,4,2,5,b(ii),2,Determine angular frequency.,NULL
+9702,2024,November,4,2,5,c,3,Sketch kinetic energy in Fig. 5.3.,images/9702_w24_42_qp_fig5_3.png
+9702,2024,November,4,2,6,a,2,State Coulomb's law.,NULL
+9702,2024,November,4,2,6,b,3,Draw field lines on Fig. 6.1.,images/9702_w24_42_qp_fig6_1.png
+9702,2024,November,4,2,6,c(i),1,Determine radius from Fig. 6.2.,images/9702_w24_42_qp_fig6_2.png
+9702,2024,November,4,2,7,a,2,Define capacitance.,NULL
+9702,2024,November,4,2,7,b(i),2,Sketch charge vs p.d. in Fig. 7.1.,images/9702_w24_42_qp_fig7_1.png
+9702,2024,November,4,2,7,c(i),3,Connected to Y in Fig. 7.2. Complete Table 7.1.,images/9702_w24_42_qp_fig7_2.png
+9702,2024,November,4,2,8,b(ii),3,Sketch I vs t in Fig. 8.1.,images/9702_w24_42_qp_fig8_1.png
+9702,2024,November,4,2,9,d(i),2,Sketch p vs 1/lambda in Fig. 9.1.,images/9702_w24_42_qp_fig9_1.png
+9702,2024,November,4,2,10,a(i),1,State meant by random.,NULL
+9702,2024,November,2,2,1,a,1,State what is meant by a vector quantity.,NULL
+9702,2024,November,2,2,1,b,NULL,"A sphere falls vertically through a liquid that has density 830 kg m^-3. The sphere has radius r and constant velocity v, as shown in Fig. 1.1.",images/9702_w24_22_qp_fig1_1.png
+9702,2024,November,2,2,1,b(i),3,The drag force D acting on the sphere is given by D = 6 pi r eta v. Determine the SI base units of eta.,NULL
+9702,2024,November,2,2,1,b(ii),1,"State an equation showing relationship between magnitudes of weight W, drag force D and upthrust U.",NULL
+9702,2024,November,2,2,1,b(iii),2,Volume is 4.6 cm^3. D is 0.32 N. Calculate weight of sphere.,NULL
+9702,2024,November,2,2,2,a,1,Define momentum.,NULL
+9702,2024,November,2,2,2,b,2,"Child on scooter, mass 16 kg. Accelerates from rest for 1.1 s to speed 0.60 m s^-1. Determine average resultant force.",NULL
+9702,2024,November,2,2,2,c,2,Travels down slope shown in Fig. 2.1. Acceleration 0.85 m s^-2 for 3.7 s from speed 0.60 m s^-1. Calculate distance x.,images/9702_w24_22_qp_fig2_1.png
+9702,2024,November,2,2,2,d(i),2,Braking force to maintain constant velocity from B to C (18 m) as shown in Fig. 2.2. Work done 250 J. Determine braking force.,images/9702_w24_22_qp_fig2_2.png
+9702,2024,November,2,2,2,d(ii),3,"On Fig. 2.3, sketch variation of kinetic energy with distance from A to C.",images/9702_w24_22_qp_fig2_3.png
+9702,2024,November,2,2,3,a(i),2,Stress vs strain in Fig. 3.1. Determine Young modulus.,images/9702_w24_22_qp_fig3_1.png
+9702,2024,November,2,2,3,a(ii),1,"On Fig. 3.1, draw cross to show limit of proportionality Q.",NULL
+9702,2024,November,2,2,3,b,2,State conditions for equilibrium.,NULL
+9702,2024,November,2,2,3,c(i),3,Shelf AB horizontally as shown in Fig. 3.2. Weight 33 N. Cup 1.5 N at 0.12 m from B. Determine tension T.,images/9702_w24_22_qp_fig3_2.png
+9702,2024,November,2,2,3,c(ii),2,Stress is 1.5 * 10^7 Pa. Determine radius.,NULL
+9702,2024,November,2,2,3,c(iii),2,Stress doubles. State and explain behavior using Fig. 3.1.,NULL
+9702,2024,November,2,2,4,a,2,Compare oscillations of transverse and longitudinal waves.,NULL
+9702,2024,November,2,2,4,b(i),1,Stationary wave in Fig. 4.1. Mark A at antinode.,images/9702_w24_22_qp_fig4_1.png
+9702,2024,November,2,2,4,b(ii),3,Distance 4.5 * 10^-2 m. Speed 340 m s^-1. Determine frequency.,NULL
+9702,2024,November,2,2,4,b(iii),2,Piston moved left. Frequency changed to form same number of antinodes. Explain change to frequency.,NULL
+9702,2024,November,2,2,5,a,1,Define potential difference.,NULL
+9702,2024,November,2,2,5,b,NULL,Power supply 230 V. Current 7.0 A. Circuit shown in Fig. 5.1.,images/9702_w24_22_qp_fig5_1.png
+9702,2024,November,2,2,5,b(i),1,Identify component X.,NULL
+9702,2024,November,2,2,5,b(ii),1,Show pd across 0.86 Ohm is 6.0 V.,NULL
+9702,2024,November,2,2,5,b(iii),2,Determine current I1.,NULL
+9702,2024,November,2,2,5,b(iv),2,Calculate pd across component X.,NULL
+9702,2024,November,2,2,5,b(v),2,Calculate power in X.,NULL
+9702,2024,November,2,2,5,b(vi),2,Determine percentage efficiency.,NULL
+9702,2024,November,2,2,5,b(vii),1,170 Ohm removed. State if current in supply increases/decreases.,NULL
+9702,2024,November,2,2,6,a,3,Compare alpha with beta+ in terms of mass and charge.,NULL
+9702,2024,November,2,2,6,b,NULL,"P undergoes alpha-decay to Q, then Q decays to R. Fig. 6.1 shows proton/nucleon numbers.",images/9702_w24_22_qp_fig6_1.png
+9702,2024,November,2,2,6,b(i),1,"On Fig. 6.1, draw cross for Q.",NULL
+9702,2024,November,2,2,6,b(ii),2,State names of particles as Q decays to R.,NULL
+9702,2024,November,2,2,6,c,NULL,P traveling at constant velocity. After decay Q at 68 degrees. Alpha at theta as shown in Fig. 6.2.,images/9702_w24_22_qp_fig6_2.png
+9702,2024,November,2,2,6,c(i),3,Determine theta.,NULL
+9702,2024,November,2,2,6,c(ii),2,Calculate kinetic energy of alpha.,NULL
+9702,2024,November,1,2,1,NULL,1,Which row does not show a correct combination of a quantity and its unit?,NULL
+9702,2024,November,1,2,2,NULL,1,What is a reasonable estimate of the kinetic energy of the car?,NULL
+9702,2024,November,1,2,3,NULL,1,A solid bar has a square cross-section. Calculate percentage uncertainty in volume.,NULL
+9702,2024,November,1,2,4,NULL,1,Which graph shows the variation with time of the velocity of the object?,images/9702_w24_12_qp_fig4.png
+9702,2024,November,1,2,5,NULL,1,Stone falls vertically. What is the speed after 0.40 m?,NULL
+9702,2024,November,1,2,6,NULL,1,Ball thrown horizontally. Which statement about motion is correct?,NULL
+9702,2024,November,1,2,7,NULL,1,Moving object strikes stationary object. Possible values of momentum/KE?,NULL
+9702,2024,November,1,2,8,NULL,1,Which quantities could X and Y represent for terminal velocity?,images/9702_w24_12_qp_fig8.png
+9702,2024,November,1,2,9,NULL,1,Ball collides with wall and rebounds. Average force?,NULL
+9702,2024,November,1,2,10,NULL,1,Two train carriages collide and join. Kinetic energy lost?,images/9702_w24_12_qp_fig10.png
+9702,2024,November,1,2,11,NULL,1,Single condition for equilibrium?,NULL
+9702,2024,November,1,2,12,NULL,1,Kite in equilibrium. Which vector diagram represents forces?,images/9702_w24_12_qp_fig12.png
+9702,2024,November,1,2,13,NULL,1,Four forces act about point P. Length XY?,images/9702_w24_12_qp_fig13.png
+9702,2024,November,1,2,14,NULL,1,Rectangular block of lead. Maximum pressure?,NULL
+9702,2024,November,1,2,15,NULL,1,Definition of power?,NULL
+9702,2024,November,1,2,16,NULL,1,Model car constant velocity. Total horizontal resistive force?,NULL
+9702,2024,November,1,2,17,NULL,1,Principle of conservation of energy?,NULL
+9702,2024,November,1,2,18,NULL,1,Barrel loaded onto lorry. Minimum work done?,images/9702_w24_12_qp_fig18.png
+9702,2024,November,1,2,19,NULL,1,Unit for stress?,NULL
+9702,2024,November,1,2,20,NULL,1,Stress-strain relationship for three wires. Correct statements?,images/9702_w24_12_qp_fig20.png
+9702,2024,November,1,2,21,NULL,1,Four solid steel rods support object. Young modulus of steel?,NULL
+9702,2024,November,1,2,22,NULL,1,Which area represents work done in stretching the spring?,images/9702_w24_12_qp_fig22.png
+9702,2024,November,1,2,23,NULL,1,Vertically polarised light amplitude A. Amplitude after filter?,NULL
+9702,2024,November,1,2,24,NULL,1,Progressive longitudinal sound wave. Variation of displacement graph?,images/9702_w24_12_qp_fig24.png
+9702,2024,November,1,2,25,NULL,1,Electromagnetic wave frequency 3.0*10^16 Hz. Principal region?,NULL
+9702,2024,November,1,2,26,NULL,1,Source of sound moves. Smallest observed frequency?,NULL
+9702,2024,November,1,2,27,NULL,1,Description of time-base of a CRO?,NULL
+9702,2024,November,1,2,28,NULL,1,What happens when two waves superpose?,NULL
+9702,2024,November,1,2,29,NULL,1,Single slit diffraction. Change to decrease diffraction?,NULL
+9702,2024,November,1,2,30,NULL,1,Visible light incident on grating. Wavelength?,images/9702_w24_12_qp_fig30.png
+9702,2024,November,1,2,31,NULL,1,Horizontal glass tube dust heaps. Frequency of sound?,images/9702_w24_12_qp_fig31.png
+9702,2024,November,1,2,32,NULL,1,Total charge through resistor. Correct statement?,NULL
+9702,2024,November,1,2,33,NULL,1,Filament lamp pd raised. I-V graph?,images/9702_w24_12_qp_fig33.png
+9702,2024,November,1,2,34,NULL,1,Current 12 A in wire. Number of free electrons?,NULL
+9702,2024,November,1,2,35,NULL,1,Three resistors connected. Circuit with 100 Ohm combined resistance?,images/9702_w24_12_qp_fig35.png
+9702,2024,November,1,2,36,NULL,1,Kirchhoff's laws conservation basis?,NULL
+9702,2024,November,1,2,37,NULL,1,Cell internal resistance calculation.,NULL
+9702,2024,November,1,2,38,NULL,1,Not a quark flavour?,NULL
+9702,2024,November,1,2,39,NULL,1,Down quarks in hydrogen-3 nucleus?,NULL
+9702,2024,November,1,2,40,NULL,1,Beta-plus emission additional particle?,NULL
+9702,2024,June,1,2,1,NULL,1,Which quantity is a scalar?,NULL
+9702,2024,June,1,2,2,NULL,1,Density of a solid sphere mass M and diameter d. Which expression is correct?,NULL
+9702,2024,June,1,2,3,NULL,1,Velocity vs time graph for falling object. Terminal velocity point?,NULL
+9702,2024,June,1,2,4,NULL,1,Percentage uncertainty in kinetic energy calculation.,NULL
+9702,2024,June,1,2,5,NULL,1,Ball falling with air resistance. Which statement about acceleration is correct?,images/9702_s24_12_qp_fig5.png
+9702,2024,June,1,2,6,NULL,1,Force vs time graph for collision. Average force?,images/9702_s24_12_qp_fig6.png
+9702,2024,June,1,2,7,NULL,1,Elastic collision between two spheres. Which property is conserved?,NULL
+9702,2024,June,1,2,8,NULL,1,Density calculation for a cube.,NULL
+9702,2024,June,1,2,9,NULL,1,Two forces in equilibrium. Resultant moment about point P?,NULL
+9702,2024,June,1,2,10,NULL,1,Beam in equilibrium on two supports. Force calculation.,images/9702_s24_12_qp_fig10.png
+9702,2024,June,1,2,11,NULL,1,Diagram showing forces on a kite. Resultant force?,images/9702_s24_12_qp_fig11.png
+9702,2024,June,1,2,12,NULL,1,Hydrostatic pressure calculation in two liquids.,images/9702_s24_12_qp_fig12.png
+9702,2024,June,1,2,13,NULL,1,Efficiency calculation for a motor lifting a load.,NULL
+9702,2024,June,1,2,14,NULL,1,Work done per unit time definition?,NULL
+9702,2024,June,1,2,15,NULL,1,Mass-spring system extensions.,images/9702_s24_12_qp_fig15.png
+9702,2024,June,1,2,16,NULL,1,Young modulus calculation for a wire.,NULL
+9702,2024,June,1,2,17,NULL,1,Stress-strain graph regions and Hooke's law.,NULL
+9702,2024,June,1,2,18,NULL,1,Progressive transverse wave. Phase difference between points?,images/9702_s24_12_qp_fig18.png
+9702,2024,June,1,2,19,NULL,1,Sound wave intensity vs distance.,images/9702_s24_12_qp_fig19.png
+9702,2024,June,1,2,20,NULL,1,Doppler effect calculation for a moving source.,images/9702_s24_12_qp_fig20.png
+9702,2024,June,1,2,21,NULL,1,Electromagnetic wave spectrum regions.,images/9702_s24_12_qp_fig21.png
+9702,2024,June,1,2,22,NULL,1,Polarisation of electromagnetic waves.,NULL
+9702,2024,June,1,2,23,NULL,1,Stationary wave on a string. Node positions?,images/9702_s24_12_qp_fig23.png
+9702,2024,June,1,2,24,NULL,1,Diffraction of waves through a slit.,NULL
+9702,2024,June,1,2,25,NULL,1,Interference pattern from two sources.,NULL
+9702,2024,June,1,2,26,NULL,1,Diffraction grating wavelength calculation.,images/9702_s24_12_qp_fig26.png
+9702,2024,June,1,2,27,NULL,1,Cathode-ray oscilloscope settings.,NULL
+9702,2024,June,1,2,28,NULL,1,What is the definition of current?,NULL
+9702,2024,June,1,2,29,NULL,1,Charge carrier drift speed in a wire.,NULL
+9702,2024,June,1,2,30,NULL,1,Potential difference across a parallel combination of resistors.,NULL
+9702,2024,June,1,2,31,NULL,1,Kirchhoff's first law application to a junction.,images/9702_s24_12_qp_fig31.png
+9702,2024,June,1,2,32,NULL,1,Resistance of a thermistor from graph.,NULL
+9702,2024,June,1,2,33,NULL,1,Internal resistance of a battery.,NULL
+9702,2024,June,1,2,34,NULL,1,Potentiometer circuit balance length.,NULL
+9702,2024,June,1,2,35,NULL,1,Combined resistance of three resistors.,images/9702_s24_12_qp_fig35.png
+9702,2024,June,1,2,36,NULL,1,Electricity circuit Kirchhoff's second law loop.,images/9702_s24_12_qp_fig36.png
+9702,2024,June,1,2,37,NULL,1,Which particle is a baryon?,NULL
+9702,2024,June,1,2,38,NULL,1,Quark composition of a neutron.,NULL
+9702,2024,June,1,2,39,NULL,1,Weak interaction decay particle emitted.,NULL
+9702,2024,June,1,2,40,NULL,1,Beta-minus decay nucleus change.,NULL
+9702,2024,June,2,2,1,a,1,"Circle all scalar quantities in the list: acceleration, charge, displacement, momentum, weight.",NULL
+9702,2024,June,2,2,1,b,NULL,A square solar panel with sides of length 1300 mm is shown in Fig. 1.1.,images/9702_s24_22_qp_fig1_1.png
+9702,2024,June,2,2,1,b(i),3,Solar radiation power 750 W. Determine intensity.,NULL
+9702,2024,June,2,2,1,b(ii),2,"Uncertainty in length 5 mm, in power 3%. Calculate percentage uncertainty in intensity.",NULL
+9702,2024,June,2,2,2,a,NULL,A skydiver jumps from aircraft. Velocity-time graph is shown in Fig. 2.1.,images/9702_s24_22_qp_fig2_1.png
+9702,2024,June,2,2,2,a(i),1,State terminal velocity.,NULL
+9702,2024,June,2,2,2,a(ii),2,Determine acceleration at 18 s.,NULL
+9702,2024,June,2,2,2,b,3,Mass 68 kg. Parachute opens and average upward force 1800 N. Determine acceleration.,NULL
+9702,2024,June,2,2,3,a,2,Average current 3.3 * 10^4 A for 2.6 * 10^-5 s. Calculate charge.,NULL
+9702,2024,June,2,2,3,b,2,Potential 3.0 * 10^7 V. Calculate power GW.,NULL
+9702,2024,June,2,2,3,c,NULL,Copper building strip shown in Fig. 3.1.,images/9702_s24_22_qp_fig3_1.png
+9702,2024,June,2,2,3,c(i),3,"Resistance 9.6 mOhm, resistivity 1.7 * 10^-8, length 95 m. Determine radius.",NULL
+9702,2024,June,2,2,3,d,NULL,Pressure applied as shown in Fig. 3.2.,images/9702_s24_22_qp_fig3_2.png
+9702,2024,June,2,2,3,d,3,Pressure 1.9 * 10^6 Pa. Young modulus 1.3 * 10^11 Pa. Width 0.12 m. Calculate compression x.,NULL
+9702,2024,June,2,2,4,a,NULL,Pinball machine spring 8.0 cm compressed as shown in Fig. 4.1.,images/9702_s24_22_qp_fig4_1.png
+9702,2024,June,2,2,4,a,2,Spring constant 29 N m^-1. Calculate elastic energy.,NULL
+9702,2024,June,2,2,4,b(i),3,Ball mass 45 g launched angle 15 degrees. Determine gain in GPE.,NULL
+9702,2024,June,2,2,4,b(ii),3,Calculate launch speed.,NULL
+9702,2024,June,2,2,4,c,NULL,Ball launched as shown in Fig. 4.2.,images/9702_s24_22_qp_fig4_2.png
+9702,2024,June,2,2,4,c(i),3,Force 1.7 N at 2.0 cm. Calculate distance d from hinge.,NULL
+9702,2024,June,2,2,5,a,1,State Kirchhoff's second law.,NULL
+9702,2024,June,2,2,5,b,NULL,Circuit and thermistor graph shown in Fig. 5.1 and 5.2.,images/9702_s24_22_qp_fig5_1.png
+9702,2024,June,2,2,5,b,NULL,Thermistor characteristic.,images/9702_s24_22_qp_fig5_2.png
+9702,2024,June,2,2,5,b(i),2,9.0 V supply. PD across X is 4.0 V at 11 mA. Calculate resistance of X.,NULL
+9702,2024,June,2,2,6,a,NULL,Semicircular screen shown in Fig. 6.1.,images/9702_s24_22_qp_fig6_1.png
+9702,2024,June,2,2,6,a,3,"Wavelength 520 nm, slit separation 3.8 microns. Calculate number of bright fringes.",NULL
+9702,2024,June,2,2,7,a,1,Identify category (category/hadron).,NULL
+9702,2024,June,2,2,7,b,2,Identify second quarks in Q and R from Table 7.1.,NULL
+9702,2024,June,4,2,1,a,1,Define radian.,NULL
+9702,2024,June,4,2,1,b,NULL,Metal disc spins as shown in Fig. 1.1.,images/9702_s24_42_qp_fig1_1.png
+9702,2024,June,4,2,1,b(i),1,Draw arrow V for velocity of clay.,NULL
+9702,2024,June,4,2,1,b(ii),1,Draw arrow A for acceleration.,NULL
+9702,2024,June,4,2,1,c,NULL,Disc radius 9.3 cm. Clay speed 0.68 m s^-1.,NULL
+9702,2024,June,4,2,1,c(i),2,Determine angular speed Omega.,NULL
+9702,2024,June,4,2,1,d,NULL,Second clay attached as shown in Fig. 1.2.,images/9702_s24_42_qp_fig1_2.png
+9702,2024,June,4,2,1,d,3,"Compare angular speed, linear speed, and acceleration for second piece.",NULL
+9702,2024,June,4,2,2,a,1,State what is meant by thermal equilibrium.,NULL
+9702,2024,June,4,2,2,b,NULL,Two cylinders shown in Fig. 2.1.,images/9702_s24_42_qp_fig2_1.png
+9702,2024,June,4,2,2,b(i),2,"Cylinder X: 0.740 mol, 0.0260 m^3, 1.20 * 10^5 Pa. Determine temperature.",NULL
+9702,2024,June,4,2,4,a,NULL,Oscillating block and graph shown in Fig. 4.1 and 4.2.,images/9702_s24_42_qp_fig4_1.png
+9702,2024,June,4,2,4,a,NULL,Acceleration-displacement graph.,images/9702_s24_42_qp_fig4_2.png
+9702,2024,June,4,2,4,a,2,Explain how Fig. 4.2 shows SHM.,NULL
+9702,2024,June,4,2,5,a,2,Define electric potential.,NULL
+9702,2024,June,4,2,5,b,NULL,Two spheres and graph in Fig. 5.1 and 5.2.,images/9702_s24_42_qp_fig5_1.png
+9702,2024,June,4,2,5,b,NULL,Potential variation graph.,images/9702_s24_42_qp_fig5_2.png
+9702,2024,June,4,2,5,b,3,State three conclusions about the spheres from Fig. 5.2.,NULL
+9702,2024,June,4,2,6,a,NULL,Capacitor circuit shown in Fig. 6.1.,images/9702_s24_42_qp_fig6_1.png
+9702,2024,June,4,2,6,a,3,Derive expression for total capacitance in series.,NULL
+9702,2024,June,4,2,6,b(iii),2,Sketch energy stored variation with CQ graph template in Fig. 6.2.,images/9702_s24_42_qp_fig6_2.png
+9702,2024,June,4,2,7,a,2,State Faraday's law of electromagnetic induction.,NULL
+9702,2024,June,4,2,7,b,NULL,Coil in field shown in Fig. 7.1.,images/9702_s24_42_qp_fig7_1.png
+9702,2024,June,4,2,7,b,NULL,B-t graph variation in Fig. 7.2.,images/9702_s24_42_qp_fig7_2.png
+9702,2024,June,4,2,7,b,NULL,Induced emf variation template in Fig. 7.3.,images/9702_s24_42_qp_fig7_3.png
+9702,2024,June,4,2,8,a,NULL,Hydrogen emission spectrum in star star shown in Fig. 8.1.,images/9702_s24_42_qp_fig8_1.png
+9702,2024,June,4,2,8,a(i),2,Explain why observed lines differ.,NULL
+9702,2024,June,4,2,9,c(i),2,Sketch binding energy per nucleon variation with A graph template in Fig. 9.1.,images/9702_s24_42_qp_fig9_1.png
+9702,2024,June,4,3,1,a,2,Define gravitational potential at a point.,NULL
+9702,2024,June,4,3,1,b,NULL,Two planets of mass M and 3M shown in Fig. 1.1.,images/9702_s24_43_qp_fig1_1.png
+9702,2024,June,4,3,2,a,NULL,Temperature scales.,NULL
+9702,2024,June,4,3,2,a(i),1,State thermodynamic temperature at absolute zero.,NULL
+9702,2024,June,4,3,2,b,NULL,Platinum thermometer shown in Fig. 2.1.,images/9702_s24_43_qp_fig2_1.png
+9702,2024,June,4,3,2,b,NULL,Resistivity variation in Fig. 2.2.,images/9702_s24_43_qp_fig2_2.png
+9702,2024,June,4,3,3,c,2,Sketch variation of internal energy with volume on Fig. 3.1.,images/9702_s24_43_qp_fig3_1.png
+9702,2024,June,4,3,4,a,NULL,Vibration generator setup in Fig. 4.1.,images/9702_s24_43_qp_fig4_1.png
+9702,2024,June,4,3,4,b,NULL,Displacement-time graph in Fig. 4.2.,images/9702_s24_43_qp_fig4_2.png
+9702,2024,June,4,3,4,c,2,Sketch resonance peak template on Fig. 4.3.,images/9702_s24_43_qp_fig4_3.png
+9702,2024,June,4,3,5,b,NULL,Conducting plates in Fig. 5.1.,images/9702_s24_43_qp_fig5_1.png
+9702,2024,June,4,3,5,b(i),2,Draw four field lines between plates on Fig. 5.1.,NULL
+9702,2024,June,4,3,6,a,NULL,RC circuit and graph in Fig. 6.1 and 6.2.,images/9702_s24_43_qp_fig6_1.png
+9702,2024,June,4,3,6,a,NULL,Current variation.,images/9702_s24_43_qp_fig6_2.png
+9702,2024,June,4,3,7,b,NULL,Rectifier circuit in Fig. 7.1.,images/9702_s24_43_qp_fig7_1.png
+9702,2024,June,4,3,7,b,NULL,VOUT graph.,images/9702_s24_43_qp_fig7_2.png
+9702,2024,June,4,3,7,b(ii),3,Sketch power variation on Fig. 7.3.,images/9702_s24_43_qp_fig7_3.png
+9702,2024,June,4,3,8,b,NULL,X-ray tube in Fig. 8.1.,images/9702_s24_43_qp_fig8_1.png
+9702,2024,June,4,3,9,b,NULL,Radioactive decay in Fig. 9.1.,images/9702_s24_43_qp_fig9_1.png
+9702,2024,June,2,3,1,a,2,Derive SI base units of viscosity Eta.,NULL
+9702,2024,June,2,3,1,c,NULL,Sphere shown in Fig. 1.1.,images/9702_s24_23_qp_fig1_1.png
+9702,2024,June,2,3,1,c,2,Draw and label arrows for three forces acting on sphere as it moves through liquid.,NULL
+9702,2024,June,2,3,2,b,NULL,Object projected from slope in Fig. 2.1.,images/9702_s24_23_qp_fig2_1.png
+9702,2024,June,2,3,2,b(i),1,Calculate horizontal distance travelled in 0.71 s.,NULL
+9702,2024,June,2,3,3,b,NULL,Force-extension graph in Fig. 3.1.,images/9702_s24_23_qp_fig3_1.png
+9702,2024,June,2,3,3,b(i),1,Label limit of proportionality P on Fig. 3.1.,NULL
+9702,2024,June,2,3,3,b(ii),1,Label elastic limit E on Fig. 3.1.,NULL
+9702,2024,June,2,3,4,a,NULL,Transverse wave in Fig. 4.1.,images/9702_s24_23_qp_fig4_1.png
+9702,2024,June,2,3,4,b,1,Draw arrow at T for direction of movement.,NULL
+9702,2024,June,2,3,4,c,NULL,Distance between R and T in Fig. 4.2.,images/9702_s24_23_qp_fig4_2.png
+9702,2024,June,2,3,4,d,NULL,Interference pattern in water tank in Fig. 4.3.,images/9702_s24_23_qp_fig4_3.png
+9702,2024,June,2,3,5,b,NULL,Circuit diagram in Fig. 5.1.,images/9702_s24_23_qp_fig5_1.png
+9702,2024,June,2,3,6,b,NULL,Energy spectrum in Fig. 6.1.,images/9702_s24_23_qp_fig6_1.png
+9702,2024,June,1,3,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,June,1,3,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,June,1,3,3,NULL,1,Multiple Choice Question 3,NULL
+9702,2024,June,1,3,4,NULL,1,Multiple Choice Question 4,NULL
+9702,2024,June,1,3,5,NULL,1,Multiple Choice Question 5,images/9702_s24_13_qp_fig5.png
+9702,2024,June,1,3,6,NULL,1,Multiple Choice Question 6,images/9702_s24_13_qp_fig6.png
+9702,2024,June,1,3,7,NULL,1,Multiple Choice Question 7,NULL
+9702,2024,June,1,3,8,NULL,1,Multiple Choice Question 8,images/9702_s24_13_qp_fig8.png
+9702,2024,June,1,3,9,NULL,1,Multiple Choice Question 9,NULL
+9702,2024,June,1,3,10,NULL,1,Multiple Choice Question 10,images/9702_s24_13_qp_fig10.png
+9702,2024,June,1,3,11,NULL,1,Multiple Choice Question 11,images/9702_s24_13_qp_fig11.png
+9702,2024,June,1,3,12,NULL,1,Multiple Choice Question 12,NULL
+9702,2024,June,1,3,13,NULL,1,Multiple Choice Question 13,images/9702_s24_13_qp_fig13.png
+9702,2024,June,1,3,14,NULL,1,Multiple Choice Question 14,images/9702_s24_13_qp_fig14.png
+9702,2024,June,1,3,15,NULL,1,Multiple Choice Question 15,NULL
+9702,2024,June,1,3,16,NULL,1,Multiple Choice Question 16,NULL
+9702,2024,June,1,3,17,NULL,1,Multiple Choice Question 17,images/9702_s24_13_qp_fig17.png
+9702,2024,June,1,3,18,NULL,1,Multiple Choice Question 18,images/9702_s24_13_qp_fig18.png
+9702,2024,June,1,3,19,NULL,1,Multiple Choice Question 19,images/9702_s24_13_qp_fig19.png
+9702,2024,June,1,3,20,NULL,1,Multiple Choice Question 20,images/9702_s24_13_qp_fig20.png
+9702,2024,June,1,3,21,NULL,1,Multiple Choice Question 21,NULL
+9702,2024,June,1,3,22,NULL,1,Multiple Choice Question 22,images/9702_s24_13_qp_fig22.png
+9702,2024,June,1,3,23,NULL,1,Multiple Choice Question 23,NULL
+9702,2024,June,1,3,24,NULL,1,Multiple Choice Question 24,NULL
+9702,2024,June,1,3,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,June,1,3,26,NULL,1,Multiple Choice Question 26,images/9702_s24_13_qp_fig26.png
+9702,2024,June,1,3,27,NULL,1,Multiple Choice Question 27,NULL
+9702,2024,June,1,3,28,NULL,1,Multiple Choice Question 28,images/9702_s24_13_qp_fig28.png
+9702,2024,June,1,3,29,NULL,1,Multiple Choice Question 29,images/9702_s24_13_qp_fig29.png
+9702,2024,June,1,3,30,NULL,1,Multiple Choice Question 30,NULL
+9702,2024,June,1,3,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,June,1,3,32,NULL,1,Multiple Choice Question 32,images/9702_s24_13_qp_fig32.png
+9702,2024,June,1,3,33,NULL,1,Multiple Choice Question 33,images/9702_s24_13_qp_fig33.png
+9702,2024,June,1,3,34,NULL,1,Multiple Choice Question 34,images/9702_s24_13_qp_fig34.png
+9702,2024,June,1,3,35,NULL,1,Multiple Choice Question 35,images/9702_s24_13_qp_fig35.png
+9702,2024,June,1,3,36,NULL,1,Multiple Choice Question 36,images/9702_s24_13_qp_fig36.png
+9702,2024,June,1,3,37,NULL,1,Multiple Choice Question 37,images/9702_s24_13_qp_fig37.png
+9702,2024,June,1,3,38,NULL,1,Multiple Choice Question 38,images/9702_s24_13_qp_fig38.png
+9702,2024,June,1,3,39,NULL,1,Multiple Choice Question 39,images/9702_s24_13_qp_fig39.png
+9702,2024,June,1,3,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,June,1,1,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,June,1,1,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,June,1,1,3,NULL,1,Multiple Choice Question 3,images/9702_s24_11_qp_fig3.png
+9702,2024,June,1,1,4,NULL,1,Multiple Choice Question 4,NULL
+9702,2024,June,1,1,5,NULL,1,Multiple Choice Question 5,NULL
+9702,2024,June,1,1,6,NULL,1,Multiple Choice Question 6,NULL
+9702,2024,June,1,1,7,NULL,1,Multiple Choice Question 7,images/9702_s24_11_qp_fig7.png
+9702,2024,June,1,1,8,NULL,1,Multiple Choice Question 8,NULL
+9702,2024,June,1,1,9,NULL,1,Multiple Choice Question 9,images/9702_s24_11_qp_fig9.png
+9702,2024,June,1,1,10,NULL,1,Multiple Choice Question 10,NULL
+9702,2024,June,1,1,11,NULL,1,Multiple Choice Question 11,NULL
+9702,2024,June,1,1,12,NULL,1,Multiple Choice Question 12,NULL
+9702,2024,June,1,1,13,NULL,1,Multiple Choice Question 13,images/9702_s24_11_qp_fig13.png
+9702,2024,June,1,1,14,NULL,1,Multiple Choice Question 14,images/9702_s24_11_qp_fig14.png
+9702,2024,June,1,1,15,NULL,1,Multiple Choice Question 15,images/9702_s24_11_qp_fig15.png
+9702,2024,June,1,1,16,NULL,1,Multiple Choice Question 16,images/9702_s24_11_qp_fig16.png
+9702,2024,June,1,1,17,NULL,1,Multiple Choice Question 17,NULL
+9702,2024,June,1,1,18,NULL,1,Multiple Choice Question 18,NULL
+9702,2024,June,1,1,19,NULL,1,Multiple Choice Question 19,NULL
+9702,2024,June,1,1,20,NULL,1,Multiple Choice Question 20,images/9702_s24_11_qp_fig20.png
+9702,2024,June,1,1,21,NULL,1,Multiple Choice Question 21,NULL
+9702,2024,June,1,1,22,NULL,1,Multiple Choice Question 22,images/9702_s24_11_qp_fig22.png
+9702,2024,June,1,1,23,NULL,1,Multiple Choice Question 23,NULL
+9702,2024,June,1,1,24,NULL,1,Multiple Choice Question 24,NULL
+9702,2024,June,1,1,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,June,1,1,26,NULL,1,Multiple Choice Question 26,NULL
+9702,2024,June,1,1,27,NULL,1,Multiple Choice Question 27,NULL
+9702,2024,June,1,1,28,NULL,1,Multiple Choice Question 28,images/9702_s24_11_qp_fig28.png
+9702,2024,June,1,1,29,NULL,1,Multiple Choice Question 29,NULL
+9702,2024,June,1,1,30,NULL,1,Multiple Choice Question 30,images/9702_s24_11_qp_fig30.png
+9702,2024,June,1,1,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,June,1,1,32,NULL,1,Multiple Choice Question 32,NULL
+9702,2024,June,1,1,33,NULL,1,Multiple Choice Question 33,images/9702_s24_11_qp_fig33.png
+9702,2024,June,1,1,34,NULL,1,Multiple Choice Question 34,images/9702_s24_11_qp_fig34.png
+9702,2024,June,1,1,35,NULL,1,Multiple Choice Question 35,images/9702_s24_11_qp_fig35.png
+9702,2024,June,1,1,36,NULL,1,Multiple Choice Question 36,images/9702_s24_11_qp_fig36.png
+9702,2024,June,1,1,37,NULL,1,Multiple Choice Question 37,NULL
+9702,2024,June,1,1,38,NULL,1,Multiple Choice Question 38,NULL
+9702,2024,June,1,1,39,NULL,1,Multiple Choice Question 39,NULL
+9702,2024,June,1,1,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,June,4,1,1,a,2,Define gravitational potential at a point.,NULL
+9702,2024,June,4,1,2,b,NULL,Platinum resistance thermometer in Fig. 2.1 and Resistivity graph in Fig. 2.2.,images/9702_s24_41_qp_fig2_1.png
+9702,2024,June,4,1,3,c,NULL,Internal energy variation template in Fig. 3.1.,images/9702_s24_41_qp_fig3_1.png
+9702,2024,June,4,1,4,a,2,Define resonance.,NULL
+9702,2024,June,4,1,4,c,NULL,Amplitude-frequency template in Fig. 4.3.,images/9702_s24_41_qp_fig4_3.png
+9702,2024,June,4,1,5,b,NULL,Electric field template in Fig. 5.1.,images/9702_s24_41_qp_fig5_1.png
+9702,2024,June,4,1,8,b,NULL,X-ray tube diagram in Fig. 8.1.,images/9702_s24_41_qp_fig8_1.png
+9702,2024,June,4,1,9,b,NULL,Radioactive decay graph in Fig. 9.1.,images/9702_s24_41_qp_fig9_1.png
+9702,2024,November,4,1,1,a,2,State Newton's law of gravitation.,NULL
+9702,2024,November,4,1,2,a,2,Define specific heat capacity.,NULL
+9702,2024,November,4,1,2,b,NULL,Temperature-time blocks in Fig. 2.1.,images/9702_w24_41_qp_fig2_1.png
+9702,2024,November,4,1,4,a,2,Define simple harmonic motion (SHM).,NULL
+9702,2024,November,4,1,6,c,NULL,Input VIN square wave in Fig. 6.2 and VOUT in Fig. 6.3.,images/9702_w24_41_qp_fig6_3.png
+9702,2024,November,4,1,10,c,NULL,Hubble Law v-d template in Fig. 10.1.,images/9702_w24_41_qp_fig10_1.png
+9702,2024,November,1,1,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,November,1,1,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,November,1,1,3,NULL,1,Multiple Choice Question 3,NULL
+9702,2024,November,1,1,4,NULL,1,Multiple Choice Question 4,NULL
+9702,2024,November,1,1,5,NULL,1,Multiple Choice Question 5,images/9702_w24_11_qp_fig5.png
+9702,2024,November,1,1,6,NULL,1,Multiple Choice Question 6,NULL
+9702,2024,November,1,1,7,NULL,1,Multiple Choice Question 7,NULL
+9702,2024,November,1,1,8,NULL,1,Multiple Choice Question 8,images/9702_w24_11_qp_fig8.png
+9702,2024,November,1,1,9,NULL,1,Multiple Choice Question 9,images/9702_w24_11_qp_fig9.png
+9702,2024,November,1,1,10,NULL,1,Multiple Choice Question 10,images/9702_w24_11_qp_fig10.png
+9702,2024,November,1,1,11,NULL,1,Multiple Choice Question 11,NULL
+9702,2024,November,1,1,12,NULL,1,Multiple Choice Question 12,images/9702_w24_11_qp_fig12.png
+9702,2024,November,1,1,13,NULL,1,Multiple Choice Question 13,NULL
+9702,2024,November,1,1,14,NULL,1,Multiple Choice Question 14,images/9702_w24_11_qp_fig14.png
+9702,2024,November,1,1,15,NULL,1,Multiple Choice Question 15,NULL
+9702,2024,November,1,1,16,NULL,1,Multiple Choice Question 16,images/9702_w24_11_qp_fig16.png
+9702,2024,November,1,1,17,NULL,1,Multiple Choice Question 17,images/9702_w24_11_qp_fig17.png
+9702,2024,November,1,1,18,NULL,1,Multiple Choice Question 18,images/9702_w24_11_qp_fig18.png
+9702,2024,November,1,1,19,NULL,1,Multiple Choice Question 19,NULL
+9702,2024,November,1,1,20,NULL,1,Multiple Choice Question 20,NULL
+9702,2024,November,1,1,21,NULL,1,Multiple Choice Question 21,images/9702_w24_11_qp_fig21.png
+9702,2024,November,1,1,22,NULL,1,Multiple Choice Question 22,NULL
+9702,2024,November,1,1,23,NULL,1,Multiple Choice Question 23,images/9702_w24_11_qp_fig23.png
+9702,2024,November,1,1,24,NULL,1,Multiple Choice Question 24,images/9702_w24_11_qp_fig24.png
+9702,2024,November,1,1,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,November,1,1,26,NULL,1,Multiple Choice Question 26,NULL
+9702,2024,November,1,1,27,NULL,1,Multiple Choice Question 27,NULL
+9702,2024,November,1,1,28,NULL,1,Multiple Choice Question 28,NULL
+9702,2024,November,1,1,29,NULL,1,Multiple Choice Question 29,NULL
+9702,2024,November,1,1,30,NULL,1,Multiple Choice Question 30,NULL
+9702,2024,November,1,1,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,November,1,1,32,NULL,1,Multiple Choice Question 32,images/9702_w24_11_qp_fig32.png
+9702,2024,November,1,1,33,NULL,1,Multiple Choice Question 33,NULL
+9702,2024,November,1,1,34,NULL,1,Multiple Choice Question 34,images/9702_w24_11_qp_fig34.png
+9702,2024,November,1,1,35,NULL,1,Multiple Choice Question 35,NULL
+9702,2024,November,1,1,36,NULL,1,Multiple Choice Question 36,images/9702_w24_11_qp_fig36.png
+9702,2024,November,1,1,37,NULL,1,Multiple Choice Question 37,images/9702_w24_11_qp_fig37.png
+9702,2024,November,1,1,38,NULL,1,Multiple Choice Question 38,NULL
+9702,2024,November,1,1,39,NULL,1,Multiple Choice Question 39,NULL
+9702,2024,November,1,1,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,November,2,1,1,a,1,Define density.,NULL
+9702,2024,November,2,1,1,b,NULL,Cuboidal glass block in Fig. 1.1.,images/9702_w24_21_qp_fig1_1.png
+9702,2024,November,2,1,2,a,1,Define momentum.,NULL
+9702,2024,November,2,1,2,c,NULL,Acceleration-time template in Fig. 2.2.,images/9702_w24_21_qp_fig2_2.png
+9702,2024,November,2,1,3,a,1,Define work done.,NULL
+9702,2024,November,2,1,3,b,NULL,Falling block setup in Fig. 3.1.,images/9702_w24_21_qp_fig3_1.png
+9702,2024,November,2,1,4,a,1,Define Young modulus.,NULL
+9702,2024,November,2,1,4,b,NULL,Force-extension template in Fig. 4.1.,images/9702_w24_21_qp_fig4_1.png
+9702,2024,November,2,1,6,a,NULL,Interference setup in Fig. 6.1.,images/9702_w24_21_qp_fig6_1.png
+9702,2024,November,2,1,7,b,NULL,Series-Parallel transition templates in Fig. 7.1 and Fig. 7.2.,images/9702_w24_21_qp_fig7_2.png
+9702,2024,November,1,3,1,NULL,1,Multiple Choice Question 1,NULL
+9702,2024,November,1,3,2,NULL,1,Multiple Choice Question 2,NULL
+9702,2024,November,1,3,3,NULL,1,Multiple Choice Question 3,NULL
+9702,2024,November,1,3,4,NULL,1,Multiple Choice Question 4,images/9702_w24_13_qp_fig4.png
+9702,2024,November,1,3,5,NULL,1,Multiple Choice Question 5,images/9702_w24_13_qp_fig5.png
+9702,2024,November,1,3,6,NULL,1,Multiple Choice Question 6,NULL
+9702,2024,November,1,3,7,NULL,1,Multiple Choice Question 7,NULL
+9702,2024,November,1,3,8,NULL,1,Multiple Choice Question 8,images/9702_w24_13_qp_fig8.png
+9702,2024,November,1,3,9,NULL,1,Multiple Choice Question 9,images/9702_w24_13_qp_fig9.png
+9702,2024,November,1,3,10,NULL,1,Multiple Choice Question 10,NULL
+9702,2024,November,1,3,11,NULL,1,Multiple Choice Question 11,NULL
+9702,2024,November,1,3,12,NULL,1,Multiple Choice Question 12,NULL
+9702,2024,November,1,3,13,NULL,1,Multiple Choice Question 13,NULL
+9702,2024,November,1,3,14,NULL,1,Multiple Choice Question 14,images/9702_w24_13_qp_fig14.png
+9702,2024,November,1,3,15,NULL,1,Multiple Choice Question 15,images/9702_w24_13_qp_fig15.png
+9702,2024,November,1,3,16,NULL,1,Multiple Choice Question 16,images/9702_w24_13_qp_fig16.png
+9702,2024,November,1,3,17,NULL,1,Multiple Choice Question 17,NULL
+9702,2024,November,1,3,18,NULL,1,Multiple Choice Question 18,NULL
+9702,2024,November,1,3,19,NULL,1,Multiple Choice Question 19,images/9702_w24_13_qp_fig19.png
+9702,2024,November,1,3,20,NULL,1,Multiple Choice Question 20,NULL
+9702,2024,November,1,3,21,NULL,1,Multiple Choice Question 21,images/9702_w24_13_qp_fig21.png
+9702,2024,November,1,3,22,NULL,1,Multiple Choice Question 22,NULL
+9702,2024,November,1,3,23,NULL,1,Multiple Choice Question 23,images/9702_w24_13_qp_fig23.png
+9702,2024,November,1,3,24,NULL,1,Multiple Choice Question 24,images/9702_w24_13_qp_fig24.png
+9702,2024,November,1,3,25,NULL,1,Multiple Choice Question 25,NULL
+9702,2024,November,1,3,26,NULL,1,Multiple Choice Question 26,images/9702_w24_13_qp_fig26.png
+9702,2024,November,1,3,27,NULL,1,Multiple Choice Question 27,images/9702_w24_13_qp_fig27.png
+9702,2024,November,1,3,28,NULL,1,Multiple Choice Question 28,NULL
+9702,2024,November,1,3,29,NULL,1,Multiple Choice Question 29,images/9702_w24_13_qp_fig29.png
+9702,2024,November,1,3,30,NULL,1,Multiple Choice Question 30,images/9702_w24_13_qp_fig30.png
+9702,2024,November,1,3,31,NULL,1,Multiple Choice Question 31,NULL
+9702,2024,November,1,3,32,NULL,1,Multiple Choice Question 32,NULL
+9702,2024,November,1,3,33,NULL,1,Multiple Choice Question 33,images/9702_w24_13_qp_fig33.png
+9702,2024,November,1,3,34,NULL,1,Multiple Choice Question 34,NULL
+9702,2024,November,1,3,35,NULL,1,Multiple Choice Question 35,images/9702_w24_13_qp_fig35.png
+9702,2024,November,1,3,36,NULL,1,Multiple Choice Question 36,images/9702_w24_13_qp_fig36.png
+9702,2024,November,1,3,37,NULL,1,Multiple Choice Question 37,images/9702_w24_13_qp_fig37.png
+9702,2024,November,1,3,38,NULL,1,Multiple Choice Question 38,NULL
+9702,2024,November,1,3,39,NULL,1,Multiple Choice Question 39,NULL
+9702,2024,November,1,3,40,NULL,1,Multiple Choice Question 40,NULL
+9702,2024,November,4,3,1,a,2,State Newton's law of gravitation.,NULL
+9702,2024,November,4,3,1,b,NULL,Variation with distance scale in Fig. 1.1.,images/9702_w24_43_qp_fig1_1.png
+9702,2024,November,4,3,2,a,2,Define specific heat capacity.,NULL
+9702,2024,November,4,3,2,b,NULL,Temperature-time blocks in Fig. 2.1.,images/9702_w24_43_qp_fig2_1.png
+9702,2024,November,4,3,4,a,2,Define simple harmonic motion (SHM).,NULL
+9702,2024,November,4,3,4,b,NULL,Velocity-height templates in Fig. 4.2 and Fig. 4.3.,images/9702_w24_43_qp_fig4_3.png
+9702,2024,November,4,3,6,c,NULL,Rectification templates in Fig. 6.2 and Fig. 6.3.,images/9702_w24_43_qp_fig6_3.png
+9702,2024,November,4,3,7,b,NULL,Magnetic field templates in Fig. 7.1 and Fig. 7.2.,images/9702_w24_43_qp_fig7_2.png
+9702,2024,November,4,3,10,c,NULL,Hubble Law relationship template in Fig. 10.1.,images/9702_w24_43_qp_fig10_1.png
+9702,2024,November,2,3,1,a,1,Define acceleration.,NULL
+9702,2024,November,2,3,1,b,NULL,Parcel projected from aircraft in Fig. 1.1.,images/9702_w24_23_qp_fig1_1.png
+9702,2024,November,2,3,2,a,2,State the principle of conservation of momentum.,NULL
+9702,2024,November,2,3,2,b,NULL,Ball collision setup in Fig. 2.1.,images/9702_w24_23_qp_fig2_1.png
+9702,2024,November,2,3,3,a,1,State the principle of moments.,NULL
+9702,2024,November,2,3,3,b,NULL,Floating beam setup in Fig. 3.1.,images/9702_w24_23_qp_fig3_1.png
+9702,2024,November,2,3,3,c,NULL,x-h variation graph template in Fig. 3.2.,images/9702_w24_23_qp_fig3_2.png
+9702,2024,November,2,3,5,a,NULL,Stationary wave on string XY in Fig. 5.1.,images/9702_w24_23_qp_fig5_1.png
+9702,2024,November,2,3,5,b,NULL,Doppler Effect sound observer setup in Fig. 5.2 and Fig. 5.3.,images/9702_w24_23_qp_fig5_3.png
+9702,2024,November,2,3,6,a,1,Define resistance.,NULL
+9702,2024,November,2,3,6,c,NULL,Resistor-Thermistor circuit template in Fig. 6.1.,images/9702_w24_23_qp_fig6_1.png
+9702,2025,November,1,1,1,NULL,1,MCQ Statement 1,NULL
+9702,2025,November,1,1,2,NULL,1,MCQ Statement 2,NULL
+9702,2025,November,1,1,3,NULL,1,MCQ Statement 3,NULL
+9702,2025,November,1,1,4,NULL,1,MCQ Statement 4,images/9702_w25_11_qp_fig4.png
+9702,2025,November,1,1,5,NULL,1,MCQ Statement 5,NULL
+9702,2025,November,1,1,6,NULL,1,MCQ Statement 6,images/9702_w25_11_qp_fig6.png
+9702,2025,November,1,1,7,NULL,1,MCQ Statement 7,images/9702_w25_11_qp_fig7.png
+9702,2025,November,1,1,8,NULL,1,MCQ Statement 8,images/9702_w25_11_qp_fig8.png
+9702,2025,November,1,1,9,NULL,1,MCQ Statement 9,NULL
+9702,2025,November,1,1,10,NULL,1,MCQ Statement 10,NULL
+9702,2025,November,1,1,11,NULL,1,MCQ Statement 11,images/9702_w25_11_qp_fig11.png
+9702,2025,November,1,1,12,NULL,1,MCQ Statement 12,NULL
+9702,2025,November,1,1,13,NULL,1,MCQ Statement 13,images/9702_w25_11_qp_fig13.png
+9702,2025,November,1,1,14,NULL,1,MCQ Statement 14,images/9702_w25_11_qp_fig14.png
+9702,2025,November,1,1,15,NULL,1,MCQ Statement 15,NULL
+9702,2025,November,1,1,16,NULL,1,MCQ Statement 16,NULL
+9702,2025,November,1,1,17,NULL,1,MCQ Statement 17,NULL
+9702,2025,November,1,1,18,NULL,1,MCQ Statement 18,images/9702_w25_11_qp_fig18.png
+9702,2025,November,1,1,19,NULL,1,MCQ Statement 19,NULL
+9702,2025,November,1,1,20,NULL,1,MCQ Statement 20,images/9702_w25_11_qp_fig20.png
+9702,2025,November,1,1,21,NULL,1,MCQ Statement 21,NULL
+9702,2025,November,1,1,22,NULL,1,MCQ Statement 22,NULL
+9702,2025,November,1,1,23,NULL,1,MCQ Statement 23,images/9702_w25_11_qp_fig23.png
+9702,2025,November,1,1,24,NULL,1,MCQ Statement 24,NULL
+9702,2025,November,1,1,25,NULL,1,MCQ Statement 25,images/9702_w25_11_qp_fig25.png
+9702,2025,November,1,1,26,NULL,1,MCQ Statement 26,NULL
+9702,2025,November,1,1,27,NULL,1,MCQ Statement 27,NULL
+9702,2025,November,1,1,28,NULL,1,MCQ Statement 28,images/9702_w25_11_qp_fig28.png
+9702,2025,November,1,1,29,NULL,1,MCQ Statement 29,images/9702_w25_11_qp_fig29.png
+9702,2025,November,1,1,30,NULL,1,MCQ Statement 30,NULL
+9702,2025,November,1,1,31,NULL,1,MCQ Statement 31,NULL
+9702,2025,November,1,1,32,NULL,1,MCQ Statement 32,NULL
+9702,2025,November,1,1,33,NULL,1,MCQ Statement 33,images/9702_w25_11_qp_fig33.png
+9702,2025,November,1,1,34,NULL,1,MCQ Statement 34,images/9702_w25_11_qp_fig34.png
+9702,2025,November,1,1,35,NULL,1,MCQ Statement 35,images/9702_w25_11_qp_fig35.png
+9702,2025,November,1,1,36,NULL,1,MCQ Statement 36,images/9702_w25_11_qp_fig36.png
+9702,2025,November,1,1,37,NULL,1,MCQ Statement 37,images/9702_w25_11_qp_fig37.png
+9702,2025,November,1,1,38,NULL,1,MCQ Statement 38,images/9702_w25_11_qp_fig38.png
+9702,2025,November,1,1,39,NULL,1,MCQ Statement 39,NULL
+9702,2025,November,1,1,40,NULL,1,MCQ Statement 40,NULL
+9702,2025,November,2,1,1,a,1,Define acceleration.,NULL
+9702,2025,November,2,1,1,b,NULL,Rocket velocity-time graph analysis.,images/9702_w25_21_qp_fig1_1.png
+9702,2025,November,2,1,2,a,1,Define pressure.,NULL
+9702,2025,November,2,1,2,b,NULL, फोर्सेस on ball in oil.,images/9702_w25_21_qp_fig2_1.png
+9702,2025,November,2,1,3,a,1,Define Young modulus.,NULL
+9702,2025,November,2,1,4,a,2,State meant by diffraction.,NULL
+9702,2025,November,2,1,4,b,NULL,Diffraction grating diagram.,images/9702_w25_21_qp_fig4_1.png
+9702,2025,November,4,1,1,a,2,Describe uniform circular motion.,NULL
+9702,2025,November,4,1,1,b,NULL,Polystyrene ball shadow SHM.,images/9702_w25_41_qp_fig1_1.png
+9702,2025,November,4,1,3,a,1,Define gravitational field.,NULL
+9702,2025,November,4,1,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_41_qp_fig3_4.png
+9702,2025,November,4,1,4,b,NULL,pV-kT graph analysis.,images/9702_w25_41_qp_fig4_1.png
+9702,2025,November,4,1,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_41_qp_fig9_2.png
+9702,2025,November,1,3,1,NULL,1,MCQ Statement 1,NULL
+9702,2025,November,1,3,2,NULL,1,MCQ Statement 2,NULL
+9702,2025,November,1,3,3,NULL,1,MCQ Statement 3,NULL
+9702,2025,November,1,3,4,NULL,1,MCQ Statement 4,images/9702_w25_13_qp_fig4.png
+9702,2025,November,1,3,5,NULL,1,MCQ Statement 5,NULL
+9702,2025,November,1,3,6,NULL,1,MCQ Statement 6,images/9702_w25_13_qp_fig6.png
+9702,2025,November,1,3,7,NULL,1,MCQ Statement 7,images/9702_w25_13_qp_fig7.png
+9702,2025,November,1,3,8,NULL,1,MCQ Statement 8,images/9702_w25_13_qp_fig8.png
+9702,2025,November,1,3,9,NULL,1,MCQ Statement 9,NULL
+9702,2025,November,1,3,10,NULL,1,MCQ Statement 10,NULL
+9702,2025,November,1,3,11,NULL,1,MCQ Statement 11,images/9702_w25_13_qp_fig11.png
+9702,2025,November,1,3,12,NULL,1,MCQ Statement 12,NULL
+9702,2025,November,1,3,13,NULL,1,MCQ Statement 13,images/9702_w25_13_qp_fig13.png
+9702,2025,November,1,3,14,NULL,1,MCQ Statement 14,images/9702_w25_13_qp_fig14.png
+9702,2025,November,1,3,15,NULL,1,MCQ Statement 15,NULL
+9702,2025,November,1,3,16,NULL,1,MCQ Statement 16,NULL
+9702,2025,November,1,3,17,NULL,1,MCQ Statement 17,NULL
+9702,2025,November,1,3,18,NULL,1,MCQ Statement 18,images/9702_w25_13_qp_fig18.png
+9702,2025,November,1,3,19,NULL,1,MCQ Statement 19,NULL
+9702,2025,November,1,3,20,NULL,1,MCQ Statement 20,images/9702_w25_13_qp_fig20.png
+9702,2025,November,1,3,21,NULL,1,MCQ Statement 21,NULL
+9702,2025,November,1,3,22,NULL,1,MCQ Statement 22,NULL
+9702,2025,November,1,3,23,NULL,1,MCQ Statement 23,images/9702_w25_13_qp_fig23.png
+9702,2025,November,1,3,24,NULL,1,MCQ Statement 24,NULL
+9702,2025,November,1,3,25,NULL,1,MCQ Statement 25,images/9702_w25_13_qp_fig25.png
+9702,2025,November,1,3,26,NULL,1,MCQ Statement 26,NULL
+9702,2025,November,1,3,27,NULL,1,MCQ Statement 27,NULL
+9702,2025,November,1,3,28,NULL,1,MCQ Statement 28,images/9702_w25_13_qp_fig28.png
+9702,2025,November,1,3,29,NULL,1,MCQ Statement 29,images/9702_w25_13_qp_fig29.png
+9702,2025,November,1,3,30,NULL,1,MCQ Statement 30,NULL
+9702,2025,November,1,3,31,NULL,1,MCQ Statement 31,NULL
+9702,2025,November,1,3,32,NULL,1,MCQ Statement 32,NULL
+9702,2025,November,1,3,33,NULL,1,MCQ Statement 33,images/9702_w25_13_qp_fig33.png
+9702,2025,November,1,3,34,NULL,1,MCQ Statement 34,images/9702_w25_13_qp_fig34.png
+9702,2025,November,1,3,35,NULL,1,MCQ Statement 35,images/9702_w25_13_qp_fig35.png
+9702,2025,November,1,3,36,NULL,1,MCQ Statement 36,images/9702_w25_13_qp_fig36.png
+9702,2025,November,1,3,37,NULL,1,MCQ Statement 37,images/9702_w25_13_qp_fig37.png
+9702,2025,November,1,3,38,NULL,1,MCQ Statement 38,images/9702_w25_13_qp_fig38.png
+9702,2025,November,1,3,39,NULL,1,MCQ Statement 39,NULL
+9702,2025,November,1,3,40,NULL,1,MCQ Statement 40,NULL
+9702,2025,November,2,3,1,a,1,Define acceleration.,NULL
+9702,2025,November,2,3,1,b,NULL,Rocket velocity-time graph analysis.,images/9702_w25_23_qp_fig1_1.png
+9702,2025,November,2,3,2,a,1,Define pressure.,NULL
+9702,2025,November,2,3,2,b,NULL, फोर्सेस on ball in oil.,images/9702_w25_23_qp_fig2_1.png
+9702,2025,November,2,3,3,a,1,Define Young modulus.,NULL
+9702,2025,November,2,3,4,a,2,State meant by diffraction.,NULL
+9702,2025,November,2,3,4,b,NULL,Diffraction grating diagram.,images/9702_w25_23_qp_fig4_1.png
+9702,2025,November,4,3,1,a,2,Describe uniform circular motion.,NULL
+9702,2025,November,4,3,1,b,NULL,Polystyrene ball shadow SHM.,images/9702_w25_43_qp_fig1_1.png
+9702,2025,November,4,3,3,a,1,Define gravitational field.,NULL
+9702,2025,November,4,3,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_43_qp_fig3_4.png
+9702,2025,November,4,3,4,b,NULL,pV-kT graph analysis.,images/9702_w25_43_qp_fig4_1.png
+9702,2025,November,4,3,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_43_qp_fig9_2.png

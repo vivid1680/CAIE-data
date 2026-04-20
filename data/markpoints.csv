@@ -797,561 +797,561 @@ subject_code,year,session,paper_number,variant,question_number,label,point_numbe
 9702,2024,March,4,2,10,b(ii),1,delta lambda / lambda = v/c,1,C
 9702,2024,March,4,2,10,b(ii),2,703 nm,1,A
 9702,2024,March,4,2,10,b(iii),1,temperature too low,1,B
-9702,2024,Winter,4,2,1,a(i),1,v = r w,1,C
-9702,2024,Winter,4,2,1,a(i),2,120 m s^-1,1,A
-9702,2024,Winter,4,2,1,a(ii),1,a = r w^2,1,C
-9702,2024,Winter,4,2,1,a(ii),2,1.7 * 10^4 m s^-2,1,A
-9702,2024,Winter,4,2,1,b(i),1,direction of induced e.m.f. opposes change,1,M
-9702,2024,Winter,4,2,1,b(i),2,produce effects that oppose it,1,A
-9702,2024,Winter,4,2,1,b(ii),1,T = 2 pi / w = 0.045 s,1,A
-9702,2024,Winter,4,2,1,b(iii),1,Phi = B A,1,C
-9702,2024,Winter,4,2,1,b(iii),2,A = pi r^2,1,C
-9702,2024,Winter,4,2,1,b(iii),3,0.41 Wb,1,A
-9702,2024,Winter,4,2,2,a,1,force per unit mass,1,B
-9702,2024,Winter,4,2,2,b(i),1,g = GM/x^2,1,C
-9702,2024,Winter,4,2,2,b(i),2,6.14 * 10^-3 N kg^-1,1,A
-9702,2024,Winter,4,2,2,b(ii),1,EP = -GMm/x,1,C
-9702,2024,Winter,4,2,2,b(ii),2,-2.37 * 10^9 J,1,A
-9702,2024,Winter,4,2,2,c(i),1,F = L / 4 pi x^2,1,C
-9702,2024,Winter,4,2,2,c(i),2,x^2 = GM/g,1,M
-9702,2024,Winter,4,2,2,c(i),3,algebra leading to result,1,A
-9702,2024,Winter,4,2,2,c(ii),1,read-off substitution,1,C
-9702,2024,Winter,4,2,2,c(ii),2,3.8 * 10^26 W,1,A
-9702,2024,Winter,4,2,3,a,1,energy per unit mass to cause change of state,1,B
-9702,2024,Winter,4,2,3,a,2,at constant temperature,1,B
-9702,2024,Winter,4,2,3,b(i),1,W = p delta V,1,C
-9702,2024,Winter,4,2,3,b(i),2,1.7 kJ,1,A
-9702,2024,Winter,4,2,3,b(ii),1,delta U = Q + W,1,C
-9702,2024,Winter,4,2,3,b(ii),2,19.3 kJ,1,A
-9702,2024,Winter,4,2,3,c,1,fusion involves smaller volume change,1,B
-9702,2024,Winter,4,2,3,c,2,smaller change in internal energy,1,B
-9702,2024,Winter,4,2,3,c,3,negligible work done,1,B
-9702,2024,Winter,4,2,4,a,1,random motion,1,B
-9702,2024,Winter,4,2,4,a,2,elastic collisions,1,B
-9702,2024,Winter,4,2,4,a,3,no intermolecular forces,1,B
-9702,2024,Winter,4,2,4,b,1,momentum change during collision with wall,1,B
-9702,2024,Winter,4,2,4,b,2,force on wall by molecule,1,B
-9702,2024,Winter,4,2,4,b,3,many molecules exert force across area,1,B
-9702,2024,Winter,4,2,4,c,1,both are ideal,1,B
-9702,2024,Winter,4,2,4,c,2,mass comparison,1,B
-9702,2024,Winter,4,2,4,c,3,number of molecules comparison,1,B
-9702,2024,Winter,4,2,5,a,1,arrow left and down,1,B
-9702,2024,Winter,4,2,5,b(i),1,0.016 m,1,A
-9702,2024,Winter,4,2,5,b(ii),1,w = 2 pi / T,1,C
-9702,2024,Winter,4,2,5,b(ii),2,16 rad s^-1,1,A
-9702,2024,Winter,4,2,5,c,1,dome starting/ending on x-axis,1,B
-9702,2024,Winter,4,2,5,c,2,max EK 4.7 * 10^-3 J,1,B
-9702,2024,Winter,4,2,5,c,3,correct domain,1,B
-9702,2024,Winter,4,2,6,a,1,force proportional to product of charges,1,B
-9702,2024,Winter,4,2,6,a,2,inversely proportional to square of separation,1,B
-9702,2024,Winter,4,2,6,b,1,radial lines,1,B
-9702,2024,Winter,4,2,6,b,2,equally spaced,1,B
-9702,2024,Winter,4,2,6,b,3,arrows away,1,B
-9702,2024,Winter,4,2,6,c(i),1,3.2 cm,1,A
-9702,2024,Winter,4,2,7,a,1,charge / potential difference,1,M
-9702,2024,Winter,4,2,7,a,2,charge on one plate,1,A
-9702,2024,Winter,4,2,7,b(i),1,straight line,1,B
-9702,2024,Winter,4,2,7,c(i),1,final pd V/4,1,B
-9702,2024,Winter,4,2,7,c(i),2,total charge Q,1,B
-9702,2024,Winter,4,2,7,c(i),3,correct division,1,B
-9702,2024,Winter,4,2,8,b(ii),1,sinusoidal from origin,1,B
-9702,2024,Winter,4,2,8,b(ii),2,2 cycles,1,B
-9702,2024,Winter,4,2,8,b(ii),3,peak 3.5 A,1,B
-9702,2024,Winter,4,2,9,d(i),1,straight line through origin,1,B
-9702,2024,Winter,4,2,10,a(i),1,cannot predict when/which nucleus decays,1,B
-9702,2024,Winter,2,2,1,a,1,quantity with magnitude and direction,1,B
-9702,2024,Winter,2,2,1,b(i),1,SI base units of D: kg m s^-2,1,C
-9702,2024,Winter,2,2,1,b(i),2,"SI base units of r, v",1,C
-9702,2024,Winter,2,2,1,b(i),3,kg m^-1 s^-1,1,A
-9702,2024,Winter,2,2,1,b(ii),1,W = U + D,1,A
-9702,2024,Winter,2,2,1,b(iii),1,U = rho g V,1,C
-9702,2024,Winter,2,2,1,b(iii),2,0.36 N,1,A
-9702,2024,Winter,2,2,2,a,1,product of mass and velocity,1,B
-9702,2024,Winter,2,2,2,b,1,F = m delta v / delta t,1,C
-9702,2024,Winter,2,2,2,b,2,8.7 N,1,A
-9702,2024,Winter,2,2,2,c,1,x = ut + 1/2 at^2,1,C
-9702,2024,Winter,2,2,2,c,2,8.0 m,1,A
-9702,2024,Winter,2,2,2,d(i),1,F = W / s,1,C
-9702,2024,Winter,2,2,2,d(i),2,14 N,1,A
-9702,2024,Winter,2,2,2,d(ii),1,starting at distance 0 with non-zero KE,1,B
-9702,2024,Winter,2,2,2,d(ii),2,straight line from 0 to x with positive gradient,1,B
-9702,2024,Winter,2,2,2,d(ii),3,straight horizontal line from x to x+18,1,B
-9702,2024,Winter,2,2,3,a(i),1,E = stress / strain,1,C
-9702,2024,Winter,2,2,3,a(i),2,2.4 * 10^10 Pa,1,A
-9702,2024,Winter,2,2,3,a(ii),1,"cross at (1.0%, 24 * 10^7 Pa)",1,B
-9702,2024,Winter,2,2,3,b,1,resultant force is zero,1,B
-9702,2024,Winter,2,2,3,b,2,resultant torque is zero,1,B
-9702,2024,Winter,2,2,3,c(i),1,individual moments,1,C
-9702,2024,Winter,2,2,3,c(i),2,sum of moments equation,1,C
-9702,2024,Winter,2,2,3,c(i),3,46 N,1,A
-9702,2024,Winter,2,2,3,c(ii),1,sigma = F / A,1,C
-9702,2024,Winter,2,2,3,c(ii),2,9.9 * 10^-4 m,1,A
-9702,2024,Winter,2,2,3,c(iii),1,elastic limit not reached,1,M
-9702,2024,Winter,2,2,3,c(iii),2,behaves elastically,1,A
-9702,2024,Winter,2,2,4,a,1,longitudinal: parallel to energy transfer,1,B
-9702,2024,Winter,2,2,4,a,2,transverse: perpendicular to energy transfer,1,B
-9702,2024,Winter,2,2,4,b(i),1,A at open end,1,B
-9702,2024,Winter,2,2,4,b(ii),1,f = v / lambda,1,C
-9702,2024,Winter,2,2,4,b(ii),2,lambda = 4 * distance,1,C
-9702,2024,Winter,2,2,4,b(ii),3,1900 Hz,1,A
-9702,2024,Winter,2,2,4,b(iii),1,wavelength longer,1,M
-9702,2024,Winter,2,2,4,b(iii),2,frequency lower,1,A
-9702,2024,Winter,2,2,5,a,1,energy transferred per unit charge,1,B
-9702,2024,Winter,2,2,5,b(i),1,heater,1,A
-9702,2024,Winter,2,2,5,b(ii),1,V = 7.0 * 0.86 = 6.0 V,1,A
-9702,2024,Winter,2,2,5,b(iii),1,I = V/R,1,C
-9702,2024,Winter,2,2,5,b(iii),2,5.7 A,1,A
-9702,2024,Winter,2,2,5,b(iv),1,Kirchhoff voltage law,1,C
-9702,2024,Winter,2,2,5,b(iv),2,210 V,1,A
-9702,2024,Winter,2,2,5,b(v),1,P = IV,1,C
-9702,2024,Winter,2,2,5,b(v),2,1200 W,1,A
-9702,2024,Winter,2,2,5,b(vi),1,useful power / total power,1,C
-9702,2024,Winter,2,2,5,b(vi),2,75% or 74%,1,A
-9702,2024,Winter,2,2,5,b(vii),1,decreases,1,A
-9702,2024,Winter,2,2,6,a,1,mass of alpha much greater,1,B
-9702,2024,Winter,2,2,6,a,2,both positively charged,1,B
-9702,2024,Winter,2,2,6,a,3,charge on alpha is twice,1,B
-9702,2024,Winter,2,2,6,b(i),1,"cross at (82, 212) labelled Q",1,B
-9702,2024,Winter,2,2,6,b(ii),1,beta-minus / electron,1,B
-9702,2024,Winter,2,2,6,b(ii),2,antineutrino,1,B
-9702,2024,Winter,2,2,6,c(i),1,conservation of momentum component,1,C
-9702,2024,Winter,2,2,6,c(i),2,equation substitution,1,C
-9702,2024,Winter,2,2,6,c(i),3,25 degrees,1,A
-9702,2024,Winter,2,2,6,c(ii),1,E = 1/2 m v^2,1,C
-9702,2024,Winter,2,2,6,c(ii),2,7.5 * 10^-13 J,1,A
-9702,2024,Winter,1,2,1,NULL,1,C,1,A
-9702,2024,Winter,1,2,2,NULL,1,A,1,A
-9702,2024,Winter,1,2,3,NULL,1,D,1,A
-9702,2024,Winter,1,2,4,NULL,1,A,1,A
-9702,2024,Winter,1,2,5,NULL,1,B,1,A
-9702,2024,Winter,1,2,6,NULL,1,C,1,A
-9702,2024,Winter,1,2,7,NULL,1,C,1,A
-9702,2024,Winter,1,2,8,NULL,1,B,1,A
-9702,2024,Winter,1,2,9,NULL,1,D,1,A
-9702,2024,Winter,1,2,10,NULL,1,C,1,A
-9702,2024,Winter,1,2,11,NULL,1,D,1,A
-9702,2024,Winter,1,2,12,NULL,1,A,1,A
-9702,2024,Winter,1,2,13,NULL,1,C,1,A
-9702,2024,Winter,1,2,14,NULL,1,D,1,A
-9702,2024,Winter,1,2,15,NULL,1,D,1,A
-9702,2024,Winter,1,2,16,NULL,1,B,1,A
-9702,2024,Winter,1,2,17,NULL,1,C,1,A
-9702,2024,Winter,1,2,18,NULL,1,C,1,A
-9702,2024,Winter,1,2,19,NULL,1,A,1,A
-9702,2024,Winter,1,2,20,NULL,1,C,1,A
-9702,2024,Winter,1,2,21,NULL,1,B,1,A
-9702,2024,Winter,1,2,22,NULL,1,A,1,A
-9702,2024,Winter,1,2,23,NULL,1,C,1,A
-9702,2024,Winter,1,2,24,NULL,1,C,1,A
-9702,2024,Winter,1,2,25,NULL,1,C,1,A
-9702,2024,Winter,1,2,26,NULL,1,B,1,A
-9702,2024,Winter,1,2,27,NULL,1,D,1,A
-9702,2024,Winter,1,2,28,NULL,1,B,1,A
-9702,2024,Winter,1,2,29,NULL,1,B,1,A
-9702,2024,Winter,1,2,30,NULL,1,B,1,A
-9702,2024,Winter,1,2,31,NULL,1,A,1,A
-9702,2024,Winter,1,2,32,NULL,1,B,1,A
-9702,2024,Winter,1,2,33,NULL,1,A,1,A
-9702,2024,Winter,1,2,34,NULL,1,B,1,A
-9702,2024,Winter,1,2,35,NULL,1,B,1,A
-9702,2024,Winter,1,2,36,NULL,1,A,1,A
-9702,2024,Winter,1,2,37,NULL,1,D,1,A
-9702,2024,Winter,1,2,38,NULL,1,B,1,A
-9702,2024,Winter,1,2,39,NULL,1,D,1,A
-9702,2024,Winter,1,2,40,NULL,1,C,1,A
-9702,2024,Summer,1,2,1,NULL,1,C,1,A
-9702,2024,Summer,1,2,2,NULL,1,D,1,A
-9702,2024,Summer,1,2,3,NULL,1,A,1,A
-9702,2024,Summer,1,2,4,NULL,1,D,1,A
-9702,2024,Summer,1,2,5,NULL,1,B,1,A
-9702,2024,Summer,1,2,6,NULL,1,B,1,A
-9702,2024,Summer,1,2,7,NULL,1,C,1,A
-9702,2024,Summer,1,2,8,NULL,1,A,1,A
-9702,2024,Summer,1,2,9,NULL,1,C,1,A
-9702,2024,Summer,1,2,10,NULL,1,A,1,A
-9702,2024,Summer,1,2,11,NULL,1,B,1,A
-9702,2024,Summer,1,2,12,NULL,1,C,1,A
-9702,2024,Summer,1,2,13,NULL,1,D,1,A
-9702,2024,Summer,1,2,14,NULL,1,C,1,A
-9702,2024,Summer,1,2,15,NULL,1,D,1,A
-9702,2024,Summer,1,2,16,NULL,1,A,1,A
-9702,2024,Summer,1,2,17,NULL,1,B,1,A
-9702,2024,Summer,1,2,18,NULL,1,C,1,A
-9702,2024,Summer,1,2,19,NULL,1,C,1,A
-9702,2024,Summer,1,2,20,NULL,1,D,1,A
-9702,2024,Summer,1,2,21,NULL,1,C,1,A
-9702,2024,Summer,1,2,22,NULL,1,D,1,A
-9702,2024,Summer,1,2,23,NULL,1,B,1,A
-9702,2024,Summer,1,2,24,NULL,1,B,1,A
-9702,2024,Summer,1,2,25,NULL,1,C,1,A
-9702,2024,Summer,1,2,26,NULL,1,A,1,A
-9702,2024,Summer,1,2,27,NULL,1,D,1,A
-9702,2024,Summer,1,2,28,NULL,1,D,1,A
-9702,2024,Summer,1,2,29,NULL,1,A,1,A
-9702,2024,Summer,1,2,30,NULL,1,C,1,A
-9702,2024,Summer,1,2,31,NULL,1,D,1,A
-9702,2024,Summer,1,2,32,NULL,1,C,1,A
-9702,2024,Summer,1,2,33,NULL,1,B,1,A
-9702,2024,Summer,1,2,34,NULL,1,A,1,A
-9702,2024,Summer,1,2,35,NULL,1,D,1,A
-9702,2024,Summer,1,2,36,NULL,1,A,1,A
-9702,2024,Summer,1,2,37,NULL,1,B,1,A
-9702,2024,Summer,1,2,38,NULL,1,D,1,A
-9702,2024,Summer,1,2,39,NULL,1,C,1,A
-9702,2024,Summer,1,2,40,NULL,1,C,1,A
-9702,2024,Summer,2,2,1,a,1,charge underlined (and no others),1,B
-9702,2024,Summer,2,2,1,b(i),1,I = P / A,1,C
-9702,2024,Summer,2,2,1,b(i),2,substitution with area conversion,1,C
-9702,2024,Summer,2,2,1,b(i),3,440 W m^-2,1,A
-9702,2024,Summer,2,2,1,b(ii),1,3 + 2 * (5/1300) * 100,1,C
-9702,2024,Summer,2,2,1,b(ii),2,4%,1,A
-9702,2024,Summer,2,2,2,a(i),1,39 m s^-1,1,A
-9702,2024,Summer,2,2,2,a(ii),1,tangent gradient,1,C
-9702,2024,Summer,2,2,2,a(ii),2,1.0 m s^-2,1,A
-9702,2024,Summer,2,2,2,b,1,Net Force = mg - F_up,1,C
-9702,2024,Summer,2,2,2,b,2,17 m s^-2,1,A
-9702,2024,Summer,2,2,2,b,3,upwards,1,B
-9702,2024,Summer,2,2,3,a,1,Q = It,1,C
-9702,2024,Summer,2,2,3,a,2,0.86 C,1,A
-9702,2024,Summer,2,2,3,b,1,P = IV,1,C
-9702,2024,Summer,2,2,3,b,2,990 GW,1,A
-9702,2024,Summer,2,2,3,c(i),1,R = rho L / A,1,C
-9702,2024,Summer,2,2,3,c(i),2,A = pi r^2,1,C
-9702,2024,Summer,2,2,3,c(i),3,2.3 * 10^-4 m,1,A
-9702,2024,Summer,2,2,3,d,1,E = stress / strain,1,C
-9702,2024,Summer,2,2,3,d,2,substitutions,1,C
-9702,2024,Summer,2,2,3,d,3,1.8 * 10^-6 m,1,A
-9702,2024,Summer,2,2,4,a,1,E = 1/2 k x^2,1,C
-9702,2024,Summer,2,2,4,a,2,0.093 J,1,A
-9702,2024,Summer,2,2,4,b(i),1,GPE = mgh,1,C
-9702,2024,Summer,2,2,4,b(i),2,h = L sin theta,1,C
-9702,2024,Summer,2,2,4,b(i),3,0.0091 J,1,A
-9702,2024,Summer,2,2,4,b(ii),1,EK = EE - delta GPE,1,C
-9702,2024,Summer,2,2,4,b(ii),2,EK = 1/2 m v^2,1,C
-9702,2024,Summer,2,2,4,b(ii),3,1.9 m s^-1,1,A
-9702,2024,Summer,2,2,4,c(i),1,F * x = mg * d,1,C
-9702,2024,Summer,2,2,4,c(i),2,moment equation,1,C
-9702,2024,Summer,2,2,4,c(i),3,0.077 m,1,A
-9702,2024,Summer,2,2,5,a,1,sum of emf = sum of pd in closed loop,1,B
-9702,2024,Summer,2,2,5,b(i),1,R = V / I,1,C
-9702,2024,Summer,2,2,5,b(i),2,450 Ohm,1,A
-9702,2024,Summer,2,2,6,a,1,n lambda = d sin theta,1,C
-9702,2024,Summer,2,2,6,a,2,n = 7.3 for 90 degrees,1,C
-9702,2024,Summer,2,2,6,a,3,15 fringes,1,A
-9702,2024,Summer,2,2,7,a,1,meson or hadron,1,B
-9702,2024,Summer,2,2,7,b,1,Q: anti-up / anti-charm,1,B
-9702,2024,Summer,2,2,7,b,2,R: up / charm,1,B
-9702,2024,Summer,4,2,1,a,1,angle when arc = radius,1,B
-9702,2024,Summer,4,2,1,b(i),1,arrow V pointing NE,1,B
-9702,2024,Summer,4,2,1,b(ii),1,arrow A pointing NW,1,B
-9702,2024,Summer,4,2,1,c(i),1,v = r w,1,C
-9702,2024,Summer,4,2,1,c(i),2,8.4 rad s^-1,1,A
-9702,2024,Summer,4,2,1,d,1,angular speed: same,1,B
-9702,2024,Summer,4,2,1,d,2,linear speed: less,1,B
-9702,2024,Summer,4,2,1,d,3,acceleration: less,1,B
-9702,2024,Summer,4,2,2,a,1,no net transfer of energy,1,B
-9702,2024,Summer,4,2,2,b(i),1,pV = nRT substitution,1,M1
-9702,2024,Summer,4,2,2,b(i),2,234 degrees C,1,A1
-9702,2024,Summer,4,2,4,a,1,straight line through origin (a proportional to x),1,B
-9702,2024,Summer,4,2,4,a,2,negative gradient (opposite directions),1,B
-9702,2024,Summer,4,2,5,a,1,work done per unit charge,1,B
-9702,2024,Summer,4,2,5,a,2,from infinity to the point,1,B
-9702,2024,Summer,4,2,5,b,1,"Radius X = 0.30 m, Radius Y = 0.10 m",1,B
-9702,2024,Summer,4,2,5,b,2,Both charges are positive,1,B
-9702,2024,Summer,4,2,5,b,3,Charge magnitudes are equal,1,B
-9702,2024,Summer,4,2,6,a,1,equal charge Q,1,B
-9702,2024,Summer,4,2,6,a,2,VX + VY = V,1,M1
-9702,2024,Summer,4,2,6,a,3,final derivation,1,A
-9702,2024,Summer,4,2,6,b(iii),1,positive gradient starts at 2.5,1,B
-9702,2024,Summer,4,2,6,b(iii),2,"passes through (400, 7.5)",1,B
-9702,2024,Summer,4,2,7,a,1,emf proportional to rate of change,1,M1
-9702,2024,Summer,4,2,7,a,2,of magnetic flux linkage,1,A1
-9702,2024,Summer,4,2,8,a(i),1,movement causes redshift,1,B
-9702,2024,Summer,4,2,8,a(i),2,observed frequency lower,1,B
-9702,2024,Summer,4,2,9,c(i),1,rising to peak left of 90,1,B
-9702,2024,Summer,4,2,9,c(i),2,steep positive then shallow negative,1,B
-9702,2024,Summer,4,3,1,a,1,work done per unit mass,1,B
-9702,2024,Summer,4,3,1,a,2,moving mass from infinity to the point,1,B
-9702,2024,Summer,4,3,2,a(i),1,0 K,1,B
-9702,2024,Summer,4,3,3,c,1,straight line positive gradient,1,B
-9702,2024,Summer,4,3,3,c,2,passing through origin,1,B
-9702,2024,Summer,4,3,4,c,1,maximum at non-zero frequency,1,B
-9702,2024,Summer,4,3,4,c,2,peak at 4.0 Hz,1,B
-9702,2024,Summer,4,3,5,b(i),1,straight vertical lines,1,B
-9702,2024,Summer,4,3,7,b(ii),1,sinusoidal minima on axis,1,B
-9702,2024,Summer,4,3,7,b(ii),2,correct frequency/phase,1,B
-9702,2024,Summer,4,3,7,b(ii),3,all maxima at 0.22 W,1,B
-9702,2024,Summer,2,3,1,a,1,kg m s^-2 for F,1,C
-9702,2024,Summer,2,3,1,a,2,kg m^-1 s^-1,1,A
-9702,2024,Summer,2,3,1,c,1,arrow downwards (weight),1,B
-9702,2024,Summer,2,3,1,c,2,arrows upwards (upthrust and drag),1,B
-9702,2024,Summer,2,3,2,b(i),1,4.3 m,1,A
-9702,2024,Summer,2,3,3,b(i),1,"P at (60, 5.4)",1,A
-9702,2024,Summer,2,3,3,b(ii),1,"E at (80, 5.9)",1,A
-9702,2024,Summer,2,3,4,b,1,arrow pointing vertically downwards,1,A
-9702,2024,Summer,2,3,4,d,1,displacement is sum of displacements,1,B
-9702,2024,Summer,1,3,1,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,2,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,3,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,3,4,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,5,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,6,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,7,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,8,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,9,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,10,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,11,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,12,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,13,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,14,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,15,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,16,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,17,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,18,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,3,19,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,3,20,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,3,21,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,22,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,23,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,24,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,25,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,26,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,3,27,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,28,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,29,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,30,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,31,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,32,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,33,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,3,34,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,35,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,36,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,3,37,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,3,38,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,39,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,3,40,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,1,1,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,2,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,3,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,1,4,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,5,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,6,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,7,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,8,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,9,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,10,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,11,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,12,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,13,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,1,14,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,15,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,16,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,17,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,18,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,1,19,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,20,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,21,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,22,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,23,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,24,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,25,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,26,NULL,1,Correct Option: A,1,B
-9702,2024,Summer,1,1,27,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,28,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,29,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,30,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,31,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,32,NULL,1,Correct Option: D,1,B
-9702,2024,Summer,1,1,33,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,34,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,35,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,36,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,37,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,38,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,1,1,39,NULL,1,Correct Option: B,1,B
-9702,2024,Summer,1,1,40,NULL,1,Correct Option: C,1,B
-9702,2024,Summer,4,1,1,a,1,work done per unit mass,1,B
-9702,2024,Summer,4,1,1,a,2,work done moving mass from infinity (to the point),1,B
-9702,2024,Summer,4,1,4,a,1,oscillation (of object) at maximum amplitude,1,B
-9702,2024,Summer,4,1,4,a,2,when driving frequency = natural frequency,1,B
-9702,2024,Winter,4,1,1,a,1,force proportional to product of masses,1,B
-9702,2024,Winter,4,1,1,a,2,force inversely proportional to square of separation,1,B
-9702,2024,Winter,4,1,2,a,1,thermal energy per unit mass,1,B
-9702,2024,Winter,4,1,2,a,2,energy per unit change in temperature,1,B
-9702,2024,Winter,4,1,4,a,1,acceleration proportional to displacement,1,B
-9702,2024,Winter,4,1,4,a,2,acceleration opposite to displacement,1,B
-9702,2024,Winter,1,1,1,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,2,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,3,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,4,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,5,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,6,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,7,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,8,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,9,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,10,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,11,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,12,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,13,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,14,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,15,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,16,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,17,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,18,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,19,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,20,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,21,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,22,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,23,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,24,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,25,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,26,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,27,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,28,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,29,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,30,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,31,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,32,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,1,33,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,34,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,35,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,1,36,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,37,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,1,38,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,39,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,1,40,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,2,1,1,a,1,mass per unit volume,1,B
-9702,2024,Winter,2,1,2,a,1,product of mass and velocity,1,B
-9702,2024,Winter,2,1,3,a,1,product of force and displacement in direction of force,1,B
-9702,2024,Winter,2,1,4,a,1,stress per unit strain,1,B
-9702,2024,Winter,1,3,1,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,2,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,3,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,4,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,5,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,6,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,7,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,8,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,9,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,10,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,11,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,12,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,13,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,14,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,15,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,16,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,17,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,18,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,19,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,20,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,21,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,22,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,23,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,24,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,25,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,26,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,27,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,28,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,29,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,30,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,31,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,32,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,33,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,34,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,35,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,36,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,1,3,37,NULL,1,Correct Option: C,1,B
-9702,2024,Winter,1,3,38,NULL,1,Correct Option: B,1,B
-9702,2024,Winter,1,3,39,NULL,1,Correct Option: A,1,B
-9702,2024,Winter,1,3,40,NULL,1,Correct Option: D,1,B
-9702,2024,Winter,4,3,1,a,1,force proportional to product of masses,1,B
-9702,2024,Winter,4,3,1,a,2,force inversely proportional to square of separation,1,B
-9702,2024,Winter,4,3,2,a,1,thermal energy per unit mass,1,B
-9702,2024,Winter,4,3,2,a,2,energy per unit change in temperature,1,B
-9702,2024,Winter,4,3,4,a,1,acceleration proportional to displacement,1,B
-9702,2024,Winter,4,3,4,a,2,acceleration opposite to displacement,1,B
-9702,2024,Winter,2,3,1,a,1,rate of change of velocity,1,B
-9702,2024,Winter,2,3,2,a,1,total momentum constant,1,M1
-9702,2024,Winter,2,3,2,a,2,for an isolated system,1,A1
-9702,2024,Winter,2,3,3,a,1,sum of clockwise moments equals sum of anticlockwise moments about same point,1,B1
-9702,2024,Winter,2,3,6,a,1,potential difference per unit current,1,B1
-9702,2025,Winter,1,1,1,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,2,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,3,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,4,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,5,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,6,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,7,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,8,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,9,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,10,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,11,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,12,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,13,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,14,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,15,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,16,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,17,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,18,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,19,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,20,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,21,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,22,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,23,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,24,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,25,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,26,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,1,27,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,28,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,29,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,30,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,31,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,32,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,33,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,34,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,35,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,36,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,1,37,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,1,38,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,39,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,1,40,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,1,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,2,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,3,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,4,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,5,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,6,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,7,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,8,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,9,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,10,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,11,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,12,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,13,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,14,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,15,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,16,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,17,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,18,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,19,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,20,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,21,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,22,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,23,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,24,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,25,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,26,NULL,1,Correct Option: B,1,B
-9702,2025,Winter,1,3,27,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,28,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,29,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,30,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,31,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,32,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,33,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,34,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,35,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,36,NULL,1,Correct Option: D,1,B
-9702,2025,Winter,1,3,37,NULL,1,Correct Option: C,1,B
-9702,2025,Winter,1,3,38,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,39,NULL,1,Correct Option: A,1,B
-9702,2025,Winter,1,3,40,NULL,1,Correct Option: B,1,B
+9702,2024,November,4,2,1,a(i),1,v = r w,1,C
+9702,2024,November,4,2,1,a(i),2,120 m s^-1,1,A
+9702,2024,November,4,2,1,a(ii),1,a = r w^2,1,C
+9702,2024,November,4,2,1,a(ii),2,1.7 * 10^4 m s^-2,1,A
+9702,2024,November,4,2,1,b(i),1,direction of induced e.m.f. opposes change,1,M
+9702,2024,November,4,2,1,b(i),2,produce effects that oppose it,1,A
+9702,2024,November,4,2,1,b(ii),1,T = 2 pi / w = 0.045 s,1,A
+9702,2024,November,4,2,1,b(iii),1,Phi = B A,1,C
+9702,2024,November,4,2,1,b(iii),2,A = pi r^2,1,C
+9702,2024,November,4,2,1,b(iii),3,0.41 Wb,1,A
+9702,2024,November,4,2,2,a,1,force per unit mass,1,B
+9702,2024,November,4,2,2,b(i),1,g = GM/x^2,1,C
+9702,2024,November,4,2,2,b(i),2,6.14 * 10^-3 N kg^-1,1,A
+9702,2024,November,4,2,2,b(ii),1,EP = -GMm/x,1,C
+9702,2024,November,4,2,2,b(ii),2,-2.37 * 10^9 J,1,A
+9702,2024,November,4,2,2,c(i),1,F = L / 4 pi x^2,1,C
+9702,2024,November,4,2,2,c(i),2,x^2 = GM/g,1,M
+9702,2024,November,4,2,2,c(i),3,algebra leading to result,1,A
+9702,2024,November,4,2,2,c(ii),1,read-off substitution,1,C
+9702,2024,November,4,2,2,c(ii),2,3.8 * 10^26 W,1,A
+9702,2024,November,4,2,3,a,1,energy per unit mass to cause change of state,1,B
+9702,2024,November,4,2,3,a,2,at constant temperature,1,B
+9702,2024,November,4,2,3,b(i),1,W = p delta V,1,C
+9702,2024,November,4,2,3,b(i),2,1.7 kJ,1,A
+9702,2024,November,4,2,3,b(ii),1,delta U = Q + W,1,C
+9702,2024,November,4,2,3,b(ii),2,19.3 kJ,1,A
+9702,2024,November,4,2,3,c,1,fusion involves smaller volume change,1,B
+9702,2024,November,4,2,3,c,2,smaller change in internal energy,1,B
+9702,2024,November,4,2,3,c,3,negligible work done,1,B
+9702,2024,November,4,2,4,a,1,random motion,1,B
+9702,2024,November,4,2,4,a,2,elastic collisions,1,B
+9702,2024,November,4,2,4,a,3,no intermolecular forces,1,B
+9702,2024,November,4,2,4,b,1,momentum change during collision with wall,1,B
+9702,2024,November,4,2,4,b,2,force on wall by molecule,1,B
+9702,2024,November,4,2,4,b,3,many molecules exert force across area,1,B
+9702,2024,November,4,2,4,c,1,both are ideal,1,B
+9702,2024,November,4,2,4,c,2,mass comparison,1,B
+9702,2024,November,4,2,4,c,3,number of molecules comparison,1,B
+9702,2024,November,4,2,5,a,1,arrow left and down,1,B
+9702,2024,November,4,2,5,b(i),1,0.016 m,1,A
+9702,2024,November,4,2,5,b(ii),1,w = 2 pi / T,1,C
+9702,2024,November,4,2,5,b(ii),2,16 rad s^-1,1,A
+9702,2024,November,4,2,5,c,1,dome starting/ending on x-axis,1,B
+9702,2024,November,4,2,5,c,2,max EK 4.7 * 10^-3 J,1,B
+9702,2024,November,4,2,5,c,3,correct domain,1,B
+9702,2024,November,4,2,6,a,1,force proportional to product of charges,1,B
+9702,2024,November,4,2,6,a,2,inversely proportional to square of separation,1,B
+9702,2024,November,4,2,6,b,1,radial lines,1,B
+9702,2024,November,4,2,6,b,2,equally spaced,1,B
+9702,2024,November,4,2,6,b,3,arrows away,1,B
+9702,2024,November,4,2,6,c(i),1,3.2 cm,1,A
+9702,2024,November,4,2,7,a,1,charge / potential difference,1,M
+9702,2024,November,4,2,7,a,2,charge on one plate,1,A
+9702,2024,November,4,2,7,b(i),1,straight line,1,B
+9702,2024,November,4,2,7,c(i),1,final pd V/4,1,B
+9702,2024,November,4,2,7,c(i),2,total charge Q,1,B
+9702,2024,November,4,2,7,c(i),3,correct division,1,B
+9702,2024,November,4,2,8,b(ii),1,sinusoidal from origin,1,B
+9702,2024,November,4,2,8,b(ii),2,2 cycles,1,B
+9702,2024,November,4,2,8,b(ii),3,peak 3.5 A,1,B
+9702,2024,November,4,2,9,d(i),1,straight line through origin,1,B
+9702,2024,November,4,2,10,a(i),1,cannot predict when/which nucleus decays,1,B
+9702,2024,November,2,2,1,a,1,quantity with magnitude and direction,1,B
+9702,2024,November,2,2,1,b(i),1,SI base units of D: kg m s^-2,1,C
+9702,2024,November,2,2,1,b(i),2,"SI base units of r, v",1,C
+9702,2024,November,2,2,1,b(i),3,kg m^-1 s^-1,1,A
+9702,2024,November,2,2,1,b(ii),1,W = U + D,1,A
+9702,2024,November,2,2,1,b(iii),1,U = rho g V,1,C
+9702,2024,November,2,2,1,b(iii),2,0.36 N,1,A
+9702,2024,November,2,2,2,a,1,product of mass and velocity,1,B
+9702,2024,November,2,2,2,b,1,F = m delta v / delta t,1,C
+9702,2024,November,2,2,2,b,2,8.7 N,1,A
+9702,2024,November,2,2,2,c,1,x = ut + 1/2 at^2,1,C
+9702,2024,November,2,2,2,c,2,8.0 m,1,A
+9702,2024,November,2,2,2,d(i),1,F = W / s,1,C
+9702,2024,November,2,2,2,d(i),2,14 N,1,A
+9702,2024,November,2,2,2,d(ii),1,starting at distance 0 with non-zero KE,1,B
+9702,2024,November,2,2,2,d(ii),2,straight line from 0 to x with positive gradient,1,B
+9702,2024,November,2,2,2,d(ii),3,straight horizontal line from x to x+18,1,B
+9702,2024,November,2,2,3,a(i),1,E = stress / strain,1,C
+9702,2024,November,2,2,3,a(i),2,2.4 * 10^10 Pa,1,A
+9702,2024,November,2,2,3,a(ii),1,"cross at (1.0%, 24 * 10^7 Pa)",1,B
+9702,2024,November,2,2,3,b,1,resultant force is zero,1,B
+9702,2024,November,2,2,3,b,2,resultant torque is zero,1,B
+9702,2024,November,2,2,3,c(i),1,individual moments,1,C
+9702,2024,November,2,2,3,c(i),2,sum of moments equation,1,C
+9702,2024,November,2,2,3,c(i),3,46 N,1,A
+9702,2024,November,2,2,3,c(ii),1,sigma = F / A,1,C
+9702,2024,November,2,2,3,c(ii),2,9.9 * 10^-4 m,1,A
+9702,2024,November,2,2,3,c(iii),1,elastic limit not reached,1,M
+9702,2024,November,2,2,3,c(iii),2,behaves elastically,1,A
+9702,2024,November,2,2,4,a,1,longitudinal: parallel to energy transfer,1,B
+9702,2024,November,2,2,4,a,2,transverse: perpendicular to energy transfer,1,B
+9702,2024,November,2,2,4,b(i),1,A at open end,1,B
+9702,2024,November,2,2,4,b(ii),1,f = v / lambda,1,C
+9702,2024,November,2,2,4,b(ii),2,lambda = 4 * distance,1,C
+9702,2024,November,2,2,4,b(ii),3,1900 Hz,1,A
+9702,2024,November,2,2,4,b(iii),1,wavelength longer,1,M
+9702,2024,November,2,2,4,b(iii),2,frequency lower,1,A
+9702,2024,November,2,2,5,a,1,energy transferred per unit charge,1,B
+9702,2024,November,2,2,5,b(i),1,heater,1,A
+9702,2024,November,2,2,5,b(ii),1,V = 7.0 * 0.86 = 6.0 V,1,A
+9702,2024,November,2,2,5,b(iii),1,I = V/R,1,C
+9702,2024,November,2,2,5,b(iii),2,5.7 A,1,A
+9702,2024,November,2,2,5,b(iv),1,Kirchhoff voltage law,1,C
+9702,2024,November,2,2,5,b(iv),2,210 V,1,A
+9702,2024,November,2,2,5,b(v),1,P = IV,1,C
+9702,2024,November,2,2,5,b(v),2,1200 W,1,A
+9702,2024,November,2,2,5,b(vi),1,useful power / total power,1,C
+9702,2024,November,2,2,5,b(vi),2,75% or 74%,1,A
+9702,2024,November,2,2,5,b(vii),1,decreases,1,A
+9702,2024,November,2,2,6,a,1,mass of alpha much greater,1,B
+9702,2024,November,2,2,6,a,2,both positively charged,1,B
+9702,2024,November,2,2,6,a,3,charge on alpha is twice,1,B
+9702,2024,November,2,2,6,b(i),1,"cross at (82, 212) labelled Q",1,B
+9702,2024,November,2,2,6,b(ii),1,beta-minus / electron,1,B
+9702,2024,November,2,2,6,b(ii),2,antineutrino,1,B
+9702,2024,November,2,2,6,c(i),1,conservation of momentum component,1,C
+9702,2024,November,2,2,6,c(i),2,equation substitution,1,C
+9702,2024,November,2,2,6,c(i),3,25 degrees,1,A
+9702,2024,November,2,2,6,c(ii),1,E = 1/2 m v^2,1,C
+9702,2024,November,2,2,6,c(ii),2,7.5 * 10^-13 J,1,A
+9702,2024,November,1,2,1,NULL,1,C,1,A
+9702,2024,November,1,2,2,NULL,1,A,1,A
+9702,2024,November,1,2,3,NULL,1,D,1,A
+9702,2024,November,1,2,4,NULL,1,A,1,A
+9702,2024,November,1,2,5,NULL,1,B,1,A
+9702,2024,November,1,2,6,NULL,1,C,1,A
+9702,2024,November,1,2,7,NULL,1,C,1,A
+9702,2024,November,1,2,8,NULL,1,B,1,A
+9702,2024,November,1,2,9,NULL,1,D,1,A
+9702,2024,November,1,2,10,NULL,1,C,1,A
+9702,2024,November,1,2,11,NULL,1,D,1,A
+9702,2024,November,1,2,12,NULL,1,A,1,A
+9702,2024,November,1,2,13,NULL,1,C,1,A
+9702,2024,November,1,2,14,NULL,1,D,1,A
+9702,2024,November,1,2,15,NULL,1,D,1,A
+9702,2024,November,1,2,16,NULL,1,B,1,A
+9702,2024,November,1,2,17,NULL,1,C,1,A
+9702,2024,November,1,2,18,NULL,1,C,1,A
+9702,2024,November,1,2,19,NULL,1,A,1,A
+9702,2024,November,1,2,20,NULL,1,C,1,A
+9702,2024,November,1,2,21,NULL,1,B,1,A
+9702,2024,November,1,2,22,NULL,1,A,1,A
+9702,2024,November,1,2,23,NULL,1,C,1,A
+9702,2024,November,1,2,24,NULL,1,C,1,A
+9702,2024,November,1,2,25,NULL,1,C,1,A
+9702,2024,November,1,2,26,NULL,1,B,1,A
+9702,2024,November,1,2,27,NULL,1,D,1,A
+9702,2024,November,1,2,28,NULL,1,B,1,A
+9702,2024,November,1,2,29,NULL,1,B,1,A
+9702,2024,November,1,2,30,NULL,1,B,1,A
+9702,2024,November,1,2,31,NULL,1,A,1,A
+9702,2024,November,1,2,32,NULL,1,B,1,A
+9702,2024,November,1,2,33,NULL,1,A,1,A
+9702,2024,November,1,2,34,NULL,1,B,1,A
+9702,2024,November,1,2,35,NULL,1,B,1,A
+9702,2024,November,1,2,36,NULL,1,A,1,A
+9702,2024,November,1,2,37,NULL,1,D,1,A
+9702,2024,November,1,2,38,NULL,1,B,1,A
+9702,2024,November,1,2,39,NULL,1,D,1,A
+9702,2024,November,1,2,40,NULL,1,C,1,A
+9702,2024,June,1,2,1,NULL,1,C,1,A
+9702,2024,June,1,2,2,NULL,1,D,1,A
+9702,2024,June,1,2,3,NULL,1,A,1,A
+9702,2024,June,1,2,4,NULL,1,D,1,A
+9702,2024,June,1,2,5,NULL,1,B,1,A
+9702,2024,June,1,2,6,NULL,1,B,1,A
+9702,2024,June,1,2,7,NULL,1,C,1,A
+9702,2024,June,1,2,8,NULL,1,A,1,A
+9702,2024,June,1,2,9,NULL,1,C,1,A
+9702,2024,June,1,2,10,NULL,1,A,1,A
+9702,2024,June,1,2,11,NULL,1,B,1,A
+9702,2024,June,1,2,12,NULL,1,C,1,A
+9702,2024,June,1,2,13,NULL,1,D,1,A
+9702,2024,June,1,2,14,NULL,1,C,1,A
+9702,2024,June,1,2,15,NULL,1,D,1,A
+9702,2024,June,1,2,16,NULL,1,A,1,A
+9702,2024,June,1,2,17,NULL,1,B,1,A
+9702,2024,June,1,2,18,NULL,1,C,1,A
+9702,2024,June,1,2,19,NULL,1,C,1,A
+9702,2024,June,1,2,20,NULL,1,D,1,A
+9702,2024,June,1,2,21,NULL,1,C,1,A
+9702,2024,June,1,2,22,NULL,1,D,1,A
+9702,2024,June,1,2,23,NULL,1,B,1,A
+9702,2024,June,1,2,24,NULL,1,B,1,A
+9702,2024,June,1,2,25,NULL,1,C,1,A
+9702,2024,June,1,2,26,NULL,1,A,1,A
+9702,2024,June,1,2,27,NULL,1,D,1,A
+9702,2024,June,1,2,28,NULL,1,D,1,A
+9702,2024,June,1,2,29,NULL,1,A,1,A
+9702,2024,June,1,2,30,NULL,1,C,1,A
+9702,2024,June,1,2,31,NULL,1,D,1,A
+9702,2024,June,1,2,32,NULL,1,C,1,A
+9702,2024,June,1,2,33,NULL,1,B,1,A
+9702,2024,June,1,2,34,NULL,1,A,1,A
+9702,2024,June,1,2,35,NULL,1,D,1,A
+9702,2024,June,1,2,36,NULL,1,A,1,A
+9702,2024,June,1,2,37,NULL,1,B,1,A
+9702,2024,June,1,2,38,NULL,1,D,1,A
+9702,2024,June,1,2,39,NULL,1,C,1,A
+9702,2024,June,1,2,40,NULL,1,C,1,A
+9702,2024,June,2,2,1,a,1,charge underlined (and no others),1,B
+9702,2024,June,2,2,1,b(i),1,I = P / A,1,C
+9702,2024,June,2,2,1,b(i),2,substitution with area conversion,1,C
+9702,2024,June,2,2,1,b(i),3,440 W m^-2,1,A
+9702,2024,June,2,2,1,b(ii),1,3 + 2 * (5/1300) * 100,1,C
+9702,2024,June,2,2,1,b(ii),2,4%,1,A
+9702,2024,June,2,2,2,a(i),1,39 m s^-1,1,A
+9702,2024,June,2,2,2,a(ii),1,tangent gradient,1,C
+9702,2024,June,2,2,2,a(ii),2,1.0 m s^-2,1,A
+9702,2024,June,2,2,2,b,1,Net Force = mg - F_up,1,C
+9702,2024,June,2,2,2,b,2,17 m s^-2,1,A
+9702,2024,June,2,2,2,b,3,upwards,1,B
+9702,2024,June,2,2,3,a,1,Q = It,1,C
+9702,2024,June,2,2,3,a,2,0.86 C,1,A
+9702,2024,June,2,2,3,b,1,P = IV,1,C
+9702,2024,June,2,2,3,b,2,990 GW,1,A
+9702,2024,June,2,2,3,c(i),1,R = rho L / A,1,C
+9702,2024,June,2,2,3,c(i),2,A = pi r^2,1,C
+9702,2024,June,2,2,3,c(i),3,2.3 * 10^-4 m,1,A
+9702,2024,June,2,2,3,d,1,E = stress / strain,1,C
+9702,2024,June,2,2,3,d,2,substitutions,1,C
+9702,2024,June,2,2,3,d,3,1.8 * 10^-6 m,1,A
+9702,2024,June,2,2,4,a,1,E = 1/2 k x^2,1,C
+9702,2024,June,2,2,4,a,2,0.093 J,1,A
+9702,2024,June,2,2,4,b(i),1,GPE = mgh,1,C
+9702,2024,June,2,2,4,b(i),2,h = L sin theta,1,C
+9702,2024,June,2,2,4,b(i),3,0.0091 J,1,A
+9702,2024,June,2,2,4,b(ii),1,EK = EE - delta GPE,1,C
+9702,2024,June,2,2,4,b(ii),2,EK = 1/2 m v^2,1,C
+9702,2024,June,2,2,4,b(ii),3,1.9 m s^-1,1,A
+9702,2024,June,2,2,4,c(i),1,F * x = mg * d,1,C
+9702,2024,June,2,2,4,c(i),2,moment equation,1,C
+9702,2024,June,2,2,4,c(i),3,0.077 m,1,A
+9702,2024,June,2,2,5,a,1,sum of emf = sum of pd in closed loop,1,B
+9702,2024,June,2,2,5,b(i),1,R = V / I,1,C
+9702,2024,June,2,2,5,b(i),2,450 Ohm,1,A
+9702,2024,June,2,2,6,a,1,n lambda = d sin theta,1,C
+9702,2024,June,2,2,6,a,2,n = 7.3 for 90 degrees,1,C
+9702,2024,June,2,2,6,a,3,15 fringes,1,A
+9702,2024,June,2,2,7,a,1,meson or hadron,1,B
+9702,2024,June,2,2,7,b,1,Q: anti-up / anti-charm,1,B
+9702,2024,June,2,2,7,b,2,R: up / charm,1,B
+9702,2024,June,4,2,1,a,1,angle when arc = radius,1,B
+9702,2024,June,4,2,1,b(i),1,arrow V pointing NE,1,B
+9702,2024,June,4,2,1,b(ii),1,arrow A pointing NW,1,B
+9702,2024,June,4,2,1,c(i),1,v = r w,1,C
+9702,2024,June,4,2,1,c(i),2,8.4 rad s^-1,1,A
+9702,2024,June,4,2,1,d,1,angular speed: same,1,B
+9702,2024,June,4,2,1,d,2,linear speed: less,1,B
+9702,2024,June,4,2,1,d,3,acceleration: less,1,B
+9702,2024,June,4,2,2,a,1,no net transfer of energy,1,B
+9702,2024,June,4,2,2,b(i),1,pV = nRT substitution,1,M1
+9702,2024,June,4,2,2,b(i),2,234 degrees C,1,A1
+9702,2024,June,4,2,4,a,1,straight line through origin (a proportional to x),1,B
+9702,2024,June,4,2,4,a,2,negative gradient (opposite directions),1,B
+9702,2024,June,4,2,5,a,1,work done per unit charge,1,B
+9702,2024,June,4,2,5,a,2,from infinity to the point,1,B
+9702,2024,June,4,2,5,b,1,"Radius X = 0.30 m, Radius Y = 0.10 m",1,B
+9702,2024,June,4,2,5,b,2,Both charges are positive,1,B
+9702,2024,June,4,2,5,b,3,Charge magnitudes are equal,1,B
+9702,2024,June,4,2,6,a,1,equal charge Q,1,B
+9702,2024,June,4,2,6,a,2,VX + VY = V,1,M1
+9702,2024,June,4,2,6,a,3,final derivation,1,A
+9702,2024,June,4,2,6,b(iii),1,positive gradient starts at 2.5,1,B
+9702,2024,June,4,2,6,b(iii),2,"passes through (400, 7.5)",1,B
+9702,2024,June,4,2,7,a,1,emf proportional to rate of change,1,M1
+9702,2024,June,4,2,7,a,2,of magnetic flux linkage,1,A1
+9702,2024,June,4,2,8,a(i),1,movement causes redshift,1,B
+9702,2024,June,4,2,8,a(i),2,observed frequency lower,1,B
+9702,2024,June,4,2,9,c(i),1,rising to peak left of 90,1,B
+9702,2024,June,4,2,9,c(i),2,steep positive then shallow negative,1,B
+9702,2024,June,4,3,1,a,1,work done per unit mass,1,B
+9702,2024,June,4,3,1,a,2,moving mass from infinity to the point,1,B
+9702,2024,June,4,3,2,a(i),1,0 K,1,B
+9702,2024,June,4,3,3,c,1,straight line positive gradient,1,B
+9702,2024,June,4,3,3,c,2,passing through origin,1,B
+9702,2024,June,4,3,4,c,1,maximum at non-zero frequency,1,B
+9702,2024,June,4,3,4,c,2,peak at 4.0 Hz,1,B
+9702,2024,June,4,3,5,b(i),1,straight vertical lines,1,B
+9702,2024,June,4,3,7,b(ii),1,sinusoidal minima on axis,1,B
+9702,2024,June,4,3,7,b(ii),2,correct frequency/phase,1,B
+9702,2024,June,4,3,7,b(ii),3,all maxima at 0.22 W,1,B
+9702,2024,June,2,3,1,a,1,kg m s^-2 for F,1,C
+9702,2024,June,2,3,1,a,2,kg m^-1 s^-1,1,A
+9702,2024,June,2,3,1,c,1,arrow downwards (weight),1,B
+9702,2024,June,2,3,1,c,2,arrows upwards (upthrust and drag),1,B
+9702,2024,June,2,3,2,b(i),1,4.3 m,1,A
+9702,2024,June,2,3,3,b(i),1,"P at (60, 5.4)",1,A
+9702,2024,June,2,3,3,b(ii),1,"E at (80, 5.9)",1,A
+9702,2024,June,2,3,4,b,1,arrow pointing vertically downwards,1,A
+9702,2024,June,2,3,4,d,1,displacement is sum of displacements,1,B
+9702,2024,June,1,3,1,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,2,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,3,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,3,4,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,5,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,6,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,7,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,8,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,9,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,10,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,11,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,12,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,13,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,14,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,15,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,16,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,17,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,18,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,3,19,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,3,20,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,3,21,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,22,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,23,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,24,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,25,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,26,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,3,27,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,28,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,29,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,30,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,31,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,32,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,33,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,3,34,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,35,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,36,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,3,37,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,3,38,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,39,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,3,40,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,1,1,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,2,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,3,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,1,4,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,5,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,6,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,7,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,8,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,9,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,10,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,11,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,12,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,13,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,1,14,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,15,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,16,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,17,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,18,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,1,19,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,20,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,21,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,22,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,23,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,24,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,25,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,26,NULL,1,Correct Option: A,1,B
+9702,2024,June,1,1,27,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,28,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,29,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,30,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,31,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,32,NULL,1,Correct Option: D,1,B
+9702,2024,June,1,1,33,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,34,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,35,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,36,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,37,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,38,NULL,1,Correct Option: C,1,B
+9702,2024,June,1,1,39,NULL,1,Correct Option: B,1,B
+9702,2024,June,1,1,40,NULL,1,Correct Option: C,1,B
+9702,2024,June,4,1,1,a,1,work done per unit mass,1,B
+9702,2024,June,4,1,1,a,2,work done moving mass from infinity (to the point),1,B
+9702,2024,June,4,1,4,a,1,oscillation (of object) at maximum amplitude,1,B
+9702,2024,June,4,1,4,a,2,when driving frequency = natural frequency,1,B
+9702,2024,November,4,1,1,a,1,force proportional to product of masses,1,B
+9702,2024,November,4,1,1,a,2,force inversely proportional to square of separation,1,B
+9702,2024,November,4,1,2,a,1,thermal energy per unit mass,1,B
+9702,2024,November,4,1,2,a,2,energy per unit change in temperature,1,B
+9702,2024,November,4,1,4,a,1,acceleration proportional to displacement,1,B
+9702,2024,November,4,1,4,a,2,acceleration opposite to displacement,1,B
+9702,2024,November,1,1,1,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,2,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,3,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,4,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,5,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,6,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,7,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,8,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,9,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,10,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,11,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,12,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,13,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,14,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,15,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,16,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,17,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,18,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,19,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,20,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,21,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,22,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,23,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,24,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,25,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,26,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,27,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,28,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,29,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,30,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,31,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,32,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,1,33,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,34,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,35,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,1,36,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,37,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,1,38,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,39,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,1,40,NULL,1,Correct Option: C,1,B
+9702,2024,November,2,1,1,a,1,mass per unit volume,1,B
+9702,2024,November,2,1,2,a,1,product of mass and velocity,1,B
+9702,2024,November,2,1,3,a,1,product of force and displacement in direction of force,1,B
+9702,2024,November,2,1,4,a,1,stress per unit strain,1,B
+9702,2024,November,1,3,1,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,2,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,3,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,4,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,5,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,6,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,7,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,8,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,9,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,10,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,11,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,12,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,13,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,14,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,15,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,16,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,17,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,18,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,19,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,20,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,21,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,22,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,23,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,24,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,25,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,26,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,27,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,28,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,29,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,30,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,31,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,32,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,33,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,34,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,35,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,36,NULL,1,Correct Option: D,1,B
+9702,2024,November,1,3,37,NULL,1,Correct Option: C,1,B
+9702,2024,November,1,3,38,NULL,1,Correct Option: B,1,B
+9702,2024,November,1,3,39,NULL,1,Correct Option: A,1,B
+9702,2024,November,1,3,40,NULL,1,Correct Option: D,1,B
+9702,2024,November,4,3,1,a,1,force proportional to product of masses,1,B
+9702,2024,November,4,3,1,a,2,force inversely proportional to square of separation,1,B
+9702,2024,November,4,3,2,a,1,thermal energy per unit mass,1,B
+9702,2024,November,4,3,2,a,2,energy per unit change in temperature,1,B
+9702,2024,November,4,3,4,a,1,acceleration proportional to displacement,1,B
+9702,2024,November,4,3,4,a,2,acceleration opposite to displacement,1,B
+9702,2024,November,2,3,1,a,1,rate of change of velocity,1,B
+9702,2024,November,2,3,2,a,1,total momentum constant,1,M1
+9702,2024,November,2,3,2,a,2,for an isolated system,1,A1
+9702,2024,November,2,3,3,a,1,sum of clockwise moments equals sum of anticlockwise moments about same point,1,B1
+9702,2024,November,2,3,6,a,1,potential difference per unit current,1,B1
+9702,2025,November,1,1,1,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,2,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,3,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,4,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,5,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,6,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,7,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,8,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,9,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,10,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,11,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,12,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,13,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,14,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,15,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,16,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,17,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,18,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,19,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,20,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,21,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,22,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,23,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,24,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,25,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,26,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,1,27,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,28,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,29,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,30,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,31,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,32,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,33,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,34,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,35,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,36,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,1,37,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,1,38,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,39,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,1,40,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,1,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,2,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,3,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,4,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,5,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,6,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,7,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,8,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,9,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,10,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,11,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,12,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,13,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,14,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,15,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,16,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,17,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,18,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,19,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,20,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,21,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,22,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,23,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,24,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,25,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,26,NULL,1,Correct Option: B,1,B
+9702,2025,November,1,3,27,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,28,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,29,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,30,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,31,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,32,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,33,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,34,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,35,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,36,NULL,1,Correct Option: D,1,B
+9702,2025,November,1,3,37,NULL,1,Correct Option: C,1,B
+9702,2025,November,1,3,38,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,39,NULL,1,Correct Option: A,1,B
+9702,2025,November,1,3,40,NULL,1,Correct Option: B,1,B

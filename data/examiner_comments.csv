@@ -86,31 +86,31 @@ subject_code,year,session,paper_number,variant,question_number,label,comment_tex
 9702,2024,March,4,2,NULL,NULL,"This paper presented rigorous challenges in fields such as thermal physics and astrophysics. The use of standard formulae was generally accurate, though candidates must ensure they define variables clearly."
 9702,2024,March,4,2,9,c(ii),"This calculation required the use of the reflection coefficient formula. Using the provided density and speed values, the intensity ratio was found to be 0.41. The transmitted fraction was then deduced as 59%."
 9702,2024,March,4,2,10,a(i),"Using the Stefan-Boltzmann law L = 4pi sigma r^2 T^4, candidates calculated the radius of the star. Given the luminosity and temperature, the radius was determined as 6.96 * 10^8 m."
-9702,2024,Winter,4,2,NULL,NULL,Candidates showed a strong grasp of astrophysics and nuclear physics. High marks were awarded for correct use of standard equations.
-9702,2024,Winter,4,2,9,c(ii),"Intensity ratio for ultrasound was calculated as 0.41 using the reflection coefficient formula, resulting in a transmitted fraction of 59%."
-9702,2024,Winter,4,2,10,a(i),"Stefan-Boltzmann law was applied to find the stellar radius, resulting in 6.96 * 10^8 m."
-9702,2024,Winter,2,2,NULL,NULL,"Candidates generally showed a solid understanding of core principles. Performance was high in calculations involving energy and electricity, though explanations regarding fundamental particles required more precision."
-9702,2024,Winter,2,2,6,a,A fundamental particle cannot be subdivided into smaller particles.
-9702,2024,Winter,2,2,6,b(i),Mesons consist of one quark and one antiquark.
-9702,2024,Winter,2,2,6,c(ii),Nucleon number is unchanged as emitted particles have a nucleon number of zero.
-9702,2024,Winter,1,2,NULL,NULL,"Candidates generally showed a solid understanding of core principles. Most were successful in straightforward recalls and basic calculations, though more complex conceptual linking was challenging."
-9702,2024,Summer,1,2,NULL,NULL,The paper tested a representative range of the AS syllabus. Candidates demonstrated strong recall of fundamental definitions and proficiency in standard calculations. Performance was strongest on mechanics and circuit analysis.
-9702,2024,Summer,2,2,NULL,NULL,"Candidates performed consistently well in structured calculations, particularly in electricity and mechanics. Descriptive questions involving particle physics were answered with good technical vocabulary."
-9702,2024,Summer,2,2,5,b(ii),Successful responses correctly identified the resistance of the thermistor as 25 Ohm from the graph.
-9702,2024,Summer,2,2,6,a,Fundamental particles are those which cannot be subdivided into smaller particles.
-9702,2024,Summer,2,2,6,b(ii),Mesons consist of a quark and antiquark pair.
-9702,2024,Summer,4,2,NULL,NULL,Candidates showed a strong grasp of astrophysics and nuclear physics. High marks were awarded for correct use of standard equations.
-9702,2024,Summer,4,2,10,b(ii),The intensity reflection coefficient for ultrasound between water and glass was calculated as 0.61 using the acoustic impedance values.
-9702,2024,Summer,4,3,NULL,NULL,Candidates demonstrated a solid understanding across a wide range of A Level topics. Responses to questions on capacitor discharge and radioactivity showed particular strength.
-9702,2024,Summer,2,3,NULL,NULL,Candidates performed well on mechanics but found the wave interference question challenging. Many correctly identified the three forces in the viscosity question.
-9702,2024,Summer,1,3,NULL,NULL,"Candidates generally performed well on variant 3 MCQ. Questions on mechanics and electricity showed high facility, while waves questions were more discriminating."
-9702,2024,Summer,1,1,NULL,NULL,Candidates generally performed well on physics variant 1. Mechanics and electricity concepts were reasonably well-applied.
-9702,2024,Summer,4,1,NULL,NULL,Candidates generally performed well on variant 1. Astrophysics and Medical Physics questions were particularly high-scoring. Some struggled with damping definitions in oscillations.
-9702,2024,Winter,4,1,NULL,NULL,Candidates found the gravitation and thermal physics questions accessible. Some difficulty seen in the field potential gradient explanation and specific details of pair annihilation in PET.
-9702,2024,Winter,1,1,NULL,NULL,Candidates generally performed well on physics variant 1 in Winter 2024. Questions involving vector relative velocity and electric potential energy showed good discrimination.
-9702,2024,Winter,2,1,NULL,NULL,Candidates generally performed well on variant 1. Mechanics and DC circuits questions showed good understanding of principles. Some difficulty in calculating quark composition for alpha particles.
-9702,2024,Winter,1,3,NULL,NULL,Candidates generally performed well on variant 3 in Winter 2024. Questions involving hydrostatic pressure and potentiometer dynamics were discriminating. Good grasp of SI units seen.
-9702,2024,Winter,4,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Questions on Kepler's Laws and SHM were particularly successful. Some issues noted with specific details of PET pair annihilation and potential gradient terminology.
-9702,2024,Winter,2,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Good performance on stationary waves and Doppler Effect. Some confusion noted regarding upthrust and Archimedes' Principle.
-9702,2025,Winter,1,1,NULL,NULL,Strong performance overall in Variant 1 of 2025. Candidates handled SHM and Gravitational fields well. Some issues noted with upthrust definitions and star spectra interpretation.
-9702,2025,Winter,1,3,NULL,NULL,Variant 3 results mirror Variant 1 for 2025. Candidates showed good grasp of mechanics and waves. Analysis of radioactive decay chains was strong.
+9702,2024,November,4,2,NULL,NULL,Candidates showed a strong grasp of astrophysics and nuclear physics. High marks were awarded for correct use of standard equations.
+9702,2024,November,4,2,9,c(ii),"Intensity ratio for ultrasound was calculated as 0.41 using the reflection coefficient formula, resulting in a transmitted fraction of 59%."
+9702,2024,November,4,2,10,a(i),"Stefan-Boltzmann law was applied to find the stellar radius, resulting in 6.96 * 10^8 m."
+9702,2024,November,2,2,NULL,NULL,"Candidates generally showed a solid understanding of core principles. Performance was high in calculations involving energy and electricity, though explanations regarding fundamental particles required more precision."
+9702,2024,November,2,2,6,a,A fundamental particle cannot be subdivided into smaller particles.
+9702,2024,November,2,2,6,b(i),Mesons consist of one quark and one antiquark.
+9702,2024,November,2,2,6,c(ii),Nucleon number is unchanged as emitted particles have a nucleon number of zero.
+9702,2024,November,1,2,NULL,NULL,"Candidates generally showed a solid understanding of core principles. Most were successful in straightforward recalls and basic calculations, though more complex conceptual linking was challenging."
+9702,2024,June,1,2,NULL,NULL,The paper tested a representative range of the AS syllabus. Candidates demonstrated strong recall of fundamental definitions and proficiency in standard calculations. Performance was strongest on mechanics and circuit analysis.
+9702,2024,June,2,2,NULL,NULL,"Candidates performed consistently well in structured calculations, particularly in electricity and mechanics. Descriptive questions involving particle physics were answered with good technical vocabulary."
+9702,2024,June,2,2,5,b(ii),Successful responses correctly identified the resistance of the thermistor as 25 Ohm from the graph.
+9702,2024,June,2,2,6,a,Fundamental particles are those which cannot be subdivided into smaller particles.
+9702,2024,June,2,2,6,b(ii),Mesons consist of a quark and antiquark pair.
+9702,2024,June,4,2,NULL,NULL,Candidates showed a strong grasp of astrophysics and nuclear physics. High marks were awarded for correct use of standard equations.
+9702,2024,June,4,2,10,b(ii),The intensity reflection coefficient for ultrasound between water and glass was calculated as 0.61 using the acoustic impedance values.
+9702,2024,June,4,3,NULL,NULL,Candidates demonstrated a solid understanding across a wide range of A Level topics. Responses to questions on capacitor discharge and radioactivity showed particular strength.
+9702,2024,June,2,3,NULL,NULL,Candidates performed well on mechanics but found the wave interference question challenging. Many correctly identified the three forces in the viscosity question.
+9702,2024,June,1,3,NULL,NULL,"Candidates generally performed well on variant 3 MCQ. Questions on mechanics and electricity showed high facility, while waves questions were more discriminating."
+9702,2024,June,1,1,NULL,NULL,Candidates generally performed well on physics variant 1. Mechanics and electricity concepts were reasonably well-applied.
+9702,2024,June,4,1,NULL,NULL,Candidates generally performed well on variant 1. Astrophysics and Medical Physics questions were particularly high-scoring. Some struggled with damping definitions in oscillations.
+9702,2024,November,4,1,NULL,NULL,Candidates found the gravitation and thermal physics questions accessible. Some difficulty seen in the field potential gradient explanation and specific details of pair annihilation in PET.
+9702,2024,November,1,1,NULL,NULL,Candidates generally performed well on physics variant 1 in November 2024. Questions involving vector relative velocity and electric potential energy showed good discrimination.
+9702,2024,November,2,1,NULL,NULL,Candidates generally performed well on variant 1. Mechanics and DC circuits questions showed good understanding of principles. Some difficulty in calculating quark composition for alpha particles.
+9702,2024,November,1,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Questions involving hydrostatic pressure and potentiometer dynamics were discriminating. Good grasp of SI units seen.
+9702,2024,November,4,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Questions on Kepler's Laws and SHM were particularly successful. Some issues noted with specific details of PET pair annihilation and potential gradient terminology.
+9702,2024,November,2,3,NULL,NULL,Candidates generally performed well on variant 3 in November 2024. Good performance on stationary waves and Doppler Effect. Some confusion noted regarding upthrust and Archimedes' Principle.
+9702,2025,November,1,1,NULL,NULL,Strong performance overall in Variant 1 of 2025. Candidates handled SHM and Gravitational fields well. Some issues noted with upthrust definitions and star spectra interpretation.
+9702,2025,November,1,3,NULL,NULL,Variant 3 results mirror Variant 1 for 2025. Candidates showed good grasp of mechanics and waves. Analysis of radioactive decay chains was strong.
