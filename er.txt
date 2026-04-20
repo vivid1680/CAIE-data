@@ -1,0 +1,1290 @@
+
+---PAGE 1---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+PHYSICS  
+ 
+ 
+Paper 9702 /12 
+Multiple Choice  
+ 
+ 
+Question 
+Number  Key  Question 
+Number  Key  Question 
+Number  Key  Question 
+Number  Key 
+1 D  11 C  21 B  31 C 
+2 D  12 D  22 A  32 A 
+3 C  13 D  23 D  33 C 
+4 A  14 A  24 C  34 B 
+5 A  15 B  25 B  35 C 
+6 C  16 A  26 A  36 B 
+7 B  17 B  27 C  37 B 
+8 B  18 A  28 C  38 B 
+9 A  19 D  29 C  39 D 
+10 A  20 D  30 D  40 D 
+ 
+ 
+General comments  
+ 
+It is important to carefully read the text of the question before considering the answer options.   
+ 
+In numerical questions, candidates should be careful to consider S I prefixes and powers of ten, as well as 
+possible unit conversions, and should be encouraged to check to their answers to ensure they are a sensible 
+magnitude.  
+ 
+Candidates had particular difficulty resolving vectors into perpendicular components.  Candidates should be 
+able to select the correct trigonometric function for each problem and should be familiar with the inverse 
+trigonometric functions.  
+ 
+In general, candidates found Questions  5, 8, 23 and 36 relatively difficult.   
+ 
+Candidates found Questions  1, 22, 34 and 40 relatively easy.  
+ 
+ 
+Comments on specific questions  
+ 
+Question 3  
+ 
+This was answered well by most candidates. A significant number of weaker candidates selected option A, 
+neglecting to convert the velocity units from cm  s–1 to m  s–1. Option B was also a common incorrect response, 
+suggesting that candidates were not considering the change  in velocity of the car. Candidates would benefit 
+from more practice reading velocity -time graphs.  
+ 
+---PAGE 2---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+Question 4  
+ 
+Stronger candidates found this straightforward. The most common error among weaker candidates was to 
+use the final velocity of the aircraft as 85  m s–1, rather than converting the 85  km  h–1 to 23.6  m s–1 leading to 
+option C. A significant minority converted correctly then used the incorrect formula v2 = u2 + as, neglecting 
+the factor of 2.  
+ 
+Question 5  
+ 
+This proved challenging for candidates, with all 4 options selected roughly equally indicating that the 
+variation of speed in two dimensions without air resistance is not well understood by most candidates. The 
+question is best approached by considering co nservation of energy. The projectile’s speed must decrease as 
+it rises, as kinetic energy decreases and gravitational potential energy increases. As the projectile is still in 
+motion at its highest point the speed cannot decrease to zero, ruling out option s C and D. The projectile then 
+falls to its original height (ground level) so the speed must return to its original value, as the kinetic energy 
+and gravitational potential energy return to their original values.  
+ 
+Question 7  
+ 
+Stronger candidates found this straightforward. The most common incorrect answer ( D) was the result of 
+adding the magnitudes  of the correct components of momenta, neglecting that momentum is a vector 
+quantity.   
+ 
+Question 8  
+ 
+Many candidates selected the incorrect options  A and C for this question, attempting to find another force 
+acting on the astronaut, despite the question asking for the gravitational force acting on the astronaut. 
+Candidates are encouraged to carefully read the question and not to assume the quantity that they are being 
+asked to find.  
+ 
+Question 11  
+ 
+Stronger candidates found this straightforward. Weaker candidates selected option B most frequently, which 
+is the result of swapping sine and cosine when resolving the force in the wire. Candidates should practice 
+resolving forces so they can confidently select the correct trigonometric functions.  
+ 
+Question 13  
+ 
+All candidates found this equilibrium challenging. A and C were the least popular options, suggesting that 
+most candidates recognised that F would not be zero in either scenario. Option B was the most popular 
+incorrect answer , with candidates perhaps considering only the weight of the child and neglecting the weight 
+of the beam.  
+ 
+Question 15  
+ 
+Stronger candidates found this straightforward. The problem is best solved by resolving the acceleration of 
+free fall into a component in the direction of the slope.   
+ 
+Candidates who found this presentation of the problem unfamiliar could still have made progress by 
+recognising 19.6 = 2 g and relating this to v2 = u2 + 2as. 
+ 
+Question 18  
+ 
+Less  than half of the candidates selected the correct answer  A. The weakest candidates selected options  B 
+and D. In D no energy is lost, suggesting that candidates struggled to visualise this problem. Option  B 
+resulted from correctly determining the speed of the projectile at the maximum point compared with the initial 
+speed then neglecting  that that kinetic energy is proportional to the speed squared.  
+ 
+  
+---PAGE 3---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+Question 21  
+ 
+Approximately two thirds of candidates recognised that the elastic potential energy could be determined 
+using values from, or the area under , the graph. Incorrect option  D, considering a single spring experiencing 
+the whole 160  N force with extension 9.6  mm, was selected almost as often as the correct option  B. For the 
+correct answer  candidates had to recognise that the four springs would share the 160  N force equally, and so 
+each extends only 2.4  mm   
+ 
+Question 23  
+ 
+This question required simple factual recall of the approximate wavelength of infrared radiation in free space. 
+Fewer than half of candidates could recall this information, suggesting that this point on the syllabus is not 
+well known.  
+ 
+Question 25  
+ 
+This was answered correctly by most candidates. The topic of phase difference is often challenging, and 
+here it was also combined with the wave speed equation, suggesting that candidates understood  this topic.  
+ 
+Question 29  
+ 
+This difficult question was answered correctly by half of the candidates, suggesting that diffraction grating 
+problems are well understood by stronger candidates . Options  A (the diffraction angle for the first order 
+maximum) and B (the difference between the second and first order maxima) were equally popular. 
+Candidates are encouraged to carefully read the question to ensure they are calculating the correct quantity.  
+ 
+Question 32  
+ 
+Option B was a very popular incorrect answer  with nearly a third of candidates selecting it. Candidate s 
+choosing B perhaps confused the resistance against temperature profile of a thermistor with the required 
+power against temperature profile. Candidates can reason that in this circuit the p.d. across the thermistor is 
+constant, and recall that the resistance of the t hermistor decreases with temperature. Candidates who 
+therefore considered P = V2/R could identify option A as the correct answer . 
+ 
+Question 36  
+ 
+Candidates found this  question  challenging. Candidates who recognised that V represent s the terminal p.d. 
+and that with an open circuit this would be equal to the e.m.f. selected the correct option  B. Option  D was the 
+most popular, with candidates confusing the concept of terminal p.d. and e.m.f.. Option  A was also popular, 
+with candidates perhaps neglecting that the measurement of V would include the e.m.f. . Candidates would 
+benefit from practicing problems involving sources with internal resistance, and from practical experience of 
+working with this kind of circuit.  
+ 
+Question 38  
+ 
+This question on conservation of momentum was answered well by most candidates.  
+ 
+Question 39  
+ 
+Around two thirds of candidates correctly answered this factual recall question. The most common incorrect 
+answer was option  B, indicating that students are not confident distinguishing between + and – decay. The 
+weakest candidates selected B, C and D equally, suggesting that the difference between quarks and 
+antiquarks was not well understood.  
+ 
+---PAGE 4---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+PHYSICS  
+ 
+ 
+Paper 9702 /22 
+AS Level Structured Questions  
+ 
+ 
+Key messages  
+ 
+Candidates should explicitly state the subject of any numerical or algebraic equations they use. This is 
+especially important where more than one equation is used in a question, and when equations are stated 
+and then re -arranged. In some questions marks can be scored for correct statements of physical equations, 
+but only where the whole equation is clearly shown. Candid ates should not rely on the examiner to infer a 
+subject for an expression given in the working.  
+ 
+Candidates should pay attention to the units and powers of ten in which information is presented, and ensure 
+that they are converting answers into SI base units where appropriate.  
+ 
+Candidates should ensure that reasoning done with equations in the margins of written questions or in 
+diagrams is then transferred to a written answer, rather than relying on the examiner to interpret the working.  
+Candidates are also reminded to present t heir working within the space provided.  
+ 
+Candidates are reminded to be careful when making comparisons in written questions to be clear what is 
+being referred to. For example when comparing times for two objects R and S, a candidate stating “the time 
+is greater” could be referring to either objec t and so has not answered the question. Candidates should also 
+be careful when using terms describing change such as ‘decrease ’ and ‘increase ’ as it is not always clear 
+whether that change is occurring with respect to time or some other variable.  
+ 
+ 
+General comments  
+ 
+There was no evidence that candidates were short of time for this examination.  
+ 
+Concepts of uncertainty were not generally well understood. The difference between absolute and 
+percentage uncertainty proved challenging for many, as did the concept of an uncertainty expressing a range 
+of possible values.  
+ 
+Candidates frequently gave answers to 1 sf, when data in the question was given to 2 sf. Candidates should 
+always consider how many significant figures are appropriate for their answer in the context of the data 
+given.  
+ 
+Most candidates answered questions involving the recall and use of formulae well. Definitions were not 
+always well known, and many either missed out key words or used wording which changed the meaning of 
+the definition.  
+ 
+Many candidates showed little working to support their answers to numerical questions, and the working was 
+often poorly presented. Correct working, where present, allows marks to be scored for good methods even 
+where errors then occur.  
+ 
+Candidates could improve by ensuring they always write a subject for their algebraic or numerical 
+expressions.  
+ 
+Candidates found 1(b)(i) , 2(b)(i) , 3(a), 6(b)(i)  and 7(a) relatively easy. They found 1(b)(iii) , 2(a), 3(b)(iii) , 
+4(a), 5(b) and 6(c)(i)  difficult.   
+ 
+ 
+  
+---PAGE 5---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+Comments on specific questions  
+ 
+Question 1  
+ 
+(a)  The vast majority of candidates gave an acceptable explanation of accuracy. A small number of 
+candidates inappropriately explained what was meant by the precision of a set of measured values. 
+Very weak candidates sometimes thought that the accuracy was ind icated by the number of 
+significant figures or the number decimal places in the measured value.  
+ 
+(b) (i) The majority of candidates gave a correct equation for density, although candidates sometimes 
+used ‘ d’ instead of ‘’ for density. There was a significant number of candidates that made errors 
+converting the mass in grams into kilograms and the length from centimetres into metres.  
+ 
+ (ii) The stronger candidates were able to obtain the correct percentage uncertainty. There were many 
+that did not recognise the need to multiply the percentage uncertainty in the volume by three. Some 
+candidates incorrectly multiplied the percentage uncertaint y in mass by three . 
+ 
+  The weakest candidates  gave an incorrect method, such as treating the absolute uncertainties as 
+percentage uncertainties.  
+ 
+ (iii) This was a challenging question . The strongest candidates were able to describe how the 
+uncertainties in the values of density allowed for an overlap between the two ranges, and hence 
+that the cubes could be made from the same material.  
+ 
+  Successful candidates typically found the range of densities for one cube, and demonstrated that 
+the given value of density for the other cube fell within this range, but there were other valid 
+explanations given.  
+ 
+  Many  candidates recognised that the values of density were ‘close ’ or ‘similar ’ to each other but did 
+not explicitly identify an overlap.  
+ 
+  Many candidates stated that the cubes could not be made from the same material because the 
+uncertainties for the two cubes were different or that the value quoted for the density was different 
+for the two cubes. This indicates a lack of understanding tha t a calculated value and its uncertainty 
+shows a range of possible values.  
+ 
+Question 2  
+ 
+(a)  There were very few fully correct answers. The candidates usually referred to the total clockwise 
+moments being equal to the total anticlockwise moments. However, many candidates did not 
+explicitly state that these moments are about the same point. It was also common for weaker 
+candidates to omit ‘total’ from their answer.  
+ 
+  Only the stronger candidates stated that this was for an object in rotational equilibrium. Sometimes, 
+reference was made to a ‘closed system’ or an ‘isolated system’, possibly due to confusion 
+between the principle of moments and the principle of conservat ion of momentum. Very weak 
+candidates sometimes stated only what was meant by the moment of a force.  
+ 
+  Candidates should be able to recall core principles from the syllabus.  
+ 
+(b) (i) This part was generally well answered with many candidates obtaining the correct answer. Nearly 
+all candidates could correctly determine one or two moment s, but a significant number could not 
+give all three moments. A common mistake was to think that the moment of the weight of the beam 
+about end A was either (1700  6.0) N  m or (1700  5.0) N  m. 
+ 
+ (ii) The majority of candidates equated the upthrust with the weight of the cylinder and the force of the 
+beam on the cylinder. Some candidates did not give the required full working for the weight, 
+jumping directly to weight = 100  N without explanation. Weaker candidates tried to use the given 
+equation for the upthrust ( F = gV) without success.  
+ 
+ (iii) The stronger  candidates used the expression for the upthrust and a correct expression for the 
+volume of a cylinder to determine the length y. A significant number used the force from the beam 
+---PAGE 6---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+(1300 N) and not the upthrust given (1400  N). Some candidates confused pressure with force and 
+so wrongly stated that 1400 = 990  9.81  y. Others misused the density equation by confusing 
+the mass of the cylinder with the mass of displaced water, stating that 990 = 11  / (p  0.392  y). 
+ 
+  Many candidates showed a correct calculation, but then inappropriately expressed their final 
+answer to only 1 sf. The calculation uses data that has 2 sf and so it was expected that the final 
+answer would also be expressed to 2 sf.   
+ 
+ (iv) It was generally understood that the graph line would have a positive gradient. However, weaker 
+candidates often made the mistake of drawing their graph line from the origin and did not 
+appreciate that the graph would have a non -zero value of depth when the distance from A is zero, 
+as there needs to be an upthrust due to the weight of the beam. Although the question explicitly 
+stated the required range of distance for the graph, a small number of candidates drew lines that 
+ended before 6.0 m.  
+ 
+Question 3  
+ 
+(a) (i) The majority of candidates calculated the acceleration using an appropriate equation of constant 
+acceleration, indicating this subject is generally well understood. Weaker candidates often 
+attempted to find a time using an inappropriate method such as t = 180/13 and so could make no 
+progress.  
+ 
+ (ii) This proved to be a straightforward calculation for many candidates. Weaker candidates were often 
+able to correctly recall the symbol formula for the kinetic energy of an object. However, a common 
+mistake was to calculate the gain in kinetic energy by using the expression  
+1
+2 m(v – u)2. A small 
+number of candidates gave a value for kinetic energy at A or at B rather than the difference in 
+energies. Candidates are encouraged to carefully read the question to ensure that they are 
+calculating the required quantity.  
+ 
+(b) (i) The majority of candidates gave the correct definition of force, often using the exact wording from 
+the syllabus ‘rate of change of momentum ’. A significant number gave ‘mass times acceleration ’ 
+which is a valid way to calculate the resultant force acting on an object, but is not the definition of 
+force. Candidates should be able to recall the definitions of the key quantities within the syllabus.  
+ 
+ (ii) There were a significant number  of errors made in this ‘show that ’ question. Candidates should 
+ensure they begin with an explicit statement of the equation being used, including the subject. 
+Candidates frequently omitted the powers of ten (104) in the first step of their working, or incorrectly 
+gave their powers as 10-4 instead of 104. It was also common for candidates to substitute the 
+values of momenta into their equation the wrong way around, leading to a positive final answer.  
+ 
+  Incorrect intermediate answers were often corrected in the final answer.  
+ 
+  Candidates are reminded that in a ‘show that ’ question, the working must be correct throughout.  
+ 
+ (iii) Only a few candidates were able to provide a fully correct explanation . A large number of 
+candidates incorrectly stated that as the force and momentum was the same for both trucks, the 
+time to come to rest for both trucks would also be the same.  
+ 
+  Very few candidates explained that truck S and truck R would have the same change  in momentum 
+to come to rest.  
+ 
+  Many candidates focussed on explaining that a decreasing force acted on truck R whereas a 
+constant force acted on truck S, but did not actually compare the average  force acting on truck R to 
+the average  force acting on truck S for the trucks to come to rest. Very few candidates tried to 
+determine the value of the average force acting on truck R over the time it took to come to rest.  
+ 
+  Many weaker candidates stated that the force on truck S was greater as the force was constant 
+and the force on truck R varied. Some candidates seemed to simply guess that truck S would take 
+less amount of time to come to rest and did not provide a correc t supporting explanation. Only a 
+relatively small number of candidates realised that they could determine the value of the time taken 
+for each truck to come to rest, either algebraically or from the graph . 
+---PAGE 7---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+ 
+  Some candidates annotated the graph  but did not make reference to these annotations in their 
+answer, and so it was not clear how this related to the question. Candidates are reminded to 
+present their answer in the space provided.  
+ 
+Question 4  
+ 
+(a) (i) Full explanations were rarely seen, although many candidates were able to give a partial 
+explanation. Some candidates described the reflection of the emitted wave by saying that it 
+‘bounced off’ or ‘rebounded’ from the metal sheet, but did not actually use  the verb ‘reflect’. 
+Candidates are reminded to use the correct technical terms when describing physical phenomena.  
+ 
+  Other candidates explained that a stationary wave is formed by two waves travelling in opposite 
+directions and superposing, but did not make it clear that these two waves were the initial wave 
+moving towards the metal sheet and the wave that is reflected f rom it.  
+ 
+  Many candidates seemed to confuse the production of a stationary wave with the production of a 
+two-source interference pattern. This often led to incorrect comments about the phase difference 
+between the two waves at nodes and antinodes. Many candidates incorrectly referred to maximum 
+displacement instead of maximum amplitude at antinodes. Similarly, it was common to see 
+incorrect references to minimum or zero displacement instead of minimum or zero amplitude at 
+nodes.  
+ 
+(b) (i) The majority of candidates correctly recalled c = f. Power -of-ten errors in th e recall of the speed of 
+light or in converting GHz into Hz were common. Very weak candidates occasionally used c = 
+330 m s–1. Another common error here was to round the correct answer 0.048  m to 0.05  m. As c is 
+given in the data sheet to 3 sf and the frequency was given to 2 sf, a 2sf value for wavelength was 
+expected.  
+ 
+ (ii) Only a minority of candidates understood that the distance between P and Q was equal to a 
+quarter of a wavelength. A common misconception was that this distance was equal to half of a 
+wavelength.  
+ 
+ (iii) This was generally well answered. A significant number of candidates explained that the distance 
+would be the same as the wavelength was unchanged. The given fact that the frequency was 
+unchanged meant that other candidates were able to explain that the i ntensity change was due 
+only to an amplitude change and not a wavelength change. Some candidates stated only that the 
+frequency had not changed (which was given in the question), but did not link this to the 
+wavelength, and so could not score.  
+ 
+Question 5  
+ 
+(a)  The stronger candidates were able to calculate the time period from the CRO trace and then 
+evaluate the wavelength of the sound. A significant number were unable to determine the time 
+period using the time -base setting, often mis -reading the graph or faili ng to convert a correct 
+reading to a period. Candidates frequently introduced a power -of-ten error of 100 when attempting 
+to deal with the cm–1. Another common mistake was to simply use the time -base setting as the 
+period of the wave.   
+ 
+  Successful responses generally had clear a presentation and showed all the intermediate steps of 
+the calculation. Candidates are reminded to state the subject of all equations as this made it easier 
+to score some credit when the final numerical answer was incorrect. Poorly presented numerical 
+working often scored no marks when the final answer was wrong. Candidates are reminded that 
+the symbol for the period is T rather than t.   
+ 
+(b)  Many candidates recognised that the loudspeaker was moving away. Many also gave correct 
+explanations relating the increase in period to a decrease in frequency, although this was not 
+required as the command for this question was ‘describe ’ not ‘explain ’. A small minority realised 
+that the continuous increase in the period meant that the speed of the loudspeaker was increasing.   
+ 
+---PAGE 8---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+  A very small number of candidates misinterpreted the question and thought that they were being 
+asked to describe the motion of a loudspeaker in order to produce a sound wave and so talked 
+about the loudspeaker vibrating or oscillating.  
+ 
+Question 6  
+ 
+(a)  The majority of candidates calculated the correct potential difference. Weaker candidates 
+sometimes made a power -of-ten error when trying to convert the units of resistance from m  to . 
+ 
+(b) (i) The majority of candidates gave the expression for the area in terms of the resistivity. The most 
+common errors were with the powers of ten or rearranging the equation but generally this was well 
+answered.  
+ 
+ (ii) This was generally well answered. The weaker candidates seemed to be unaware of the meaning 
+of the number density of charge carriers. Some candidates attempted to use v = I/nAq but could not 
+make progress as v is not known. Some candidates used this equation with their answer to 6(b)(iii) 
+but this was not credited, as a ‘circular calculation ’ is not valid in a ‘show that ’ question.  
+ 
+ (iii) Stronger candidates found this straightforward. Most candidates realised that they could use 
+I = nAqv , but the substitution often proved challenging. The most common mistake was to 
+substitute the total number of charge carriers instead of the number density of charge carriers. 
+Another mistake was to substitute the total charge of all the charge carriers i n the wire instead of 
+the charge of a single charge carrier.  
+ 
+(c) (i) This part of the question was challenging. Many candidates focussed on how the resistance of wire 
+Q changes with its length instead of comparing the total resistance of wire Q with the total 
+resistance of wire P. For example, there were many comments about  the resistance of wire Q at 
+the end of radius r1 or at the end of radius r2 and how those values compared to one another or to 
+the resistance of wire P.  
+ 
+  Most candidates commented that the cross -sectional area of Q decreased (along its length).   
+ 
+  Stronger candidates realised that the average cross -sectional area of Q is less than P, but very few 
+candidates commented that Q would be longer than P. It was not unusual for candidates to think 
+that the wires had the same length. The relationship of th e resistance of a wire to its length and 
+area was generally well known.  
+ 
+ (ii) Most  candidates realised that the graph line would start from a non -zero value of average drift 
+speed when the distance from X was zero. However, a common misconception was that the 
+average drift speed of the charge carriers would then decrease as the distance  from X increased. 
+Although a significant number of candidates realised that the graph line would have a positive 
+gradient, it was usually drawn as a straight line and only the very strong candidates were able to 
+deduce that the graph line would have an increasing p ositive gradient.  
+ 
+Question 7  
+ 
+(a)  The majority of candidates gave the two correct values. The most common incorrect value of the 
+nucleon number of Q was 218 and the most common incorrect value of the proton number of R 
+was 90.  
+ 
+(b)  The stronger candidates were able to apply the conservation of momentum to the correct nuclei in 
+this decay. A common error was to use the proton number instead of the mass number for both 
+particles. Many weaker candidates attempted to include particle Q and a ssigned it a non -zero 
+speed, meaning they could make little progress. A significant number of the weakest candidates 
+seemed unaware of how to apply the conservation of momentum in this situation.  
+ 
+(c)  Very few candidates managed to give three quantities that are conserved. ‘Momentum’ and 
+‘charge’ were the most common correct answers. ‘Mass’ and ‘energy’ were the most common 
+incorrect answers. A small number of candidates scored a mark for mass -energy.  
+  Very few candidates gave ‘nucleon number’ or ‘proton number’ despite having (usually correctly) 
+applied the conservation of both quantities in  7(a).   
+ 
+---PAGE 9---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+  Weak candidates sometimes gave ‘protons ’, ‘neutrons ’ or ‘electrons ’ without stating ‘number ’ and 
+so could not score.  Very weak candidates offered types of radiation or flavours of quarks.  
+ 
+---PAGE 10---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+PHYSICS  
+ 
+ 
+Paper 9702 /33 
+Advanced Practical Skills  
+ 
+ 
+Key messages  
+ 
+• Where possible, candidates should carry out practice experiments, similar to those examined in 
+previous years. The importance of setting up apparatus in accordance with instructions and diagrams 
+should  be emphasised.  For experiments of the type in Question 2 , suitable problems and suggestions 
+for improvement for those experiments can be discussed.  
+ 
+• Candidates should be given opportunities to practice drawing lines of best fit using 30 cm rulers, and 
+should check the appropriateness of the lines they produce.  
+ 
+• Candidates should be given clear advice regarding the resolution of measuring instruments and the 
+correct precision of recorded values, distinguishing this from significant figures in calculated values. The 
+number of decimal places in a measured value shou ld never be forced to give the number of significant 
+figures consistent with a calculated value.  
+ 
+• In Question 2 , candidates should be advised to concentrate on measured values and should follow the 
+advice in the question, in this case ‘state the quantity being measured and a reason for the uncertainty .’ 
+Comments regarding the suitability of apparatus, rather than the method of use, are less likely to get 
+credit.  
+ 
+• Candidates should be encouraged to write clearly and carefully, particularly for numbers and units. 
+Candidates should recognise where  units should be included on answer lines.  
+ 
+ 
+General comments  
+ 
+The general standard of the work done by the candidates was good, and there were many excellent scripts. 
+Candidates demonstrated good skills in the generation and handling of data but improvements could be 
+made to the analysis and evaluation of experiments.  
+ 
+Candidates did not seem to be short of time and both questions were attempted in full by almost all the 
+candidates. There was a small number of candidates with no response in Question 1(d) and (e), but with 
+Question 2  fully answered; candidates should be reminded that they are only allowed access to apparatus 
+for each question for one hour and should allocate their time to each question accordingly.  
+ 
+In general, centres had little difficulty in providing the specified apparatus. Some centres provided an 
+alternative pipe material in Question 2 and candidates were not disadvantaged by this.  Where a centre has 
+a problem with providing the apparatus required, they should note this in their supervisor’s report.  
+ 
+It is important that centres provide measuring apparatus with the correct resolution. Candidates from some 
+centres record ed results consistent with an ammeter reading to 0.01  A in Question 1 , rather than a 
+milliammeter.  
+ 
+ 
+  
+---PAGE 11---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+Comments on specific questions  
+ 
+Question 1  
+ 
+Most candidates were able to complete this question and to obtain good quality results, within the ranges 
+expected. For some candidates the scatter of results was greater than to be expected from an electrical 
+experiment and candidates should be advised to  check the readings for any points off -trend.  
+ 
+(a)  The value of x was almost always in range but many candidates did not convert their milliamp 
+readings into amps. Candidates often used the correct unit of mA in their table so should be 
+advised to always check the consistency of units used.  
+ 
+(b)  Most candidates were able to obtain the required six sets of values, with the correct trend.  
+ 
+  There were some candidates who only increased (or decreased) their x-values from the starting 
+value of approximately 0.45  m in (a) and so there were many who did not cover the full range of 
+values. Centres were asked to provide one of the connecting leads with a length of 1  m to ensure 
+that the full range was available to candidates. Candidates should be reminded that the widest 
+possible range of the independent variable should be used . In this case , candidates should be able 
+to have x-values from close t o zero to over 90  cm, but allowance was made to accommodate 
+centres with slightly shorter connecting leads.  
+    
+  It was common for x values to be given to the nearest centimetre, as candidates were choosing 
+where to connect their crocodile clips to the wire. Candidates need to be advised to always use the 
+resolution of the measuring instrument used; in this case x values can be to the nearest millimetre, 
+as that was the resolution specified in the confidential instructions.  
+    
+  Significant figures and calculations were mainly correct.  
+    
+  Column headings were largely correct . Some candidates either omitted the units  for 1/ I or 
+incorrectly  gave them  as A. The incorrect expression 1/I / A– (a superscript negative sign without 
+any number) was encountered several times from different centres.  
+    
+(c) (i) Many candidates gained credit for drawing appropriate axes, with labels and sensible scales 
+covering at least half the graph grid, and plotting their six points accurately. There w ere many  
+graphs with compressed or awkward scales, imprecise points (blobs) and poorly -drawn lines  of 
+best fit . 
+ 
+  With the x values typically used, some candidates use d a scale based on 15  cm for each large 
+square. Although this gives a good spread of points, it is not acceptable as the scale is difficult to 
+use. Errors in plotting or reading values from the graph were more common with awkward scales. 
+There were many compressed scales on the  y-axis, typically due to candidates including the zero 
+value on this scale.  
+ 
+  If candidates identify an anomalous point, they should first check the plotting of that point, then the 
+calculation and then, if possible, use the apparatus to repeat the measurements for that point. If 
+necessary, a single anomalous point can be indicate d and ignored when drawing the line of best fit.  
+ 
+ (ii) Many candidates were able to draw a straight line of best fit. There w ere many  lines requiring 
+rotation to give a good spread of points about  the line. Some lines seem to have been drawn so 
+that the maximum number of plotted points were on the line and it appeared that the candidates 
+had ignored the points not on the line . Some lines  were drawn to join two points (typically the first 
+and last). A significant number of lines were drawn in two sections  so that the line was kinked. 
+Candidates should use a transparent non -folding 30  cm ruler to draw a single clear line.  
+ 
+ (iii) Candidates can either draw a triangle on their line or indicate two points on the line used to 
+determine the gradient. To avoid confusion  with the plotted points , these points should not be 
+indicated with the same symbol as the plotted points . Typical errors were using a small triangle for  
+the gradient or reading the intercept value from the y-axis when a false origin was used on the x-
+axis. 
+ 
+---PAGE 12---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+  There were cases of incorrect read ings substituted into the gradient calculation, particularly when 
+awkward scales were used. A common mistake was to use values from the table for a point that 
+was not on the line.  
+ 
+(d)  The majority of candidates transferred their gradient and intercept values as a and b respectively. 
+Those with one of these values to only one significant figure in (c) often did not make the required 
+correction to two significant figures here. Candidates who considered the units for gradient and 
+intercept were usually able to give the correct units. Candidates can ensure that each term in the 
+equation has a consistent unit – in this case ax must have the units A–1 so a must be in A–1 m–1 if x 
+is given  in m.  
+ 
+(e)  The calculation was usually done correctly by those candidates who in (a) had used current in 
+amps and x in metres. It was rare for candidates who had used mA and cm to convert their 
+calculated value to have correct units.  
+ 
+Question 2  
+ 
+Most candidates were able to complete this question and to obtain results within the ranges expected, 
+despite the difficulties encountered with the small value of the expansion of the pipe and the difficulties of 
+dealing with hot water.  
+ 
+(a)  Candidates should be reminded that for answer lines without units they need to consider whether  
+units need to be quoted with their value. Although the metre rule can be read to the nearest 0.1  cm, 
+the thermometer can only be read to the nearest degree but it was common to see temperatures 
+given to 0.1  °C. 
+   
+(b) (i) A few candidates gave their value of s or d to the nearest centimetre, despite using a metre rule 
+with a millimetre scale.  
+ 
+ (ii) Most  T values seen were more than the room temperature recorded in (a) but the T value was well 
+below 50  °C in some cases. The Confidential Instructions asked for ‘access to a supply of boiling 
+water, e.g. , electric kettle ’; it could be that candidates either took a long time to make their 
+measurements or had not realised that they could re -heat the water in the kettle.  
+ 
+ (iii) The common error here was to determine the percentage uncertainty in either H1 or H2 rather than 
+(H1 – H2). It was rare to see repeated measurements and the half -range method for determination 
+of uncertainty used correctly.  
+ 
+ (iv) The calculation of L was usually correct.   
+ 
+(c) (i) It appeared that a small number of candidates used the same pipe for this part and recorded a 
+value of L of about 12  cm again.  
+ 
+ (ii) The small values of ( H1 – H2) made it difficult for candidates with low hot water temperatures to be 
+awarded the ‘quality’ mark. Again, it appeared that candidates either took a long time making 
+measurements or had not re -heated the water to ensure they were using ‘very hot water ’ as 
+instructed in (b)(ii). 
+ 
+(d)  Values of k were usually calculated correctly. In a small number of cases , the value was only given 
+to one significant figure, possibly due to rounding of the previous period value. A few  candidates 
+used the value of 12  cm for both k values but there were only a few re -arrangement errors.  
+ 
+(e)  Candidates should calculate the percentage difference  between their k values and compare this to 
+the suggested percentage uncertainty . There were many clear answers but some vague 
+statements such as ‘the percentage uncertainty was less than the percentage uncertainty, so the 
+results support the relationship ’. There were also answers showing confusion over the requirement, 
+such as: ‘my results do support the relationship as their difference (33%) is close to 30% ’, 
+‘percentage difference does not equal 30% so results do not support the relationship ’ or 
+‘percentage difference is nowhere near the suggested percentage uncertainty of 30% so results do 
+not support the relationship ’. 
+ 
+---PAGE 13---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+  Candidates should give a  numerical comparison with the suggested uncertainty given, in this case 
+30%, and a statement such as ‘the percentage difference between my k values is less than the 
+suggested percentage uncertainty of 30% so my results support the relationship. ’  
+ 
+(f) (i) Most candidates described four sources of uncertainty or problems, but many suggestions were too 
+vague or did not refer to the measurement affected. Difficulty judging the position of the centre of 
+the nail needed to be linked to the measurement of s and/or d, for example.  
+ 
+  Many candidates recognised that two sets of data were insufficient to draw a valid conclusion. 
+There were also good responses that recognised the problem with measuring  L as the pipe was 
+curved and that there were large percentage uncertainties in ( H1 – H2) or L due to the small 
+difference between the H values.  
+ 
+  The key to this section is for candidates to identify genuine problems associated with setting up the 
+experiment and in obtaining measured values.  
+ 
+ (ii) Most candidates described four improvements but, as with the problems in (i), there were many 
+vague answers. There were also many suggestions such as ‘read the ruler at right angles ’, ‘take 
+repeat measurements and calculate the average ’ or ‘time multiple rotations of the bob ’ that should 
+be standard practice and so will not get credit.  
+ 
+  Stronger candidates were able to suggest taking more sets of readings and plotting a graph and 
+taking a video with a timer in view and replaying frame -by-frame.  
+   
+  Candidates are encouraged to suggest practical solutions that either improve technique or give 
+more reliable data. More successful candidates will select relevant problems in (f)(i) and describe 
+them clearly, linking to relevant measurements and will then suggest improvements in (f)(ii)  that 
+are workable and expressed clearly.  
+ 
+---PAGE 14---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+PHYSICS  
+ 
+ 
+Paper 9702 /42 
+A Level Structured Questions  
+ 
+ 
+Key messages  
+ 
+• Candidates need to take care to ensure that they read the question properly, understand what is being 
+asked and give responses that answer the question that is asked. This is particularly important for 
+questions that require extended writing.  Candidates often give answers to questions that were not 
+asked, but that have been asked in recent past papers. Candidates should be advised not to rely 
+heavily on memorising previous mark schemes.  
+ 
+• It is important that candidates use technical language accurately. Examples of words that are often 
+confused by candidates are atom and molecule, nuclide and nucleus, and force and field. Candidates 
+are not able to obtain full credit if they use an inappro priate word that makes the response technically 
+incorrect.  
+ 
+• In defining quantities, candidates need to take care to ensure that the definition they give is 
+dimensionally correct. This often requires use of the phrase ‘per unit’ where the quantity being defined is 
+the ratio between two other quantities, or ‘product’  where the quantity being defined is two other 
+quantities being multiplied together. Examiners will only consider symbol equations to be part of an 
+answer to a question that asks candidates to define a quantity if the symbols in the equation are 
+defined.  
+ 
+• Candidates need to be careful that they do not give more than one answer to a question. This is 
+particularly important when they are answering a question that asks for the definition of a quantity or the 
+meaning of a symbol. These things only have one answer, and if multiple answers are provided that are 
+contradictory, the candidate cannot be awarded  credit for a correct answer.  
+ 
+• When answering questions involving calculations, it is important for candidates to show their reasoning 
+clearly. This includes taking care to use the correct conventional symbols for physical quantities. If 
+working is clear, and based on use of correct phy sics, it is often possible for examiners to award part -
+credit even when the final answer is incorrect. Whilst correct final answers will usually be awarded full 
+credit, incorrect answers that are not supported by working cannot be awarded any credit.   
+ 
+• Final answers to numerical questions should be given to an appropriate number of significant figures; 
+the precision of the data provided in the question is generally indicative of the appropriate number of 
+significant figures for an answer. When performing  intermediate calculations within a question, 
+candidates should take care to avoid premature rounding that changes the answer within the 
+appropriate significant figures; as a general rule, any intermediate calculated values should always carry 
+at least one  more significant figure than will be used in the final answer. Candidates should be made 
+aware that giving final answers to too few significant figures, and rounding intermediate answers 
+prematurely so that final answers become incorrect, can both lead to  full credit not being awarded.  
+ 
+• It would be helpful for candidates to be advised that there is no need to spend time, or to use up answer 
+space, by repeating the question.  
+  
+---PAGE 15---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+General comments  
+ 
+The question paper contained questions of a variety of levels of difficulty, enabling candidates at different 
+levels of ability to demonstrate their knowledge and understanding of the subject. Candidates who knew the 
+theory , read the questions carefully, took care over their use of technical language and answered the 
+questions asked were able  to perform well . 
+ 
+There was no evidence that candidates who were properly prepared for the examination had insufficient time 
+in which to complete the paper. Candidates  should be advised that a response should always be attempted, 
+because where there is a response examiners may find opportunities to award credit.  
+ 
+Comments on specific questions  
+ 
+Question 1  
+ 
+(a)  A large proportion of candidates thought that centripetal force was one of the two forces acting on 
+the sphere. Correct force diagrams were only seen from a small number of candidates. Some 
+candidates drew diagrams that included more than two forces.  
+ 
+(b)  Many candidate s answered a different question from the one asked here. The question here was to 
+explain how the two forces acting on the sphere result in the acceleration of the sphere being 
+centripetal. Examiners were expecting to see discussion of horizontal and vertic al components of 
+the normal contact force, that the vertical component balances the weight and that the horizontal 
+component is therefore effectively the resultant force that acts towards the centre of the circle.  
+Most responses seen made no reference to the two forces acting at all.  
+ 
+(c)  The general equation for acceleration in terms of speed and radius was generally well known . 
+Candidates found it more difficult to use the trigonometry involved in getting to the magnitude of the 
+resultant force from the weight of the sphere . 
+ 
+(d)  This was the most successfully answered part of Question 1 , with many candidates obtaining the 
+correct answer.  
+ 
+(e)  A very common misconception was that the angular frequency must remain unchanged, leading to 
+direct proportionality between speed and radius. The candidates who fully appreciated the force 
+analysis of the earlier parts of the question realised that the res ultant force, and hence centripetal 
+acceleration, cannot change, and thus the correct relationship is that radius is proportional to the 
+square of speed.  
+ 
+Question 2  
+ 
+(a)  Candidates who knew the inverse relationship, understood that gravitational potential is always 
+negative, and took care over their diagrams, were generally able to achieve the marks.  
+ 
+(b)  Many candidates realised that, at a constant distance from the Earth’s surface, the gravitational 
+potential must be constant.  
+ 
+(c)  This question required candidates to realise two things.  One, that the potential is zero at the 
+earthed plate and + V at the upper plate. Two, that the electric field between parallel plates is 
+uniform. Candidates who realised both aspects , and took care over the start and end points of their 
+line, were generally able to achieve the marks.  
+ 
+Question 3  
+ 
+(a) (i) Generally well answered by the stronger candidates.  However, several  misconceptions are worth 
+highlighting. Firstly, many candidates appeared to think that ‘constant temperature ’ and ‘equal 
+temperatures ’ mean the same thing. Secondly, many candidates confused internal energy and 
+thermal energy  and gave  answers that were contradictory . 
+ 
+ (ii) Most candidates knew the general equation for specific heat capacity and were therefore able to 
+achieve the first ‘working ’ mark. However, only the strongest candidates correctly analysed the 
+energy transfers involved to arrive at the correct answer.  
+ 
+---PAGE 16---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+(b) (i) Many candidates correctly used the equation for work done on a gas when changing volume at 
+constant temperature. However, only the strongest candidates realised that, because the gas is 
+expanding, the work done on the gas must be negative.  
+ 
+ (ii) Generally well -answered. However, one misconception that was common in a minority of 
+candidates, warrants mention. Having correctly stated the starting equation pV = NkT, some 
+candidates substituted the change in volume from part (b)(i)  as the value of V. 
+ 
+ (iii) Generally well -answered by the stronger candidates . The common confusion among weaker 
+candidates was the difference between r.m.s. speed and mean -square speed. Many candidates 
+stopped at the mean -square speed and gave this as their answer to the r.m.s. speed.  
+ 
+Question 4  
+ 
+(a)  Generally well -answered.  
+ 
+(b)  This question was well -answered by the candidates who knew the starting equation.  
+ 
+(c)  Many candidates knew the correct equation for total energy, though various errors were seen in its 
+use. These ranged from power -of-ten errors to forgetting which quantities needed to be squared. A 
+common e rror from some of the weaker candidates was to use the maximum acceleration value 
+from the previous part as the amplitude.  
+ 
+(d) (i) Examiners expected to see reference to an alternating voltage applied across the crystal, making it 
+alternately expand and contract. Many candidates confused the concepts of a voltage being 
+applied (to cause distortion of the crystal) with a voltage being induced in the crystal by mechanical 
+vibrations. Some candidates confused voltage with current.  
+ 
+ (ii) Well-answered by many candidates, with full credit being common. Many other candidates 
+calculated the percentage reflected and stopped short of using that value to determine the 
+percentage transmitted.  
+ 
+Question 5  
+ 
+(a)  Many candidates were able to correctly reproduce this textbook derivation required by the syllabus.  
+Some, however, were not able to establish the key principles of physics as the starting point (how 
+the p.d.s and charges relate to each other in a series circuit).  
+ 
+(b)  Many c andidates did not show clarity of presentation in this question, with many conflicting 
+expressions alleged to all be expressions for ‘C’. Examiners needed to see a clear expression for 
+the total capacitance in terms of C, and a clear statement that the total capacitance is given by the 
+gradient of the Q-V graph. Some benefit of doubt was given to candidates who started incorrectly 
+but then subsequently arrived at correct physics.  
+ 
+(c) (i) Most candidates knew the equation for time constant, but many then incorrectly substituted 44  μF 
+as the capacitance of the circuit. As a result,  2.4 s was a very common incorrect answer. It was 
+also notable that a significant number of candidates appeared to not know that time constant is a 
+time and  therefore struggled with indicating the correct unit.  
+ 
+ (ii) Generally well -answered by candidates that had a good understanding of the topic of capacitor 
+discharge. Full credit by the error -carried -forward principle was common for candidates that worked 
+through with their 2.4  s time constant from part (c)(i) . 
+ 
+Question 6  
+ 
+(a)  Many candidates reproduced the algebra involved in this syllabus derivation correctly. However, 
+only a minority established the core physics behind the derivation as a starting point, the equality 
+between the magnitudes of the electric and magnetic forces.  
+ 
+(b)  This question was generally well -answered, with many candidates successfully calculating the 
+correct answer.  
+ 
+---PAGE 17---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+(c)  Many candidates explained  why the particles pass through the field region undeviated, rather than 
+addressing the question asked, which focussed on the expression in part (a) and how this 
+expression shows that the speed for undeviated path is independent of the mass and charge of the 
+particle. Many other candidates, who did address the question asked, gave only one of the factors 
+of mass and charge as not appearing in the equa tion, forgetting that both quantities differ between 
+protons and alpha particl es. 
+ 
+(d)  Weaker candidates were confused between the current direction and the direction of the electric 
+force on the particles. Many candidates, however, gave a correct analysis of the three terms 
+involved in the left-hand rule, and full credit was common for the more able candidates.  
+ 
+(e)  Many candidates were unable t o draw the required curve with consistent curvature, and many 
+paths were seen that involved a discontinuity in the path at the point of entry into the field region. 
+Most candidates had the direction of deflection incorrect, with only the strongest candidat es able to 
+deduce that with an unchanged electric force but a larger magnetic force, the faster particles will 
+deflect upwards.  
+ 
+Question 7  
+ 
+(a)  Faraday’s law of electromagnetic induction was generally well -known, and full credit was common.  
+ 
+(b) (i) A large proportion of the weaker  candidates missed the point of this question and focussed solely 
+on the trend of Figure 7.2. The candidate s who were successful in answering this question spotted 
+that, whilst Figure 7.2 concerns the relationship between E and t, the question was about the 
+relationship between E and v. The starting point for answering correctly required  the direct 
+proportionality between v and t to be established from the information that the acceleration of the 
+rod is uniform from rest. A significant minority of weaker ca ndidates thought that v was inversely 
+proportional to t. 
+ 
+ (ii) This challenging derivation  required candidates to think of the scenario of the rod moving a short 
+distance ∆ x in a short time ∆ t. Many candidates conflated t with ∆ t and were thus unable to produce 
+a derivation based on correct physics.  
+ 
+ (iii) Generally well -answered, with many candidates obtaining the correct answer. A common mistake 
+was for candidates to miss the power -of-ten conversion required in the value of E. 
+ 
+Question 8  
+ 
+(a)  The identity of a photon, as a quantum of energy of electromagnetic radiation, was generally well -
+known, although a significant minority of candidates omitted any reference to energy (as the 
+quantity that is quantised) in their answer.  
+ 
+(b) (i) Generally well -answered, with correct answers being deduced by many candidates.  
+ 
+ (ii) The stronger  candidates  generally calculated the number of photons per unit time, from the power 
+and the photon energy, correctly. A common mistake among some of the weaker  candidates was 
+to give an answer that is the reciprocal of the number per unit time. Candidates should consider 
+checking whether their numerical answers have a plausible magnitude  to identify errors that have 
+been made during the calculation . 
+ 
+ (iii) This was a challenging question. Many candidates successfully got as far as deducing that the 
+average force is equivalent to some multiple of the product of the photon energy and the number of 
+photons per unit time. However,  many of the candidates were not able to determine  that this 
+multiple ha d to be 3/2 from the information about half of the photons being absorbed and half of 
+them reflected. Some of the stronger candidates did make this connection, and these candidates 
+generally went on to achieve full c redit for the question.  
+ 
+Question 9  
+ 
+(a) (i) The meaning of the random nature of radioactive decay was not well understood. Many candidates  
+appeared to  know that it concerned something being unpredictable but could not articulate that this 
+unpredictability is to do with when individual nuclei decay. Many candidates appeared to think that 
+everything about radioactive decay is unpredictable, which is not c orrect.  
+---PAGE 18---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+ 
+ (ii) This was much more successfully answered, with most candidates knowing that the inability of 
+external factors to affect the decay process is the meaning of the term spontaneous.  
+ 
+(b)  Many candidates found it difficult  to give an accurate definition of half -life. The time taken for the 
+activity of a sample to halve is the simplest definition to articulate. Candidates who went down the 
+number of undecayed nuclei route found it harder to be fully correct in their use of te rminology. 
+Responses such as the ‘time for nuclei to halve ’ were common.  
+ 
+(c)  Generally well -answered by candidates who appreciated that the data in the table is for binding 
+energy per nucleon . Those who thought they were total binding energies made no use of the 
+nucleon number data and just added/subtracted the binding energy per nucleon data. This 
+approach was incorrect physics and could not be awarded credit. Some candidates did correctly 
+calculate the 7.03 eV figure but then gave a negative answer , presumably just because of the way 
+around they performed the subtraction in their calculators. The question did ask for the energy 
+released  (not just transferred), and so the sign of the answer has significance , and full credit could 
+not be awarded to candidates who thought there was a negative release of energy.  
+ 
+(d) (i) A variety of responses was seen here, but many candidates did correctly deduce that the gradient 
+of the line represented the magnitude of the decay constant.  
+ 
+ (ii) Generally well -answered, with many correct answers seen to this question part.  
+ 
+(e) (i) Generally well -answered, with most candidates able to articulate that upon encounter with an 
+electron, the positron will undergo annihilation.  
+ 
+ (ii) Many candidates gave responses to this part that hinted towards some aspect  of what examiners 
+are looking for, but responses that only dealt with one half of the full answer were common. To be 
+awarded credit, candidates needed to establish why 2 hours is both not too long and not too short 
+for the half -life of the tracer.   
+ 
+Question 10  
+ 
+(a) (i) Candidates who knew the theory  were generally able to give a full definition of luminosity, as the 
+total radiant power of the star.  Many responses were partial answers.  
+ 
+ (ii) Many full and accurate descriptions were seen in response to this question, which directly 
+assesses the syllabus learning outcome concerning the use of standard candles to determine 
+distances to galaxies. For full credit, candidates needed to establish ho w the information about 
+luminosity and radiant flux intensity is established, and then how the equation linking them can be 
+used to calculate the distance.  
+ 
+(b) (i) For a relatively challenging ‘show that ’ question, that required various  topics within the syllabus to 
+be assembled , this question was well -answered. The candidates  that did compile all the relevant 
+physics together, establishing the speed of rotation and the relationship between speed, radius and 
+period, generally received  two of the three marks available. For the third mark, all elements of the 
+‘show that ’ working needed to be present, and there were some common reasons for not meeting  
+the requirements for that mark. One was not showing the working leading to the ∆λ value; one was 
+use of the incorrect wavelength in th e Doppler equation; one was omission of the speed of light in 
+the working, and the other was not showing how the period is used in the working. Full credit was 
+achieved by many candidates.  
+ 
+ (ii) Many candidates incorrectly assert ed that the observed wavelength will be larger due to redshift.  
+The stronger candidates realised that point Z on the Sun is moving towards the observer, and 
+hence the observed wavelength in this situation will be less than the emitted wavelength.  
+ 
+ (iii) Generally well -answered . 
+ 
+---PAGE 19---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+PHYSICS  
+ 
+ 
+Paper 9702 /52 
+Planning, Analysis and Evaluation  
+ 
+ 
+Key messages  
+ 
+• In Question 1 , candidates’ responses should include detailed explanations of experimental procedures 
+such as how to control variables, how to take measurements and how to analyse the data.  
+ 
+• In Question 2 , candidates need to understand that the number of decimal places in a logarithmic 
+quantity should correspond to the number of significant figures.  
+ 
+• The numerical answers towards the end of Question 2  require candidates to show all their working and 
+for the values to be correctly evaluated with appropriate units. A full understanding of significant figures 
+and the treatment of uncertainties is required.  
+ 
+• The practical skills required for this paper should be developed and practised with a ‘hands -on’ 
+approach throughout the course.  
+ 
+ 
+General comments  
+ 
+In Question 1 , it is advisable that candidates should think carefully about how they would perform the 
+experiment in the laboratory using the bullet points given to aid their answer. Planning a few key points 
+before answering Question 1  is useful.  
+ 
+Many candidates were successful in the analysis section with clear identification of how the constants could 
+be determined. Lower scoring candidates tended to suggest a suitable graph but were not explicit in how the 
+relationship could be proved or in how the values of  Y and Z could be determined . To score the additional 
+detail marks, candidates should take care to describe exactly how each measurement will be obtained, 
+including both the equipment used and the method to take the measurement. It is essential for candidates to 
+have experienced pract ical work in preparation for answering this question.  
+ 
+In Question 2 , candidates should be familiar with completing a results table for quantities and their 
+uncertainty, and with finding the gradient and y-intercept of a graph. For several candidates, credit was not 
+awarded because ; the plotted points were not balanced about the line of best fit , or the worst acceptable line 
+did not pass through the error bars correctly , or coordinates were wrongly read off when determining the 
+gradient and/or y-intercept.  
+ 
+The recording of the logarithmic quantities in 2(b) and the determination of the absolute uncertainty in 0 in 
+2(d)(ii)  were challenging for the candidates. Some candidates were confused by the negative value of the 
+gradient.  
+ 
+In question parts requiring mathematical manipulation, higher scoring candidates clearly stated the equation 
+used with correct substitution of numbers and then calculated the answer and unit. Candidates should be 
+encouraged to set out their working logical ly so that it can be understood.   
+ 
+ 
+Comments on specific questions  
+ 
+Question 1  
+ 
+Most candidates correctly identified the independent and dependent variables. Candidates should then 
+consider the control of variables and to explicitly state the quantities that need to be kept constant to make 
+the experiment a fair test. In this experime nt it was expected that candidates would state that V would be 
+---PAGE 20---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+kept constant. There was an additional credit for also stating that A, L and q would also be kept constant. 
+Credit was not given for stating ‘control’ V since this is just repeating the stem of the question and does not 
+indicate what is meant by ‘control’. Some low scoring candidates incorrectly stated that B or p should be kept 
+constant.  
+ 
+Candidates were awarded credit for a clearly labelled diagram. Diagrams should be drawn of the workable 
+experiment. In this experiment, it was expected that candidates would show the two cylinders correctly 
+connected to the resistor and power supply and im portantly indicate where point X was located. Many 
+candidates did not draw the cylinders in parallel.   
+ 
+Candidates needed to explain how the potential difference V was determined. High scoring candidates 
+correctly drew a voltmeter in parallel with the conductors. The common mistake was to place the voltmeter  in 
+parallel with the power supply thus measuring the potential difference across the conductors and the resistor. 
+Some high scoring candidates drew a variable resistor in their diagram and then gained an additional credit 
+by describing that the resistance of  the variable resistor was adjusted so that V was kept constant. Stating ‘I 
+will use a variable resistor to keep V constant ’ does not include enough description.  
+ 
+Candidates also gained credit for stating appropriate measuring instruments to measure L, p and q. 
+Apparatus drawn on its own, e.g. , a drawing of a rule , did not gain credit.   
+ 
+Many candidates stated the use of a Hall probe to determine B but did not give the method of measuring B. 
+Some suggested that the probe should be at right angles but did not state how this could be checked. There 
+were some excellent methods describ ing the rotation of the probe so that a maximum reading was obtained. 
+Additional credit was scored for repeating the measurement by reversing the probe and measuring in it in the 
+opposite direction and determining the mean. Credit was not gained for just stat ing that the measurement of 
+B was repeated and a mean determined.  
+ 
+Many candidates suggested correct axes for a graph. Candidates must explicitly state the quantities to be 
+plotted on each axis either in the text or on drawn axes – credit is not given for just writing y = mx + c under 
+an expression.   
+ 
+Candidates also needed to explain how the graph would confirm the suggested relationship. Candidates 
+need to use the words ‘relationship is valid if’ and the word ‘straight’ to describe the line. In this practical 
+credit was not given for stating that the straight line would pass through the origin since there would be a y-
+intercept. High scoring candidates often stated the y-intercept that the line would pass through.  Credit was 
+not awarded to candidates who did not correctly identify appropriate axes for a graph to plot.  
+ 
+Candidates needed to explain how they would determine a value for the constants Y and Z from the 
+experimental results using the gradient and y-intercept. To gain credit, the constants Y and Z had to be the 
+subject of the relevant equation. Credit was not awarded to candidates who did not correctly identify 
+appropriate axes for a graph to plot .   
+ 
+The additional detail section had a maximum of six marks that could be awarded. Candidates should be 
+encouraged to write their plans including appropriate detail; some candidates’ answers suggested that they 
+did not have sufficient practical experience. Vague responses were not credited. It is essential that 
+candidates’ answers are relevant to the planned experiment rather than general ‘textbook’ rules for working 
+in the laboratory. When describing safety precautions, candidates should be encouraged to explain how the 
+precaution proposed is relevant to the experiment. In this experiment, it was expected that candidates would 
+suggest usin g gloves or switching off the circuit because of the  heating effect  of the current in the cy lindrical 
+metal conductors  – the reason for the precaution was needed to gain credit.  
+ 
+Other additional detail which gained credit included a suitable method to determine A, e.g. , the use of a 
+micrometer or calipers to measure the diameter of the wire and then an appropriate equation to determine A. 
+Some lower scoring candidates did not gain credit for stating that ‘use a micrometer to determine A’ or ‘use a 
+micrometer to measure the radius of the wire ’. The physical measurement would be the diameter of the wire 
+and then A (and the radius) could be determined. There was additional credit awar ded for stating that the 
+measurements of the diameter of the wire would be repeated at different positions along the wire and a 
+mean value of diameter would be calculated – just repeating measurements of diameter did not gain credit.  
+ 
+Other additional detail that  gained credit included a detailed method to locate the position of X, additional 
+detail of determining p and q by using the edge of the cylinders and the radius or diameter of the cylinders, 
+detail on checking that P and Q were parallel and the method to fix Q so that distance q was kept constant.  
+ 
+---PAGE 21---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+Question 2  
+ 
+(a)  Candidates who were mathematically confident were able to work through the algebra and achieve 
+credit. Common errors included omitting the ‘ –’ sign. A few lower scoring candidates incorrectly 
+wrote ‘ln 0 – R’ as opposed to ‘ln (0 – R)’. Candidates should use the white space on the 
+question paper to rearrange the equation into an equation of a straight line.  
+ 
+(b)  The majority of candidates incorrectly calculated ln  (( – R) / °C) to two decimal places. Since  
+and R and (0 – R) are all three significant figures, ln  (( – R) / °C) should be recorded to three (or 
+four) decimal places. Many candidates correctly calculated the uncertainty in ln  (( – R) / °C). 
+Where errors occurred, it was often in not identifying that the uncertainty in (  – R) / °C was  1. 
+Candidates need to understand that when adding or subtracting quantities, the absolute 
+uncertainties are added.  
+ 
+(c) (i) The data points were straightforward to plot. It is expected that the data point plotted should be 
+clearly represented. The plotting needed to be within half a small square. When plotting points, the 
+diameter of each point should be less than half a small  square. Candidates need to ensure that the 
+error bars are symmetrical about their plotted data point.  
+ 
+ (ii) Most candidates appear to be using a sharp pencil and a transparent 30  cm ruler. For correctly 
+plotted data, the line of best fit did not pass through both the highest and lowest points. The worst 
+acceptable line was drawn well in general, and many higher candidates drew a line which passed 
+through all error bars. Candidates should clearly label the lines drawn as required by the question. 
+Clear labelling should also assist candidates when they determine the gradient and y-intercept. 
+Where a dashed li ne represents the worst acceptable line, the dashed parts of the line should 
+cross each of the error bars.  
+ 
+ (iii) Most candidates clearly demonstrated the points that they used to calculate the gradient. Some 
+candidates misread coordinates or did not use a triangle that covered more than half of the drawn 
+line. A small number of candidates chose data points that did not lie on the lines, often using data 
+from the table that is close to the line instead. Candidates should be encouraged to select two 
+points on the line of best fit which are easy to read, i.e. , the points are on grid lines. Some 
+candidates did not realise that the gradient was negative.  
+ 
+  When determining the uncertainty in the gradient, candidates need to show their working, including 
+the coordinates that they have used from the worst acceptable line and how the uncertainty is 
+determined from the gradients of the line of best -fit and the worst acceptable line.  
+ 
+ (iv) The majority of the candidates who  were awarded full credit set out their working clearly. Stronger 
+candidates often substituted data from the gradient calculation in (c)(iii)  into y = mx + c. Some 
+lower scoring candidates incorrectly read -off the y-intercept when the x-axis reading was 5.0.  
+ 
+  When determining the uncertainty in the y-intercept, candidates needed to show their working 
+including both the gradient and a data point from the worst acceptable line. In calculating the 
+absolute uncertainty, there must be evidence of subtraction between the y-intercept of the line of 
+best fit and the y-intercept of the worst acceptable line. Many candidates incorrectly attempted to 
+determine the uncertainty in the y-intercept by  either assuming that the fractional uncertainty in the 
+gradient was the same  as the fractional uncertainty in the y-intercept or adding fractional 
+uncertainties.  
+ 
+(d) (i) Credit was not gained for substituting data values from the table. Most candidates realised that the 
+constant K was equal to – 1 / gradient. Some lower scoring candidates appeared confused by the 
+negative signs. Some candidates did not gain credit since they did not give their values of K and 0 
+to an appropriate number of significant figures. Most candidates were able to calculate a value for 
+0 using the y-intercept. The common error in this question was the determination of units. Most 
+candidates  realised that 0 had the unit °C, but many candidates did not understand that K had the 
+unit of minute s. The common error was to write min °C-1. Some candidates converted the time to 
+seconds which gained credit with the correct unit.  
+ 
+ (ii) This was a  challenging question . To gain credit in this part, a clear method needed to be shown. 
+Many candidates incorrectly calculated an answer using a fractional uncertainty. Some candidates 
+---PAGE 22---
+Cambridge International Advanced Subsidiary and Advanced Level  
+9702  Physics  March  2025 
+Princip al Examiner Report for Teachers  
+ 
+  © 2025 
+realised that the absolute uncertainty was calculated by using the maximum or minimum values. 
+However, some of these candidates omitted to include the absolute uncertainty of 0.5 in R. 
+ 
+(e)  It was essential that candidates showed their method of working. High scoring candidates wrote 
+down the equation that they chose to use and clearly substituted in their values.  
+ 

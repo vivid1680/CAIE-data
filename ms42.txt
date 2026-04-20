@@ -1,0 +1,375 @@
+
+---PAGE 1---
+ 
+                                                                    
+  
+  
+This document consists of 14 printed pages.  
+ 
+© Cambridge University Press & Assessment  2025   
+[Turn over  
+ 
+Cambridge International AS & A Level  
+ 
+PHYSICS  9702 /42 
+Paper 4 A Level Structured Questions  February/March  2025  
+MARK SCHEME  
+Maximum Mark: 100 
+ 
+ 
+Published  
+ 
+ 
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the 
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the 
+details of the discussions that took place at an Examiners’ meeting before marking began, which woul d have 
+considered the acceptability of alternative answers.  
+ 
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for 
+Teachers.  
+ 
+Cambridge International will not enter into discussions about these mark schemes.  
+ 
+Cambridge International is publishing the mark schemes for the February/March  2025  series for most 
+Cambridge  IGCSE, Cambridge International A and AS Level  components , and some Cambridge O Level 
+components.  
+ 
+ 
+ 
+---PAGE 2---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 2 of 14  
+ Generic Marking Principles  
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alon gside the 
+specific content of the mark scheme or generic level descript ions for a question. Each question paper and mark scheme will also comply with these 
+marking principles.  
+ 
+GENERIC MARKING PRINCIPLE 1:  
+ 
+Marks must be awarded in line with:  
+ 
+• the specific content of the mark scheme or the generic level descriptors for the question  
+• the specific skills defined in the mark scheme or in the generic level descriptors for the question  
+• the standard of response required by a candidate as exemplified by the standardisation scripts.  
+GENERIC MARKING PRINCIPLE 2:  
+ 
+Marks awarded are always whole marks  (not half marks, or other fractions).  
+GENERIC MARKING PRINCIPLE 3:  
+ 
+Marks must be awarded positively : 
+ 
+• marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond 
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate  
+• marks are awarded when candidates clearly demonstrate what they know and can do  
+• marks are not deducted for errors  
+• marks are not deducted for omissions  
+• answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assess ed by the 
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.  
+GENERIC MARKING PRINCIPLE 4:  
+ 
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level 
+descriptors.  
+---PAGE 3---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 3 of 14  
+ GENERIC MARKING PRINCIPLE 5:  
+ 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the fu ll mark range may 
+be limited according to the quality of the candidate responses seen).  
+GENERIC MARKING PRINCIPLE 6:  
+ 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or 
+grade descriptors in mind.  
+ 
+ 
+Science -Specific Marking Principles  
+ 
+1 Examiners should consider the context and scientific use of any keywords when awarding marks. Although keywords may be presen t, marks 
+should not be awarded if the keywords are used incorrectly.  
+2 The examiner should not choose between contradictory statements given in the same question part, and credit should not be awa rded for 
+any correct statement that is contradicted within the same question part. Wrong science that is irrelevant to the questi on should be ignored.  
+3 Although spellings do not have to be correct, spellings of syllabus terms must allow for clear and unambiguous separation fro m other 
+syllabus terms with which they may be confused (e.g. ethane  / ethene, glucagon  / glycogen, refraction  / reflection).  
+4 The error carried forward (ecf) principle should be applied, where appropriate. If an incorrect answer is subsequently used i n a scientifically 
+correct way, the candidate should be awarded these subsequent marking points. Further guidance will be include d in the mark scheme 
+where necessary and any exceptions to this general principle will be noted.  
+5 ‘List rule’ guidance  
+ 
+For questions that require n responses (e.g. State two reasons …):  
+ 
+• The response should be read as continuous prose, even when numbered answer spaces are provided.  
+• Any response marked ignore  in the mark scheme should not count towards n. 
+• Incorrect responses should not be awarded credit but will still count towards n. 
+• Read the entire response to check for any responses that contradict those that would otherwise be credited. Credit should not be 
+awarded for any responses that are contradicted within the rest of the response. Where two responses contradict one another, this 
+should be treated as a single incorrect response.  
+• Non-contradictory responses after the first n responses may be ignored even if they include incorrect science.  
+---PAGE 4---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 4 of 14  
+ 6 Calculation specific guidance  
+ 
+Correct answers to calculations should be given full credit even if there is no working or incorrect working, unless  the question states ‘show 
+your working’.  
+ 
+For questions in which the number of significant figures required is not stated, credit should be awarded for correct answers  when rounded 
+by the examiner to the number of significant figures given in the mark scheme. This may not apply to measured values.   
+ 
+For answers given in standard form (e.g. a  10n) in which the convention of restricting the value of the coefficient ( a) to a value between 1 
+and 10 is not followed, credit may still be awarded if the answer can be converted to the answer given in the mark scheme.  
+ 
+Unless a separate mark is given for a unit, a missing or incorrect unit will normally mean that the final calculation mark is  not awarded. 
+Exceptions to this general principle will be noted in the mark scheme.  
+7 Guidance for chemical equations  
+ 
+Multiples / fractions of coefficients used in chemical equations are acceptable unless stated otherwise in the mark scheme.  
+ 
+State symbols given in an equation should be ignored unless asked for in the question or stated otherwise in the mark scheme.  
+ 
+ 
+  
+---PAGE 5---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 5 of 14  
+ Annotations guidance for centres  
+ 
+Examiners use a system of annotations as a shorthand for communicating their marking decisions to one another. Examiners are trained during the 
+standardisation process on how and when to use annotations. The purpose of annotations is to inform the standard isation and monitoring 
+processes and guide the supervising examiners when they are checking the work of examiners within their team. The meaning of annotations and 
+how they are used is specific to each component and is understood by all examiners who mark the component.  
+ 
+We publish annotations in our mark schemes to help centres understand the annotations they may see on copies of scripts. Note  that there may 
+not be a direct correlation between the number of annotations on a script and the mark awarded. Similarly, the use of an annotation may not be an 
+indication of the quality of the response.  
+ 
+The annotations listed below were available to examiners marking this component in this series.  
+ 
+Annotations  
+ 
+Annotation  Meaning  
+ information missing or insufficient for credit  
+ arithmetic error  
+ benefit of the doubt given  
+ contradiction in response, mark not awarded  
+ incorrect point or mark not awarded  
+ error carried forward applied  
+ ignore the response  
+
+---PAGE 6---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 6 of 14  
+ Annotation  Meaning  
+ mandatory mark not awarded  
+ power of ten error  
+ blank page seen  
+ error in number of significant figures  
+ transcription error  
+ correct point or mark awarded  
+ incorrect physics  
+ 
+ 
+  
+
+---PAGE 7---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 7 of 14  
+ Question  Answer  Marks  
+1(a) arrow vertically downwards labelled ‘weight’  and arrow perpendicular to cone, inwards and upwards, labelled ‘normal 
+contact force’  B1 
+1(b) vertical component of contact force = weight (so no resultant force vertically)  B1 
+ horizontal component of contact force is resultant force towards centre (of circle)  B1 
+1(c) a = v2 / r C1 
+ a = g tan 52°  C1 
+ 9.81  tan 52°  = v2 / 0.15 leading to  v = 1.4 m s–1 A1 
+1(d) v = r or a = r2 C1 
+  = 1.4 / 0.15 or √(9.81  tan 52°  / 0.15)  
+ = 9.3 rad  s–1 A1 
+1(e) same resultant force  / same acceleration so v2 is proportional to r (so if speed increases radius must also increase)  A1 
+   
+Question  Answer  Marks  
+2(a) sketch:  
+line from x = R to x = 4R entirely in the negative  region  B1 
+ curve with continuously decreasing magnitude and with gradient of continuously decreasing magnitude, starting at ( R, ) B1 
+ line passing through (2 R, ½) and (4R, ¼) B1 
+2(b) horizontal straight line from t = 0 to t = 24 hours  B1 
+ line starting at (0, –) B1 
+---PAGE 8---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 8 of 14  
+ Question  Answer  Marks  
+2(c) straight line with non -zero gradient from 0 to d B1 
+ line with negative gradient from (0, V) to ( d, 0) B1 
+   
+Question  Answer  Marks  
+3(a)(i)  (P and Q are at the) same temperature  B1 
+ no net transfer of thermal energy (between P and Q)  B1 
+3(a)(ii)  Q = mcT C1 
+ 24   103 = (0.54  390  T) + (0.37  910  T) C1 
+ T = 44  K A1 
+3(b)(i)  work done  = pV C1 
+  = (1.6  105)  (0.18 – 0.32)  C1 
+  = –2.2  104 J A1 
+3(b)(ii)  pV = NkT C1 
+ N = (1.6  105  0.18)  / (1.38  10–23  273) 
+ = 7.6  1024 A1 
+3(b)(iii)  ½m<c2> = (3 / 2)kT C1 
+ r.m.s. speed  = √[(3  1.38  10–23  (210 + 273)  / (4.7  10–26)] 
+ 
+ = 650  m s–1 A1 
+---PAGE 9---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 9 of 14  
+ Question  Answer  Marks  
+4(a)  = 2 / T C1 
+  = 2 / (0.15  10–6) = 4.2  107 rad  s–1 A1 
+4(b) a0 = 2x0 C1 
+  = (4.2  107)2  40  10–6 
+ = 7.1  1010 m s–2 A1 
+4(c) E = ½m2xo2 C1 
+  = ½  2.4  10–4  (4.2  107)2  (40  10–6)2 C1 
+  = 340  J A1 
+4(d)(i)  apply alternating p.d. (to  / across crystal)  B1 
+ applying p.d. to  / across crystal causes it to distort  B1 
+4(d)(ii)  Z =  c 
+ 
+Zm = 1100  1600  (= 1.76  106) 
+Zb = 1900  4100  (= 7.79  106) C1 
+ intensity reflection co -efficient = [(7.79 – 1.76)  / (7.79 + 1.76)]2 
+ 
+ = 0.40 or 40% C1 
+ percentage transmitted  = 60% A1 
+---PAGE 10---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 10 of 14  
+ Question  Answer  Marks  
+5(a) Q = Q1 = Q2 and V = V1 + V2 M1 
+ V = Q / C so: 
+Q / C = Q / C1 + Q / C2 leading to  1 / C = 1 / C1 + 1 / C2 A1 
+5(b) total capacitance  = C + ½C = (3 / 2)C C1 
+ total capacitance  = gradient  
+ = 400  10–6 / 6.0 C1 
+ either : C = (2  400  10–6) / (3  6.0) = 4.4  10–5 F = 44  F 
+or: C = (2  400) / (3  6.0) = 44  F A1 
+5(c)(i)  τ = RC C1 
+  = 54  103  (3/2)  44  10–6 
+ = 3.6  s A1 
+5(c)(ii)  0.15 = exp(–t / 3.6) C1 
+ t = 6.8  s A1 
+   
+Question  Answer  Marks  
+6(a) FB = FE B1 
+ either : Bqu = qE and E = V / d leading to  u = V / Bd 
+or: Bqu = qV / d leading to  u = V / Bd B1 
+---PAGE 11---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 11 of 14  
+ Question  Answer  Marks  
+6(b) EK = ½mu2 C1 
+ u = √[(2  4.1  10–17) / (3.2  10–27)] 
+ = 1.6  105 m s–1 C1 
+ B = 980 / (3.6  10–2  1.6  105) 
+  
+ = 0.17  T A1 
+6(c) expression is independent of mass and charge  A1 
+6(d) either : electric force  is downwards so magnetic force is upwards  
+or: no resultant force  so magnetic force is upwards  B1 
+ (positive ions so) current is from left to right  B1 
+ from (Fleming’s) left -hand rule, magnetic field is into the page  B1 
+6(e) curved path inside plates with consistent direction of curvature and with no discontinuity at entry or in curvature  B1 
+ direction of deflection is upwards  B1 
+   
+Question  Answer  Marks  
+7(a) (induced) e.m.f. is (directly) proportional to rate  M1 
+ of change of (magnetic) flux (linkage)  A1 
+7(b)(i)  (uniform acceleration so) velocity is (directly) proportional to time  M1 
+ (Fig. 7.2 shows) e.m.f. is (directly) proportional to time so E is proportional to v. A1 
+---PAGE 12---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 12 of 14  
+ Question  Answer  Marks  
+7(b)(ii)  (v = at so) distance moved in time t = att C1 
+  = BA C1 
+ E = ( / t) = B  L  (att) / t = BLat A1 
+7(b)(iii)  B = (0.30  10–3) / (0.45  7.8  2.0) C1 
+  = 4.3  10–5 T A1 
+   
+Question  Answer  Marks  
+8(a) • quantum of energy  M1 
+ • of electromagnetic radiation  A1 
+8(b)(i)  ()E = hc /  C1 
+  = (6.63  10–34  3.00  108) / (1.96  1.60  10–19) C1 
+  = 6.3  10–7 m A1 
+8(b)(ii)  number per unit time  = power  / energy per photon  
+ 
+ = (1.0  10–2) / (1.96  1.60  10–19) 
+ 
+ = 3.2  1016 s–1 A1 
+---PAGE 13---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 13 of 14  
+ Question  Answer  Marks  
+8(b)(iii)  either : force  = rate of change of momentum  
+or: F = p / t C1 
+ p = E / c C1 
+ half the photons have change in momentum p, the other half have change in momentum 2 p C1 
+ F = [(1.96  1.60  10–19) / (3.00  108)]  3.2  1016  [(2 + 1)  / 2] 
+ 
+ = 5.0  10–11 N A1 
+   
+Question  Answer  Marks  
+9(a)(i) either : cannot predict when a (particular) nucleus will decay  
+or: cannot predict which nucleus will decay next  B1 
+9(a)(ii)  not affected by external  / environmental factors  B1 
+9(b) time for activity to halve  B1 
+9(c) energy  = (189  7.826) + (4  7.074) – (193  7.774)  C1 
+  = 7.03  eV A1 
+9(d)(i)  decay constant  A1 
+9(d)(ii)  decay constant  / magnitude of gradient  = 1.4 / 0.84 C1 
+ half-life = ln2 / (1.4 / 0.84)  
+ = 0.42  ms A1 
+9(e)(i)  positrons collide with electrons and annihilate  B1 
+9(e)(ii)  long enough to have time to conduct investigation, not so long as to cause patient unnecessary  exposure to radiation  B1 
+---PAGE 14---
+9702 /42 Cambridge International AS & A Level  – Mark Scheme  
+PUBLISHED  February/March  2025   
+ 
+© Cambridge University Press & Assessment  2025  Page 14 of 14  
+ Question  Answer  Marks  
+10(a)(i)  total power of radiation emitted (by the star)  B1 
+10(a)(ii)  standard candle has known luminosity  B1 
+ measure the radiant flux intensity  B1 
+ use F = L / (4d 2) to calculate d B1 
+10(b)(i)  v = 2R / T C1 
+ v = 3.00  108  (656.2877 – 656.2831)  / 656.2831  C1 
+ R = [3.00  108  (656.2877 – 656.2831)  / 656.2831]  (2.07  106) / 2 = 6.93  108 m A1 
+10(b)(ii)  Z is moving towards Earth  M1 
+ so observed wavelength is less than the emitted wavelength  A1 
+10(b)(iii)  L = 4 r 2T  4 
+3.8  1026 = 4  5.67  10–8  (6.93  108)2  T  4 C1 
+ T = 5800  K A1 
+ 

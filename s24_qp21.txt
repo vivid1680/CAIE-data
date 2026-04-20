@@ -1,0 +1,351 @@
+
+---PAGE 1---
+This document has 20 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS & A Level
+DC (CE/SW) 329784/4
+© UCLES 2024
+*8514556844*
+PHYSICS 9702/21
+Paper 2 AS Level Structured Questions May/June 2024
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+---PAGE 2---
+2
+9702/21/M/J/24© UCLES 2024
+Data
+acceleration of free fall g	 =	 9.81 m s –2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	 × 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K –1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ ( 4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+---PAGE 3---
+3
+9702/21/M/J/24© UCLES 2024 [Turn over
+BLANK PAGE
+---PAGE 4---
+4
+9702/21/M/J/24© UCLES 2024
+1 The drag force FD acting on an object falling through air is given by
+FD = 1
+2 CρAv 2
+ where A is the cross-sectional area of the object,
+   v is the velocity of the object in the air,
+   ρ is the density of the air and
+   C is a constant called the drag coefficient.
+ (a) Use SI base units to show that the drag coefficient has no units.
+ [3]
+ (b) Fig. 1.1 shows a sphere falling at terminal velocity in air. 
+sphere
+terminal
+velocity
+Fig. 1.1
+  Assume that the upthrust on the sphere is negligible.
+  On Fig. 1.1, draw and label arrows to show the directions of the two forces acting on the 
+sphere. [2]
+ (c) The mass of the sphere is 49 g.
+  Calculate the drag force FD acting on the sphere.
+ FD =  ......................................................N [2]
+---PAGE 5---
+5
+9702/21/M/J/24© UCLES 2024 [Turn over
+ (d) The sphere is falling in air at a terminal velocity of 25 in SI base units.
+  The density of the air is 1.2 in SI base units.
+  The diameter of the sphere is 0.060 in SI base units.
+  Use your answer in (c) to calculate the drag coefficient C for the sphere.
+ C =  ......................................................... [3]
+ [Total: 10]
+---PAGE 6---
+6
+9702/21/M/J/24© UCLES 2024
+2 (a) Define velocity.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A student throws a ball over a vertical wall of height h, as shown in Fig. 2.1.
+40°
+1.2 m
+36 m
+path of ball
+wall
+h horizontal
+ground
+22 m s–1
+ball
+Fig. 2.1 (not to scale)
+  The ball leaves the hand of the student at a height of 1.2 m above the horizontal ground.
+  The ball has an initial velocity of 22 m s–1 at an angle of 40° to the horizontal.
+  The wall is a horizontal distance of 36 m from where the student releases the ball.
+  Air resistance is negligible.
+  (i) Determine the time taken for the ball to reach the wall.
+ time taken =  .......................................................s [2]
+---PAGE 7---
+7
+9702/21/M/J/24© UCLES 2024 [Turn over
+  (ii) Calculate the vertical component u of the initial velocity of the ball.
+ u =  .................................................m s–1 [1]
+  (iii) The ball just goes over the wall. 
+   Calculate the height h of the wall.
+ h =  ......................................................m [3]
+ [Total: 7]
+---PAGE 8---
+8
+9702/21/M/J/24© UCLES 2024
+3 (a) State the principle of conservation of momentum.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) An object of mass 2m is travelling at a speed of 5.0  m s–1 in a straight line. It collides with an 
+object of mass 3m which is initially stationary, as shown in Fig. 3.1.
+object, mass 2m object, mass 3m
+5.0 m s–1
+Fig. 3.1
+  After the collision, the object of mass 2 m moves with velocity v at an angle of 30° to its 
+original direction of motion.
+  The object of mass 3m moves with velocity w also at an angle of 30°, as shown in Fig. 3.2.
+object, mass 2m
+original path 30°
+30°
+object, mass 3m
+w
+v
+Fig. 3.2
+---PAGE 9---
+9
+9702/21/M/J/24© UCLES 2024 [Turn over
+  By considering the conservation of momentum in two dimensions, calculate the magnitudes 
+of v and w.
+ v =  ...................................................... m s–1 
+ w =  ...................................................... m s–1
+ [4]
+ (c) An object of mass 4.2  kg is travelling in a straight line at a speed of 6.0  m s–1. The object is 
+brought to rest in a distance of 0.050 m by a constant force.
+  Calculate the magnitude of this force.
+ force =  ......................................................N [3]
+ [Total: 9]
+---PAGE 10---
+10
+9702/21/M/J/24© UCLES 2024
+4 (a) Define strain.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A copper wire of length 4.0 m has a uniform cross-sectional area of 4.5 × 10–7 m2.
+  A tensile force of 18 N is applied to the wire. This causes the wire to extend by 1.4  mm up to 
+its limit of proportionality. 
+  (i) Calculate the Young modulus of the wire.
+ Young modulus =  .....................................................Pa [3]
+---PAGE 11---
+11
+9702/21/M/J/24© UCLES 2024 [Turn over
+  (ii) On Fig. 4.1, draw a line to show how the stress varies with the strain for the wire up to its 
+limit of proportionality.
+0
+0
+1
+2
+3
+4
+5
+1 2 3
+strain / 10 – 4
+stress / 107 Pa
+4 5
+Fig. 4.1
+ [2]
+ (c) A second copper wire has the same length as the wire in (b) but a larger diameter. Both wires 
+are subjected to a tensile force of 18 N.
+  By placing a tick (3) in each row, complete Table 4.1 to compare the stress and strain of the 
+two wires.
+Table 4.1
+greater in 
+second wire
+less in 
+second wire
+the same in 
+both wires
+stress
+strain
+ [2]
+ [Total: 8]
+---PAGE 12---
+12
+9702/21/M/J/24© UCLES 2024
+5 A stretched string PQ has length 1.2 m. One end of the string is attached to a vibration generator 
+and the other end is attached to a wall, as shown in Fig. 5.1.
+wall
+string
+vibration
+generator
+1.2 m
+QP
+Fig. 5.1
+ The vibration generator is switched on and a stationary wave is formed on the string. The string is 
+shown at one instant of time in Fig. 5.2.
+P Q
+Fig. 5.2
+ (a) Explain how a stationary wave is formed between the vibration generator and the wall.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) Calculate the wavelength of the stationary wave shown in Fig. 5.2.
+ wavelength =  ......................................................m [1]
+---PAGE 13---
+13
+9702/21/M/J/24© UCLES 2024 [Turn over
+ (c) Fig. 5.3 shows the stationary wave at time t = 0 when all points on the wave are at their 
+maximum displacements.
+P Q
+Fig. 5.3
+  The period of the wave is 0.16 s.
+  On Fig. 5.3, sketch the shape of the stationary wave at time t = 0.24 s. [2]
+ (d) Points R and T on the string are a horizontal distance of 0.30  m apart and in the positions 
+shown in Fig. 5.4.
+R
+0.30 m
+T
+Fig. 5.4
+  State the phase difference between the oscillations of points R and T.
+ phase difference =  ....................................................... ° [1]
+ (e) Calculate the speed of the progressive waves on the stretched string.
+ speed =  .................................................m s–1 [2]
+ [Total: 8]
+---PAGE 14---
+14
+9702/21/M/J/24© UCLES 2024
+6 (a) State Kirchhoff’s first law.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A cell with internal resistance r is connected to two resistors of resistances R1 and R2 as 
+shown in Fig. 6.1.
+R1 R2
+r
+I
+Fig. 6.1
+  The potential differences (p.d.s) across R1 and R2 are V1 and V2 respectively.
+  The terminal p.d. across the cell is V.
+  The current in the circuit is I.
+  Use Kirchhoff’s laws to show that the total resistance RT of the external circuit is given by 
+RT = R1 + R2 .
+ [2]
+---PAGE 15---
+15
+9702/21/M/J/24© UCLES 2024 [Turn over
+ (c) The electromotive force (e.m.f.) of the cell in Fig. 6.1 is 1.50 V. 
+  The values of R1 and R2 are 10 Ω and 15 Ω respectively. The terminal p.d. of the cell is 1.35 V.
+  Calculate the internal resistance r of the cell.
+ r =  ...................................................... Ω [3]
+ (d) A resistor of resistance R3 is added to the circuit in Fig. 6.1, so that the circuit is as shown in 
+Fig. 6.2.
+R1
+R3
+r
+R2
+Fig. 6.2
+  State and explain the effect, if any, of this change on:
+  (i) the current in the cell
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) the terminal p.d. of the cell.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ [Total: 10]
+---PAGE 16---
+16
+9702/21/M/J/24© UCLES 2024
+7 Nuclei of an isotope of copper (Cu) each have 29 protons and 37 neutrons. This isotope is 
+a β– emitter.
+ (a) State the nuclide notation in the form A
+Z X for this nucleus of copper.
+ [1]
+ (b) The energy spectrum of the β– radiation emitted by a sample of this isotope is shown in 
+Fig. 7.1.
+kinetic energy
+of β– particle
+number of β–
+particles
+00
+Fig. 7.1
+  (i) Use Fig. 7.1 to explain why other particles apart from the β– particles must be emitted 
+during this decay.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+  (ii) State the name of the other particle emitted during the decay of this isotope.
+ ..................................................................................................................................... [1]
+---PAGE 17---
+17
+9702/21/M/J/24© UCLES 2024
+  (iii) The copper isotope decays to an isotope of zinc (Zn).
+   Give the radioactive decay equation for this decay. Include the nucleon and proton 
+numbers of all the particles involved.
+ [3]
+  [Total: 8]
+---PAGE 18---
+18
+9702/21/M/J/24© UCLES 2024
+BLANK PAGE
+---PAGE 19---
+19
+9702/21/M/J/24© UCLES 2024
+BLANK PAGE
+---PAGE 20---
+20
+9702/21/M/J/24© UCLES 2024
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE

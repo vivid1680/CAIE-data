@@ -1,0 +1,414 @@
+
+---PAGE 1---
+This document has 16 pages. Any blank pages are indicated.
+ [Turn over
+*9853252632*
+Cambridge International AS  & A Level
+DC (DE/CGW) 336942/2
+© UCLES 2024
+PHYSICS 9702/21
+Paper 2 AS Level Structured Questions October/November 2024
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+,	,
+* 0000800000001 *
+¬O. 4mHuOªE_y5W
+¬a;s\£¨ctuARuzK¡
+¥55¥U¥5¥U5U
+
+---PAGE 2---
+2
+9702/21/O/N/24© UCLES 2024
+Data
+acceleration of free fall g	 =	 9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÞû·þ×
+Ĭá¹ôÙħăĂÜýăÞĪÿÊóĩĂ
+ĥÕåĕõõåµµåÕÅąõąĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 3---
+3
+9702/21/O/N/24© UCLES 2024 [Turn over
+BLANK PAGE
+* 0000800000003 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÞù·þ×
+ĬáºóÑġÿòÝûîī®÷ĎóęĂ
+ĥÕÕÕµĕÅÕåÕąÅąĕĥÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 4---
+4
+9702/21/O/N/24© UCLES 2024
+1 (a) Define density.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) Fig. 1.1 shows a cuboidal glass block.
+z
+x
+y
+Fig. 1.1 (not to scale)
+  A  student measures the mass m of the block and the side lengths x, y and z. The 
+measurements are shown in Table 1.1.
+Table 1.1
+quantity measurement
+m (0.243 ± 0.001) kg
+x (5.41 ± 0.01) cm
+y (11.09 ± 0.01) cm
+z (1.62 ± 0.01) cm
+* 0000800000004 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊàû·Ā×
+ĬáºòÑīí÷ÚõõĤĐÛ°ģġĂ
+ĥĥąÕõĕÅõÅõõÅÅĕÅÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 5---
+5
+9702/21/O/N/24© UCLES 2024 [Turn over
+  (i) Determine the density of the glass.
+ density =  .............................................. kg m–3 [2]
+  (ii) Calculate the percentage uncertainty in the density.
+ percentage uncertainty =  ......................................................% [3]
+ (c) The true value of the density of the glass is dif ferent from the answer in (b)(i) because of a 
+systematic error in the measurements.
+  Suggest one possible cause of this systematic error .
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ [Total: 7]
+* 0000800000005 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊàù·Ā×
+Ĭá¹ñÙĝñćßăČåÌãĬģđĂ
+ĥĥõĕµõåĕÕąåÅÅõåĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 6---
+6
+9702/21/O/N/24© UCLES 2024
+2 (a) Define linear momentum.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A car of mass 1800 kg is moving in a straight line. Fig. 2.1 shows the variation with time t of 
+the momentum p of the car.
+0
+0
+2
+4
+6
+8
+2 4 6 8 10
+t / s
+p / 104 N s
+12
+Fig. 2.1
+  (i) Calculate the maximum speed reached by the car.
+ maximum speed =  ................................................ m s–1 [1]
+  (ii) Calculate the maximum kinetic energy of the car.
+ maximum kinetic energy =  ....................................................... J [2]
+* 0000800000006 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÝù¶þ×
+ĬáºñÖħęýçĈùÐìÛĉËġĂ
+ĥµÕĕµÕåµĕĥąÅąõąÕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 7---
+7
+9702/21/O/N/24© UCLES 2024 [Turn over
+  (iii) Show that the acceleration of the car at time t = 4.0 s is 5.0 m s–2.
+ [2]
+  (iv) Determine the distance travelled by the car between times t = 0 and t = 12.0 s.
+ distance =  ...................................................... m [2]
+ (c) On Fig. 2.2, sketch the variation with time t of the acceleration a of the car in (b) from t = 0 to 
+t = 12.0 s.
+−10
+−5
+0
+5
+10
+a / m s−2
+0 2 4 6 8 10
+t / s
+12
+Fig. 2.2
+ [3]
+ [Total: 11]
+* 0000800000007 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÝû¶þ×
+Ĭá¹òÎġĕíÒòĈęðãÍËđĂ
+ĥµåÕõµÅÕąĕÕÅąĕĥĕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 8---
+8
+9702/21/O/N/24© UCLES 2024
+3 (a) State what is meant by the work done by a force.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A block of mass m is raised vertically at constant speed. The vertical height gained by the 
+block is Δh, as shown in Fig. 3.1.
+Δh
+block,
+mass m
+Fig. 3.1
+  Derive an expression, in terms of m and Δh, for the change in gravitational potential energy 
+ΔEP of the block. State the meaning of any other symbols you use.
+ [2]
+ (c) An electric motor has an input power of 900 W. The motor takes 1.0 minute to lift a load 
+of weight 240 N at constant speed through a vertical height of 150 m. Resistive forces are 
+negligible.
+  (i) Show that the work done by the motor on the load in 1.0 minute is 36 kJ.
+ [1]
+* 0000800000008 *
+,		,
+ĬÑĊ®Ġ´íÈõÏĪÅĊßù¶Ā×
+Ĭá¹óÎīħüåðÿĒÎÿïÛĩĂ
+ĥąõÕµµÅõĥµåÅÅĕÅĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 9---
+9
+9702/21/O/N/24© UCLES 2024 [Turn over
+  (ii) Determine the useful output power of the motor.
+ power =  ..................................................... W [2]
+  (iii) Use your answer in (c)(ii) to determine the efficiency of the motor.
+ efficiency =  ......................................................... [2]
+  (iv) Some of the power wasted in the motor is dissipated by the resistance of its coil. This 
+dissipated power is 280 W.
+   The coil of the motor is made from wire of total length 23 m. The wire has a cross-
+sectional area of 2.6 × 10–8 m2 and is made from metal of resistivity 1.7 × 10–8 Ω m.
+   Calculate the current in the coil.
+ current =  ....................................................... A [3]
+ [Total: 11]
+* 0000800000009 *
+,	
+,
+ĬÓĊ®Ġ´íÈõÏĪÅĊßû¶Ā×
+ĬáºôÖĝīČÔĊò×Ċ÷ëÛęĂ
+ĥąąĕõÕåĕõÅõÅÅõåÕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 10---
+10
+9702/21/O/N/24© UCLES 2024
+4 (a) Define the Young modulus of a material.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A metal wire P that obeys Hooke’s law is stretched within its limit of proportionality.
+  (i) On Fig. 4.1, sketch the variation of tensile force F in the wire with its extension x.
+0
+0
+F
+x
+Fig. 4.1
+ [1]
+  (ii) State the name of the quantity represented by the gradient of the line in Fig. 4.1.
+ ..................................................................................................................................... [1]
+  (iii) State the name of the quantity represented by the area under the line in Fig. 4.1.
+ ..................................................................................................................................... [1]
+ (c) Another wire Q is made from a metal that has twice the Young modulus of the metal of wire P 
+in (b). Wire Q has the same volume as wire P  but has double the cross-sectional area of 
+wire P.
+  The two wires are extended by equal tensile forces within their limits of proportionality .
+  State and explain how the extension of wire  Q compares with the extension of wire P.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ [Total: 7]
+* 0000800000010 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÞù¸þ×
+Ĭá¼ó×ĩğĞë÷Ĉ¼²ýěģđĂ
+ĥÕĕĕµµĥõÅąåąÅµÅĕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 11---
+11
+9702/21/O/N/24© UCLES 2024 [Turn over
+5 (a) Potassium-40 (40
+19K) undergoes β– decay to form a nuclide of element X. Particle Z is emitted 
+during the decay. The equation for the decay is shown.
+40
+19K  P
+Q X + R
+S β– + Z
+  (i) State the values of P, Q, R and S.
+   P = ................................................. R = .................................................
+   Q = ................................................. S = .................................................
+ [2]
+  (ii) State the name of particle Z.
+ ..................................................................................................................................... [1]
+  (iii) State the name of the class of fundamental particle to which both the β – particle and 
+particle Z belong.
+ ..................................................................................................................................... [1]
+ (b) Determine the quark composition of an alpha-particle.
+ quark composition  ......................................................... [3]
+ [Total: 7]
+* 0000800000011 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÞû¸þ×
+Ĭá»ôÏğģĎÎāùíĦõ¿ģġĂ
+ĥÕĥÕõÕąĕÕõõąÅÕåÕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 12---
+12
+9702/21/O/N/24© UCLES 2024
+6 Two coherent sources X and Y of microwaves of frequency 2.5 × 1010 Hz are a distance of 0.18 m 
+apart in a vacuum, as shown in Fig. 6.1.
+P
+Q
+2.3 m
+0.18 m
+A
+O
+X
+Y
+Fig. 6.1 (not to scale)
+ There is a phase difference of 90° between the waves emitted at the two sources.
+ A microwave detector moves along the line PQ, which is parallel to the line joining the two sources 
+and 2.3 m away from it.
+ Point O is on the line PQ at a position that is equidistant from the two sources.
+ Point A is the position on line PQ where the intensity of the microwaves is the greatest.
+ (a) (i) Explain why the position of greatest intensity is not at point O.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) On Fig. 6.1, draw a cross (×) to show the position of the point on line PQ where the 
+intensity minimum that is the closest to point O occurs. Label this point B. [2]
+* 0000800000012 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊàù¸Ā×
+Ĭá»ñÏĥđěéÿòöÈÙĝóęĂ
+ĥĥµÕµÕąµµÕąąąÕąÕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 13---
+13
+9702/21/O/N/24© UCLES 2024 [Turn over
+ (b) (i) Show that the wavelength of the microwaves is 0.012 m.
+ [2]
+  (ii) For point A on line PQ, determine the dif ference in the distances Δx travelled by the 
+microwaves from X and the microwaves from Y.
+ Δx =  ...................................................... m [1]
+  (iii) Use the formula for the double-slit interference of light to calculate the distance between 
+adjacent intensity maxima on line PQ.
+ distance =  ...................................................... m [2]
+ [Total: 9]
+* 0000800000013 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊàû¸Ā×
+Ĭá¼ò×ģčīÐùÿ³Ĕá¹óĩĂ
+ĥĥÅĕõµĥÕååÕąąµĥĕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 14---
+14
+9702/21/O/N/24© UCLES 2024
+7 (a) Fig. 7.1 shows two resistors connected in series with a cell of electromotive force (e.m.f.) 
+1.50 V and internal resistance 0.28 Ω.
+1.0 Ω
+1.50 V
+I
+0.28 Ω
+R
+Fig. 7.1
+  One of the resistors has resistance 1.0 Ω. The other resistor has resistance R.
+  The terminal potential difference (p.d.) across the cell is 1.36 V.
+  (i) Show that the current I in the circuit is 0.50 A.
+ [2]
+  (ii) Calculate the combined resistance of the two resistors.
+ resistance =  ...................................................... Ω [2]
+  (iii) Use your answer in (a)(ii) to determine resistance R.
+ R =  ...................................................... Ω [1]
+* 0000800000014 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊßüµĂ×
+Ĭá»ôÖĝĢēÞïČĐ°ü­ÃġĂ
+ĥÅÅÕµÕåõÅµÕÅÅõÅÕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 15---
+15
+9702/21/O/N/24© UCLES 2024
+ (b) The circuit in Fig. 7.1 is disconnected and the two resistors are reconnected to the cell, now 
+in parallel with each other.
+  (i) On Fig. 7.2, complete the circuit diagram to show this arrangement.
+1.50 V
+0.28 Ω
+Fig. 7.2
+ [1]
+  (ii) Explain, without calculation, whether the terminal p.d. across the cell is now less than, 
+equal to or greater than 1.36 V.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ [Total: 8]
+* 0000800000015 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊßúµĂ×
+Ĭá¼óÎīĞģÛĉõÙĬĄĩÃđĂ
+ĥÅµĕõµÅĕÕÅąÅÅĕåĕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 16---
+16
+9702/21/O/N/24© UCLES 2024
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE
+* 0000800000016 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÝüµĄ×
+Ĭá¼òÎġĐĦàćîÒÊàËÓĩĂ
+ĥõĥĕµµÅµµĥõÅąĕąĕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN

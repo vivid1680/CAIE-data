@@ -1,0 +1,330 @@
+
+---PAGE 1---
+This document has 16 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS & A Level
+*3393894944*
+PHYSICS 9702/22
+Paper 2 AS Level Structured Questions February/March 2024
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+DC (PB/SW) 331324/3
+© UCLES 2024
+---PAGE 2---
+2
+9702/22/F/M/24© UCLES 2024
+Data
+acceleration of free fall g	 =	 9.81 m s –2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	 × 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K –1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ ( 4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+---PAGE 3---
+3
+9702/22/F/M/24© UCLES 2024 [Turn over
+BLANK PAGE
+---PAGE 4---
+4
+9702/22/F/M/24© UCLES 2024
+1 (a) Table 1.1 lists some SI quantities. Complete the table by indicating with a tick (✓) which rows 
+are SI base quantities.
+Table 1.1
+quantity base quantity
+current
+energy
+force
+mass
+ [1]
+ (b) Use the definition of power to determine its SI base units.
+ SI base units  ......................................................... [2]
+ (c) A light meter is used to measure the intensity of light in a classroom. Daylight is incident 
+normally on the sensor of the meter. The sensor has an area of 2.2  cm2. The reading on the 
+meter is 950 W m–2.
+  Calculate the power of the daylight incident on the sensor.
+ power =  ..................................................... W [3]
+ [Total: 6]
+---PAGE 5---
+5
+9702/22/F/M/24© UCLES 2024 [Turn over
+BLANK PAGE
+---PAGE 6---
+6
+9702/22/F/M/24© UCLES 2024
+2 (a) Define acceleration.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) An Olympic diver stands on a platform above a pool of water, as shown in Fig. 2.1.
+60°
+platform
+5.9 m s–1
+1.2 m
+9.0 m
+horizontal
+surface of water
+diver
+Fig. 2.1 (not to scale)
+  When the diver is on the platform his centre of gravity is a vertical height of 9.0  m above the 
+surface of the water. The diver jumps from the platform with a velocity of 5.9 m s–1 at an angle 
+of 60° to the horizontal.
+  Air resistance is negligible.
+  When the diver hits the surface of the water, his centre of gravity is a vertical height of 1.2  m 
+above the surface of the water.
+  Calculate the speed of the diver at the instant he hits the surface of the water.
+ speed =  ................................................ m s–1 [3]
+---PAGE 7---
+7
+9702/22/F/M/24© UCLES 2024 [Turn over
+ (c) The diver in (b) enters the water and decelerates.
+  (i) Describe and explain the variation of the viscous drag force acting on the diver in the 
+water as he moves downwards. 
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) The diver has a volume of 7.5 × 10–2 m3 . The density of the water is 1.0 × 103 kg m–3 .
+   Show that the upthrust acting on the diver when he is entirely underwater is 740 N.
+ [1]
+  (iii) At a particular instant when the diver is entirely underwater his horizontal velocity is zero. 
+The viscous drag force acting on him at this instant is 950 N vertically upwards. The diver 
+has mass 78 kg.
+   Determine the magnitude and direction of the acceleration of the diver.
+ acceleration =  ...................................................... m s–2
+ direction  ...............................................................
+ [4]
+ [Total: 11]
+---PAGE 8---
+8
+9702/22/F/M/24© UCLES 2024
+3 A thin metal wire X, of diameter 1.2  × 10–3 m, is used to suspend a model planet, as  shown in 
+Fig. 3.1.
+model planet
+wire X
+Fig. 3.1 (not to scale)
+ The variation with strain of the stress for wire X is shown in Fig. 3.2.
+0
+0
+0.2
+0.4
+0.6
+0.8
+stress / GPa
+strain / 10–3
+1.0
+2 4 6 8 10
+Fig. 3.2
+---PAGE 9---
+9
+9702/22/F/M/24© UCLES 2024 [Turn over
+ (a) The strain in X is 5.4 × 10–3.
+  (i) Use Fig. 3.2 to calculate the force exerted on the wire by the model planet.
+ force =  ..................................................... N [3]
+  (ii) The elastic potential energy of X is 0.31 J.
+   Calculate the original length of the wire before the model planet was attached.
+ original length =  ..................................................... m [3]
+ (b) Wire X is replaced by a new wire, Y, with the same original length and diameter but double 
+the Young modulus of X. Wire Y also obeys Hooke’s law.
+  On Fig. 3.2, draw a line representing the variation with strain of the stress for Y. [2]
+ [Total: 8]
+---PAGE 10---
+10
+9702/22/F/M/24© UCLES 2024
+4 A nucleus P undergoes α-decay to form nucleus Q.
+ (a) Complete the equation for this decay. 
+[2]
+215
+84 P  
+___
+___ Q + 
+___
+___ α
+ (b) (i) State the principle of conservation of momentum.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) Before the decay, nucleus P has a speed of 3.2  × 105 m s–1. After the decay, nucleus Q 
+is stationary.
+   Calculate the speed of the alpha particle after the decay.
+ speed =  ................................................ m s–1 [2]
+ [Total: 6]
+---PAGE 11---
+11
+9702/22/F/M/24© UCLES 2024 [Turn over
+5 (a) By reference to the direction of propagation of energy, state what is meant by a 
+transverse wave.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A space telescope is designed to detect electromagnetic radiation with wavelengths in the 
+range 12 μm to 28 μm.
+  State the region of the electromagnetic spectrum for this radiation.
+ ............................................................................................................................................. [1]
+ (c) A detector on another space telescope detects an electromagnetic wave. The signal from 
+the detector is transmitted to Earth and displayed on an oscilloscope as shown in Fig.  5.1. 
+The frequency of the signal displayed on the oscilloscope is equal to the frequency of the 
+detected electromagnetic wave.
+1.0 cm
+1.0 cm
+Fig. 5.1
+  The time-base setting on the oscilloscope is 5.0 × 10–15 s cm–1.
+  Calculate the wavelength of the detected electromagnetic wave.
+ wavelength =  ..................................................... m [3]
+ [Total: 5]
+---PAGE 12---
+12
+9702/22/F/M/24© UCLES 2024
+6 (a) Coherent visible light of a single frequency is incident normally on a double slit. This produces 
+a pattern of bright and dark interference fringes on a screen, as illustrated in Fig. 6.1.
+10.2 mm
+3.1 m
+1.2 mm
+light
+double slit
+fringe pattern on screen
+screen
+bright fringe X
+bright fringe Y
+dark fringe
+Fig. 6.1 (not to scale)
+  There are seven bright fringes.
+  (i) Explain how the pattern of bright and dark interference fringes is formed.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+  (ii) The distance between the centres of bright fringe X and bright fringe Y in the pattern is 
+10.2 mm. The slit spacing is 1.2 mm. The distance from the slits to the screen is 3.1 m.
+   Calculate the wavelength of the light incident on the slits.
+ wavelength =  ..................................................... m [3]
+---PAGE 13---
+13
+9702/22/F/M/24© UCLES 2024 [Turn over
+  (iii) The light is replaced by different visible light with a shorter wavelength.
+   State how the new fringe separation will compare to the original fringe separation.
+ ..................................................................................................................................... [1]
+ (b) A stationary wave is formed on a stretched string AB, as shown in Fig. 6.2.
+BA
+R
+P Q
+string
+mean position of string
+Fig. 6.2
+  P, Q and R are points on the string.
+  (i) On Fig. 6. 2, draw a cross (×) to show the position of a node. [1]
+  (ii) State the phase difference between P and Q.
+ phase difference =  ....................................................... ° [1]
+  (iii) State the phase difference between P and R.
+ phase difference =  ....................................................... ° [1]
+ [Total: 10]
+---PAGE 14---
+14
+9702/22/F/M/24© UCLES 2024
+7 (a) Define electric potential difference.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A cell of electromotive force (e.m.f.) 1.8  V and internal resistance r is connected in parallel 
+with a resistor of resistance 6.0 Ω and a filament lamp, as shown in Fig. 7.1.
+A
+6.0 Ω
+S
+1.8 V r
+Fig. 7.1
+  The switch S is open. The ammeter reading is 0.25 A.
+  Determine the internal resistance r of the cell.
+ r =  ..................................................... Ω [3]
+---PAGE 15---
+15
+9702/22/F/M/24© UCLES 2024 [Turn over
+ (c) At time t1 switch S in Fig. 7.1 is closed. Fig. 7.2 shows the variation with time t of the 
+ammeter reading I.
+t1 t
+I
+0
+0
+Fig. 7.2
+  (i) State whether the e.m.f. of the cell after t1 is greater than, less than or the same as it was 
+before t1.
+ ..................................................................................................................................... [1]
+  (ii) By considering the effect of the lamp on the total resistance of the circuit, explain the 
+variation of the ammeter reading shown in Fig. 7.2.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+ [Total: 8]
+---PAGE 16---
+16
+9702/22/F/M/24© UCLES 2024
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+8 (a) State the name of the class (group) of fundamental particles that contains a neutrino.
+ ............................................................................................................................................. [1]
+ (b) A hadron P has a charge of +1e, where e is the elementary charge. The hadron P is composed 
+of a down antiquark and only one other quark. 
+  (i) Identify a possible flavour for this other quark.
+ ..................................................................................................................................... [1]
+  (ii) State what type of hadron is P.
+ ..................................................................................................................................... [1]
+ (c) Nucleus Q undergoes radioactive decay to form nucleus R, emitting an antineutrino and 
+another particle X, as shown in the decay equation.
+Q  R + X + ν
+  (i) State what particle is represented by X.
+ ..................................................................................................................................... [1]
+  (ii) Compare the nucleon numbers of Q and R.
+ ..................................................................................................................................... [1]
+  (iii) Compare the charges of Q and R.
+ ..................................................................................................................................... [1]
+ [Total: 6]

@@ -1,0 +1,773 @@
+
+---PAGE 1---
+ 
+ 
+This document has 16 pages. 
+IB25 06_9702_12/4RP  
+© UCLES 2025  [Turn over
+ 
+*4752492812*
+Cambridge International AS & A Level 
+  
+ 
+PHYSICS 9702/12 
+ 
+Paper 1 Multiple Choice  May/June 2025 
+ 
+ 1 hour 15 minutes 
+ 
+You must answer on the multiple choice answer sheet. 
+ 
+You will need: Multiple choice answer sheet 
+ Soft clean eraser 
+ Soft pencil (type B or HB is recommended) 
+  
+ 
+INSTRUCTIONS  
+ There are forty questions on this paper. Answer all questions.  
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct 
+and record your choice in soft pencil on the multiple choice an swer sheet.  
+ Follow the instructions on the multiple choice answer sheet. 
+ Write in soft pencil. 
+ Write your name, centre number and candidate number on the mult iple choice answer sheet in the 
+spaces provided unless this has been done for you. 
+ Do not use correction fluid. 
+ Do not write on any bar codes. 
+ You may use a calculator. 
+ 
+ 
+INFORMATION 
+ The total mark for this paper is 40. 
+ Each correct answer will score one mark. 
+ Any rough working should be done on this question paper. 
+ 
+---PAGE 2---
+2 
+© UCLES 2025 9702/12/M/J/25  
+Data 
+acceleration of free fall g = 9.81  m s–2 
+speed of light in free space c = 3.00  108
+ m s–1 
+elementary charge e = 1.60  10–19
+ C 
+unified atomic mass unit 1  u = 1.66  10–27
+ kg 
+rest mass of proton mp = 1.67  10–27
+ kg 
+rest mass of electron me = 9.11  10–31
+ kg 
+Avogadro constant NA = 6.02  1023
+ mol–1 
+molar gas constant R = 8.31  J K–1
+ mol–1 
+Boltzmann constant k = 1.38  10–23
+ J K–1 
+gravitational constant G = 6.67  10–11
+ N m2
+ kg–2 
+permittivity of free space 0  = 8.85  10–12
+ F m–1 
+ (
+04
+1
+  = 8.99  109
+ m F–1) 
+Planck constant h = 6.63  10–34
+ J s 
+Stefan–Boltzmann constant  = 5.67  10–8
+ W m–2
+ K–4 
+ 
+ 
+ 
+Formulae 
+uniformly accelerated motion s = ut + 2
+2
+1 at  
+ v 
+2 = u 
+2 + 2as 
+hydrostatic pressure p =  gh 
+upthrust F =  gV 
+Doppler effect for sound waves of  = 
+s
+s
+vv
+vf
+
+ 
+electric current I  = Anvq 
+resistors in series R = R1 + R2 + ... 
+resistors in parallel 
+R
+1  = 
+1
+1
+R
+ + 
+2
+1
+R
+ + ... 
+ 
+---PAGE 3---
+3  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+1 What must all physical quantities have? 
+A a direction and a magnitude 
+B a direction and a unit 
+C a magnitude and a prefix 
+D a magnitude and a unit 
+ 
+ 
+2 What is 0.25
+ kN mm–2 expressed in N m–2? 
+A 0.00025  N m–2 
+B 0 . 2 5 N m–2 
+C 250  000 N m–2 
+D 250  000 000 N m–2 
+ 
+ 
+3 A student calculates the density of a solid steel cube in an e xperiment. 
+ 
+The measured mass is 975
+ g  10 g and the measured length of side is 50 mm  1 mm. 
+ 
+What is the density of the steel? 
+A 7 . 8  g cm–3
+  3.0% 
+B 7 . 8  g cm–3
+  7.0% 
+C 7 . 8  g cm–3
+  11% 
+D 7 . 8  g cm–3
+  13% 
+ 
+ 
+4 The time period T of a pendulum is given by 
+ 
+T = 2
+n
+g
+L 
+
+
+
+  
+ 
+where L is the length of the pendulum and g is the acceleration of free fall. 
+ 
+The equation is homogeneous. 
+ 
+What is the value of n? 
+A –2 B –
+2
+1  C 
+2
+1  D 2  
+ 
+ 
+---PAGE 4---
+4 
+© UCLES 2025 9702/12/M/J/25  
+5 Radio waves can be used to measure the distance between Earth and the planet Jupiter. 
+ 
+A pulse of radio waves is emitted from the surface of Earth. The pulse reflects from the surface of 
+Jupiter and is detected again on Earth. 
+ 
+The time between emitting and receiving the pulse is 3960 s. 
+ 
+What is the distance between Earth and Jupiter? 
+A 5.94  108
+ km 
+B 1.19  109
+ km 
+C 5.94  1011
+ km 
+D 1.19  1012
+ km 
+ 
+ 
+6 The graph shows the variation with time of the velocity of a c ar. 
+ 
+12
+6
+0
+0123456789
+time
+ / s
+velocity
+/ m s–1
+10
+ 
+ 
+Which statement is correct? 
+A The car accelerates for 2  s, then stops for 4 s and then reverses. 
+B The car accelerates at 12  m s–2 for 2 s. 
+C The car travels a distance of 36  m in the first 4 s. 
+D The car travels a distance of 48  m in the last 4 s. 
+ 
+ 
+7 A solid object of mass 1.0
+ kg falls vertically downwards in a vacuum. 
+ 
+When the speed of the object is 60  m s–1, an additional constant force of 50  N suddenly starts to 
+act vertically upwards on the object. 
+ 
+What is the speed of the object 2.0 s after the additional force starts to act? 
+A 2 0  m s–1 B 4 0  m s–1 C 8 0  m s–1 D 100  m s–1 
+ 
+ 
+---PAGE 5---
+5  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+8 A stone is thrown upwards and follows a curved path. 
+ 
+ 
+ 
+Air resistance is negligible. 
+ 
+Why does the path have this shape? 
+A The stone has a constant horizontal acceleration and constant vertical velocity. 
+B The stone has a constant horizontal velocity and constant vertical acceleration. 
+C The stone has a constant upward acceleration followed by a constant downward acceleration. 
+D The stone has a constant upward velocity followed by a constant downward velocity. 
+ 
+ 
+9 A rocket engine ejects 90
+ kg of exhaust gas per second at a velocity of 190  m s–1 relative to the 
+rocket. 
+ 
+What is the force acting on the rocket due to the ejected gas? 
+A 2 . 1  kN B 1 7  kN C 1 8  kN D 162  kN 
+ 
+ 
+10 Which statement does not describe an elastic collision between two objects? 
+A The relative speed of approach of the two objects equals the r elative speed of separation. 
+B The total kinetic energy of the objects is conserved. 
+C The total kinetic energy of the objects is reduced. 
+D The total linear momentum of the objects is conserved. 
+ 
+ 
+11 A cyclist is riding at a constant speed on a level road. 
+ 
+According to Newton’s third law of motion, what is equal and op posite to the backward push of 
+the back wheel on the road? 
+A the force exerted by the cyclist on the pedals 
+B the forward push of the road on the back wheel 
+C the tension in the cycle chain 
+D the total air resistance and friction force 
+ 
+ 
+---PAGE 6---
+6 
+© UCLES 2025 9702/12/M/J/25  
+12 A stone is released from rest and falls a long distance in air . 
+ 
+Which graph could show the variation with time t of the acceleration a of the stone? 
+ 
+0
+0
+a
+A B
+t
+C D
+0
+0
+a
+t
+0
+0
+a
+t
+0
+0
+a
+t  
+ 
+ 
+13 An empty cart is moving along a horizontal track at a constant  velocity. 
+ 
+Resistive forces acting on the cart are negligible. 
+ 
+A heavy rock is dropped vertically into the cart. 
+ 
+velocity of rock
+velocity
+of cart
+ 
+ 
+The cart continues to move horizontally with the rock inside. 
+ 
+How does the momentum and kinetic energy of the cart with the r ock inside compare with the 
+momentum and kinetic energy of the empty cart? 
+A The cart with the rock inside has a smaller momentum and a sma ller kinetic energy. 
+B The cart with the rock inside has a smaller momentum and the s ame kinetic energy. 
+C The cart with the rock inside has the same momentum and a smal ler kinetic energy. 
+D The cart with the rock inside has the same momentum and the sa me kinetic energy. 
+ 
+ 
+---PAGE 7---
+7  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+14 A wooden block is held stationary in a container of water usin g a string that is attached to both 
+the wooden block and the bottom of the container. 
+ 
+wooden block
+string
+container
+water
+ 
+ 
+The wooden block has mass m and volume V. The water has density . The acceleration of 
+free fall is g. 
+ 
+What is the magnitude of the force acting on the block due to the tension in the string? 
+A  gV B mg +  gV C mg D  gV – mg 
+ 
+ 
+15 A square shop sign of uniform density has mass 2.4
+ kg and sides of length 0.86 m. 
+ 
+The sign is supported by a hinge along its top edge. 
+ 
+There is friction in the hinge so that the sign hangs from it i n equilibrium at an angle of 15° to the 
+vertical, as shown. 
+ 
+15°
+0.86 msign
+hinge
+ 
+ 
+What is the moment about the hinge of the weight of the sign? 
+A 2 . 6  N m B 4 . 0  N m C 5 . 2  N m D 9 . 8  N m 
+ 
+ 
+---PAGE 8---
+8 
+© UCLES 2025 9702/12/M/J/25  
+16 A block is submerged vertically in a liquid. The four diagrams  show the block viewed from the 
+side. 
+ 
+Which diagram shows, to scale, the forces exerted on equal areas of the block by the liquid? 
+ 
+A C DB
+ 
+ 
+ 
+17 The diagram shows a couple. 
+ 
+force
+force
+perpendicular
+distance between
+the forces
+ 
+ 
+How is the torque of the couple calculated? 
+A 
+2
+1   perpendicular distance between the forces  magnitude of one of the forces 
+B perpendicular distance between the forces  magnitude of one of the forces 
+C perpendicular distance between the forces  magnitude of the sum of the forces 
+D 2   perpendicular distance between the forces  magnitude of one of the forces 
+ 
+ 
+18 A ball of mass 1.2  kg travels horizontally at a speed of 3.0 m s–1. 
+ 
+The ball hits a cushion and comes to rest over a horizontal distance of 0.020 m. 
+ 
+What is the work done by the cushion on the ball to bring the ball to rest? 
+A 0 . 2 4 J B 1 . 8  J C 5 . 4  J D 1 1  J 
+ 
+ 
+---PAGE 9---
+9  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+19 A box of mass 4.9  kg is pushed at a constant velocity from point P at the bottom of an inclined 
+plane to point Q at the top. 
+ 
+The box is pushed by a force of 64 N acting parallel to the slope. 
+ 
+The slope is inclined at an angle of 20° to the horizontal and the box moves through a vertical 
+height of 5.8 m. 
+ 
+Q
+P20°
+5.8 m
+64 N
+ 
+ 
+What is the work done against the frictional force acting on the block between P and Q? 
+A 280  J B 810  J C 960  J D 1100  J 
+ 
+ 
+20 Which expression gives the efficiency of a system? 
+A 
+outputenergy  useful
+inputenergy  total  
+B inputenergy  total
+outputenergy  wasted+outputenergy  useful  
+C inputenergy  total
+outputenergy  useful  
+D inputenergy  total
+outputenergy  wasted  
+ 
+ 
+21 A student has a copper wire and a steel wire with equal length s and cross-sectional areas. 
+ 
+The student hangs identical loads on the two wires. 
+ 
+The extensions of the two wires are different. 
+ 
+The student calculates the stress, strain and Young modulus of each wire. 
+ 
+Which row identifies with a tick () the calculated values that are equal for both wires? 
+ 
+ stress strain Young modulus 
+A    
+B    
+C    
+D    
+---PAGE 10---
+10 
+© UCLES 2025 9702/12/M/J/25  
+22 Two springs X and Y stretch elastically. The graphs show the v ariation with extension x of the  
+force F applied to each spring. 
+ 
+20
+0
+01 0
+F / N
+spring X
+80
+0
+05
+F / N
+x / cm x / cm
+spring Y
+ 
+ 
+Which statement is correct? 
+A When each spring is given the same extension, the energy store d in Y is 4 times the energy 
+stored in X. 
+B When each spring is given the same extension, the energy store d in Y is 8 times the energy 
+stored in X. 
+C When the same force is applied to each spring, the energy stor ed in Y is 4 times the energy 
+stored in X. 
+D When the same force is applied to each spring, the energy stor ed in Y is 8 times the energy 
+stored in X. 
+ 
+ 
+23 Which phrase describes the strain at the elastic limit on a st ress–strain graph? 
+A the maximum strain below which Hooke’s law is obeyed 
+B the maximum strain below which the deformation is plastic 
+C the minimum strain above which Hooke’s law is obeyed 
+D the minimum strain above which the deformation is plastic 
+ 
+ 
+---PAGE 11---
+11  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+24 A teacher removes the turntable from a microwave oven and plac es a bar of chocolate in the 
+oven. She then switches the oven on for a short time. 
+ 
+A stationary wave is formed in the oven. 
+ 
+When the chocolate is removed, the teacher observes that there are two small sections of melted 
+chocolate 6.0 cm apart with unmelted chocolate in between. 
+ 
+Each section of melted chocolate is located at an antinode. 
+ 
+6.0 cm
+melted
+chocolate
+ 
+ 
+Assume that the speed of the microwaves is 3.0  108
+ m s–1. 
+ 
+What is the frequency of the microwaves emitted by the oven? 
+A 2 5  MHz B 5 0  MHz C 2 . 5  GHz D 5 . 0  GHz 
+ 
+ 
+25 A sound wave travels from the left to the right. 
+ 
+The graph shows the variation of the displacement to the right of particles in the sound wave with 
+distance, at one instant. 
+ 
+Which letter represents the centre of a compression? 
+ 
+0
+0
+displacement
+to right
+distance
+A
+C
+BD
+ 
+ 
+ 
+---PAGE 12---
+12 
+© UCLES 2025 9702/12/M/J/25  
+26 A buzzer emitting sound of frequency 846  Hz is attached to a string and rotated in a horizontal 
+circle. The linear speed of the buzzer is 25.0 m s–1. 
+ 
+observer
+buzzer
+ 
+ 
+The speed of sound is 340 m s–1. 
+ 
+What is the maximum frequency heard by the observer? 
+A 783  Hz B 788  Hz C 908  Hz D 913  Hz 
+ 
+ 
+27 Vertically polarised light of intensity I0 is incident normally on a polarising filter. 
+ 
+The transmission axis of the filter is at an angle   to the plane of polarisation of the light. 
+The intensity of the light after passing through the filter is 3
+0I . 
+ 
+/g84light
+intensity I0
+direction of
+transmission axis
+light
+intensity   
+I0
+3
+ 
+ 
+What is  ? 
+A 8 . 4 °  B 55° C 71° D 84° 
+ 
+ 
+28 Which statement compares the behaviour of transverse and longi tudinal waves? 
+A Only longitudinal waves can be diffracted. 
+B Only longitudinal waves can travel in free space. 
+C Only transverse waves can be coherent. 
+D Only transverse waves can be polarised. 
+ 
+ 
+---PAGE 13---
+13  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+29 A student uses a diffraction grating to determine the waveleng th of visible light from a source. 
+ 
+The diffraction grating has 300 lines per mm. The student measu res the angle   of each order n 
+of the intensity maxima. A graph of n against sin    is plotted. The line of best fit for the plotted 
+points is shown and has gradient G. 
+ 
+0
+0
+n
+sin /g84  
+ 
+Which expression represents the wavelength, in m, of the visible light in terms of G? 
+A 3   105
+ G B 3 . 3   10–6
+ G C 
+G
+6–10  3.3   D 
+G
+300  
+ 
+ 
+30 Two waves meet. 
+ 
+What is not a necessary condition for the waves to produce a stationary wave? 
+A They must be of the same type. 
+B They must have the same period. 
+C They must have the same wavelength. 
+D They must travel in the same direction. 
+ 
+ 
+31 Light of a single wavelength is incident normally on a double slit. Interference fringes are 
+observed on a screen. 
+ 
+The distance from the double slit to the screen is 0.60 m and the fringe separation is 1.8 mm. 
+ 
+The distance from the double slit to the screen increases by 0.90 m. 
+ 
+What is the new fringe separation? 
+A 1 . 2  mm B 2 . 7  mm C 4 . 5  mm D 5 . 4  mm 
+ 
+ 
+32 A wire is made from a metal of constant resistivity. There is a constant current in the wire. 
+ 
+Which statement about the potential difference across the wire is correct? 
+A It is directly proportional to the length of the wire. 
+B It is inversely proportional to the length of the wire. 
+C It is directly proportional to the diameter of the wire. 
+D It is inversely proportional to the diameter of the wire. 
+---PAGE 14---
+14 
+© UCLES 2025 9702/12/M/J/25  
+33 T h e  I–V characteristics for three electrical components are shown. 
+ 
+I
+V0
+0
+1
+I
+V0
+0
+2
+I
+V0
+0
+3  
+ 
+Which components obey Ohm’s law? 
+A 1, 2 and 3 B 1 and 2 only C 1 and 3 only D 1 only 
+ 
+ 
+34 A resistor of resistance 200
+  is connected to a supply that has a p.d. of 4.00 V. 
+ 
+How many electrons enter the resistor in 4.00 s? 
+A 3.13  1016 B 1.25  1017 C 5.00  1017 D 1.25  1021 
+ 
+ 
+35 The diagram shows a cell of internal resistance 1.0 R connected to a variable resistor. 
+ 
+1.0R
+ 
+ 
+When the variable resistor has an initial resistance of 2.0 R, the current in the cell is I1 and the 
+terminal potential difference (p.d.) across the cell is V1. 
+ 
+The variable resistor is now adjusted to a new resistance of 4.0R. 
+ 
+What is the new current in the cell and the new terminal p.d. across the cell? 
+ 
+ current terminal p.d. 
+A 0.50I1 1 . 0 V1 
+B 0.50I1 1 . 2 V1 
+C 0.60I1 1 . 0 V1 
+D 0.60I1 1 . 2 V1 
+ 
+ 
+---PAGE 15---
+15  
+ 
+© UCLES 2025 9702/12/M/J/25 [Turn over 
+36 The diagram shows a four-terminal box connected to a battery a nd two ammeters.  
+ 
+13
+24
+A
+A
+ 
+ 
+The currents in the two ammeters are identical. 
+ 
+Which circuit, within the box, gives this result? 
+ 
+13
+24
+A
+13
+24
+B
+13
+24
+C
+13
+24
+D
+ 
+ 
+ 
+37 Each of Kirchhoff’s two laws presumes that some quantity is co nserved. 
+ 
+Which row states Kirchhoff’s first law and names the quantity that is conserved? 
+ 
+ statement quantity 
+A 
+ 
+The algebraic sum of currents 
+at a junction is zero. 
+charge 
+ 
+B 
+ 
+The algebraic sum of currents 
+at a junction is zero. 
+energy 
+ 
+C 
+ 
+ 
+The e.m.f. in a loop is equal to 
+the algebraic sum of the product of 
+current and resistance round the loop. 
+charge 
+ 
+ 
+D 
+ 
+ 
+The e.m.f. in a loop is equal to 
+the algebraic sum of the product of 
+current and resistance round the loop. 
+energy 
+ 
+ 
+ 
+ 
+---PAGE 16---
+16 
+ 
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possib le opportunity. 
+ 
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge 
+Assessment International Education Copyright Acknowledgements B ooklet. This is produced for each series of examinations and is  freely available to download 
+at www.cambridgeinternational.org after the live examination se ries. 
+ 
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. 
+ 
+© UCLES 2025 9702/12/M/J/25  
+38 Two neutral atoms are isotopes of the same element. 
+ 
+Which statement about the atoms is correct? 
+A They have a different number of neutrons and a different numbe r of electrons. 
+B They have a different number of neutrons and the same number o f protons. 
+C They have the same number of neutrons and a different number o f electrons. 
+D They have the same number of neutrons and the same number of p rotons. 
+ 
+ 
+39 What is the composition of a meson? 
+A 1 quark and 1 antiquark 
+B 1 quark and 2 antiquarks 
+C 2 quarks and 1 antiquark 
+D 3 quarks 
+ 
+ 
+40 A nucleus of carbon-11 contains 6 protons and 5 neutrons. 
+ 
+The nucleus of carbon-11 decays by 
++ emission. 
+ 
+What is the total number of up and down quarks in the product of the decay of this nucleus? 
+ 
+ up quarks down quarks 
+A 15 18 
+B 16 17 
+C 17 16 
+D 18 15 
+ 
+ 
+ 

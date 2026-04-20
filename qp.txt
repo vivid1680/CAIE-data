@@ -1,0 +1,610 @@
+
+---PAGE 1---
+ 
+ 
+This document has 16 pages. 
+IB25 03_9702_12/3RP  
+© UCLES 2025 
+ [Turn ove r
+ 
+*4146915581*Cambridge International AS & A Level  
+  
+ 
+PHYSICS 9702/12  
+ 
+Paper 1 Multiple Choice  February/March 2025 
+ 
+ 1 hour 15 minutes 
+ 
+You must answer on the mult iple choice answer sheet. 
+ 
+You will need: Multiple choice answer sheet 
+ Soft clean eraser 
+ Soft pencil (type B or HB is recommended) 
+  
+ 
+INSTRUCTIONS  
+ There are forty  questions on this paper. Answer all questions.  
+ For each question there ar e four possible answers A, B, C and D. Choose the one you consider correct 
+and record your choice in soft pencil on the multiple choice an swer sheet.  
+ Follow the instructions on the multiple choice answer sheet. 
+ Write in soft pencil. 
+ Write your name, centre number and candidate number on the mult iple choice answer sheet in the 
+spaces provided unless this has been done for you. 
+ Do not use correction fluid. 
+ Do not write on any bar codes. 
+ You may use a calculator. 
+ 
+ 
+INFORMATION 
+ The total mark for this paper is 40. 
+ Each correct answer will score one mark. 
+ Any rough working should be don e on this question paper. 
+ 
+---PAGE 2---
+2 
+© UCLES 2025 9702/12/F/M/25  Data 
+acceleration of free fall g = 9.81  m s–2 
+speed of light in free space c = 3.00  108
+ m s–1 
+elementary charge e = 1.60  10–19
+ C 
+unified atomic mass unit 1  u = 1.66  10–27
+ kg 
+rest mass of proton mp = 1.67  10–27
+ kg 
+rest mass of electron me = 9.11  10–31
+ kg 
+Avogadro constant NA = 6.02  1023
+ mol–1 
+molar gas constant R = 8.31  J K–1
+ mol–1 
+Boltzmann constant k = 1.38  10–23
+ J K–1 
+gravitational constant G = 6.67  10–11
+ N m2
+ kg–2 
+permittivity of free space 0  = 8.85  10–12
+ F m–1 
+ (
+041
+ = 8.99  109
+ m F–1) 
+Planck constant h = 6.63  10–34
+ J s 
+Stefan–Boltzmann constant  = 5.67  10–8
+ W m–2
+ K–4 
+ 
+ 
+ 
+Formulae 
+uniformly accelerated motion s = ut + 2
+21at 
+ v 2 = u 2 + 2as 
+hydrostatic pressure p =  gh 
+upthrust F =  gV 
+Doppler effect for sound waves of = 
+ss
+vvvf
+ 
+electric current I  = Anvq  
+resistors in series R = R1 + R2 + ... 
+resistors in parallel 
+R1 = 
+11
+R + 
+21
+R + ... 
+ 
+---PAGE 3---
+3  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  1 Which quantity is a scalar quantity? 
+A f o r c e  
+B momentum 
+C velocity 
+D w o r k  
+ 
+ 
+2 What is the effect of a systematic error on the measurement of  a physical quantity? 
+A It limits the precision of the measured value. 
+B It limits the range of values obtained in repeated measurement s. 
+C It results in repeated measurements having different values fr om each other. 
+D It results in the measured value being different from the corr ect value. 
+ 
+ 
+3 A car is accelerated by a constant resultant force of 300  N for 5.0  s. 
+ 
+The variation with time of the velocity, in cm  s–1, of the car is shown. 
+ 
+180
+150120
+906030
+0
+0123
+time
+ / svelocity
+/ cm s–1
+45
+ 
+ 
+What is the mass of the car? 
+A 1 3  kg B 1 0 0 0  kg C 1300  kg D 1 0  000  kg 
+ 
+ 
+4 An aircraft, initially stationary on a runway, takes off with a speed of 85  km  h–1 in a distance of no 
+more than 1.20  km. 
+ 
+What is the minimum constant acceleration necessary for the air craft? 
+A 0 . 2 3  m s–2 B 0 . 4 6  m s–2 C 3 . 0  m s–2 D 6 . 0  m s–2 
+ 
+ 
+---PAGE 4---
+4 
+© UCLES 2025 9702/12/F/M/25  5 An object is fired upwards from horizontal ground. The object has an initial velocity of 20  m s–1 at 
+an angle of 45° to the horizontal. Air resistance is negligible . 
+ 
+Which statement describes the speed of the object after it is f ired until immediately before it 
+reaches the ground again? 
+A Its speed decreases to a value greater than zero, then increas es to 20  m s–1. 
+B Its speed decreases to a value greater than zero, then increas es to a value greater than 
+20  m s–1. 
+C Its speed decreases to zero, then increases to 20  m s–1. 
+D Its speed decreases to zero, then increases to a value less th an 20  m s–1. 
+ 
+ 
+6 What is a statement of the principle of conservation of moment um for a system? 
+A The total momentum and the total kinetic energy are always con served. 
+B The total momentum is conserved only in elastic collisions. 
+C The total momentum is conserved provided that no external forc es act. 
+D The total momentum of each object in the system is the product  of its mass and velocity. 
+  
+7 Objects P and Q form an isolated system. 
+ 
+Object P has mass 6.0
+ kg and is moving at a speed of 3.0  m s–1. 
+ 
+Object Q has mass 2.0  kg and is moving at a speed of 4.2  m s–1 at an angle of 35° to the path  
+of P. 
+ 
+P
+6.0 kgQ
+2.0 kg
+3.0 m s–14.2 m s–135°
+ 
+ 
+Objects P and Q collide and stick together. 
+ 
+What is the magnitude of the component of the final momentum of  the combined objects in the 
+original direction of P? 
+A 9 . 6  kg  m s–1 B 1 1  kg  m s–1 C 1 3  kg  m s–1 D 2 5  kg  m s–1 
+  
+---PAGE 5---
+5  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  8 An astronaut of mass m in a spacecraft experiences a gravitational force F = mg when stationary 
+on the launchpad. 
+ 
+What is the gravitational force on the astronaut when the space craft is launched vertically 
+upwards with an acceleration of 0.2 g ? 
+A 1 . 2 mg B mg C 0 . 8 mg D 0  
+ 
+ 9 The diagram shows a child X of mass 20
+ kg and a child Y of mass 15  kg seated on a uniform 
+plank. 
+ 
+plank
+mass 7.0  kgpivotchild X
+mass 20  kgchild Y
+mass 15  kg
+ 
+ 
+The plank has a mass of 7.0  kg and has a pivot at its midpoint. The plank is horizontal and  in 
+equilibrium. 
+ 
+Which statement about the weight of the plank is correct? 
+A The weight of the plank can be considered to be acting at its midpoint. 
+B The weight of the plank is causing an anticlockwise moment. 
+C The weight of the plank is causing a clockwise moment. 
+D The weight of the plank equals the force on the plank from the  pivot. 
+ 
+ 10 An object is fully submerged in a liquid. 
+A student determines the ratio 
+.
+object the of weightobject the on acting upthrust 
+Which single change would double the value of this ratio? 
+A Use a different liquid that has twice the density and the same  volume as the original liquid. 
+B Use a different object that has half the volume and the same d ensity as the original object. 
+C Use a different object that has twice the density and the same  volume as the original object. 
+D Use a different object that has twice the volume and the same density as the original object. 
+ 
+ 
+---PAGE 6---
+6 
+© UCLES 2025 9702/12/F/M/25  11 A shop sign weighing 75  N hangs from a frame attached to a vertical wall. 
+ 
+30°
+0.50  mY XZ
+sign
+weight 75  Nwall
+ 
+ 
+The frame consists of a horizontal rod XY and a rod YZ that is at an angle of 30° to the horizontal. 
+Rod XY is attached to the wall by a hinge at X and has length 0 .50  m. Assume that the weights of 
+the rods are negligible. 
+ 
+What is the horizontal force exerted by the wall on rod XY? 
+A 0  N B 4 3  N C 1 3 0  N D 150  N 
+  
+12 A student takes measurements to calculate the density of a liq uid in a beaker. 
+ 
+The height of the liquid in the beaker is 0.20
+ m  2%. 
+ 
+The internal diameter of the beaker is 0.05  m  3%. 
+ 
+The mass of the liquid is 0.36  kg  10%. 
+ 
+What is the percentage uncertainty in the calculated density of  the liquid? 
+A 2 %  B 5 %  C 1 5 %  D 18% 
+ 
+ 
+---PAGE 7---
+7  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  13 The diagram shows a uniform plank XY of length 4.0  m and weight 300  N. 
+ 
+4.0 mXYsupportplankchild
+ 
+ 
+The plank rests on fixed supports at its ends X and Y. 
+ 
+A child of weight 600  N stands in different positions on the plank. 
+ 
+The support at end X exerts a force F vertically upwards on the plank. 
+ 
+What is the magnitude of F when the child stands at X and when the child stands at Y? 
+ 
+ F / N when 
+child is at X F / N when 
+child is at Y 
+A 600 0 
+B 600 150 
+C 750 0 
+D 750 150 
+ 
+ 14 Which relationship is used in the derivation of the equation s hown? 
+ 
+power = force  velocity 
+ 
+A displacement = velocity  time 
+B force = mass  acceleration 
+C momentum = mass  velocity 
+D velocity = acceleration  time 
+ 
+ 
+---PAGE 8---
+8 
+© UCLES 2025 9702/12/F/M/25  15 A block is released from rest at the top of a slope inclined a t an angle to the horizontal. The slope 
+has length L as shown in the diagram. 
+ 
+/g84L
+ 
+ 
+There are no resistive forces acting on the block. 
+ 
+What is the speed of the block at the bottom of the slope? 
+A cos 4.43 L  B sin 4.43 L  C 1 9 . 6 Lcos D 19.6 Lsin 
+ 
+ 16 A skateboarder and her skateboard have a total mass of 70
+ kg. She pushes on the ground with 
+her foot to create a forward force F o f  2 5  N on herself and the skateboard, as shown in the 
+diagram. 
+ 
+F = 25  Ntotal mass of
+skateboarder andskateboard 70
+ kg
+ 
+ 
+The skateboarder and skateboard travel forwards a distance of 0 .50  m before the skateboarder 
+lifts her foot from the ground. 
+ 
+What is the work done by F on the skateboarder and skateboard? 
+A 1 3  J B 5 0  J C 3 4 0  J D 360  J 
+ 
+ 
+17 A turbine at a hydroelectric power station is situated at a ver tical distance of 30  m below the level 
+of the surface of a large lake. The water passes through the tu rbine at a rate of 
+340  m3 per minute. 
+ 
+The overall efficiency of the turbine and generator system is 9 0%. The density of water is 
+1000  kg  m–3. 
+ 
+What is the useful power output of the power station? 
+A 0.15  MW B 1.5  MW C 1.7  MW D 90  MW 
+  
+---PAGE 9---
+9  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  18 A projectile is launched at 45° to the horizontal with initial  kinetic energy E. 
+ 
+Assuming air resistance to be negligible, what will be the kine tic energy of the projectile when it 
+reaches its highest point? 
+A 0.50E B 0.71E C 0.87E D E 
+ 
+ 
+19 A wire is extended by a tensile force so that its deformation is elastic. 
+ 
+What is meant by elastic deformation? 
+A The extension of the wire is proportional to the tensile force . 
+B The extension of the wire is not proportional to the tensile force. 
+C When the tensile force is removed, the wire does not return to its original length. 
+D When the tensile force is removed, the wire returns to its ori ginal length. 
+  20 A bolt is subjected to a tensile force, as shown. 
+ 
+d 2dX
+Y
+tensile
+forcetensile
+forcebolt
+ 
+ 
+The bolt has a circular cross-section. At end X, the diameter i s 2d. At end Y, the diameter is d. 
+ 
+What is the ratio X at stress Yat stress? 
+A 0.25 B 0 . 5 0  C 2 . 0  D 4 . 0  
+  
+---PAGE 10---
+10 
+© UCLES 2025 9702/12/F/M/25  21 The graph shows the relationship between force acting on a com pression spring and  
+change in length of the spring. 
+ 
+180
+160140120100
+80604020
+0
+0.0 1.0 2.0 3.0
+change in length
+ / mmforce  / N
+4.0 5.0 6.0 7.0 8.0 9.0 10.0
+ 
+ 
+One of these springs is placed in each corner of a horizontal s quare plate. The axis of each 
+spring is in a vertical direction. These four springs support a  total load of 160  N. 
+ 
+What is the total elastic potential energy stored in the four s prings? 
+A 0.048  J B 0 . 1 9  J C 0 . 3 8  J D 0 . 7 7  J 
+  
+22 Which row correctly identifies the properties of all electroma gnetic waves? 
+ 
+ transverse 
+wave longitudinal 
+wave can travel 
+in free space 
+A    k e y  
+B     = property of an electromagnetic wave 
+C     = not a property of an electromagnetic wave 
+D     
+ 
+ 
+---PAGE 11---
+11  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  23 What is the approximate range of wavelengths in free space for  infrared radiation? 
+A 100  nm to 400  nm 
+B 300  m to 30  cm 
+C 400  nm to 700  nm 
+D 800  nm to 1000  m 
+ 
+ 24 The diagram shows a car travelling at a constant speed in a st raight line between person P and 
+person Q from point X to point Y. 
+ 
+Xperson Pperson QY
+ 
+ 
+The car sounds its horn continuously as it travels. The horn em its sound of constant frequency. 
+ 
+Which statements about what person P and person Q hear during t h e  m o t i o n  o f  t h e  c a r  a r e  
+correct? 
+ 
+1 Person P hears a sound of increasing frequency. 
+2 Person Q hears a sound of decreasing frequency. 3 Person Q always hears a sound of higher frequency than person  P. 
+ 
+A 1, 2 and 3 
+B 1 and 2 only 
+C 3 only 
+D none of them 
+  25 A progressive wave of frequency 300
+ Hz is travelling with a speed of 600  m s–1. 
+ 
+What is the phase difference between two points on the wave tha t are a distance of 0.50  m apart? 
+A 45° B 9 0 °  C 180° D 360° 
+  
+---PAGE 12---
+12 
+© UCLES 2025 9702/12/F/M/25  26 A polarised beam of light with intensity I is incident normally on a polarising filter. 
+ 
+The transmitted light has intensity I. 
+ 
+The filter is rotated about the normal axis through an angle . 
+ 
+The transmitted light has intensity 0.75 I. 
+ 
+What is the angle  ? 
+A 30° B 4 2 °  C 4 9 °  D 60° 
+  27 Light waves are emitted from two sources. 
+ 
+What is a necessary condition for observable interference fring es to be produced? 
+A The waves must be polarised. 
+B The waves must not be polarised. 
+C The waves must be coherent. 
+D The waves must have equal amplitudes. 
+  28 The diagram shows a water wave in a shallow tank. The wave is diffracted through a gap in a 
+barrier and spreads. The wavelength of the wave is much smaller  than the width of the gap. 
+ 
+barrier
+gap
+ 
+ 
+The wavelength of the wave and the width of the gap are both ch anged by a small amount. 
+ 
+Which combination of changes must  increase the amount of spreading due to diffraction? 
+ 
+ wavelength width of gap 
+A decreases decreases 
+B decreases increases 
+C increases decreases 
+D increases increases 
+ 
+ 
+---PAGE 13---
+13  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  29 Light of wavelength 567  nm is incident normally on a diffraction grating. The grating h as 
+400 lines  per mm. A number of diffraction maxima are observed on the far side of the grating. 
+ 
+What is the angle between the second-order maximum and the thir d-order maximum? 
+A 13.1° B 13.9° C 1 5 . 9 °  D 27.0° 
+ 
+ 
+30 Two cylindrical conductors, X and Y, are made from the same ma terial. The conductors have 
+equal lengths, but Y has a smaller diameter than X. 
+ 
+X and Y are connected in series to a cell. 
+ 
+Which row compares the number of charge carriers per unit time passing through X and through 
+Y and compares the average drift speed of the charge carriers i n X and in Y? 
+ 
+ number of charge 
+carriers per unit time average drift speed 
+of charge carriers 
+A Y greater than X Y greater than X 
+B Y same as X Y same as X 
+C Y greater than X Y same as X 
+D Y same as X Y greater than X 
+ 
+ 
+31 A copper wire is 6.4  m long and has a resistance of 0.92  . 
+ 
+The resistivity of copper is 1.8  10–8
+  m. 
+ 
+What is the diameter of the wire? 
+A 5 . 7   10–5
+ m B 1 . 0   10–4
+ m C 4 . 0   10–4
+ m D 7 . 1   10–4
+ m 
+ 
+ 
+---PAGE 14---
+14 
+© UCLES 2025 9702/12/F/M/25  32 A thermistor is connected to a cell with negligible internal r esistance. 
+ 
+ 
+ 
+Which graph shows the variation with temperature of power, P, dissipated in the thermistor? 
+ 
+0A
+0P
+temperature  / °C 0B
+0P
+temperature  / °C
+0C
+0P
+temperature  / °C 0D
+0P
+temperature  / °C 
+ 
+ 
+33 A metal electrical conductor has a resistance of 5.6  k. A potential difference (p.d.) of 9.0  V is 
+applied across its ends. 
+ 
+How many electrons pass a point in the conductor in one minute?  
+A 6.0  1020 B 1.0  1019 C 6.0  1017 D 1.0  1016 
+ 
+ 
+34 Which circuit symbol does not represent an electric component that is designed to emit sound  
+waves? 
+ 
+ABCD
+ 
+ 
+ 
+---PAGE 15---
+15  
+ 
+© UCLES 2025 9702/12/F/M/25 [Turn over  35 The diagram shows a junction in a circuit where three wires, P , Q and R, meet. The currents in P 
+and Q are 1  A and 3  A respectively, in the directions shown. 
+ 
+P1 A3 A
+RQ
+ 
+ 
+How much charge passes a given point in wire R in a time of 5  s? 
+A 0.4  C B  2 C C  10  C D  20  C 
+ 
+ 36 A  c e l l  o f  e l e c t r o m o t i v e  f o r c e  ( e . m . f . )  E and internal resistance r i s  c o n n e c t e d  i n  s e r i e s  w i t h  a  
+switch S and an external resistor of resistance R. 
+ 
+E
+r
+RSPQ
+ 
+ 
+The potential difference (p.d.) between P and Q is V. 
+ 
+Which statement is correct when S is changed from open to close d? 
+A V increases because there is a p.d. across R. 
+B V decreases because there is a p.d. across r. 
+C V remains the same because the decrease of p.d. across r is balanced by the increase of 
+p.d. across R. 
+D V remains the same because the sum of the p.d.s across r and R is still equal to E. 
+  
+37 What is a general description of a baryon? 
+A It consists of three quarks that must  all be the same flavour. 
+B It consists of three quarks that do not need to be the same flavour. 
+C It consists of two quarks that must  both be the same flavour. 
+D It consists of two quarks that do not need to be the same flavour. 
+  
+---PAGE 16---
+16 
+ 
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possib le opportunity. 
+ To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge 
+Assessment International Educat ion Copyright Acknowledgements B ooklet. This is produced for eac h series of examinations and is  freely available to download 
+at www.cambridgeinternational.org  after the live examination se ries. 
+ 
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. 
+ 
+© UCLES 2025 9702/12/F/M/25  38 A stationary nucleus has nucleon number A. 
+ 
+The nucleus decays by emitting a proton with speed v to form a new nucleus with speed u. The 
+new nucleus and the proton move away from one another in opposi te directions. 
+ 
+Which equation gives v in terms of A and u? 
+A v = (4A – 1)u 
+B v = (A – 1)u 
+C v = Au 
+D v = (A + 1)u 
+  
+39 What is the change to the quark composition of a nucleus that takes place during + decay? 
+A down to antiup 
+B down to up 
+C up to antidown 
+D up to down 
+ 
+ 
+40 What is the charge, in terms of the elementary charge e, on a charm quark? 
+A –
+32e B –
+31e C +
+31e D +
+32e 
+ 
+ 
+ 

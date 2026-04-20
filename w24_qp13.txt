@@ -1,0 +1,776 @@
+
+---PAGE 1---
+ 
+ 
+This document has 16 pages. 
+IB24 11_9702_13/3RP  
+© UCLES 2024 
+ [Turn over
+ 
+*1681864284*
+Cambridge International AS & A Level 
+  
+ 
+PHYSICS 9702/13 
+ 
+Paper 1 Multiple Choice  October/November 2024 
+ 
+ 1 hour 15 minutes 
+ 
+You must answer on the multiple choice answer sheet. 
+ 
+You will need: Multiple choice answer sheet 
+ Soft clean eraser 
+ Soft pencil (type B or HB is recommended) 
+  
+ 
+INSTRUCTIONS  
+ There are forty questions on this paper. Answer all questions.  
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct 
+and record your choice in soft pencil on the multiple choice answer sheet.  
+ Follow the instructions on the multiple choice answer sheet. 
+ Write in soft pencil. 
+ Write your name, centre number and candidate number on the multiple choice answer sheet in the 
+spaces provided unless this has been done for you. 
+ Do not use correction fluid. 
+ Do not write on any bar codes. 
+ You may use a calculator. 
+ 
+ 
+INFORMATION 
+ The total mark for this paper is 40. 
+ Each correct answer will score one mark. 
+ Any rough working should be done on this question paper. 
+ 
+---PAGE 2---
+2 
+© UCLES 2024 9702/13/O/N/24  
+Data 
+acceleration of free fall g = 9.81  m s–2 
+speed of light in free space c = 3.00  108
+ m s–1 
+elementary charge e = 1.60  10–19
+ C 
+unified atomic mass unit 1  u = 1.66  10–27
+ kg 
+rest mass of proton mp = 1.67  10–27
+ kg 
+rest mass of electron me = 9.11  10–31
+ kg 
+Avogadro constant NA = 6.02  1023
+ mol–1 
+molar gas constant R = 8.31  J K–1
+ mol–1 
+Boltzmann constant k = 1.38  10–23
+ J K–1 
+gravitational constant G = 6.67  10–11
+ N m2
+ kg–2 
+permittivity of free space 0  = 8.85  10–12
+ F m–1 
+ (
+04
+1
+  = 8.99  109
+ m F–1) 
+Planck constant h = 6.63  10–34
+ J s 
+Stefan–Boltzmann constant  = 5.67  10–8
+ W m–2
+ K–4 
+ 
+ 
+ 
+Formulae 
+uniformly accelerated motion s = ut + 2
+2
+1 at  
+ v 
+2 = u 
+2 + 2as 
+hydrostatic pressure p =  gh 
+upthrust F =  gV 
+Doppler effect for sound waves of  = 
+s
+s
+vv
+vf
+
+ 
+electric current I  = Anvq 
+resistors in series R = R1 + R2 + ... 
+resistors in parallel 
+R
+1  = 
+1
+1
+R
+ + 
+2
+1
+R
+ + ... 
+ 
+---PAGE 3---
+3  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+1 Which statement about physical quantities is correct? 
+A A physical quantity does not always have a magnitude or a unit. 
+B A physical quantity must always have a magnitude but does not always have a unit. 
+C A physical quantity must always have a unit but does not always have a magnitude. 
+D A physical quantity must alway s have a magnitude and a unit. 
+ 
+ 
+2 What is a reasonable estimate of the mass of a solid sphere of  copper that has a diameter of 
+60 cm? 
+A 0.1 kg B 10 kg C 1000 kg D 100 000 kg 
+ 
+ 
+3 The power output P of a star can be modelled with the equation 
+ 
+P = AT
+ 
+4 
+ 
+where  is a constant, A is the surface area of the star and T is the surface temperature of the 
+star. 
+ 
+What are the SI base units of ? 
+A k g  s–2
+ K–4 
+B k g  s–3
+ K–4 
+C k g  m–1
+ s–2
+ K–4 
+D k g  m–1
+ s–3
+ K–4 
+ 
+ 
+4 A boy throws a stone with a horizontal velocity of 10
+ m s–1 from the top of a building. The height  
+of the building is 8.0  m. The stone travels along a curved path until it hits the hori zontal ground,  
+as shown. 
+ 
+building
+8.0 m
+10 m s–1
+ground  
+ 
+Air resistance is negligible. 
+ 
+How long does it take the stone to reach the ground? 
+A 0 . 6 1 s B 0 . 8 0 s C 1 . 3  s D 1 . 6  s 
+ 
+ 
+---PAGE 4---
+4 
+© UCLES 2024 9702/13/O/N/24  
+5 Four cuboids with identical lengths, breadths and heights are i mmersed in water. The cuboids are 
+held at the same depth and in identical orientations by vertical rods, as shown. 
+ 
+W
+4 /g3
+X
+2 /g3
+Y Z
+0.5 /g3/g85/g85 /g85 /g85
+ 
+ 
+Water has density . 
+Cuboid W is made of material of density 4. 
+Cuboid X is made of material of density 2. 
+Cuboid Y is made of material of density . 
+Cuboid Z is made of material of density 0.5. 
+ 
+Which statement is correct? 
+A The upthrust of the water on each of the cuboids is the same. 
+B The upthrust of the water on W is twice the upthrust of the wa ter on X. 
+C The upthrust of the water on X is twice the upthrust of the wa ter on W. 
+D The upthrust of the water on Y is zero. 
+ 
+ 
+6 In which example is it not possible for the underlined object to be in equilibrium? 
+A An aeroplane climbs at a steady rate. 
+B An aeroplane tows a glider at a constant altitude. 
+C A speedboat changes direction at a constant speed. 
+D Two boats tow a ship into harbour. 
+ 
+ 
+7 Two identical balls are projected vertically upwards from grou nd level with the same initial 
+velocity. Ball X is in a vacuum and ball Y is in air. 
+ 
+Which statement about the motion of the balls is correct? 
+A Ball X reaches a greater maximum height and in a longer time t han ball Y. 
+B Ball X reaches a greater maximum height and in a shorter time than ball Y. 
+C Ball Y reaches a greater maximum height and in a longer time t han ball X. 
+D Ball Y reaches a greater maximum height and in a shorter time than ball X. 
+ 
+ 
+---PAGE 5---
+5  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+8 The graph shows the variation of velocity with time for a ston e that falls from a bridge into a lake 
+and sinks to the bottom of the lake. 
+ 
+0
+0
+velocity
+time  
+ 
+What can be deduced about the motion of the stone? 
+A Terminal velocity was reached in air. 
+B The acceleration in air was decreasing with increasing time. 
+C The distance travelled in water was greater than the distance travelled in air. 
+D The rate of change of velocity in air was constant. 
+ 
+ 
+9 The graph shows the variation of the momentum p with time t for a car. 
+ 
+4
+1
+0
+02 0 5 0 6 0
+t / s
+p / 104 kg m s–1
+ 
+ 
+What is the resultant force on the car at t = 10 s? 
+A 0  B 1 5 0 0 N C 2000  N D 4000  N 
+ 
+ 
+10 Two objects X and Y form an isolated system. X and Y collide a nd then separate. The mass of X 
+is greater than the mass of Y. 
+ 
+Which statement about the collision is correct? 
+A The change of momentum of Y is greater than the change of mome ntum of X. 
+B The force on Y is greater than the force on X. 
+C The forces that X and Y exert on each other act for the same l ength of time. 
+D The forces that X and Y exert on each other are gravitational forces only. 
+ 
+ 
+---PAGE 6---
+6 
+© UCLES 2024 9702/13/O/N/24  
+11 Which row states whether total momentum and total kinetic ener gy are conserved in an inelastic 
+collision in which there are no external forces? 
+ 
+ total momentum total kinetic energy 
+A conserved conserved 
+B conserved not conserved 
+C not conserved conserved 
+D not conserved not conserved 
+ 
+ 
+12 A tennis ball is thrown vertically upwards. The tennis ball re aches its highest point and then falls 
+back down to the point from which it was thrown. 
+ 
+Air resistance is significant. 
+ 
+At which position on the path of the tennis ball is the resultant force on the tennis ball greatest? 
+A at the start just after the tennis ball is released 
+B when the tennis ball is halfway to its highest point on the wa y up 
+C when the tennis ball is at its highest point 
+D when the tennis ball is halfway from its highest point on the way down 
+ 
+ 
+13 Which statement correctly describes a couple? 
+A A couple is a pair of forces that act in the same direction. 
+B A couple is a pair of forces that act on the centre of gravity  of an object. 
+C A couple is a pair of forces that act to produce a resultant f orce. 
+D A couple is a pair of forces that act to produce rotation only . 
+ 
+ 
+14 A uniform beam of mass 1.4
+ kg is pivoted at P, as shown. The beam has a length of 0.60  m and  
+P is a distance of 0.20  m from one end. Loads of 3.0  kg and 6.0 kg are suspended at distances of 
+0.35 m and 0.15 m from the pivot, as shown. 
+ 
+0.15 m0.35 m
+3.0 kg 6.0 kg
+0.20 m0.40 m
+centre of beam
+of mass 1.4 kg
+P
+ 
+ 
+What is the torque that must be applied to the beam in order to maintain it in equilibrium? 
+A 0.010 N m B 0.10 N m C 0.29 N m D 2.8 N m 
+ 
+---PAGE 7---
+7  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+15 The diagrams show three rigid objects P, Q and R being subject ed to different combinations of 
+forces. 
+ 
+10 N
+20 N
+20 N
+10 N
+P
+80 N 50 N5 0  N80 N
+60 N6 0  N
+100 N
+Q R
+30/g113 30/g113
+ 
+ 
+Which objects are in equilibrium? 
+A P and Q 
+B P and R 
+C Q and R 
+D none of them 
+ 
+ 
+16 The diagram shows two liquids, labelled P and Q, that do not mix. The liquids are in equilibrium 
+in an open U-tube. Three equal distances x are labelled. 
+ 
+x
+x
+x
+P
+Q
+ 
+ 
+What is the ratio Q ofdensity 
+P ofdensity ? 
+A 2
+1  B 3
+2  C 2
+3  D 2  
+ 
+ 
+17 A stone of mass 0.30
+ kg is thrown vertically downwards with a speed of 20  m s–1 from a height of 
+12 m above the ground. It falls vertically until it hits the ground. Air resistance is negligible. 
+ 
+What is the kinetic energy of the stone just before it hits the ground? 
+A 2 5  J B 3 5  J C 6 0  J D 9 5  J 
+---PAGE 8---
+8 
+© UCLES 2024 9702/13/O/N/24  
+18 A student can run or walk up the stairs to her classroom. 
+ 
+Which statement describes the power required and the gravitational potential energy gained while 
+running up the stairs compared to walking up them? 
+A Running provides more gravitatio nal potential energy and uses more power. 
+B Running provides more gravitatio nal potential energy and uses the same power. 
+C Running provides the same gravitational potential energy and u ses more power. 
+D Running provides the same gravitational potential energy and u ses the same power. 
+ 
+ 
+19 A weight W hangs from a trolley that runs along a rail. The trolley moves  horizontally through a 
+distance p and simultaneously raises the weight through a height q. 
+ 
+rail
+trolley
+weight W
+X
+Y
+q
+p
+r
+ 
+ 
+As a result, the weight moves through a distance r  from X to Y. It starts and finishes at rest. 
+ 
+How much work is done on the weight during this process? 
+A Wp B  W(p + q) C  Wq D  Wr 
+ 
+ 
+20 The equation for kinetic energy E
+K can be derived using the equations of motion. 
+ 
+Four equations relating to motion are listed. 
+ 
+1 W = Fs 
+2 F = ma 
+3 v 
+2 = u 
+2 + 2as 
+4 P = 
+t
+W  
+ 
+Which three equations can be used to derive the equation for EK? 
+A 1, 2 and 3 B 1, 2 and 4 C 1, 3 and 4 D 2, 3 and 4 
+ 
+ 
+---PAGE 9---
+9  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+21 The force –extension graph of a metal wire is shown. 
+ 
+At which point on the graph does the metal wire stop obeying Hooke’s law? 
+ 
+0
+0
+force
+extension
+A
+B
+C
+D
+ 
+ 
+ 
+22 A uniform wire is made of a met al that has a Young modulus of 1.3  1011
+ Pa. 
+ 
+The wire is 2.4 m long and has a spring constant of 2.7  104
+ N m–1. 
+ 
+What is the volume of the wire? 
+A 2 . 6   10–8
+ m3 B 6 . 3   10–8
+ m3 C 5 . 0   10–7
+ m3 D 1 . 2   10–6
+ m3 
+ 
+ 
+23 A rubber cord hangs from a rigid support. A weight attached to its lower end is gradually 
+increased from zero, and then gradually reduced to zero. 
+ 
+force
+extension
+0
+0
+stretching
+contraction
+rubber
+cord
+weight
+ 
+ 
+The force–extension curve for contraction is below the force–extension curve for stretching. 
+ 
+What does the shaded area between the curves represent? 
+A the elastic potential energy stored in the rubber cord 
+B the thermal energy dissipated in the rubber cord 
+C the work done by the rubber cord during contraction 
+D the work done on the rubber cord during stretching 
+ 
+ 
+---PAGE 10---
+10 
+© UCLES 2024 9702/13/O/N/24  
+24 A source of sound waves of constant frequency is travelling as  shown. 
+ 
+In which situation would the stationary observer detect a sound with the lowest frequency? 
+ 
+observer
+A
+source
+5 m s–1
+observer
+B
+source
+10 m s–1
+observer
+C
+source
+5 m s–1
+observer
+D
+source
+10 m s–1
+ 
+ 
+ 
+25 Each of the principal radiations of the electromagnetic spectr um has a range of wavelengths. 
+ 
+Which wavelength is correctly linked to its radiation? 
+ 
+ wavelength
+ / m radiation 
+A 10–9 gamma ray 
+B 10–5 m i c r o w a v e  
+C 10–8 u l t r a v i o l e t  
+D 10–14 X-ray 
+ 
+ 
+26 A transverse water wave has a frequency of 15  Hz, a wavelength of 0.12  m and an amplitude of 
+4.0 mm. 
+ 
+P is a water particle that is initially at the peak of the wave, as shown. 
+ 
+P
+ 
+ 
+What is the total vertical distance travelled by P in a time of 0.5 s? 
+A 3 0  mm B 6 0  mm C 1 2 0  mm D 900  mm 
+ 
+ 
+---PAGE 11---
+11  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+27 A wave is formed on a string. 
+ 
+A student plots a graph of the variation of displacement d with time t for a point on the string. 
+ 
+The student marks two points, X and Y, on the graph. 
+ 
+0
+0
+d
+tX Y
+ 
+ 
+Which property of the wave is represented by the distance along  the horizontal axis between X 
+and Y? 
+A amplitude 
+B frequency 
+C period 
+D wavelength 
+ 
+ 
+28 A stationary wave is set up in a stretched string. 
+ 
+Which distance is equal to the wavelength of the wave? 
+A double the distance between adjacent antinodes 
+B half the distance between adjacent nodes 
+C the distance between adjacent antinodes 
+D the distance between a node and an adjacent antinode 
+ 
+ 
+---PAGE 12---
+12 
+© UCLES 2024 9702/13/O/N/24  
+29 A source of coherent light is incident on two slits, P and Q, which are placed 80  mm apart. The 
+light has a single frequency of 1.5  1012
+ Hz. The light from the slits meets on a screen that is a 
+distance of 4.0 m from the slits. The screen is parallel to a line joining the slits. 
+ 
+screen
+intensity sensor
+P
+Q
+4.0 m
+80 mm
+not to scale  
+ 
+An intensity sensor is placed on the screen at the midpoint of the interference pattern such that 
+the intensity reading is a maximum. The intensity sensor is moved along the screen. 
+ 
+The sensor travels through two intensity minima, two intensity maxima and stops in the middle of 
+the third intensity minimum. 
+ 
+Which distance does the sensor move through? 
+A 4 . 0  mm B 1 0  mm C 2 5  mm D 5 0  mm 
+ 
+ 
+30 A vibrating bar produces surface water waves in a ripple tank.  
+ 
+The wavelength of the waves is 5.0 cm and they pass through a gap of width 20 cm. 
+ 
+20 cm
+5.0 cm
+vibrating
+bar
+barrier with gap
+shallow water
+ripple tank
+ 
+ 
+Which change will increase the amount of diffraction that is observed? 
+A decreasing the distance between the bar and the gap 
+B decreasing the frequency of the wave 
+C increasing the amplitude of the wave 
+D increasing the width of the gap 
+ 
+ 
+---PAGE 13---
+13  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+31 What is an electric current? 
+A a flow of charge carriers 
+B a flow of energy 
+C an electron 
+D the charge on a particle 
+ 
+ 
+32 A wire of diameter d is connected into an electric circuit. There is a current I in the wire and the 
+charge carriers have an average drift speed v. 
+ 
+The wire is replaced with a new wire of the same material but with a diameter 0.5d. 
+ 
+The current is adjusted so that the charge carriers in the new wire have an average drift  
+speed 3v. 
+ 
+What is the current in the new wire? 
+A 0 . 7 5 I B 1 . 5 I C 6 I D 1 2 I 
+ 
+ 
+33 A fixed resistor and a diode are combined by connecting them i n series. The total potential 
+difference V across the combination is varied and the corresponding current I is measured. 
+ 
+Which graph could represent the variation of I with V
+ ? 
+ 
+0
+0
+A
+I
+V
+0
+0
+B
+I
+V
+0
+0
+C
+I
+V
+0
+0
+D
+I
+V  
+ 
+ 
+---PAGE 14---
+14 
+© UCLES 2024 9702/13/O/N/24  
+34 The potential difference (p.d.) across a fixed resistor is V. The power dissipated in the resistor  
+is 5.0 W. 
+ 
+The p.d. across the resistor then changes to a new value. With the new p.d. the energy 
+transferred to the resistor in a time of 2.25 s is 45.0 J. 
+ 
+What is the new p.d. across the resistor? 
+A V
+2
+1  B 2 V C 3 V D 4 V 
+ 
+ 
+35 The diagram shows part of a circuit that uses a potentiometer wire to measure a potential 
+difference (p.d.) in an external circuit. 
+ 
+E
+I1
+L2I2
+L1
+XZ Y
+PQ  
+ 
+The potentiometer wire XZ has length L1. It is connected to a cell of known electromotive force 
+(e.m.f.) E that has negligible internal resistance. 
+ 
+Terminals P and Q are connected to the external p.d. to be meas ured. The length of the 
+potentiometer wire between points X and Y is L2. 
+ 
+The ratio of the lengths L1 and L2 is used to determine the p.d. between P and Q in terms of E. 
+ 
+Which condition must be met in order to determine this p.d.? 
+A The current I1 must be zero. 
+B The current I2 must be zero. 
+C The p.d. across YZ must be zero. 
+D The resistance of the external circuit must be zero. 
+ 
+ 
+---PAGE 15---
+15  
+ 
+© UCLES 2024 9702/13/O/N/24 [Turn over 
+36 The diagram shows a circuit. 
+ 
+V  
+ 
+Which statement about the circuit is not correct? 
+A Electromotive force is the energy transferred per unit charge.  
+B Energy is transferred from chemical potential energy in the ce ll to other forms when the 
+switch is closed. 
+C The electromotive force of the cell is greater than the termin al potential difference when the 
+switch is closed. 
+D When the switch is open, the voltmeter measures the electromot ive force of the cell. 
+ 
+ 
+37 A circuit contains a battery of electromotive force E and internal resistance r connected to two 
+resistors each of resistance 2.5
+ . 
+ 
+The resistors are connected in parallel as shown. 
+ 
+r
+E
+0.80 A 2.5 /g58
+2.5 /g58
+ 
+ 
+The current in one of the resistors is 0.80 A. 
+ 
+Which expression, where E is in volts and r is in ohms, gives the internal resistance r ? 
+A 
+1.6
+4.0 – E  B 
+0.80
+4.0 – E  C 
+1.6
+2.0 – E  D 
+0.80
+2.0 – E  
+ 
+ 
+---PAGE 16---
+16 
+ 
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity. 
+ 
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series. 
+ 
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. 
+ 
+© UCLES 2024 9702/13/O/N/24  
+38 What is the rest mass of a beta-particle? 
+A 0  
+B 9.11  10–31
+ kg 
+C 1.66  10–27
+ kg 
+D 1.67  10–27
+ kg 
+ 
+ 
+39 What is the name of the group (class) of particles containing mesons, and the name of the group 
+(class) of particles containing baryons? 
+ 
+ 
+group (class) of 
+particles containing 
+mesons 
+group (class) of 
+particles containing 
+baryons 
+A hadrons hadrons 
+B hadrons leptons 
+C leptons hadrons 
+D leptons leptons 
+ 
+ 
+40 A magnesium nucleus Mg23
+12  decays by emitting two particles. 
+ 
+The resulting nucleus is sodium Na.23
+11  
+ 
+Which two particles are emitted? 
+A -particle, antineutrino 
+B + particle, antineutrino 
+C – particle, neutrino 
+D + particle, neutrino 
+ 
+ 
+ 

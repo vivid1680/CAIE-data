@@ -1,0 +1,438 @@
+
+---PAGE 1---
+This document has 16 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS  & A Level
+PHYSICS 9702/22
+Paper 2 AS Level Structured Questions October/November 2025
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+*3464842793*
+DC (PQ/FC) 342396/3
+© UCLES 2025
+,	,
+* 0000800000001 *
+¬O. 4mHuOªE^y6W
+¬LyyS¢m{^}¬_XN[¥
+¥¥5U¥UU¥E5eEU
+DFD
+---PAGE 2---
+2
+9702/22/O/N/25© UCLES 2025
+Data
+acceleration of free fall g	 =	 9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊßû¸þ×
+ĬÌûúÒĦùčÕô÷ćėÞĞģĝĂ
+ĥÕõĕõµåµĥÅµąąõÅÕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 3---
+3
+9702/22/O/N/25© UCLES 2025 [Turn over
+BLANK PAGE
+* 0000800000003 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊßù¸þ×
+ĬÌüùÚĤõĝäĆĊÂÃÖºģčĂ
+ĥÕąÕµÕÅÕõµĥąąĕåĕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 4---
+4
+9702/22/O/N/25© UCLES 2025
+1 Scientists are investigating the variation in air pressure at different locations on a mountain.
+ (a) The scientists take measurements of several physical quantities at each location.
+  Complete Table 1.1 by stating the SI base unit for each quantity and identifying with a tick (3) 
+whether each quantity is a scalar or a vector. Use the space for any working.
+Table 1.1
+quantity measured SI base unit scalar vector
+air temperature
+air pressure
+ [2]
+ (b) (i) At one location, the density of the air is 1.1 kg m–3. A spherical weather balloon is filled 
+with a gas and released from rest. The balloon has radius 0.90 m.
+   Calculate the upthrust acting on the balloon when it is released.
+ upthrust =  ...................................................... N [2]
+  (ii) Explain why an upthrust acts on the balloon.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+* 0000800000004 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÝû¸Ā×
+ĬÌüüÚĪćĬ×ČāÉġúĜóĥĂ
+ĥĥÕÕõÕÅõĕĕĕąÅĕąĕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 5---
+5
+9702/22/O/N/25© UCLES 2025 [Turn over
+  (iii) The balloon has weight 19 N.
+   Calculate the magnitude of the initial acceleration of the balloon.
+ acceleration =  ................................................ m s–2 [3]
+ (c) A quantity c relating to the motion of the balloon is calculated from three measured quantities 
+k, F and v using the formula
+c =
+ 
+2kF
+v 2 .
+  The percentage uncertainties in the measured quantities are given in Table 1.2.
+Table 1.2
+measured quantity percentage uncertainty
+k 5%
+F 3%
+v 4%
+  The calculated value of c is 1.8.
+  Determine the absolute uncertainty in c.
+ absolute uncertainty =  ......................................................... [2]
+ [Total: 11]
+* 0000800000005 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÝù¸Ā×
+ĬÌûûÒĠċĜâîðĀµĂÀóĕĂ
+ĥĥåĕµµåĕąĥÅąÅõĥÕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 6---
+6
+9702/22/O/N/25© UCLES 2025
+2 A spacecraft in deep space uses jets of hot gas from its thrusters to change its velocity . Fig. 2.1 
+shows a side view of the spacecraft and some of its thrusters.
+upwards
+thruster B
+thruster A
+thruster C
+0.40 m
+centre of gravity
+1.6 m
+leftwards
+Fig. 2.1 (not to scale)
+ Thruster A is a distance of 1.6 m leftwards from the centre of gravity of the spacecraft. Thruster C 
+is a distance of 0.40 m upwards from the centre of gravity of the spacecraft.
+ Thrusters A and B can produce forces on the spacecraft in the upwards direction only.
+ Thruster C can produce a force on the spacecraft in the leftwards direction only.
+ All the thrusters shown produce forces entirely in the same plane as the centre of gravity.
+ (a) (i) Thruster A is activated, producing a force of 60 N upwards on the spacecraft. Thruster C 
+is also activated, producing a force of 220 N in the leftwards direction on the spacecraft.
+   Calculate the resultant moment due to these forces about the centre of gravity.
+ resultant moment =  ................................................... N m [2]
+  (ii) State and explain whether the forces from A and C are a couple.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+* 0000800000006 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊàùµþ×
+ĬÌüûÍĦģĒêùýõÕúÝÛĥĂ
+ĥµąĕµĕåµÅąĥąąõÅĕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 7---
+7
+9702/22/O/N/25© UCLES 2025 [Turn over
+ (b) Thrusters A and C are now switched of f and the spacecraft is stationary . Thruster B is 
+activated at time t1, producing a constant force on the spacecraft until the fuel runs out at time 
+t2. As the fuel is used, the total mass of the spacecraft decreases.
+  On Fig. 2.2, sketch the variation of speed of the spacecraft with time from t 1 to t2.
+speed
+time
+0
+t1 t2
+Fig. 2.2
+ [2]
+* 0000800000007 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊàûµþ×
+ĬÌûüÕĤğĢÏÿô´āĂùÛĕĂ
+ĥµõÕõõÅÕÕõµąąĕåÕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 8---
+8
+9702/22/O/N/25© UCLES 2025
+ (c) The spacecraft now splits apart into a carrier and a payload as shown in Fig. 2.3.
+upwards
+carrier
+payload
+Fig. 2.3
+  During the split, an average force of 5500 N acts on the payload for a time of 0.36 s. The 
+velocity of the payload increases by 8.5 m s–1 in the upwards direction.
+  The combined mass of the carrier and payload is 2.5 × 10 3 kg.
+  (i) State the principle of conservation of momentum.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) Show that the mass of the payload is 230 kg.
+ [2]
+* 0000800000008 *
+,		,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÞùµĀ×
+ĬÌûùÕĪčħìāû»ãÞÛËĝĂ
+ĥąåÕµõÅõµÕÅąÅĕąÕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 9---
+9
+9702/22/O/N/25© UCLES 2025 [Turn over
+  (iii) Calculate the magnitude of the change in velocity of the carrier.
+ change in velocity =  ................................................ m s–1 [3]
+ [Total: 12]
+* 0000800000009 *
+,	
+,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÞûµĀ×
+ĬÌüúÍĠđėÍ÷Ćî÷ÖÿËčĂ
+ĥąÕĕõĕåĕååĕąÅõĥĕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 10---
+10
+9702/22/O/N/25© UCLES 2025
+3 A spring is fixed at one end and attached to the frame of a pulley at the other end. A cable is 
+passed around the wheel of the pulley. The spring is stretched to a fixed length using the cable 
+and pulley.
+ Fig. 3.1 shows the view from above of the spring, cable and pulley.
+spring
+fixed end pulley frame
+pulley wheel
+cable
+Fig. 3.1
+ The spring obeys Hooke’s law and has a spring constant k of 250 N m–1. A force F acts on the 
+spring. The tension in the cable is T. The pulley is in equilibrium.
+ (a) On Fig. 3.2, draw labelled arrows to show the directions of the forces acting on the pulley.
+Fig. 3.2
+ [2]
+ (b) The force F is 110 N.
+  (i) Determine T.
+ T =  ...................................................... N [1]
+* 0000800000010 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊßù·þ×
+ĬÌúùÐĬĕñæĊôđ¿à¯óĕĂ
+ĥÕÅĕµõĥõĕĥÅÅÅµąÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 11---
+11
+9702/22/O/N/25© UCLES 2025 [Turn over
+  (ii) Calculate the extension of the spring.
+ extension =  ...................................................... m [2]
+ (c) A second identical spring with the same spring constant of 250 N m–1 is now also connected 
+to the pulley, as shown in Fig. 3.3.
+springs
+fixed end
+Fig. 3.3
+  The tension in the cable is kept the same. The pulley is again in equilibrium.
+  (i) Determine the extension of the springs.
+ extension =  ..................................................... m [2]
+  (ii) The elastic potential energy stored in the spring in Fig. 3.1 is E 1. The total elastic 
+potential energy stored in the two springs in Fig. 3.3 is E2.
+   Calculate the ratio E1
+E2
+.
+ ratio =  ......................................................... [2]
+ [Total: 9]
+* 0000800000011 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊßû·þ×
+ĬÌùúØĞęāÓðýØěØīóĥĂ
+ĥÕµÕõĕąĕąĕĕÅÅÕĥĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 12---
+12
+9702/22/O/N/25© UCLES 2025
+4 A laser emits visible light of a single frequency in a vacuum. The light is incident normally on a 
+double slit and then forms a pattern of bright and dark fringes on a screen, as shown in Fig. 4.1.
+double slit
+screen
+dark fringe
+bright fringe
+fringe pattern on screen
+light
+1.0 × 10–3 m
+4.8 m
+3.3 mm
+Fig. 4.1 (not to scale)
+ The separation of the slits is 1.0 × 10–3 m. The distance from the slits to the screen is 4.8 m. The 
+distance between the centres of adjacent dark fringes on the screen is 3.3 mm. 
+ (a) Explain how the pattern of bright and dark fringes is formed.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ (b) Calculate the frequency of the light emitted by the laser.
+ frequency =  .................................................... Hz [4]
+* 0000800000012 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÝù·Ā×
+ĬÌùûØĨīĈèòĆÏ¹üÉģčĂ
+ĥĥĥÕµĕąµĥµĥÅąÕÅĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 13---
+13
+9702/22/O/N/25© UCLES 2025 [Turn over
+ (c) The double slit is removed. A second laser is placed beside the first laser. The second laser 
+produces visible light of a different frequency from that of the first laser. The beams of light 
+from the two lasers overlap on the screen.
+  Explain why a steady pattern of bright and dark fringes is not formed on the screen.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ [Total: 8]
+* 0000800000013 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÝû·Ā×
+ĬÌúüÐĢħøÑĈûĚĝĄčģĝĂ
+ĥĥĕĕõõĥÕõÅµÅąµåÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 14---
+14
+9702/22/O/N/25© UCLES 2025
+5 Fig. 5.1 shows a circuit containing a battery , two fixed resistors X and Y, and a light-dependent 
+resistor (LDR) Z.
+100 Ω
+4.7 Ω5.0 V
+X
+I2
+I1
+Z
+Y
+Fig. 5.1
+ The battery has electromotive force (e.m.f.) 5.0 V and internal resistance 4.7 Ω. The current in X is 
+I1 and the current in Y is I2.
+ The resistance of X is 100 Ω. The resistance of Z varies with the intensity of light incident on it as 
+shown in Fig. 5.2.
+0 0 50 100
+intensity / W m–2
+resistance / Ω
+150 200 250
+100
+200
+300
+400
+500
+Fig. 5.2
+* 0000800000014 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÞü¶Ă×
+ĬÌùúÍĠĜĀãĂðµÁÙęÓĥĂ
+ĥÅĕÕµĕåõĕÕµąÅõąĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 15---
+15
+9702/22/O/N/25© UCLES 2025 [Turn over
+ (a) State Kirchhoff’s first law.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) The intensity of light incident on Z is 130 W m–2. The current in the battery is 38 mA.
+  (i) Show that the terminal potential difference of the battery is 4.8 V.
+ [2]
+  (ii) Calculate the current I2 in Y.
+ I2 =  ...................................................... A [3]
+  (iii) Calculate the power dissipated in Y.
+ power =  ..................................................... W [2]
+  (iv) The intensity of the light incident on Z decreases.
+   State and explain the effect on the terminal potential difference of the battery.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+ [Total: 11]
+* 0000800000015 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÞú¶Ă×
+ĬÌúùÕĪĘðÖøāôĕá½ÓĕĂ
+ĥÅĥĕõõÅĕąåĥąÅĕĥÕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 16---
+16
+9702/22/O/N/25© UCLES 2025
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+6 (a) State what is meant by a fundamental particle.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) (i) Particle Q is a meson with a charge of 0.
+   Determine a possible quark composition for Q.
+ ..................................................................................................................................... [2]
+  (ii) Particle Q has a mass of 0.67 u and a kinetic energy of 2.1 × 10–16 J.
+   Calculate the speed of particle Q.
+ speed =  ................................................ m s–1 [3]
+ (c) Radium-228 (228
+88Ra) is a radioactive nuclide.
+  (i) State the number of electrons in a neutral atom of radium-228.
+ number of electrons =  ......................................................... [1]
+ 
+  (ii) A nucleus of radium-228 undergoes a series of decays to form nucleus X.
+   During the process, 5 α-particles and 4 β– particles are emitted.
+   Determine the number of protons and the number of neutrons in nucleus X.
+ number of protons =  ............................................................... 
+ number of neutrons =  ...............................................................
+ [2]
+ [Total: 9]
+* 0000800000016 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊàü¶Ą×
+ĬÌúüÕĤĦùáúĊû·ýğÃĝĂ
+ĥõµĕµõÅµĥąĕąąĕÅÕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD

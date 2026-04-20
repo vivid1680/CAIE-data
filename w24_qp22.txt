@@ -1,0 +1,437 @@
+
+---PAGE 1---
+This document has 16 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS  & A Level
+PHYSICS 9702/22
+Paper 2 AS Level Structured Questions October/November 2024
+ 1 hour 15 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 60.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+*5942866629*
+DC (PB/FC) 336255/2
+© UCLES 2024
+,	,
+* 0000800000001 *
+¬O. 4mHuOªE]y6W
+¬l8q[¥¨¦Ypt¤uYoI
+¥5uuEUeuuUEU5U
+
+---PAGE 2---
+2
+9702/22/O/N/24© UCLES 2024
+Data
+acceleration of free fall g	 =	 9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	 1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	 8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  = R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊàû¸þ×
+Ĭì¶òÚġĤĄâāĆÿ½ã¿ñĐĂ
+ĥÅåĕµĕąµĕµåÅąĕåĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 3---
+3
+9702/22/O/N/24© UCLES 2024 [Turn over
+1 (a) State what is meant by a vector quantity.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A sphere falls vertically through a liquid that has density 830 kg m–3. The sphere has radius r 
+and constant velocity v, as shown in Fig. 1.1.
+liquid
+sphere,
+radius r
+v
+Fig. 1.1
+  (i) The drag force D acting on the sphere is given by
+D = 6πrηv
+   where η is a property of the liquid.
+   Determine the SI base units of η.
+ SI base units  .........................................................  [3]
+  (ii) State an equation showing the relationship between the magnitudes of the weight W, 
+drag force D and upthrust U acting on the sphere.
+ ..................................................................................................................................... [1]
+* 0000800000003 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊàù¸þ×
+ĬìµñÒħĠô×÷ûÊęÛěñĠĂ
+ĥÅÕÕõõĥÕąÅõÅąõÅÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 4---
+4
+9702/22/O/N/24© UCLES 2024
+  (iii) The volume of the sphere is 4.6 cm3. The drag force D is 0.32 N.
+   Calculate the weight of the sphere.
+ weight =  ...................................................... N [2]
+[Total: 7]
+* 0000800000004 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÞû¸Ā×
+ĬìµôÒĝĎõäùôÁ»÷¹ġĘĂ
+ĥõąÕµõĥõĥĥąÅÅõĥÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 5---
+5
+9702/22/O/N/24© UCLES 2024 [Turn over
+2 (a) Define momentum.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A child stands on a scooter on horizontal ground. The combined mass of the child and the 
+scooter is 16 kg.
+  The child starts from rest and pushes once on the ground with her foot which causes her to 
+accelerate. The push lasts for a time of 1.1 s. The speed of the child and the scooter after the 
+push is 0.60 m s–1.
+  Determine the average resultant force acting horizontally on the child and the scooter during 
+the push.
+ average force =  ...................................................... N [2]
+ (c) Later, the child in (b) travels down a slope at a constant angle to the horizontal, as shown 
+in Fig. 2.1.
+A
+B
+x
+Fig. 2.1 (not to scale)
+  At point A her speed is 0.60 m s–1. She has a constant acceleration of 0.85 m s–2 parallel to 
+the slope. After a time of 3.7 s, she reaches point B.
+  Calculate the distance x travelled by the child along the slope from A to B.
+ x =  ......................................................  m [2]
+* 0000800000005 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÞù¸Ā×
+Ĭì¶óÚīĒąÕÿýĈğÿĝġĨĂ
+ĥõõĕõĕąĕõĕÕÅÅĕąĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 6---
+6
+9702/22/O/N/24© UCLES 2024
+ (d) At point B, the child in (c) applies the brake with a constant force to maintain a constant 
+velocity. Point C is 18 m from point B, as shown in Fig. 2.2.
+A
+B
+C
+18 m
+Fig. 2.2 (not to scale)
+  The work done by the braking force between B and C is 250 J.
+  (i) Determine the magnitude of the braking force.
+ force =  ...................................................... N [2]
+  (ii) On Fig. 2.3, sketch the variation of the kinetic energy of the child and scooter with 
+distance travelled from point A to point C.
+   Numerical values for kinetic energy are not required.
+x x + 18 m
+distance from A
+0
+0
+kinetic
+energy
+Fig. 2.3
+[3]
+[Total: 10]
+* 0000800000006 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊßùµþ×
+ĬìµóÕġúÿÍČðíÿ÷ĀÉĘĂ
+ĥåÕĕõµąµµõõÅąĕåÕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 7---
+7
+9702/22/O/N/24© UCLES 2024 [Turn over
+3 (a) The variation of stress with strain for a metal P is shown in Fig. 3.1.
+0
+0 0.5 1.0 1.5
+strain (%)
+stress / 107 Pa
+10
+20
+30
+EE
+Fig. 3.1
+  Point E is the elastic limit of the metal.
+  (i) Use Fig. 3.1 to determine the Young modulus for P.
+ Young modulus =  .................................................... Pa [2]
+  (ii) On the line in Fig. 3.1, draw a cross (×) to show the limit of proportionality. 
+   Label this point Q. [1]
+* 0000800000007 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊßûµþ×
+Ĭì¶ôÍħöïìîā¼ÛÿÜÉĨĂ
+ĥååÕµÕĥÕåąåÅąõÅĕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 8---
+8
+9702/22/O/N/24© UCLES 2024
+ (b) State the conditions necessary for an object to be in equilibrium.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (c) A wire is used to hold a uniform shelf AB horizontally in equilibrium as shown in Fig. 3.2.
+wire
+wall
+hinge
+0.65 m
+shelf
+0.12 m
+cup
+BA
+50°
+Fig. 3.2 (not to scale)
+  The wire is connected to the midpoint of shelf AB at an angle of 50° to the horizontal. The 
+shelf is attached to a wall by a hinge at A. The length of shelf AB is 0.65 m and its weight 
+is 33 N.
+  A  cup of weight 1.5 N rests on the shelf with its centre of gravity at a horizontal distance of 
+0.12 m from B.
+  (i) By taking moments about A, determine the tension in the wire.
+ tension =  ...................................................... N [3]
+* 0000800000008 *
+,		,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÝùµĀ×
+Ĭì¶ñÍĝĈúÏôĊ³ùãúÙĐĂ
+ĥĕõÕõÕĥõÅåÕÅÅõĥĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 9---
+9
+9702/22/O/N/24© UCLES 2024 [Turn over
+  (ii) The stress in the wire is 1.5 × 107 Pa.
+   Determine the radius of the wire.
+ radius =  ...................................................... m [2]
+  (iii) More items are added to the shelf, doubling the stress in the wire. The wire is made of 
+the metal P from (a).
+   Use Fig. 3.1 to state and explain whether the wire will behave plastically or elastically as 
+the stress doubles.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+[Total: 12]
+* 0000800000009 *
+,	
+,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÝûµĀ×
+ĬìµòÕīČĊêĆ÷öÝÛÞÙĠĂ
+ĥĕąĕµµąĕÕÕąÅÅĕąÕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 10---
+10
+9702/22/O/N/24© UCLES 2024
+4 (a) With reference to the direction of transfer of energy, compare the oscillations of transverse 
+and longitudinal progressive waves.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A pipe is open at one end and closed at the other with a piston. The piston can slide freely 
+and is at a distance of 4.5 × 10–2 m from the open end of the pipe.
+  A  loudspeaker is positioned near the open end of the pipe and emits a sound wave of a single 
+constant frequency. A stationary wave is formed in the pipe, as illustrated in Fig. 4.1.
+pipe
+stationary wave
+piston
+loudspeaker
+4.5 × 10–2 m
+Fig. 4.1
+  (i) On Fig. 4.1, draw a letter A at the position of an antinode. [1]
+  (ii) The speed of sound in air is 340 m s–1.
+   Determine the frequency of the sound wave.
+ frequency =  .................................................... Hz [3]
+* 0000800000010 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊàù·þ×
+Ĭì·ñØğĀĠÑûāęĕáĎġĨĂ
+ĥÅĕĕõÕÅõĥĕÕąÅÕĥĕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 11---
+11
+9702/22/O/N/24© UCLES 2024 [Turn over
+  (iii) The piston is moved to the left. The frequency of the sound wave emitted by the 
+loudspeaker is then changed so that a stationary wave is formed with same number of 
+antinodes as in Fig. 4.1.
+   State and explain the change that is made to the frequency of the sound wave.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+[Total: 8]
+* 0000800000011 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊàû·þ×
+Ĭì¸òÐĩĄĐèýðÐÁÙÊġĘĂ
+ĥÅĥÕµµåĕõĥąąÅµąÕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 12---
+12
+9702/22/O/N/24© UCLES 2024
+5 (a) Define electric potential difference (p.d.).
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) A power supply, three resistors and a component X are connected in the circuit shown 
+in Fig. 5.1.
++ –
+0.86 Ω
+2.4 Ω
+170 Ω
+7.0 A
+230 V
+XI1
+I2
+Fig. 5.1
+  The power supply has an electromotive force (e.m.f.) of 230 V and negligible internal 
+resistance. The current in the power supply is 7.0 A.
+  (i) Identify component X.
+ ..................................................................................................................................... [1]
+  (ii) Show that the p.d. across the resistor of resistance 0.86 Ω is 6.0 V.
+[1]
+  (iii) Determine the current I1.
+ I 1 =  ....................................................... A [2]
+* 0000800000012 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÞù·Ā×
+Ĭì¸óÐģòęÓă÷×ģõĬñĠĂ
+ĥõµÕõµåµĕÅõąąµåÕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 13---
+13
+9702/22/O/N/24© UCLES 2024 [Turn over
+  (iv) Calculate the p.d. across component X.
+ p.d. =  ...................................................... V [2]
+  (v) Calculate the power dissipated in component X.
+ power =  ..................................................... W [2]
+  (vi) The purpose of the circuit is to provide power to component X.
+   Determine the percentage efficiency of the circuit.
+ efficiency =  ......................................................% [2]
+  (vii) The resistor of resistance 170 Ω is removed, leaving an open circuit in the lower branch 
+of the circuit. There is no change to the resistance of component X.
+   State whether the current in the power supply increases, decreases or remains the same.
+ ..................................................................................................................................... [1]
+[Total: 12]
+* 0000800000013 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÞû·Ā×
+Ĭì·ôØĥîĩæõĊĒ·ý°ñĐĂ
+ĥõÅĕµÕÅÕąµåąąÕÅĕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 14---
+14
+9702/22/O/N/24© UCLES 2024
+6 (a) Compare an α‑particle with a β+ particle in terms of their masses and charges.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ (b) Nucleus P undergoes α‑decay to form nucleus Q. Nucleus Q then undergoes a further decay 
+to form nucleus R. The proton and nucleon numbers of P and R are shown in Fig. 6.1.
+210
+78 80 82 84 86 88
+proton number
+nucleon
+number
+212
+214
+216
+218
+220
+R
+P
+Fig. 6.1
+  (i) On Fig. 6.1, draw a cross (×) to show the proton number and nucleon num ber of Q. 
+Label your cross Q. [1]
+  (ii) State the names of the particles emitted as Q decays to form R.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+* 0000800000014 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÝü¶Ă×
+Ĭì¸òÕīāđØóý­ěØ¼ÁĘĂ
+ĥÕÅÕõµąõĥååÅÅĕĥÕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 15---
+15
+9702/22/O/N/24© UCLES 2024
+ (c) Before the α‑decay, P is travelling at a constant velocity. After the decay, Q has a velocity of 
+1.3 × 105 m s–1 at an angle of 68° to the original path of P. 
+  The α‑particle has a velocity of 150 × 105 m s–1 at an angle of θ to the original path of P, as 
+shown in Fig. 6.2.
+P
+Q
+before decay after decay
+original path of P
+68°
+1.3 × 105 m s–1
+150 × 105 m s–1
+θ
+α
+Fig. 6.2 (not to scale)
+  (i) Use the principle of conservation of momentum to determine θ.
+ θ =  ........................................................° [3]
+  (ii) Calculate the kinetic energy of the α‑particle.
+ kinetic energy =  ....................................................... J [2]
+[Total: 11]
+* 0000800000015 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÝú¶Ă×
+Ĭì·ñÍĝýġáąôü¿àĠÁĨĂ
+ĥÕµĕµÕĥĕõÕõÅÅõąĕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 16---
+16
+9702/22/O/N/24© UCLES 2024
+BLANK PAGE
+Permission to reproduce items where third‑party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer‑related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+* 0000800000016 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊßü¶Ą×
+Ĭì·ôÍħïĨÖċûóĝĄ¾ÑĐĂ
+ĥĥĥĕõÕĥµĕõąÅąõåĕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN

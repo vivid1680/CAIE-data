@@ -1,0 +1,468 @@
+
+---PAGE 1---
+ 
+                                                                    
+ 
+ 
+ 
+ 
+This document consists of 15 printed pages. 
+ 
+© Cambridge University Press & Assessment 2024 
+ 
+[Turn over
+ 
+Cambridge International AS & A Level 
+ 
+PHYSICS 9702/21 
+Paper 2 AS Level Structured Questions May/June 2024 
+MARK SCHEME 
+Maximum Mark: 60 
+ 
+ 
+Published 
+ 
+ 
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the 
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the 
+details of the discussions that took place at an Examiners’ meeting before marking began, which would have 
+considered the acceptability of alternative answers. 
+ 
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for 
+Teachers. 
+ 
+Cambridge International will not enter into discussions about these mark schemes. 
+ 
+Cambridge International is publishing the mark schemes for the May/June 2024 series for most 
+Cambridge IGCSE, Cambridge International A and AS Level and Cambridge Pre-U components, and some 
+Cambridge O Level components. 
+ 
+ 
+ 
+---PAGE 2---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 2 of 15 
+ 
+Generic Marking Principles 
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the 
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these 
+marking principles. 
+ 
+GENERIC MARKING PRINCIPLE 1: 
+ 
+Marks must be awarded in line with: 
+ 
+ the specific content of the mark scheme or the generic level descriptors for the question 
+ the specific skills defined in the mark scheme or in the generic level descriptors for the question 
+ the standard of response required by a candidate as exemplified by the standardisation scripts. 
+GENERIC MARKING PRINCIPLE 2: 
+ 
+Marks awarded are always whole marks (not half marks, or other fractions). 
+GENERIC MARKING PRINCIPLE 3: 
+ 
+Marks must be awarded positively: 
+ 
+ marks are awarded for correct/valid answers, as defined in the ma rk scheme. However, credit is given for valid answers which go beyond 
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate 
+ marks are awarded when candidates clearly demonstrate what they know and can do 
+ marks are not deducted for errors 
+ marks are not deducted for omissions 
+ answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assesse d by the 
+question as indicated by the mark scheme. The meaning, however, should be unambiguous. 
+GENERIC MARKING PRINCIPLE 4: 
+ 
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level 
+descriptors. 
+---PAGE 3---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 3 of 15 
+ 
+GENERIC MARKING PRINCIPLE 5: 
+ 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may 
+be limited according to the quality of the candidate responses seen). 
+GENERIC MARKING PRINCIPLE 6: 
+ 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or 
+grade descriptors in mind. 
+ 
+ 
+Science-Specific Marking Principles 
+ 
+1 Examiners should consider the context and scientific use of any keywords when awarding marks. Although keywords may be present, marks 
+should not be awarded if the keywords are used incorrectly.  
+2 The examiner should not choose between contradictory statements given in the same question part, and credit should not be awa rded for 
+any correct statement that is contradicted within the same question part. Wrong science that is irrelevant to the question should be ignored. 
+3 Although spellings do not have to be correct, spellings of syllabus terms must allow for clear and unambiguous separation fro m other 
+syllabus terms with which they may be confused (e.g. ethane / ethene, glucagon / glycogen, refraction / reflection). 
+4 The error carried forward (ecf) principle should be applied, where appropriate. If an incorrect answer is subsequently used i n a scientifically 
+correct way, the candidate should be awarded these subsequent marking points. Further guidance will be included in the mark scheme 
+where necessary and any exceptions to this general principle will be noted. 
+5 ‘List rule’ guidance 
+ 
+For questions that require n responses (e.g. State two reasons …): 
+ 
+ The response should be read as continuous prose,  even when numbered answer spaces are provided. 
+ Any response marked ignore in the mark scheme should not count towards n. 
+ Incorrect responses should not be awarded credit but will still count towards n. 
+ Read the entire response to check for any responses that cont radict those that would otherwise be credited. Credit should not be 
+awarded for any responses that are contradicted within the rest of the response. Where two responses contradict one another, this 
+should be treated as a single incorrect response. 
+ Non-contradictory responses after the first n responses may be ignored even if they include incorrect science. 
+---PAGE 4---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 4 of 15 
+ 
+6 Calculation specific guidance 
+ 
+Correct answers to calculations should be given full credit even if there is no working or incorrect working, unless the question states ‘show 
+your working’.  
+ 
+For questions in which the number of significant figures required is not stated, credit should be awarded for correct answers when rounded 
+by the examiner to the number of significant figures given in the mark scheme. This may not apply to measured values.  
+ 
+For answers given in standard form (e.g. a  10n) in which the convention of restricting the value of the coefficient (a) to a value between 1 
+and 10 is not followed, credit may still be awarded if the answer can be converted to the answer given in the mark scheme.  
+ 
+Unless a separate mark is given for a unit, a missing or incorrect unit will normally mean that the final calculation mark is not awarded. 
+Exceptions to this general principle will be noted in the mark scheme. 
+7 Guidance for chemical equations 
+ 
+Multiples / fractions of coefficients used in chemical equations are acceptable unless stated otherwise in the mark scheme.  
+ 
+State symbols given in an equation should be ignored unless asked for in the question or stated otherwise in the mark scheme. 
+ 
+ 
+  
+---PAGE 5---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 5 of 15 
+ 
+Abbreviations 
+ 
+/ Alternative and acceptable answers for the same marking point. 
+( ) Bracketed content indicates words which do not need to be explicitly seen to gain credit but which indicate the context for an answer. 
+The context does not need to be seen but if a context is given that is incorrect then the mark should not be awarded. 
+___ Underlined content must be present in answer to award the mark. This means either the exact word or another word that has the 
+same technical meaning. 
+ 
+Mark categories 
+ 
+B marks These are independent marks, which do not depend on other marks. For a B mark to be awarded, the point to which it refers must 
+be seen specifically in the candidate’s answer. 
+M marks These are method marks upon which A marks later depend. For an M mark to be awarded, the point to which it refers must be seen 
+specifically in the candidate’s answer. If a candidate is not awarded an M mark, then the later A mark cannot be awarded either. 
+C marks These are compensatory marks which can be awarded even if the points to which they refer are not written down by the can didate, 
+providing subsequent working gives evidence that they must have known them. For example, if an equation carries a C mark and 
+the candidate does not write down the actual equation but does correct working which shows the candidate knew the equation, then 
+the C mark is awarded. 
+If a correct answer is given to a numerical question, all of the preceding C marks are awarded automatically.  It is only necessary to 
+consider each of the C marks in turn when the numerical answer is not correct. 
+A marks These are answe r marks.  They may depend on an M mark or allow a C mark to be awarded by implication. 
+ 
+  
+---PAGE 6---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 6 of 15 
+ 
+Question Answer Marks 
+1(a) units of FD: kg m s–2 M1 
+ units of 
+ kg m–3 
+and 
+units of A: m2 
+and 
+units of v: m s−1 or units of v2: m2 s–2 
+M1 
+ kg  m s–2 = C kg m s–2 and comment ‘(so) C has no units’ / unit terms cancelled 
+or 
+C = kg
+ m s−2 / (kg m–3 m2 m2 s–2) and comment ‘(so) C has no units’ / unit terms cancelled 
+A1 
+1(b) one arrow vertically downward labelled weight to within 10°  of the vertical B1 
+ one arrow vertically upwards labelled drag  / drag force / FD / air resistance / viscous force to within 10° of the vertical B1 
+1(c) (at terminal velocity) FD = mg   C1 
+ FD = 0.049  9.81  
+ 
+ = 0.48  N 
+A1 
+1(d) area =   (0.060 / 2)2 C1 
+ 0.48 = ½  C  1.2    (0.060 / 2)2  252 C1 
+ C = 0.45 A1 
+---PAGE 7---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 7 of 15 
+ 
+Question Answer Marks 
+2(a) change in displacement  / time (taken) B1 
+2(b)(i) horizontal velocity = 22  cos 40° C1 
+ time taken = 36  / (22  cos 40°) 
+ 
+ = 2.1  s 
+A1 
+2(b)(ii) u  = 22  sin 40° 
+ 
+ = 14  m s−1 
+A1 
+2(b)(iii) s  = ut + ½ at2 
+ 
+ = (14  2.1) + (½  −9.81  2.12) 
+C1 
+  = 7.8 (m) C1 
+ (therefore) height of wall = 7.8 + 1.2  
+ 
+ = 9.0
+ m  
+A1 
+---PAGE 8---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 8 of 15 
+ 
+Question Answer Marks 
+2(b)(iii) or  
+ other methods possible e.g. 
+ 
+time to maximum height = (0 – 14)  / –9.81  (= 1.43 s) 
+ 
+time from maximum height to wall = 2.1 – 1.43  (= 0.67 s) 
+ 
+maximum height above release = (14  1.43) + (½  −9.81  1.43
+2) 
+ 
+         = 9.99 (m) 
+(C1)  height from maximum to wall = 0.5  9.81  0.672  (= 2.2 m) 
+ 
+height above release = 9.99 – 2.2 
+ 
+ = 7.8 (m)  
+(C1) 
+ height of wall = 1.2 + 7.8 
+ 
+ = 9.0
+ m 
+(A1) 
+---PAGE 9---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 9 of 15 
+ 
+Question Answer Marks 
+3(a) sum  / total momentum before (a collision) = sum / total momentum after (a collision) 
+or 
+sum / total momentum (of a system) is constant 
+M1 
+ if no (resultant) external force (acts)  / for an isolated system A1 
+3(b) along direction of motion: 
+ 
+10m = 2mv cos 30° + 3mw cos 30° 
+C1 
+ perpendicular to direction of motion: 
+ 
+2mv cos 60° = 3mw cos 60° 
+ 
+(v = 3w
+ / 2) 
+C1 
+ v = 2.9 m s–1 A1 
+ w = 1.9 m s–1 A1 
+3(c) EK = ½  m  v2 
+ 
+     ( = ½  4.2  6.02) 
+ 
+     ( = 76 J) 
+C1 
+ force = work done  / distance C1 
+ force = 76  / 0.050 
+ 
+ = 1500  N 
+A1 
+---PAGE 10---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 10 of 15 
+ 
+Question Answer Marks 
+3(c) or  
+ a = (–)u2 / 2s 
+ 
+ = (–)6.0 2 / (2  0.050) 
+ 
+     ( = (–)360 m s–2) 
+(C1) 
+ F = ma (C1) 
+ F = 4.2  360 
+ 
+ = 1500  N 
+(A1) 
+ or  
+ a  = (–) u2 / 2s 
+ 
+ = (–)6.0 2 / (2  0.050)  
+ 
+     ( = (–)360 m s–2) 
+(C1) 
+ t  = – u / a 
+ 
+  = –6.0  / –360 (= 0.017 s) 
+ 
+F = p / t 
+(C1) 
+ F = (0 – 4.2  6) / 0.017 
+ 
+ = 1500  N 
+(A1) 
+---PAGE 11---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 11 of 15 
+ 
+Question Answer Marks 
+4(a) extension  / original length B1 
+4(b)(i) Young modulus = stress  / strain C1 
+   = (18  / 4.5  10–7) / (1.4  10–3 / 4.0) C1 
+  = (4.0  107) / (3.5  10–4) 
+ 
+ = 1.1  1011 Pa 
+A1 
+4(b)(ii) straight line through the origin  B1 
+ ending at the point (3.5, 4.0) B1 
+4(c) 
+ 
+ greater in 
+second wire 
+less in 
+second wire 
+the same in 
+both wires 
+stress    
+strain    
+ 
+B2 
+  
+---PAGE 12---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 12 of 15 
+ 
+Question Answer Marks 
+5(a) wave(s) (travel along string and) reflect at fixed point  / wall / Q / end / vibration generator / P B1 
+ incident and reflected waves superpose B1 
+5(b) 0.80  m A1 
+5(c) same wavelength as original throughout and passing through intersection of solid and dashed lines  B1 
+ reflected in dashed line and of same amplitude B1 
+5(d) 180°  A1 
+5(e) v = f and  f =1 / T 
+or 
+v = 
+/ T  
+C1 
+ v = 6.25  0.80  or  0.80 / 0.16 
+ 
+ = 5.0  m s–1 
+A1 
+---PAGE 13---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 13 of 15 
+ 
+Question Answer Marks 
+6(a) sum of current(s) entering a junction = sum of current(s) leaving (the same junction) 
+or 
+(algebraic) sum of current (s) at a junction is zero 
+B1 
+6(b) (by Kirchhoff’s second law) V = V1 + V2 B1 
+ so IRT = IR1 + IR2 (and cancelling I gives) RT = R1 + R2 
+or 
+V / I = V1 / I + V2 / I (and substituting R gives) RT = R1 + R2 
+B1 
+6(c) current in circuit = 1.35  / (10 + 15)  (= 0.054 A) C1 
+ r  = (E – V) / I  C1 
+  = (1.5 – 1.35)  / 0.054 
+ 
+ = 2.8  
+A1 
+ or  
+ by potential divider principle 0.15
+1.35 25
+r  (C2) 
+ r = 2.8  (A1) 
+ or  
+ I = 1.35 / (10 + 15)  (= 0.054 A)  (C1) 
+ total resistance = 1.50 / 0.054  (= 27.8 ) 
+ 
+r = 27.8 – 25 
+(C1) 
+ r = 2.8  (A1) 
+---PAGE 14---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 14 of 15 
+ 
+Question Answer Marks 
+6(d)(i) the (total) resistance (of the circuit) has decreased (and e.m. f. is unchanged) M1 
+ (the current (in the cell) will) increase A1 
+6(d)(ii) (as the current is greater and so there is a) larger p.d. across the internal resistance  M1 
+ (terminal p.d. will) decrease A1 
+---PAGE 15---
+9702/21 Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2024 
+ 
+© Cambridge University Press & Assessment 2024 Page 15 of 15 
+ 
+Question Answer Marks 
+7(a) 66
+29Cu B1 
+7(b)(i) the energy of the decay is fixed  / constant B1 
+ the energies of the beta particles have a (continuous) range of values  / varies / not constant B1 
+ another particle  / an (anti)neutrino must possess the extra / remaining energy (difference between energy of the decay and 
+the  kinetic energy) 
+B1 
+7(b)(ii) (electron) antineutrino B1 
+7(b)(iii) 
+   
+066 66 0
+29 30 1 e 0Cu Zn   
+ 
+values for Cu and Zn correct with no other extra particles on either side of the equation 
+B1 
+ second term correct (  0
+1 ) B1 
+ third term correct ( 
+0
+e0 ) B1 
+ 

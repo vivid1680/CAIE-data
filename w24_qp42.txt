@@ -1,0 +1,677 @@
+
+---PAGE 1---
+This document has 24 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS  & A Level
+PHYSICS 9702/42
+Paper 4 A Level Structured Questions October/November 2024
+ 2 hours
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMA TION
+ ● The total mark for this paper is 100.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+*5924230129*
+DC (PB/FC) 336256/3
+© UCLES 2024
+,	,
+* 0000800000001 *
+¬O> 4mHuOªE]z5W
+¬l<{\£o Yo«3Q
+¥5¥Uu5EU¥UEEuuU
+
+---PAGE 2---
+2
+9702/42/O/N/24© UCLES 2024
+Data
+acceleration of free fall g	 =	9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  =  R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊàü·þ×
+ĬìºüÙħûĊâĂïûÓĪăĩĘĂ
+ĥĥõÕµÕąµÕĕĕąąÕĥµÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 3---
+3
+9702/42/O/N/24© UCLES 2024 [Turn over
+2
+gravitational	potential	 ϕ	 =	–  r
+GM
+gravitational	potential	energy	 EP	 =	–  r
+GMm
+pressure	of	an	ideal	gas	 p = V
+Nm
+3
+1  〈c2〉
+simple	harmonic	motion	 a	 =	– ω 2x
+velocity	of	particle	in	s.h.m.	 v = v0 cos ωt
+ v = ! ω ()xx0
+22-
+electric	potential	 V = r
+Q
+4 0rf
+electrical	potential	energy	 EP = r
+Qq
+4 0rf
+capacitors	in	series	 C
+1  =  C
+1
+1
+ + C
+1
+2
+ + ...
+capacitors	in	parallel	 C = C1 + C2 + ...
+discharge	of	a	capacitor	 x = ex RC
+t
+0
+-
+Hall	voltage	 VH = I
+ntq
+B
+alternating	current/voltage	 x = x0 sin ωt
+radioactive	decay	 x = x0e– λt
+decay	constant	 λ = .
+t
+0 693
+2
+1
+intensity	reflection	coefficient	 I
+IR
+0
+ = 
+()
+()
+ZZ
+ZZ
+12
+2
+12
+2
++
+-
+Stefan–Boltzmann	law	 L = 4πσr 2T 4
+Doppler	redshift		  ∆λ
+λ  á f
+fD  á c
+v
+* 0000800000003 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊàú·þ×
+Ĭì¹ûÑġ÷ú×øĂ®ćĒ×ĩĨĂ
+ĥĥąĕõµĥÕÅĥÅąąµąõÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 4---
+4
+9702/42/O/N/24© UCLES 2024
+1 A metal wheel consists of an axle A, eight spokes and a rim, as shown in Fig. 1.1.
+spoke
+axle A
+rim
+X
+Fig. 1.1
+ Point X is on the rim at the end of one of the spokes.
+ The rim has a radius of 0.85 m.
+ The wheel is rotating clockwise with an angular speed of 140 rad s–1.
+ (a) For point X, determine:
+  (i) the speed
+ speed =  ................................................ m s–1 [2]
+  (ii) the centripetal acceleration.
+ acceleration =  ................................................ m s–2 [2]
+* 0000800000004 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÞü·Ā×
+Ĭì¹úÑīąïäúĉµå®õùĐĂ
+ĥÕÕĕµµĥõåÅµąÅµåõÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 5---
+5
+9702/42/O/N/24© UCLES 2024 [Turn over
+ (b) There is a uniform magnetic field of flux density 0.18 T into the plane of the page.
+  (i) State Lenz’s law of electromagnetic induction.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) Show that the time taken for point X to complete one revolution is 45 ms.
+[1]
+  (iii) Calculate the magnetic flux cut by spoke AX during one revolution of the wheel.
+   Give a unit with your answer.
+magnetic flux = .................................... unit ............ [3]
+  (iv) Determine the magnitude of the electromotive force (e.m.f.) induced across spoke AX.
+ induced e.m.f. =  ...................................................... V [2]
+  (v) Use Lenz’s law to explain whether the potential is higher at end A or end X of the spoke.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+[Total: 13]
+* 0000800000005 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÞú·Ā×
+ĬìºùÙĝĉÿÕĀøôñÆáùĠĂ
+ĥÕåÕõÕąĕµµĥąÅÕÅµÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 6---
+6
+9702/42/O/N/24© UCLES 2024
+2 The Sun may be considered as a uniform sphere with a mass of 1.99 × 10 30 kg and a surface 
+temperature of 5780 K.
+ A probe with a mass of 2.63 kg moves in a straight line towards the Sun.
+ When it is at a distance x from the centre of the Sun, the probe measures the gravitational field 
+strength g due to the Sun and the radiant flux intensity F of radiation from the Sun.
+ (a) Define gravitational field.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) For the position of the probe where x = 1.47 × 1011 m:
+  (i) calculate g
+ g =  ...............................................  N kg–1 [2]
+  (ii) determine the gravitational potential energy EP of the probe.
+ E P =  ....................................................... J [2]
+ (c) (i) Show that, for any particular value of x, the numerical values of g and F are related by
+g =  4πGM
+L  F
+   where M is the mass of the Sun, L is the luminosity of the Sun and G is the 
+gravitational constant.
+[3]
+* 0000800000006 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊßú¶þ×
+Ĭì¹ùÖħġąÍċąĉđ®ÄÑĐĂ
+ĥąąÕõõąµõÕÅąąÕĥõĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 7---
+7
+9702/42/O/N/24© UCLES 2024 [Turn over
+  (ii) Fig. 2.1 shows the variation of g with F.
+0
+0 0.5 1.0 1.5
+F / 103 W m–2
+g / 10–3 N kg–1
+2.0
+4
+8
+Fig. 2.1
+   Determine a value for the luminosity L of the Sun. Give a unit with your answer.
+L = .................................... unit ............ [2]
+  (iii) Use your answer in (c)(ii) to determine the radius r of the Sun.
+ r =  ......................................................  m [2]
+[Total: 12]
+* 0000800000007 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊßü¶þ×
+ĬìºúÎġĝõìíüÀÅÆĘÑĠĂ
+ĥąõĕµĕĥÕĥåĕąąµąµąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 8---
+8
+9702/42/O/N/24© UCLES 2024
+3 (a) Define specific latent heat.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A dish containing 7.2 × 10–5 m3 of a substance rests on a laboratory bench. The substance is 
+initially a liquid of density 710 kg m–3. Atmospheric pressure is 1.0 × 105 Pa.
+  The liquid is heated at its boiling point so that it completely vaporises. The increase in the 
+internal energy of the substance during this process is 17.6 kJ. The final volume of the vapour 
+is 0.017 m3.
+  (i) Show that the magnitude of the work done on the substance when it vaporises is 1.7 kJ.
+[2]
+  (ii) Use the information in (b)(i) to calculate the thermal energy Q, in kJ, supplied to the 
+substance to cause it to vaporise.
+ Q =  .....................................................  kJ [2]
+  (iii) Use your answer in (b)(ii) to determine a value for the specific latent heat of vaporisation 
+LV, in kJ kg–1, of the substance.
+ L V =  .............................................. kJ kg–1 [2]
+* 0000800000008 *
+,		,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÝú¶Ā×
+ĬìºûÎīďôÏóóÇħĪ¶ÁĘĂ
+ĥµåĕõĕĥõąąĥąÅµåµĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 9---
+9
+9702/42/O/N/24© UCLES 2024 [Turn over
+ (c) The substance in (b) has a specific latent heat of fusion LF.
+  Suggest and explain whether L F is likely to be less than, the same as, or greater than the 
+answer in (b)(iii).
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+[Total: 11]
+* 0000800000009 *
+,	
+,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÝü¶Ā×
+Ĭì¹üÖĝēĄêąþĂ³ĒĢÁĨĂ
+ĥµÕÕµõąĕĕõµąÅÕÅõąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 10---
+10
+9702/42/O/N/24© UCLES 2024
+4 (a) State three of the basic assumptions of the kinetic theory of gases.
+1  ................................................................................................................................................
+ ...................................................................................................................................................
+2  ................................................................................................................................................
+ ...................................................................................................................................................
+3  ................................................................................................................................................
+ ...................................................................................................................................................
+[3]
+ (b) Explain how molecular movement causes the pressure exerted by a gas.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ (c) Fig. 4.1 shows the variation with thermodynamic temperature T of the mean‑square speeds 
+〈c2〉 for two gases X and Y.
+0
+0 100 200 300
+T / K
+〈c 2〉 / 106 m2 s–2
+400
+2
+4
+6
+Y
+X
+Fig. 4.1
+* 0000800000010 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊàú¸þ×
+Ĭì»û×ĩėĦÑüüĝċĬÒùĠĂ
+ĥĥÅÕõĕÅõåµĥÅÅĕåµåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 11---
+11
+9702/42/O/N/24© UCLES 2024 [Turn over
+  Fig. 4.2 shows the variation with T of the product pV for samples of the two gases, where p is 
+the pressure of the gas and V is the volume of the gas.
+0
+0 100 200 300
+T / K
+pV  / 103 J
+400
+1
+2
+3
+Y
+X
+Fig. 4.2
+  State three conclusions about the gases and their samples that may be drawn from Fig. 4.1 
+and Fig. 4.2. The conclusions may be qualitative or quantitative. Use the space below for any 
+working that you need.
+1  ................................................................................................................................................
+ ...................................................................................................................................................
+2  ................................................................................................................................................
+ ...................................................................................................................................................
+3  ................................................................................................................................................
+ ...................................................................................................................................................
+[3]
+[Total: 9]
+* 0000800000011 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊàü¸þ×
+Ĭì¼üÏğěĖèþąìÏĔĆùĐĂ
+ĥĥµĕµõåĕµÅµÅÅõÅõµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 12---
+12
+9702/42/O/N/24© UCLES 2024
+5 Fig. 5.1 shows a pendulum consisting of a metal sphere suspended by a thin string.
+ thin string
+metal sphere
+oscillations
+Fig. 5.1 (not to scale)
+ The sphere undergoes small oscillations about its equilibrium position. The oscillations may be 
+considered to be simple harmonic.
+ Fig. 5.2 shows the variation with time t of the displacement x of the sphere from its 
+equilibrium position.
+–0.02
+x  / m
+–0.01
+0.01
+0.02
+0 0.2 0.4 0.6
+t / s
+0.8 1.0 1.2
+0
+Fig. 5.2
+ (a) On Fig. 5.1, draw an arrow, from the centre of the sphere, to represent the direction of the 
+resultant force acting on the sphere when it is in the position shown. [1]
+* 0000800000012 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÞú¸Ā×
+Ĭì¼ùÏĥĩēÓĄþãí°èĩĨĂ
+ĥÕĥĕõõåµÕĥÅÅąõĥõåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 13---
+13
+9702/42/O/N/24© UCLES 2024 [Turn over
+ (b) The mass of the sphere is 0.15 kg.
+  (i) State the amplitude of the oscillations.
+ amplitude =  ...................................................... m [1]
+  (ii) Determine the angular frequency of the oscillations.
+ angular frequency =  .............................................. rad s–1 [2]
+  (iii) Calculate the total energy of the oscillations.
+ total energy =  ....................................................... J [2]
+ (c) On Fig. 5.3, sketch the variation with x of the kinetic energy EK of the sphere.
+x  / m
+–0.02 –0.01 0 0.01 0.02
+0
+2
+4
+6
+EK / 10–3 J
+Fig. 5.3
+[3]
+[Total: 9]
+* 0000800000013 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÞü¸Ā×
+Ĭì»ú×ģĥģæöóĦéÈôĩĘĂ
+ĥÕĕÕµĕÅÕÅĕĕÅąĕąµµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 14---
+14
+9702/42/O/N/24© UCLES 2024
+6 (a) State Coulomb’s law.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) Fig. 6.1 shows an isolated hollow conducting sphere that is positively charged.
++
++
++
++ +
++
++
++
+Fig. 6.1
+  On Fig. 6.1, draw field lines to represent the electric field outside the sphere. [3]
+ (c) Fig. 6.2 shows the variation of the electric field strength E with distance x from the centre of 
+the sphere in (b).
+x  / cm
+0 2 4 6 8
+0
+1
+2
+3
+E / 105 N C–1
+Fig. 6.2
+* 0000800000014 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÝûµĂ×
+Ĭì¼üÖĝĚěØôøÉąčøÙĐĂ
+ĥõĕĕõõąõåąĕąÅÕåõĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 15---
+15
+9702/42/O/N/24© UCLES 2024 [Turn over
+  (i) Determine the radius, in cm, of the sphere.
+ radius =  .................................................... cm [1]
+  (ii) Calculate the charge on the sphere.
+ charge =  ...................................................... C [3]
+  (iii) Suggest an explanation for the fact that the electric field inside the sphere is zero.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+[Total: 10]
+* 0000800000015 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÝùµĂ×
+Ĭì»ûÎīĖīáĆĉĀÑĥäÙĠĂ
+ĥõĥÕµĕĥĕµõÅąÅµÅµõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 16---
+16
+9702/42/O/N/24© UCLES 2024
+7 (a) Define the capacitance of a parallel‑plate capacitor.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) An initially uncharged capacitor X, of capacitance C, is gradually charged so that the final 
+potential difference (p.d.) between its plates is V and the final charge is Q.
+  (i) On Fig. 7.1, sketch the variation of charge with p.d. for capacitor X as the p.d. increases 
+from 0 to V.
+charge
+Q
+V0
+p.d.
+0
+Fig. 7.1
+[2]
+  (ii) Determine an expression, in terms of Q and V, for the work W done on capacitor X 
+during the charging process. Explain your reasoning.
+ W =  .........................................................  [2]
+* 0000800000016 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊßûµĄ×
+Ĭì»úÎġĨĞÖČĂćóÉĂÉĘĂ
+ĥÅµÕõĕĥµÕÕµąąµĥµĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 17---
+17
+9702/42/O/N/24© UCLES 2024 [Turn over
+ (c) Another capacitor Y is initially uncharged. The fully charged capacitor X in (b) is now 
+connected to capacitor Y, as shown in Fig. 7.2.
+Y
+X
+Fig. 7.2
+  The capacitance of capacitor Y is 3C.
+  (i) Complete Table 7.1 to show expressions, in terms of Q and V, for the final p.d.s across, 
+and the final charges on, the two capacitors.
+   Use the space below for any working that you need.
+Table 7.1
+X Y
+final p.d.
+final charge
+[3]
+  (ii) State whether the total energy stored in the two capacitors is less than, the same as, or 
+greater than the energy initially stored in capacitor X.
+ ..................................................................................................................................... [1]
+[Total: 10]
+* 0000800000017 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊßùµĄ×
+Ĭì¼ùÖħĬĎãîïÂç±ÖÉĨĂ
+ĥÅÅĕµõąÕÅåĥąąÕąõõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 18---
+18
+9702/42/O/N/24© UCLES 2024
+8 (a) State what is meant by the frequency of an alternating current.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) An alternating current I in a resistor of resistance 680 Ω varies with time t according to
+I = 3.5 sin (40πt)
+  where I is in A and t is in s.
+  (i) Show that the period of the alternating current is 50 ms.
+[1]
+  (ii) On Fig. 8.1, sketch the variation of I with t between t = 0 and t = 100 ms.
+– 4
+I  / A
+–2
+2
+4
+0 25 50 75
+t / ms
+100
+0
+Fig. 8.1
+[3]
+* 0000800000018 *
+,		,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÞû·Ă×
+Ĭìºú×ģĠüÜăĉÝďËĦñĠĂ
+ĥĕÕĕõĕÅµõĥµÅąĕĥµÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 19---
+19
+9702/42/O/N/24© UCLES 2024 [Turn over
+  (iii) Determine the root‑mean‑square (r.m.s.) current in the resistor.
+ r.m.s. current =  ....................................................... A [1]
+ (c) Use data from (b), including your answer in (b)(iii), to show by calculation that the mean 
+power in the 680 Ω resistor is half of the peak power.
+[3]
+[Total: 9]
+* 0000800000019 *
+,	
+,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÞù·Ă×
+Ĭì¹ùÏĥĤČÝõøĬË³²ñĐĂ
+ĥĕåÕµõåÕĥĕĥÅąõąõÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 20---
+20
+9702/42/O/N/24© UCLES 2024
+9 Electrons in a vacuum are accelerated from rest through a potential difference (p.d.) V to form a 
+beam. The electrons each have mass m and charge q.
+ The beam is incident on a graphite crystal that acts as a diffraction grating. After passing through 
+the crystal, the beam reaches a fluorescent screen. An interference pattern is observed on 
+this screen.
+ (a) Explain what this observation shows about the nature of electrons.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) Determine an expression, in terms of m, q and V, for the momentum p of an electron in 
+the beam.
+ p =  .........................................................  [3]
+ (c) The p.d. through which the electrons are accelerated is now increased to a greater value.
+  Describe and explain the effect of this change on the interference pattern observed.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+* 0000800000020 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊàû·Ą×
+Ĭì¹üÏğĒýÚûïģĩďĔġĨĂ
+ĥåõÕõõåõąµĕÅÅõåõÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 21---
+21
+9702/42/O/N/24© UCLES 2024 [Turn over
+ (d) The electrons are now accelerated through dif ferent values of V, resulting in pairs of 
+corresponding values for p and the de Broglie wavelength λ.
+  (i) On Fig. 9.1, sketch the variation of p with 1
+λ.
+p
+00
+1
+λ
+Fig. 9.1
+[2]
+  (ii) State the name of the quantity represented by the gradient of the line in Fig. 9.1.
+ ..................................................................................................................................... [1]
+[Total: 9]
+* 0000800000021 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊàù·Ą×
+Ĭìºû×ĩĎíßýĂæ­ħÈġĘĂ
+ĥåąĕµĕÅĕĕÅÅÅÅĕÅµÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 22---
+22
+9702/42/O/N/24© UCLES 2024
+BLANK PAGE
+* 0000800000022 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÝù¶Ă×
+Ĭì¹ûÜģö÷çĊóÏÍďåÉĨĂ
+ĥõåĕµµÅµÕåĥÅąĕĥõĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 23---
+23
+9702/42/O/N/24© UCLES 2024
+10 (a) Radioactive decay is both random and spontaneous.
+  (i) State what is meant by random.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (ii) State what is meant by spontaneous.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+  (iii) State one piece of evidence for the random nature of decay.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ (b) (i) Describe the differences between nuclear fission and nuclear fusion.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+  (ii) Explain, with reference to the variation of binding energy per nucleon with nucleon 
+number, why the processes of nuclear fission and nuclear fusion both result in a release 
+of energy.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+[Total: 8]
+* 0000800000023 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÝû¶Ă×
+ĬìºüÔĥúćÒðþĚĉħñÉĘĂ
+ĥõÕÕõÕåÕÅÕµÅąõąµąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+---PAGE 24---
+24
+9702/42/O/N/24© UCLES 2024
+BLANK PAGE
+Permission to reproduce items where third‑party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer‑related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+* 0000800000024 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊßù¶Ą×
+ĬìºùÔğČĂåòąđëËÓÙĠĂ
+ĥÅąÕµÕåõåõÅÅÅõåµĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN

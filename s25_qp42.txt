@@ -1,0 +1,738 @@
+
+---PAGE 1---
+This document has 24 pages. Any blank pages are indicated.
+ [Turn over
+Cambridge International AS  & A Level
+*6067100917*
+DC (CJ/SG) 342383/3
+© UCLES 2025
+PHYSICS 9702/42
+Paper 4 A Level Structured Questions May/June 2025
+ 2 hours
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ ● Answer all questions.
+ ● Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ ● Write your name, centre number and candidate number in the boxes at the top of the page.
+ ● Write your answer to each question in the space provided.
+ ● Do not use an erasable pen or correction fluid.
+ ● Do not write on any bar codes.
+ ● You may use a calculator.
+ ● You should show all your working and use appropriate units.
+INFORMATION
+ ● The total mark for this paper is 100.
+ ● The number of marks for each question or part question is shown in brackets [ ].
+,	,
+* 0000800000001 *
+¬O> 4mHuOªE_y5W
+¬Gnr\¬it{¦Sv;¥
+¥e555EueEUueU
+DFD
+---PAGE 2---
+2
+9702/42/M/J/25© UCLES 2025
+Data
+acceleration of free fall g	 =	9.81 m s–2
+speed	of	light	in	free	space		 c = 3.00 × 108 m s–1
+elementary	charge		 e = 1.60 × 10–19 C
+unified	atomic	mass	unit		 1 u	 =	1.66	× 10–27 kg
+rest	mass	of	proton		 mp = 1.67 × 10–27 kg
+rest	mass	of	electron		 me = 9.11 × 10–31 kg
+Avogadro	constant		 NA = 6.02 × 1023 mol–1
+molar	gas	constant		 R	 =	8.31 J K–1 mol–1
+Boltzmann	constant		 k = 1.38 × 10–23 J K–1
+gravitational	constant		 G = 6.67 × 10–11 N m2 kg–2
+permittivity	of	free	space		 ε0 = 8.85 × 10–12 F m–1
+ (4
+1
+0rf  = 8.99 × 109 m F–1)
+Planck	constant		 h = 6.63 × 10–34 J s
+Stefan–Boltzmann	constant		 σ = 5.67 × 10–8 W m–2 K–4
+Formulae
+uniformly	accelerated	motion	 s = ut + 2
+1 at 2
+ v 2 = u 2 + 2as
+hydrostatic	pressure	 ∆p = ρg∆h
+upthrust	 F = ρgV
+Doppler	effect	for	sound	waves	 fo = vv
+fv
+s
+s
+!
+electric current I = Anvq
+resistors	in	series	 R = R1 + R2 + ...
+resistors	in	parallel	 R
+1  =  R
+1
+1
+ + R
+1
+2
+ + ...
+* 0000800000002 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÞû·þ×
+ĬÇðñÙĠĐôÒýýĉīïÆăĝĂ
+ĥõåĕõÕąĕåĥÕÅÅĕĥµąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 3---
+3
+9702/42/M/J/25© UCLES 2025 [Turn over
+2
+gravitational	potential	 ϕ	 =	–  r
+GM
+gravitational	potential	energy	 EP	 =	–  r
+GMm
+pressure	of	an	ideal	gas	 p = V
+Nm
+3
+1  〈c2〉
+simple	harmonic	motion	 a	 =	– ω 2x
+velocity	of	particle	in	s.h.m.	 v = v0 cos ωt
+ v = ! ω ()xx0
+22-
+electric	potential	 V = r
+Q
+4 0rf
+electrical	potential	energy	 EP = r
+Qq
+4 0rf
+capacitors	in	series	 C
+1  =  C
+1
+1
+ + C
+1
+2
+ + ...
+capacitors	in	parallel	 C = C1 + C2 + ...
+discharge	of	a	capacitor	 x = ex RC
+t
+0
+-
+Hall	voltage	 VH = I
+ntq
+B
+alternating	current/voltage	 x = x0 sin ωt
+radioactive	decay	 x = x0e– λt
+decay	constant	 λ = .
+t
+0 693
+2
+1
+intensity	reflection	coefficient	 I
+IR
+0
+ = 
+()
+()
+ZZ
+ZZ
+12
+2
+12
+2
++
+-
+Stefan–Boltzmann	law	 L = 4πσr 2T 4
+Doppler	redshift		  ∆λ
+λ  á f
+fD  á c
+v
+* 0000800000003 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÞù·þ×
+ĬÇïòÑĪĔĄçûôÀ¯ćĒăčĂ
+ĥõÕÕµµĥõµĕąÅÅõąõĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 4---
+4
+9702/42/M/J/25© UCLES 2025
+1 (a) Define the radian.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) The rear wheel and the pedals of a bicycle are connected by a chain that passes around two 
+cogs (toothed wheels), as shown in Fig. 1.1.
+X
+chain
+pedal
+pedal
+large cog,
+radius 0.15 m
+small cog,
+radius 0.038 m
+rear wheel,
+radius 0.46 m
+Fig. 1.1 (not to scale)
+  The small cog has a radius of 0.038 m and is fixed to the rear wheel so that it rotates with it. 
+  The large cog has a radius of 0.15 m and is fixed to the pedals so that it rotates with them.
+  The rear wheel has a radius of 0.46 m.
+  The bicycle is being pedalled so that it moves in a straight line at a constant speed of 17 m s–1.
+  (i) Calculate the angular speed of the rear wheel.
+ angular speed =  .............................................. rad s–1 [2]
+* 0000800000004 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊàû·Ā×
+ĬÇïóÑĤĢąÔõûÇčë´ēĥĂ
+ĥÅąÕõµĥÕÕµõÅąõåõąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 5---
+5
+9702/42/M/J/25© UCLES 2025 [Turn over
+  (ii) Calculate the period of rotation of the small cog.
+ period =  ...................................................... s [2]
+  (iii) Show that the distance moved by point X on the chain during one full rotation of the 
+small cog is 0.24 m.
+ [1]
+  (iv) Use the information in (b)(iii) to determine the angle through which the large cog rotates 
+during one full rotation of the small cog.
+ angle =  ................................................... rad [2]
+ (c) The chain of the bicycle in (b) is moved onto a smaller cog fixed to the rear wheel. The speed 
+of the bicycle does not change.
+  Explain, without calculation, the ef fect of this change on the angular speed of the pedals.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ [Total: 10]
+* 0000800000005 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊàù·Ā×
+ĬÇðôÙĦĞõåăĆĂÉÓĨēĕĂ
+ĥÅõĕµÕąµÅÅåÅąĕÅµĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 6---
+6
+9702/42/M/J/25© UCLES 2025
+2 (a) (i) State what is represented by a gravitational field line.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) The Earth may be considered as a uniform sphere, as shown in Fig. 2.1.
+Earth
+Fig. 2.1
+   On Fig. 2.1, draw field lines to represent the Earth’s gravitational field outside the Earth.
+ [2]
+ (b) The Earth’s magnetic field may be considered as being due to the Earth acting as a long 
+solenoid, as shown in Fig. 2.2.
+Equator
+axis of
+rotation
+solenoid
+magnetic
+pole
+magnetic
+pole
+Fig. 2.2
+  The magnetic poles do not align with the geographic poles, which are on the axis of rotation.
+* 0000800000006 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÝù¶þ×
+ĬÇïôÖĠĆïÝĈ÷ûéëą»ĥĂ
+ĥĕÕĕµõąĕąåąÅÅĕĥõÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 7---
+7
+9702/42/M/J/25© UCLES 2025 [Turn over
+  Fig. 2.3 is a copy of Fig. 2.2 without the labels but with two magnetic field lines shown.
+Fig. 2.3
+  (i) On Fig. 2.3, label the magnetic poles with the letters N and S to indicate which one is the 
+magnetic N pole and which one is the magnetic S pole. [1]
+  (ii) On Fig. 2.3, draw field lines to represent the Earth’s magnetic field outside the Earth. [2]
+ (c) An observer moves around the surface of the Earth.
+  (i) Use your answer in (a)(ii) to ex plain why the observed gravitational field of the Earth 
+does not vary around the surface.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (ii) With reference to your answer in (b)(ii), describe how the observed magnetic field of the 
+Earth varies around the surface.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+ [Total: 12]
+* 0000800000007 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÝû¶þ×
+ĬÇðóÎĪĊÿÜòĊ®íÓÑ»ĕĂ
+ĥĕåÕõĕĥõĕÕÕÅÅõąµÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 8---
+8
+9702/42/M/J/25© UCLES 2025
+3 (a) Define specific heat capacity.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A block of aluminium has a volume of 3.612 × 10–3 m3 at a temperature of 0 °C.
+  Aluminium has a density of 2.700 × 10 3 kg m–3 at 0 °C.
+  It has a density of 2.620 × 10 3 kg m–3 at 500 °C.
+  The block is heated so that its temperature increases from 0 °C to 500 °C at an atmospheric 
+pressure of 1.01 × 105 Pa.
+  The increase in internal energy of the block is 4.38 MJ.
+  (i) Calculate the mass of the block.
+ mass =  .................................................... kg [2]
+  (ii) Show that the volume of the block at a temperature of 500 °C is 3.722 × 10–3 m3.
+ [1]
+  (iii) Use the information in (b)(ii) to determine the magnitude of the work done on the block 
+when its temperature is raised from 0 °C to 500 °C.
+ work done =  ...................................................... J [2]
+* 0000800000008 *
+,		,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊßù¶Ā×
+ĬÇðòÎĤüĊßðāµÏïóëĝĂ
+ĥåõÕµĕĥÕõõåÅąõåµÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 9---
+9
+9702/42/M/J/25© UCLES 2025 [Turn over
+  (iv) Explain whether the work done on the block is positive or negative.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (v) Use the first law of thermodynamics to determine, to three significant figures, a value for 
+the specific heat capacity of aluminium. Explain your reasoning. Give a unit with your 
+answer.
+ specific heat capacity =  ................................... unit .............. [3]
+ (c) Without further calculation, suggest with a reason how doubling the pressure in (b) is likely to 
+affect the answer in (b)(v).
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ [Total: 13]
+* 0000800000009 *
+,	
+,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊßû¶Ā×
+ĬÇïñÖĦøúÚĊðôċćçëčĂ
+ĥåąĕõõąµĥąõÅąĕÅõÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 10---
+10
+9702/42/M/J/25© UCLES 2025
+4 (a) The equation of state for an ideal gas may be written as
+pVA  =  NBT
+  where p is the pressure of the gas, V is the volume of the gas, A is the Avogadro constant, B 
+is another constant and N is the number of molecules of the gas.
+  (i) State the meaning, in the equation, of the symbol T.
+ ..................................................................................................................................... [1]
+  (ii) Identify the constant B.
+ ..................................................................................................................................... [1]
+ (b) The product pV for an ideal gas is also given by
+pV  =  1
+3 Nm 〈c 2〉.
+  (i) State the meanings, in this equation, of the symbols m and 〈c 2〉.
+m:  ......................................................................................................................................
+〈c 2〉:  ...................................................................................................................................
+ [2]
+  (ii) Use the equations in (a) and (b) to derive an expression, in terms of A, B and T, for the 
+mean kinetic energy EK of a molecule of the gas.
+ EK =  ......................................................... [2]
+* 0000800000010 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÞù¸þ×
+ĬÇíò×ĢôĐá÷Ċď³íėēĕĂ
+ĥõĕĕµĕÅÕÕÅåąąÕåµõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 11---
+11
+9702/42/M/J/25© UCLES 2025 [Turn over
+ (c) On Fig. 4.1, sketch the variation with T of the root-mean-square (r .m.s.) speed of the 
+molecules of an ideal gas.
+0
+0
+r.m.s. speed
+T
+Fig. 4.1
+ [2]
+ [Total: 8]
+* 0000800000011 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊÞû¸þ×
+ĬÇîñÏĨðĠØā÷ÚħąÃēĥĂ
+ĥõĥÕõõåµÅµõąąµÅõĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 12---
+12
+9702/42/M/J/25© UCLES 2025
+5 (a) State what is meant by simple harmonic motion.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) A block is suspended by a spring. The block oscillates vertically with simple harmonic motion.
+  The velocity v of the block varies with time t according to
+v  =  0.56 cos 16t
+  where v is in m s–1 and t is in s.
+  (i) Calculate the period of the oscillation.
+ period =  ...................................................... s [1]
+  (ii) Determine the amplitude x0 of the oscillation.
+ x0 =  ..................................................... m [2]
+  (iii) Use your answer in (b)(ii) to determine the equation for v in terms of the displacement x 
+of the block, where v is in m s–1 and x is in m.
+ v =  ......................................................... [1]
+* 0000800000012 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊàù¸Ā×
+ĬÇîôÏĞþĩãÿðÑÅéġăčĂ
+ĥÅµÕµõåĕåĕąąÅµĥõõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 13---
+13
+9702/42/M/J/25© UCLES 2025 [Turn over
+  (iv) On Fig. 5.1, sketch the variation of v with x.
+x / cm
+v / m s–1
+0.8
+0.4
+0
+–0.4
+–0.8
+–2 20 4 6–4–6
+Fig. 5.1
+ [3]
+ [Total: 9]
+* 0000800000013 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊàû¸Ā×
+ĬÇíó×ĬĂęÖùāĘđÑµăĝĂ
+ĥÅÅĕõĕÅõµĥÕąÅÕąµĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 14---
+14
+9702/42/M/J/25© UCLES 2025
+6 Two parallel metal plates X and Y are separated by a distance of 0.041 m, as shown in Fig. 6.1.
+0.041 m
+X
+electron
+vacuum
+Y
+Fig. 6.1
+ There is a vacuum between the plates. An electron is at rest at the centre of plate X.
+ 
+ A potential dif ference (p.d.) of 58 kV is applied across the plates. This causes the electron to 
+accelerate towards plate Y.
+ (a) On Fig. 6.1, use the symbols + and – to indicate which of plates X and Y is the positive plate 
+and which is the negative plate. [1]
+ (b) (i) Calculate the electric field strength E between the plates. Give a unit with your answer.
+ E =  ................................... unit .............. [2]
+  (ii) Determine the acceleration of the electron.
+ acceleration =  ................................................ m s–2 [2]
+* 0000800000014 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊßüµĂ×
+ĬÇîñÖĦíġèïĆ»­Č±³ĥĂ
+ĥĥÅÕµõąÕÕõÕÅąĕåõµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 15---
+15
+9702/42/M/J/25© UCLES 2025 [Turn over
+ (c) Many electrons are now accelerated from rest from plate X to plate Y in Fig. 6.1. When 
+the electrons hit plate Y, the absorption of their kinetic energies results in the emission of 
+electromagnetic waves.
+  (i) Show that the minimum wavelength of these electromagnetic waves is 21 pm.
+ [3]
+  (ii) State the region of the electromagnetic spectrum that contains these waves.
+ ..................................................................................................................................... [1]
+  (iii) Explain how these electromagnetic waves may be used to form images of internal body 
+structures.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ [Total: 11]
+* 0000800000015 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊßúµĂ×
+ĬÇíòÎĤñđÑĉûîĩôĥ³ĕĂ
+ĥĥµĕõĕĥµÅąąÅąõÅµåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 16---
+16
+9702/42/M/J/25© UCLES 2025
+7 Fig. 7.1 shows a circuit containing a capacitor of capacitance C and a resistor of resistance R.
+C
+R
+Fig. 7.1
+ Initially, the switch is open and the potential difference (p.d.) across the capacitor is 12 V.
+ The switch is closed at time t = 0 and the capacitor discharges through the resistor.
+ Fig. 7.2 shows the variation of the charge Q on the capacitor with the p.d. VC across the capacitor 
+as the capacitor discharges. Fig. 7.3 shows the variation of the current I in the resistor with the 
+p.d. VR across the resistor as the capacitor discharges.
+0
+0
+4
+8
+4 8 12
+VC / V
+Q / mC
+0
+0
+1
+2
+4 8 12
+VR / V
+I / mA
+  Fig. 7.2 Fig. 7.3
+ (a) State the relationship between VC and VR.
+ ............................................................................................................................................. [1]
+ (b) Determine:
+  (i) the capacitance C, in μF
+ C =  .................................................... μF [2]
+* 0000800000016 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÝüµĄ×
+ĬÇíóÎĪăĘæćôõËÐÇãĝĂ
+ĥÕĥĕµĕĥĕååõÅÅõĥµµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 17---
+17
+9702/42/M/J/25© UCLES 2025 [Turn over
+  (ii) the resistance R, in kΩ
+ R =  ................................................... kΩ [2]
+  (iii) the time constant τ of the circuit.
+ 
+	τ  =  ...................................................... s [2]
+ (c) Use Fig. 7.2, Fig. 7.3 and your answer in (a) to explain why the variation of Q with t is 
+exponential in nature.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ [Total: 10]
+* 0000800000017 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÝúµĄ×
+ĬÇîôÖĠÿĨÓñý´ďèēãčĂ
+ĥÕĕÕõõąõµÕåÅÅĕąõåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 18---
+18
+9702/42/M/J/25© UCLES 2025
+8 Fig. 8.1 shows a circuit that produces rectification of an alternating input voltage.
+VIN VOUTR
+Fig. 8.1
+ The input voltage VIN is sinusoidal. The rectified output voltage VOUT is applied across resistor R.
+ The variation of VIN with time t has amplitude V0 and period T, as shown in Fig. 8.2.
+00
+V0
+VIN
+–V0
+T t 2T
+Fig. 8.2
+ The root-mean-square (r.m.s.) value of VIN is 6.0 V.
+ (a) (i) State the type of rectification produced by the circuit of Fig. 8.1.
+ ..................................................................................................................................... [1]
+  (ii) Calculate V0.
+ V0 =  ...................................................... V [1]
+* 0000800000018 *
+,		,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊàü·Ă×
+ĬÇðó×ĬċĂìĀûÏçÎãěĕĂ
+ĥąąÕµĕÅĕąĕõąÅÕĥµąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 19---
+19
+9702/42/M/J/25© UCLES 2025 [Turn over
+ (b) Resistor R has resistance 45 Ω.
+  Assume that there is no p.d. across the diode when it is conducting.
+  (i) Determine the peak power P0 in the resistor.
+ P 0 =  ..................................................... W [2]
+  (ii) On Fig. 8.3, sketch the variation of the power P in the resistor with t between t = 0 and 
+t = 2T.
+00
+P0
+P
+T t 2T
+P0
+1
+2
+Fig. 8.3
+ [3]
+  (iii) Use the answer in (b)(ii) to explain why the mean power in the resistor is 1
+4 P0.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+  (iv) Use the information in (b)(iii) to determine the r.m.s. value of VOUT .
+ r.m.s. voltage =  ...................................................... V [1]
+ [Total: 10]
+* 0000800000019 *
+,	
+,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊàú·Ă×
+ĬÇïôÏĞćòÍúĆĚóæ÷ěĥĂ
+ĥąõĕõõåõĕĥåąÅµąõĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 20---
+20
+9702/42/M/J/25© UCLES 2025
+9 (a) State what is meant by the photoelectric effect.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ (b) The photoelectric effect is investigated in two stages using the circuit shown in Fig. 9.1.
+PV
+A
+electromagnetic
+radiation, frequency f
+metal plate
+polished
+metal plate
+vacuumX
+Y
+Fig. 9.1
+  The polished metal plate Y is illuminated with electromagnetic radiation of frequency f and 
+constant power.
+  In stage 1 of the investigation, frequency f is set to a constant value of 2.5 × 10 15 Hz. The 
+current I in the ammeter is varied by adjusting the potentiometer P . Fig. 9.2 shows the  
+variation of I with the voltmeter reading V. There is a value VS of V at which the current just 
+falls to zero.
+  In stage 2 of the investigation, stage 1 is repeated for dif ferent values of frequency . As 
+frequency f is varied, the voltmeter reading V S at which the current just falls to zero is 
+measured. Fig. 9.3 shows the variation of VS with f.
+0
+0
+2
+4
+2 4 6
+V / V
+0
+0
+4
+8
+1 2 3
+f / 1015 Hz
+I / mA VS / V
+  Fig. 9.2 Fig. 9.3
+* 0000800000020 *
+,	,
+ĬÍĊ¾Ġ´íÈõÏĪÅĊÞü·Ą×
+ĬÇïñÏĨõ÷êøýđÑĊÕċčĂ
+ĥµåĕµõåÕõÅÕąąµåõąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 21---
+21
+9702/42/M/J/25© UCLES 2025 [Turn over
+  (i) Explain, with reference to photons, why V S depends on the frequency of the incident 
+electromagnetic radiation.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+  (ii) State three quantitative conclusions that can be drawn from the results in Fig. 9.2 and 
+Fig. 9.3. Use the space for any working.
+1  ........................................................................................................................................
+ ...........................................................................................................................................
+2  ........................................................................................................................................
+ ...........................................................................................................................................
+3  ........................................................................................................................................
+ ...........................................................................................................................................
+ [3]
+ [Total: 8]
+* 0000800000021 *
+,	,
+ĬÏĊ¾Ġ´íÈõÏĪÅĊÞú·Ą×
+ĬÇðò×ĢùćÏĂôØąòāċĝĂ
+ĥµÕÕõĕÅµĥµąąąÕÅµĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 22---
+22
+9702/42/M/J/25© UCLES 2025
+10 (a) Radioactive decay is a spontaneous process.
+  State the meaning, in this context, of the term spontaneous.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ (b) Two radioactive isotopes X and Y each decay to form a stable isotope.
+  A  sample initially contains only atoms of isotope X. At this time, its activity is 4A.
+  Another sample initially contains only atoms of Y. At this time, its activity is A.
+  Fig. 10.1 shows the variation of the activity of each sample with time t between t = 0 and 
+t = 6T.
+0
+0
+A
+2A
+3A
+4A
+T 2T 3T 4T 5T 6T
+t
+activity
+X
+Y
+Fig. 10.1
+  (i) Complete Table 10.1 to give expressions, in terms of either or both of A and T, for the 
+quantities indicated for each of the samples.
+Table 10.1
+sample half-life decay 
+constant initial activity initial number of nuclei
+X 4A
+Y A
+ [3]
+* 0000800000022 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊßú¶Ă×
+ĬÇïòÜĬđý×ąāÝĥĊĤãčĂ
+ĥĥõÕõµÅĕåÕåąÅÕĥõÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 23---
+23
+9702/42/M/J/25© UCLES 2025
+  (ii) Determine, in terms of T, the time at which the two samples will have equal activities.
+ time =  ...................................................... T [3]
+ (c) A radiation detector is placed near to one of the samples in (b).
+  Explain why the count rate measured by the detector is less than the activity of the sample.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ [Total: 9]
+* 0000800000023 *
+,	,
+ĬÓĊ¾Ġ´íÈõÏĪÅĊßü¶Ă×
+ĬÇðñÔĞčíâóðĬ±ò¸ãĝĂ
+ĥĥąĕµÕåõµåõąÅµąµÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
+---PAGE 24---
+24
+9702/42/M/J/25© UCLES 2025
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE
+* 0000800000024 *
+,	,
+ĬÑĊ¾Ġ´íÈõÏĪÅĊÝú¶Ą×
+ĬÇðôÔĨğüÕí÷ģēÎĖ³ĕĂ
+ĥÕÕĕõÕåÕÕąąąąµåµÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+DFD
