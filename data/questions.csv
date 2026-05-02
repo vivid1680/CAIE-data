@@ -311,7 +311,7 @@ D +2/3 e",NULL
 The angle of the side of the cone to the horizontal is 52°. There is no friction between the ball and the cone.
 Fig. 1.2 shows a cross-section through the cone and the steel ball.
 [diagram]
-On Fig. 1.2, draw labelled arrows to show the two forces acting on the ball.",images/9702_m25_qp_42_fig1_2.png
+On Fig. 1.2, draw labelled arrows to show the two forces acting on the ball.",images/9702_m25_42_qp_fig1_2.png
 9702,2025,March,4,2,1,b,2,Describe how the forces acting on the ball cause its acceleration to be centripetal.,NULL
 9702,2025,March,4,2,1,c,3,"The ball moves in a circle of radius 0.15 m.
 Show that the speed of the ball is 1.4 m s^-1.",NULL
@@ -322,15 +322,15 @@ Explain why the radius of the circular path of the ball increases.",NULL
 9702,2025,March,4,2,2,a,3,"The magnitude of the gravitational potential on the surface of a planet of radius R is φ.
 The planet can be considered to be an isolated sphere.
 On Fig. 2.1, sketch the variation of the gravitational potential with distance x from the centre of the planet for values of x between R and 4R.
-[diagram]",images/9702_m25_qp_42_fig2_1.png
+[diagram]",images/9702_m25_42_qp_fig2_1.png
 9702,2025,March,4,2,2,b,2,"A satellite is in a geostationary orbit above the Earth. At time t = 0, the magnitude of the gravitational potential due to the Earth at the location of the satellite is φ.
 On Fig. 2.2, sketch the variation of the gravitational potential due to the Earth at the location of the satellite for values of t between t = 0 and t = 24 hours.
-[diagram]",images/9702_m25_qp_42_fig2_2.png
+[diagram]",images/9702_m25_42_qp_fig2_2.png
 9702,2025,March,4,2,2,c,2,"The electric potential difference (p.d.) between two parallel plates is V, as shown in Fig. 2.3.
 [diagram]
 The distance between the plates is d. The region between the plates is a vacuum.
 On Fig. 2.4, sketch the variation of the electric potential with distance from the positive plate.
-[diagram]",images/9702_m25_qp_42_fig2_4.png
+[diagram]",images/9702_m25_42_qp_fig2_4.png
 9702,2025,March,4,2,3,NULL,12,Thermal Physics,NULL
 9702,2025,March,4,2,3,a(i),2,"Two metal cuboids P and Q are in thermal contact with each other.
 P and Q are in thermal equilibrium.
@@ -340,19 +340,19 @@ State what is meant by the term thermal equilibrium.",NULL
 P and Q are initially both at the same temperature.
 P is supplied with 24 kJ of thermal energy. After some time, P and Q are once again both at the same temperature as each other.
 P and Q are perfectly insulated from the surroundings.
-Determine the change in temperature ΔT of Q.",images/9702_m25_qp_42_table3_1.png
+Determine the change in temperature ΔT of Q.",images/9702_m25_42_qp_table3_1.png
 9702,2025,March,4,2,3,b(i),3,"Nitrogen may be assumed to be an ideal gas. A fixed amount of nitrogen gas is contained at a constant pressure of 1.6 × 10^5 Pa.
 The variation of the volume V of the gas with the temperature θ of the gas is shown in Fig. 3.1.
 [diagram]
 The temperature of the nitrogen gas is increased from 0 °C to 210 °C.
-Determine the work done on the gas.",images/9702_m25_qp_42_fig3_1.png
+Determine the work done on the gas.",images/9702_m25_42_qp_fig3_1.png
 9702,2025,March,4,2,3,b(ii),2,Determine the number N of molecules of nitrogen gas.,NULL
 9702,2025,March,4,2,3,b(iii),2,"The mass of a nitrogen molecule is 4.7 × 10^-26 kg.
 Calculate the root-mean-square (r.m.s.) speed of a nitrogen molecule at 210 °C.",NULL
 9702,2025,March,4,2,4,NULL,12,Simple Harmonic Motion,NULL
 9702,2025,March,4,2,4,a,2,"A small crystal is made to vibrate with simple harmonic motion. The variation with time t of the displacement x of one surface of the crystal from its equilibrium position is shown in Fig. 4.1.
 [diagram]
-Show that the angular frequency of the vibration of the surface is 4.2 × 10^7 rad s^-1.",images/9702_m25_qp_42_fig4_1.png
+Show that the angular frequency of the vibration of the surface is 4.2 × 10^7 rad s^-1.",images/9702_m25_42_qp_fig4_1.png
 9702,2025,March,4,2,4,b,2,Determine the maximum acceleration a0 of the vibration of the surface.,NULL
 9702,2025,March,4,2,4,c,3,"The crystal may be modelled as a single mass of 2.4 × 10^-4 kg that vibrates as shown in Fig. 4.1.
 Calculate the total energy E of the vibrations.",NULL
@@ -361,7 +361,7 @@ The crystal is made from piezoelectric material.
 Explain how the crystal is made to vibrate.",NULL
 9702,2025,March,4,2,4,d(ii),3,"A parallel beam of ultrasound waves is incident on a muscle-bone boundary. Data for muscle and bone are given in Table 4.1.
 [diagram]
-Calculate the percentage of the intensity of the ultrasound beam that is transmitted at this boundary.",images/9702_m25_qp_42_table4_1.png
+Calculate the percentage of the intensity of the ultrasound beam that is transmitted at this boundary.",images/9702_m25_42_qp_table4_1.png
 9702,2025,March,4,2,5,NULL,9,Capacitors,NULL
 9702,2025,March,4,2,5,a,2,"A capacitor of capacitance C1 is connected in series with a second capacitor of capacitance C2.
 Show that the combined capacitance C of the two capacitors is given by 1/C = 1/C1 + 1/C2.",NULL
@@ -369,7 +369,7 @@ Show that the combined capacitance C of the two capacitors is given by 1/C = 1/C
 [diagram]
 The variation of the charge Q with the potential difference (p.d.) V between the terminals X and Y is shown in Fig. 5.2.
 [diagram]
-Show that C is equal to 44 μF.",images/9702_m25_qp_42_fig5_1.png
+Show that C is equal to 44 μF.",images/9702_m25_42_qp_fig5_1.png
 9702,2025,March,4,2,5,c(i),2,"The capacitor network in Fig. 5.1 is charged and then connected to a resistor of resistance 54 kΩ. The capacitor network discharges through the resistor.
 Determine the time constant τ of the circuit. Give a unit with your answer.",NULL
 9702,2025,March,4,2,5,c(ii),2,Determine the time taken for the discharge current to reduce to 15% of the initial discharge current.,NULL
@@ -377,7 +377,7 @@ Determine the time constant τ of the circuit. Give a unit with your answer.",NU
 9702,2025,March,4,2,6,a,2,"An electric field and a magnetic field are used to form a velocity selector. Charged particles, called ions, pass into a region of uniform electric and magnetic fields that is between parallel plates, as shown in Fig. 6.1.
 [diagram]
 The potential difference (p.d.) between the plates of the velocity selector is V. The separation of the plates is d and the magnetic flux density is B.
-Show that the speed u of ions that pass undeviated through the velocity selector is given by u = V / Bd.",images/9702_m25_qp_42_fig6_1.png
+Show that the speed u of ions that pass undeviated through the velocity selector is given by u = V / Bd.",images/9702_m25_42_qp_fig6_1.png
 9702,2025,March,4,2,6,b,3,"Positive ions with kinetic energy 4.1 × 10^-17 J and mass 3.2 × 10^-27 kg pass undeviated through the velocity selector when V is equal to 980 V and d is equal to 3.6 × 10^-2 m.
 Determine B.",NULL
 9702,2025,March,4,2,6,c,1,"A proton passes undeviated through the velocity selector.
@@ -385,7 +385,7 @@ An alpha particle enters the velocity selector at the same speed as the proton.
 State how the expression in (a) predicts that the alpha particle also passes undeviated through the velocity selector.",NULL
 9702,2025,March,4,2,6,d,3,"By reference to Fig. 6.1 and to the forces acting on a positive ion, determine the direction of the magnetic field. Explain your reasoning.",NULL
 9702,2025,March,4,2,6,e,2,"The positive ions in (b) enter the velocity selector with greater kinetic energy.
-On Fig. 6.1, sketch the path of these ions.",images/9702_m25_qp_42_fig6_1.png
+On Fig. 6.1, sketch the path of these ions.",images/9702_m25_42_qp_fig6_1.png
 9702,2025,March,4,2,7,NULL,9,Electromagnetic Induction,NULL
 9702,2025,March,4,2,7,a,2,State Faraday’s law of electromagnetic induction.,NULL
 9702,2025,March,4,2,7,b(i),2,"A metal rod is accelerated uniformly from rest in a uniform magnetic field as shown in Fig. 7.1.
@@ -393,7 +393,7 @@ On Fig. 6.1, sketch the path of these ions.",images/9702_m25_qp_42_fig6_1.png
 The rod has length l and the flux density of the magnetic field is B.
 An electromotive force (e.m.f.) is induced in the rod. The variation with time t of the induced e.m.f. E is shown in Fig. 7.2.
 [diagram]
-Explain how Fig. 7.2 shows that E is proportional to the velocity v of the rod.",images/9702_m25_qp_42_fig7_1.png
+Explain how Fig. 7.2 shows that E is proportional to the velocity v of the rod.",images/9702_m25_42_qp_fig7_1.png
 9702,2025,March,4,2,7,b(ii),3,Use Faraday’s law to show that the variation of E with time t is given by E = Blat where a is the acceleration of the rod.,NULL
 9702,2025,March,4,2,7,b(iii),2,"The length of the rod is 0.45 m. The acceleration a of the rod is 7.8 m s^-2.
 Determine the value of B.",NULL
@@ -413,10 +413,10 @@ State what is meant by: random",NULL
 9702,2025,March,4,2,9,b,1,Define half-life.,NULL
 9702,2025,March,4,2,9,c,2,"Data for the binding energy per nucleon of the particles involved in the decay of a nucleus of polonium-193 are given in Table 9.1.
 [diagram]
-Determine the energy, in eV, released when a nucleus of polonium-193 decays into a nucleus of lead-189.",images/9702_m25_qp_42_table9_1.png
+Determine the energy, in eV, released when a nucleus of polonium-193 decays into a nucleus of lead-189.",images/9702_m25_42_qp_table9_1.png
 9702,2025,March,4,2,9,d(i),1,"A pure sample of polonium-193 contains N0 nuclei. After a time t the sample contains N nuclei of polonium-193. The variation of ln (N / N0) with t is shown in Fig. 9.1.
 [diagram]
-State the name of the quantity that is represented by the magnitude of the gradient of the line in Fig. 9.1.",images/9702_m25_qp_42_fig9_1.png
+State the name of the quantity that is represented by the magnitude of the gradient of the line in Fig. 9.1.",images/9702_m25_42_qp_fig9_1.png
 9702,2025,March,4,2,9,d(ii),2,"Use Fig. 9.1 to determine the half-life, in ms, of polonium-193.",NULL
 9702,2025,March,4,2,9,e(i),1,"Positron emission tomography (PET scanning) uses a radioactive tracer.
 State what happens to the positrons emitted by the tracer.",NULL
@@ -429,7 +429,7 @@ State what happens to the positrons emitted by the tracer.",NULL
 The wavelengths of light from points X and Y are observed and recorded in Table 10.1.
 [diagram]
 The Sun rotates with a period of 2.07 × 10^6 s.
-Show that the radius of the Sun is 6.93 × 10^8 m.",images/9702_m25_qp_42_fig10_1.png
+Show that the radius of the Sun is 6.93 × 10^8 m.",images/9702_m25_42_qp_fig10_1.png
 9702,2025,March,4,2,10,b(ii),2,State and explain how the expected wavelength of the light observed from Z compares with the emitted wavelength.,NULL
 9702,2025,March,4,2,10,b(iii),2,"The luminosity of the Sun is 3.8 × 10^26 W.
 Use the information in (b)(i) to calculate the surface temperature of the Sun.",NULL
@@ -2867,3 +2867,2458 @@ D neutron to proton up becomes down",NULL
 9702,2025,November,4,3,3,c,NULL,Gravitational field variation graph Fig 3.4.,images/9702_w25_43_qp_fig3_4.png
 9702,2025,November,4,3,4,b,NULL,pV-kT graph analysis.,images/9702_w25_43_qp_fig4_1.png
 9702,2025,November,4,3,9,b,NULL,Star X emission spectra Fig 9.2.,images/9702_w25_43_qp_fig9_2.png
+9702,2025,June,1,3,1,NULL,1,"hour 15 minutes
+You must answer on the multiple choice answer sheet.
+You will need: Multiple choice answer sheet
+Soft clean eraser
+Soft pencil (type B or HB is recommended)
+INSTRUCTIONS
+
+There are forty questions on this paper. Answer all questions.
+
+For each question there are four possible answers A, B, C and D. Choose the one you consider correct
+and record your choice in soft pencil on the multiple choice answer sheet.
+
+Follow the instructions on the multiple choice answer sheet.
+
+Write in soft pencil.
+
+Write your name, centre number and candidate number on the multiple choice answer sheet in the
+spaces provided unless this has been done for you.
+
+Do not use correction fluid.
+
+Do not write on any bar codes.
+
+You may use a calculator.
+INFORMATION
+
+The total mark for this paper is 40.
+
+Each correct answer will score one mark.
+
+Any rough working should be done on this question paper.",NULL
+9702,2025,June,1,3,2,NULL,1,"Data
+acceleration of free fall
+g = 9.81 m s–2
+speed of light in free space
+c = 3.00  108
+m s–1
+elementary charge
+e = 1.60  10–19
+C
+unified atomic mass unit
+1 u = 1.66  10–27
+kg
+rest mass of proton
+mp = 1.67  10–27
+kg
+rest mass of electron
+me = 9.11  10–31
+kg
+Avogadro constant
+NA = 6.02  1023
+mol–1
+molar gas constant
+R = 8.31 J K–1
+mol–1
+Boltzmann constant
+k = 1.38  10–23
+J K–1
+gravitational constant
+G = 6.67  10–11
+N m2
+kg–2
+permittivity of free space
+0  = 8.85  10–12
+F m–1
+(
+0
+4
+1
+
+
+= 8.99  109
+m F–1)
+Planck constant
+h = 6.63  10–34
+J s
+Stefan–Boltzmann constant
+ = 5.67  10–8
+W m–2
+K–4
+Formulae
+uniformly accelerated motion
+s = ut +
+2
+2
+1 at
+v 2 = u 2 + 2as
+hydrostatic pressure
+p =  gh
+upthrust
+F =  gV
+Doppler effect for sound waves
+of  =
+s
+s
+v
+v
+v
+f
+
+electric current
+I  = Anvq
+resistors in series
+R = R1 + R2 + ...
+resistors in parallel
+R
+1  =
+1
+1
+R
++
+2
+1
+R
++ ...",NULL
+9702,2025,June,1,3,3,NULL,1,"1
+What represents a vector quantity?
+A
+1 N upwards
+B
+2 kg decrease
+C
+3 K cooler
+D",NULL
+9702,2025,June,1,3,4,NULL,1,"s later
+2
+What is a reasonable estimate of the current in an electric kettle that is in use?
+A
+8 A
+B
+8 mA
+C
+8 A
+D
+8 kA
+3
+Which statement about errors in measurements is correct?
+A
+An accurate set of measurements always has a small random error.
+B
+A precise set of measurements always has a small systematic error.
+C
+A random error can be reduced by taking an average of several measurements.
+D
+A systematic error creates a random set of measurements spread out about the true value.
+4
+A sample of material has cross-sectional area A and length L. The temperatures at the two sides
+of the sample are T1 and T2. Thermal energy Q is transferred through the sample in time t.
+These quantities are related by
+t
+Q  =
+L
+T
+T
+A
+k
+)
+(
+2
+1 –
+
+
+where k is a constant.
+What are the SI base units of k ?
+A
+kg m s–3
+°C–1
+B
+kg m s–3
+K–1
+C
+kg m s–1
+°C–1
+D
+kg m s–1
+K–1
+4",NULL
+9702,2025,June,1,3,5,NULL,1,"The graph shows the variation of velocity with time t of an object moving in a straight line.
+4
+3
+2
+1
+0
+–1
+–2
+–3
+–4
+velocity / m s–1
+t / s
+0
+4
+8
+12
+16
+20
+24
+28
+32
+At t = 0, the displacement of the object is zero.
+What is the displacement of the object at t = 20 s?
+A
+–3 m
+B
+21 m
+C
+24 m
+D
+27 m",images/9702_s25_13_qp_q5.png
+9702,2025,June,1,3,6,NULL,1,"A science museum designs an experiment to show the fall of a feather in a vertical glass vacuum
+tube.
+The time of fall from rest in the vacuum is to be close to 0.5 s.
+Which length of tube is required?
+A
+1.2 m
+B
+2.5 m
+C
+4.9 m
+D
+9.8 m
+5",NULL
+9702,2025,June,1,3,7,NULL,1,"Two coins are projected from a horizontal table at the same initial speed u.
+Coin X is projected horizontally.
+Coin Y is projected upwards at an angle of 30° to the horizontal.
+u
+u
+coin X
+coin Y
+30°
+Both coins hit the horizontal ground without bouncing.
+Assume the air resistance on each coin is negligible.
+Which statement about the motion of the coins is correct?
+A
+Both coins hit the ground with the same speed.
+B
+Both coins travel the same vertical distance.
+C
+Coin Y hits the ground before coin X.
+D
+Coin Y has a smaller vertical acceleration.",images/9702_s25_13_qp_q7.png
+9702,2025,June,1,3,8,NULL,1,"Two spheres are released from rest at equal heights above the ground.
+Both spheres reach terminal velocity.
+One sphere has a larger density than the other sphere.
+Both spheres have equal volumes.
+Which statement is correct while both spheres are at terminal velocity?
+A
+The drag forces on the spheres are equal.
+B
+The resultant forces on the spheres are equal.
+C
+The velocities of the spheres are equal.
+D
+The weights of the spheres are equal.
+6",NULL
+9702,2025,June,1,3,9,NULL,1,"Which statement defines force?
+A
+When a force acts on a body that is free to move, the force is the product of the mass of the
+body and its acceleration.
+B
+When a force acts on a body that is free to move, the force is the rate of change of
+momentum of the body.
+C
+When a force acts on a body that is free to move, the force is the work done by the force
+divided by the distance moved by the body.
+D
+When a force acts on a lever and causes a moment, the force is the moment divided by the
+perpendicular distance of the force from the pivot.",images/9702_s25_13_qp_q9.png
+9702,2025,June,1,3,10,NULL,1,"Four forces, all in the same plane, act on an object.
+12 N
+12 N
+20 N
+20 N
+What could describe the motion of the object?
+A
+It is accelerating.
+B
+It is moving in a straight line.
+C
+It is moving with decreasing speed.
+D
+It is moving with increasing momentum.
+7",NULL
+9702,2025,June,1,3,11,NULL,1,"A nucleus collides with a stationary nucleus in a vacuum. The diagrams show the paths of the
+nuclei before and after the collision.
+No other particles are involved in the collision.
+Which diagram is not possible?
+A
+C
+B
+D",images/9702_s25_13_qp_q11.png
+9702,2025,June,1,3,12,NULL,1,"A non-uniform bar PQ has length 50 cm and weight 200 N.
+P
+Q
+50 cm
+360 N
+block
+non-uniform bar
+A block of weight 400 N is attached to the top of the bar at its centre. The bar rests on horizontal
+ground.
+A vertical force of 360 N is now exerted upwards on the bar at end Q and is just sufficient to lift
+end Q from the ground.
+What is the distance from the centre of gravity of the bar to end P?
+A
+0.050 m
+B
+0.10 m
+C
+0.25 m
+D
+0.40 m",images/9702_s25_13_qp_q12.png
+9702,2025,June,1,3,13,NULL,1,"What is the definition of density?
+A
+mass of one cubic metre
+B
+mass of a unit volume
+C
+mass per cubic metre
+D
+mass per unit volume
+8",NULL
+9702,2025,June,1,3,14,NULL,1,"A block is in equilibrium on a slope.
+block
+Which vector triangle represents the three forces acting on the block?
+A
+B
+C
+D",images/9702_s25_13_qp_q14.png
+9702,2025,June,1,3,15,NULL,1,"A measuring cylinder contains 80 cm3 of a liquid.
+The pressure due to the liquid at the 60 cm3 mark is 1200 Pa.
+What is the pressure due to the liquid at the base of the measuring cylinder?
+A
+1200 Pa
+B
+1600 Pa
+C
+3600 Pa
+D
+4800 Pa",images/9702_s25_13_qp_q15.png
+9702,2025,June,1,3,16,NULL,1,"Four identical uniform blocks are spread on a table. Each block has mass m and thickness h.
+h
+h
+The acceleration of free fall is g.
+How much work is done on the blocks in stacking them on top of one another?
+A
+3mgh
+B
+6mgh
+C
+8mgh
+D
+10mgh",NULL
+9702,2025,June,1,3,17,NULL,1,"An electric motor uses 1.7 kW of power when operating normally.
+The efficiency of the motor is 53%.
+What is the useful output power of the motor?
+A
+0.032 kW
+B
+0.90 kW
+C
+3.2 kW
+D
+90 kW
+9",NULL
+9702,2025,June,1,3,18,NULL,1,"A ball is released from rest and falls vertically to the ground.
+The kinetic energy EK of the ball varies as the height h of the ball above the ground changes.
+Air resistance is negligible.
+Which graph shows the variation of EK with h?
+0
+A
+0
+h
+EK
+0
+B
+0
+h
+EK
+0
+C
+0
+h
+EK
+0
+D
+0
+h
+EK",images/9702_s25_13_qp_q18.png
+9702,2025,June,1,3,19,NULL,1,"An object travelling with a speed of 10 m s–1 has kinetic energy of 1500 J.
+The speed of the object is increased to 40 m s–1.
+What is the new kinetic energy of the object?
+A
+4500 J
+B
+6000 J
+C
+24 000 J
+D
+1 350 000 J",images/9702_s25_13_qp_q19.png
+9702,2025,June,1,3,20,NULL,1,"What are the units of stress, strain and the Young modulus?
+stress
+strain
+Young
+modulus
+A
+newton
+metre
+pascal
+B
+newton
+no unit
+newton
+C
+pascal
+metre
+newton
+D
+pascal
+no unit
+pascal
+10",images/9702_s25_13_qp_q20.png
+9702,2025,June,1,3,21,NULL,1,"The force–extension graph for a metal wire is shown.
+0
+0
+force
+extension
+Which quantity is represented by the area under the graph?
+A
+power transferred to the wire
+B
+temperature increase in the wire
+C
+time taken for the wire to extend
+D
+work done on the wire",images/9702_s25_13_qp_q21.png
+9702,2025,June,1,3,22,NULL,1,"A wire of length L0 is attached at one end to a fixed point. A tensile force is applied to the other
+end so that the wire extends and has a new length L1.
+What is the strain of the wire?
+A
+
+
+
+
+0
+1
+L
+L
+– 1
+B
+L1 – L0
+C
+
+
+
+
+0
+1
+L
+L
++ 1
+D
+L1 + L0
+11",NULL
+9702,2025,June,1,3,23,NULL,1,"A wire of length L is stretched to determine its limit of proportionality.
+The graph shows the variation of the extension x with the force F applied to the wire.
+P
+0
+0
+F
+x
+The limit of proportionality is shown by point P on the graph.
+The experiment is repeated with another wire of length 2L but of the same material and same
+diameter as the first wire.
+Which point on the graph shows the limit of proportionality for the new wire?
+0
+0
+P
+F
+x
+C
+A
+B
+D
+12",images/9702_s25_13_qp_q23.png
+9702,2025,June,1,3,24,NULL,1,"The graph shows the variation with distance along the wave of the displacement of water
+particles at a particular instant in time for a transverse water wave.
+4
+2
+0
+–2
+–4
+0
+4
+8
+12
+16
+20
+24
+distance / m
+displacement / m
+P
+Q
+R
+P, Q and R show the positions of three water particles in the wave.
+Which particle has the greatest speed at the instant shown?
+A
+all have the same speed
+B
+particle P
+C
+particle Q
+D
+particle R",images/9702_s25_13_qp_q24.png
+9702,2025,June,1,3,25,NULL,1,"Which phenomenon is only associated with transverse waves?
+A
+diffraction
+B
+interference
+C
+polarisation
+D
+reflection
+13",NULL
+9702,2025,June,1,3,26,NULL,1,"A wave is displayed on an oscilloscope.
+The oscilloscope settings are:
+time–base: 300 s div–1
+y-gain: 40 V div–1.
+What is the frequency of the wave?
+A
+130 Hz
+B
+950 Hz
+C
+1100 Hz
+D
+7100 Hz",images/9702_s25_13_qp_q26.png
+9702,2025,June,1,3,27,NULL,1,"An electromagnetic wave travelling in free space is not visible to the human eye.
+What is a possible wavelength of the wave?
+A
+4.5  10–10
+km
+B
+6.2  10–7
+m
+C
+5.4  10–6
+cm
+D
+4.2  10–4
+mm
+14",NULL
+9702,2025,June,1,3,28,NULL,1,"Electromagnetic waves of equal wavelengths are emitted from two sources, X and Y. The waves
+are emitted from X and Y with a phase difference of 180°.
+A detector moves along a path that is parallel to the line XY and detects a pattern of intensity
+maxima and minima.
+The diagram shows the arrangement of the sources and the path of the detector.
+Z
+X
+Y
+110 cm
+path of detector
+70 cm
+An intensity maximum is detected at point Z. Length XZ is 70 cm and length YZ is 110 cm.
+What is a possible wavelength of the waves?
+A
+10 cm
+B
+16 cm
+C
+20 cm
+D
+40 cm",images/9702_s25_13_qp_q28.png
+9702,2025,June,1,3,29,NULL,1,"Two waves of the same type overlap.
+When does the principle of superposition apply?
+A
+always
+B
+only when the waves have the same amplitude
+C
+only when the waves travel in opposite directions
+D
+only when the waves have the same frequency
+15",NULL
+9702,2025,June,1,3,30,NULL,1,"A ripple tank contains water at a constant depth.
+A water wave of constant frequency travels towards a gap in a barrier placed in the ripple tank.
+The gap is made smaller.
+Which diagram represents the wave before and after the barrier?
+A
+B
+C
+D",images/9702_s25_13_qp_q30.png
+9702,2025,June,1,3,31,NULL,1,"Light of a single frequency from two coherent sources interferes to produce a pattern of bright
+and dark fringes on a screen.
+Which change results in a larger fringe separation?
+A
+increasing the distance between the sources and the screen
+B
+increasing the distance between the two sources
+C
+increasing the frequency of the light
+D
+increasing the intensity of the light
+16",NULL
+9702,2025,June,1,3,32,NULL,1,"The current I in a metallic conductor of cross-sectional area A is given by
+I = Anve
+where e is the elementary charge and v is the mean drift velocity of the conduction electrons.
+What is represented by the letter n in the equation?
+A
+density of conduction electrons
+B
+number of conduction electrons per unit time
+C
+number of conduction electrons per unit volume
+D
+volume of conduction electrons",images/9702_s25_13_qp_q32.png
+9702,2025,June,1,3,33,NULL,1,"What cannot be the charge on a charge carrier?
+A
+– 4.8  10–19
+C
+B
+–3.2  10–19
+C
+C
+–2.4  10–19
+C
+D
++3.2  10–19
+C",NULL
+9702,2025,June,1,3,34,NULL,1,"A steel wire with a length of 2.20 m is connected to a battery as shown.
+A
+V
+steel wire
+The reading on the voltmeter is 1.50 V and the reading on the ammeter is 4.90 A.
+The resistivity of steel is 6.90  10–7
+ m.
+What is the diameter of the steel wire?
+A
+1.76  10–
+4
+m
+B
+3.52  10–
+4
+m
+C
+1.26  10–3
+m
+D
+2.51  10–3
+m
+17",NULL
+9702,2025,June,1,3,35,NULL,1,"Two resistors of resistance R and two resistors of resistance 3R are connected to a cell of e.m.f.
+8.0 V as shown.
+The cell has negligible internal resistance.
+V
+8.0 V
+R
+3R
+3R
+R
+What is the reading on the voltmeter?
+A
+0.0 V
+B
+2.0 V
+C
+4.0 V
+D
+6.0 V",images/9702_s25_13_qp_q35.png
+9702,2025,June,1,3,36,NULL,1,"A battery has an e.m.f. E and internal resistance r. The battery delivers a current I to a variable
+resistor and the p.d. across its terminals is V.
+r
+E
+I
+V
+The variable resistor is adjusted so that I increases.
+Why does V decrease?
+A
+The e.m.f. E decreases.
+B
+The internal resistance r increases.
+C
+The p.d. across r increases.
+D
+The resistance of the variable resistor increases.
+18",NULL
+9702,2025,June,1,3,37,NULL,1,"An electrical device of fixed resistance 20  is connected in series with a variable resistor and a
+battery of e.m.f. 16 V and negligible internal resistance.
+20 
+device
+16 V
+The power dissipated in the electrical device is 4.0 W.
+What is the resistance of the variable resistor?
+A
+16 
+B
+36 
+C
+44 
+D
+64 ",images/9702_s25_13_qp_q37.png
+9702,2025,June,1,3,38,NULL,1,"A nucleus decays by emitting a + particle.
+Which particle must also be emitted from the nucleus?
+A
+antineutrino
+B
+β– particle
+C
+-particle
+D
+neutrino",NULL
+9702,2025,June,1,3,39,NULL,1,"What are the charges on an antidown quark and on an antistrange quark?
+antidown quark
+antistrange quark
+A
+e
+3
+1
++
+e
+3
+1
++
+B
+e
+3
+1
++
+e
+3
+1
+–
+C
+e
+3
+1
+–
+e
+3
+1
++
+D
+e
+3
+1
+–
+e
+3
+1
+–
+19",NULL
+9702,2025,June,1,3,40,NULL,1,"The nucleus of a radioactive isotope of an element emits an -particle. The daughter nucleus
+then emits a – particle and then the daughter nucleus of that reaction emits another – particle.
+Which statement describes the final nuclide that is formed?
+A
+It is a different isotope of the original element.
+B
+It is a nuclide of a different element of higher proton number.
+C
+It is a nuclide of the same element but with different proton number.
+D
+It is identical to the original nuclide.
+20
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+BLANK PAGE",NULL
+9702,2025,June,2,3,1,a,1,Define velocity.,NULL
+9702,2025,June,2,3,1,b,3,"In an experiment, two objects A and B are released from the side of a building, as shown in Fig. 1.1.
+[diagram]
+Object A is released from rest at a height of 10.0 m above horizontal ground.
+Object B is released with an initial upward velocity of 3.0 m s−1 at a height h above the ground.
+Both objects take the same time to reach the ground and they do not collide with each other.
+Air resistance is negligible.
+Calculate h.",images/9702_s25_23_qp_fig1_1.png
+9702,2025,June,2,3,1,c(i),2,"In a second experiment, object B is released from the same height as in (b) but with a speed of 6.0 m s−1 at an angle of 60° to the vertical, as shown in Fig. 1.2.
+[diagram]
+State and explain whether the time taken for object B to reach the ground is less than, the same as, or greater than the time taken in the first experiment.",images/9702_s25_23_qp_fig1_2.png
+9702,2025,June,2,3,1,c(ii),2,"By considering energy, state and explain whether the speed at which object B reaches the ground is less than, the same as, or greater than in the first experiment.",NULL
+9702,2025,June,2,3,2,a,1,Define the moment of a force about a pivot.,NULL
+9702,2025,June,2,3,2,b(i),3,"Three objects A, B and C are placed on a horizontal beam. The beam is in equilibrium, as shown in Fig. 2.1.
+[diagram]
+The beam is uniform and has length 9.0 m.
+A pivot is at the midpoint of the beam.
+Object A has mass 90 kg and is at one end of the beam.
+Object B has mass m and is a distance of 3.0 m from the pivot.
+Object C has mass 150 kg and is at the other end of the beam.
+Calculate m.",images/9702_s25_23_qp_fig2_1.png
+9702,2025,June,2,3,2,b(ii),3,"Object A is removed and replaced by a wire fixed to the end of the beam and to the ground, as shown in Fig. 2.2.
+[diagram]
+After the change, the beam is again horizontal and in equilibrium. The positions of B and C are unchanged.
+The wire has a diameter of 1.8 × 10−3 m and has a strain of 1.2 × 10−3.
+The wire is not extended beyond its limit of proportionality.
+Calculate the Young modulus of the wire.",images/9702_s25_23_qp_fig2_2.png
+9702,2025,June,2,3,2,b(iii),2,"Object B is now moved to a new position closer to the pivot without passing it. The beam is again horizontal and in equilibrium.
+State and explain the effect, if any, that this has on the strain in the wire.",NULL
+9702,2025,June,2,3,3,a,2,"A car of mass 1500 kg is travelling along a straight horizontal road at constant velocity v. The car is subject to a total resistive force F, as shown in Fig. 3.1.
+[diagram]
+Show that the power P developed by the engine in overcoming the total resistive force is given by the equation
+P = Fv .",images/9702_s25_23_qp_fig3_1.png
+9702,2025,June,2,3,3,b(i),2,"The car now moves up a slope at a constant speed of 30 m s−1.
+The slope is at an angle to the horizontal of 6.0°, as shown in Fig. 3.2.
+[diagram]
+The total resistive force acting on the car is 1600 N.
+Show that the increase in gravitational potential energy of the car in a time of 1.0 s is 46 000 J.",images/9702_s25_23_qp_fig3_2.png
+9702,2025,June,2,3,3,b(ii),2,Use the information in (b)(i) to determine the power developed by the engine to move the car up the slope.,NULL
+9702,2025,June,2,3,3,c(i),1,"The car picks up a passenger and then continues up the slope at the same speed as in (b).
+State and explain the effect, if any, that the passenger has on:
+the air resistance acting on the car",NULL
+9702,2025,June,2,3,3,c(ii),1,the power developed by the engine.,NULL
+9702,2025,June,2,3,4,a,2,State the principle of conservation of momentum.,NULL
+9702,2025,June,2,3,4,b(i),2,"An object A of mass 4.0 kg travels at a velocity of 6.0 m s−1 to the right on a horizontal frictionless surface. It moves towards a second object B of mass 2.0 kg that is moving at a velocity of 3.0 m s−1 in the same direction as A, as shown in Fig. 4.1.
+[diagram]
+Object A collides with object B. The two objects join and move off together with velocity v.
+Calculate:
+velocity v",images/9702_s25_23_qp_fig4_1.png
+9702,2025,June,2,3,4,b(ii),2,the percentage of the total initial kinetic energy of the two objects that is transferred to other forms of energy during the collision.,NULL
+9702,2025,June,2,3,5,a,1,State why sound waves cannot be polarised.,NULL
+9702,2025,June,2,3,5,b(i),3,"A plane-polarised light wave is incident on a polarising filter as shown in Fig. 5.1.
+[diagram]
+The intensity of the light incident on the filter is I0.
+The light is incident normally on the filter and the transmission axis of the filter is initially perpendicular to the plane of polarisation of the light.
+The filter is now rotated through 360° about the direction of travel of the light wave.
+On Fig. 5.2, sketch the variation of the intensity I of the transmitted light with the angle of rotation α as the filter is rotated through 360° from its initial position.
+[diagram]","images/9702_s25_23_qp_fig5_1.png,images/9702_s25_23_qp_fig5_2.png"
+9702,2025,June,2,3,5,b(ii),4,"The amplitude of the incident light wave is A0 when the intensity of the wave is I0.
+Use Malus’s law to determine, in terms of A0, the amplitude of the transmitted wave when α = 20°.",NULL
+9702,2025,June,2,3,6,a,1,State what is meant by diffraction.,NULL
+9702,2025,June,2,3,6,b(i),2,"Light of wavelength 720 nm in a vacuum is incident normally on a diffraction grating as shown in Fig. 6.1.
+[diagram]
+A screen is parallel to the grating. An interference pattern is seen on the screen and the angle between the second-order maxima is 52°.
+Calculate the frequency of the light.",images/9702_s25_23_qp_fig6_1.png
+9702,2025,June,2,3,6,b(ii),3,Calculate the number of lines per unit length in the diffraction grating.,NULL
+9702,2025,June,2,3,6,b(iii),2,"The light in Fig. 6.1 is now replaced with light of a different wavelength λ. It is observed that the third-order maxima of this light are at the same positions as the second-order maxima of the light in Fig. 6.1.
+Calculate, in nm, the wavelength λ.",NULL
+9702,2025,June,2,3,7,a,3,"A nichrome resistance wire has length 150 cm, cross-sectional area 2.45 × 10−7 m2 and resistivity 1.12 × 10−6 Ω m.
+Calculate, to three significant figures, the resistance of the wire.",NULL
+9702,2025,June,2,3,7,b(i),1,"The nichrome wire forms part of a potentiometer circuit together with a cell of electromotive force (e.m.f.) 1.2 V and negligible internal resistance, as shown in Fig. 7.1.
+[diagram]
+The circuit is used to determine the e.m.f. of cell X.
+The galvanometer is used in a null method to find the null point 64 cm from the left-hand end of the nichrome wire.
+Explain what is meant by a null method.",images/9702_s25_23_qp_fig7_1.png
+9702,2025,June,2,3,7,b(ii),2,Calculate the e.m.f. of cell X.,NULL
+9702,2025,June,2,3,7,b(iii),2,"The cell of e.m.f. 1.2 V is replaced by a new cell with the same e.m.f. but with an internal resistance that is not negligible.
+State and explain the effect, if any, of the internal resistance of the new cell on the position of the null point.",NULL
+9702,2025,June,2,3,8,a,3,"An antiparticle equivalent of the neutron is called the antineutron. The quarks in the antineutron are the antiparticles of the quarks in a neutron.
+The elementary charge is e.
+In Table 8.1, state the flavour and charge of the three antiquarks that comprise the antineutron.",NULL
+9702,2025,June,2,3,8,b,2,"In β− decay, a neutron decays to form a proton.
+Theory predicts that an antineutron should decay to form an antiproton. A particle and an antiparticle should also be observed.
+Suggest the names of the particle and the antiparticle.",NULL
+9702,2025,June,4,3,1,a,2,Define gravitational potential at a point.,NULL
+9702,2025,June,4,3,1,b(i),3,"Mars is a planet that may be considered to be an isolated uniform sphere of radius 3.4 × 10^6 m.
+A satellite of mass 122 kg is in orbit around Mars at a constant height of 1.7 × 10^6 m above the surface of the planet.
+The height of the orbit is increased to 6.8 × 10^6 m above the surface. This increases the gravitational potential energy of the satellite by 5.1 × 10^8 J.
+Show that the mass of Mars is 6.4 × 10^23 kg.",NULL
+9702,2025,June,4,3,1,b(ii),2,Calculate the gravitational potential φ at the surface of Mars.,NULL
+9702,2025,June,4,3,1,c(i),1,"The satellite in (b) is moved to an orbit in which the satellite remains at the same point above the surface of Mars.
+The orbit has a period of 25 hours.
+State what can be deduced from this about the rotation of Mars on its axis.",NULL
+9702,2025,June,4,3,1,c(ii),1,State one other feature of this orbit.,NULL
+9702,2025,June,4,3,2,a,2,"A helium atom may be modelled as a nucleus surrounded by two electrons in diametrically opposite circular orbits, each of radius 170 pm, as shown in Fig. 2.1.
+[diagram]
+State Coulomb’s law.",images/9702_s25_43_qp_fig2_1.png
+9702,2025,June,4,3,2,b(i),1,"State the charge on the nucleus, in terms of the elementary charge e.",NULL
+9702,2025,June,4,3,2,b(ii),1,Show that the electric force between the nucleus and one of the electrons is 1.6 × 10^–8 N.,NULL
+9702,2025,June,4,3,2,c(i),2,"Assume that the force in (b)(ii) is the only force on the electrons.
+Calculate the speed of the orbiting electrons.",NULL
+9702,2025,June,4,3,2,c(ii),2,Calculate the period of the orbit of the electrons.,NULL
+9702,2025,June,4,3,2,d(i),2,"In practice, the orbit of each electron is affected by the presence of the other electron.
+For the position of one of the electrons, determine the ratio
+electric field strength due to the other electron / electric field strength due to the nucleus.",NULL
+9702,2025,June,4,3,2,d(ii),1,Use your answer in (d)(i) to suggest and explain how the orbit of the electron is affected by the presence of the other electron.,NULL
+9702,2025,June,4,3,3,a,2,Define specific latent heat.,NULL
+9702,2025,June,4,3,3,b,3,"Explain why, for a substance, the specific latent heat of vaporisation is usually greater than the specific latent heat of fusion.",NULL
+9702,2025,June,4,3,3,c,4,"An ice cube of mass 37.0 g at temperature 0.0 °C is placed in a beaker containing water of mass 208 g at temperature 26.4 °C.
+When all the ice has melted, and all the water in the beaker has reached thermal equilibrium, the final temperature of all the water is 10.3 °C.
+The specific heat capacity of water is 4.18 J g–1 °C–1.
+The beaker has negligible specific heat capacity and is perfectly insulated from the surroundings.
+Determine a value, to three significant figures, for the specific latent heat of fusion of water.",NULL
+9702,2025,June,4,3,4,a(i),2,State what is meant by the internal energy of a system.,NULL
+9702,2025,June,4,3,4,a(ii),2,Explain why the internal energy of an ideal gas is directly proportional to the thermodynamic temperature of the gas.,NULL
+9702,2025,June,4,3,4,b,4,"A sample of an ideal gas at thermodynamic temperature T has internal energy U.
+The gas is compressed so that its temperature increases to 3T.
+During this compression, work W is done on the gas.
+The gas is then cooled at constant volume so that its temperature decreases to 2T.
+Complete Table 4.1 to show, in terms of some or all of W, T and U, the work done on the gas, the thermal energy supplied to the gas and the increase in internal energy of the gas for each of the two processes.",NULL
+9702,2025,June,4,3,5,a(i),1,"A cuboidal block floats in a liquid with its base horizontal, as shown in Fig. 5.1.
+[diagram]
+The base of the block is at a depth h below the surface of the liquid.
+The block is displaced downwards by a small distance and then released so that it oscillates.
+Fig. 5.2 shows the variation with h of the acceleration a of the block.
+[diagram]
+Fig. 5.3 shows the variation with h of the kinetic energy EK of the block.
+[diagram]
+Determine the amplitude of the oscillations.","images/9702_s25_43_qp_fig5_1.png,images/9702_s25_43_qp_fig5_2.png,images/9702_s25_43_qp_fig5_3.png"
+9702,2025,June,4,3,5,a(ii),1,State what the line in Fig. 5.2 shows about the nature of the oscillations.,NULL
+9702,2025,June,4,3,5,b,3,State three other quantitative conclusions that can be drawn from Fig. 5.2 and Fig. 5.3 about the block and its oscillations.,NULL
+9702,2025,June,4,3,5,c,3,"On Fig. 5.4, sketch the variation with h of the potential energy EP of the oscillations.
+[diagram]",images/9702_s25_43_qp_fig5_4.png
+9702,2025,June,4,3,6,a(i),1,"Fig. 6.1 shows a circuit that rectifies an alternating input voltage VIN and produces an output voltage VOUT across a resistor R.
+[diagram]
+The four terminals of the rectification circuit are labelled W, X, Y and Z.
+A capacitor C is connected in parallel with resistor R.
+State what is meant by rectification.",images/9702_s25_43_qp_fig6_1.png
+9702,2025,June,4,3,6,a(ii),1,State the purpose of capacitor C.,NULL
+9702,2025,June,4,3,6,b(i),2,"Fig. 6.2 shows the variations with time t of the potential differences (p.d.s) VIN and VOUT.
+[diagram]
+The variation of VIN with t can be represented by
+VIN = A cos Bt
+where A and B are constants.
+Determine the values of A and B.",images/9702_s25_43_qp_fig6_2.png
+9702,2025,June,4,3,6,b(ii),1,Determine the type of rectification produced by the circuit in Fig. 6.1.,NULL
+9702,2025,June,4,3,6,b(iii),2,"On Fig. 6.3, draw the circuit diagram for the components inside the rectification circuit.
+[diagram]",images/9702_s25_43_qp_fig6_3.png
+9702,2025,June,4,3,6,b(iv),3,Determine a value for the time constant for the discharge of the capacitor C through the resistor R in Fig. 6.1.,NULL
+9702,2025,June,4,3,6,c,2,"The capacitor C has a capacitance of 570 μF.
+Use your answer in (b)(iv) to determine the resistance of resistor R.",NULL
+9702,2025,June,4,3,7,a,2,Define magnetic flux density.,NULL
+9702,2025,June,4,3,7,b(i),1,"A particle of mass m and charge +Q moves at speed v into a region where there is a uniform magnetic field, as shown in Fig. 7.1.
+[diagram]
+The uniform magnetic field is into the page and has flux density B. The particle enters the region of the field at point Y.
+State an expression, in terms of some or all of m, Q, B and v, for the magnetic force F that acts on the particle when it is at point Y.",images/9702_s25_43_qp_fig7_1.png
+9702,2025,June,4,3,7,b(ii),1,"On Fig. 7.1, draw an arrow at point Y to indicate the direction of the force in (b)(i).",NULL
+9702,2025,June,4,3,7,b(iii),1,"On Fig. 7.1, draw a line to show a possible path for the particle through the region of the magnetic field.",NULL
+9702,2025,June,4,3,7,c(i),3,Explain how an electric field can be used with the magnetic field to ensure that the particle in (b) now passes through point Z.,NULL
+9702,2025,June,4,3,7,c(ii),2,Derive an expression for v in terms of B and the electric field strength E.,NULL
+9702,2025,June,4,3,8,a,1,State what is meant by the de Broglie wavelength.,NULL
+9702,2025,June,4,3,8,b,2,Calculate the de Broglie wavelength of an electron moving at a speed of 4.9 × 10^7 m s–1.,NULL
+9702,2025,June,4,3,8,c,2,State one similarity and one difference between an electron and a positron.,NULL
+9702,2025,June,4,3,8,d(i),1,"An electron moving at a speed of 4.9 × 10^7 m s–1 collides with a positron that is travelling at the same speed in the opposite direction. As a result of the collision, two gamma-ray photons are produced.
+State the name of the process that occurs when the electron and the positron collide.",NULL
+9702,2025,June,4,3,8,d(ii),2,Explain why gamma-ray photons are produced.,NULL
+9702,2025,June,4,3,8,d(iii),1,Explain why two gamma-ray photons are produced rather than one.,NULL
+9702,2025,June,4,3,8,d(iv),1,Calculate the kinetic energy of the electron.,NULL
+9702,2025,June,4,3,8,d(v),3,Calculate the wavelength of each of the two gamma-ray photons.,NULL
+9702,2025,June,4,3,9,a,1,State what is meant by the activity of a radioactive sample.,NULL
+9702,2025,June,4,3,9,b,3,Explain why the activity of a radioactive sample containing one isotope varies exponentially with time.,NULL
+9702,2025,June,4,3,9,c(i),2,"A radioactive sample initially has an activity of 180 Bq. After a time of 8.4 minutes, the activity of the sample is 120 Bq.
+Calculate the decay constant of the isotope in the sample.",NULL
+9702,2025,June,4,3,9,c(ii),2,Calculate the half-life of the isotope.,NULL
+9702,2025,June,4,3,9,c(iii),3,"On Fig. 9.1, sketch the variation with time t of the activity A of the sample for values of t between t = 0 and t = 24 minutes.
+[diagram]",images/9702_s25_43_qp_fig9_1.png
+9702,2025,June,4,3,10,a,2,State Hubble’s law.,NULL
+9702,2025,June,4,3,10,b(i),2,"A line in the spectrum of light from a laboratory source has a wavelength of 4.62 × 10^–7 m. The same line in the spectrum of light from a distant galaxy is observed to have a wavelength of 4.91 × 10^–7 m.
+Explain what can be concluded about the galaxy from the change in wavelength.",NULL
+9702,2025,June,4,3,10,b(ii),2,Determine the speed of the galaxy relative to the Earth.,NULL
+9702,2025,June,4,3,10,b(iii),1,"A star in the galaxy is observed to have a peak intensity of emitted radiation at a wavelength that is greater than the corresponding wavelength for the Sun.
+State the property of the star that can be deduced from this observation.",NULL
+9702,2025,June,1,1,1,NULL,1,"hour 15 minutes
+You must answer on the multiple choice answer sheet.
+You will need: Multiple choice answer sheet
+Soft clean eraser
+Soft pencil (type B or HB is recommended)
+INSTRUCTIONS
+ There are forty questions on this paper. Answer all questions.
+ For each question there are four possible answers A, B, C and D. Choose the one you consider correct
+and record your choice in soft pencil on the multiple choice an swer sheet.
+ Follow the instructions on the multiple choice answer sheet.
+ Write in soft pencil.
+ Write your name, centre number and candidate number on the mult iple choice answer sheet in the
+spaces provided unless this has been done for you.
+ Do not use correction fluid.
+ Do not write on any bar codes.
+ You may use a calculator.
+INFORMATION
+ The total mark for this paper is 40.
+ Each correct answer will score one mark.
+ Any rough working should be done on this question paper.
+---PAGE 2---",NULL
+9702,2025,June,1,1,2,NULL,1,"Data
+acceleration of free fall g = 9.81  m s–2
+speed of light in free space c = 3.00  108
+m s–1
+elementary charge e = 1.60  10–19
+C
+unified atomic mass unit 1  u = 1.66  10–27
+kg
+rest mass of proton mp = 1.67  10–27
+kg
+rest mass of electron me = 9.11  10–31
+kg
+Avogadro constant NA = 6.02  1023
+mol–1
+molar gas constant R = 8.31  J K–1
+mol–1
+Boltzmann constant k = 1.38  10–23
+J K–1
+gravitational constant G = 6.67  10–11
+N m2
+kg–2
+permittivity of free space 0  = 8.85  10–12
+F m–1
+(
+04
+1
+  = 8.99  109
+m F–1)
+Planck constant h = 6.63  10–34
+J s
+Stefan–Boltzmann constant  = 5.67  10–8
+W m–2
+K–4
+Formulae
+uniformly accelerated motion s = ut + 2
+2
+1 at
+v
+2 = u
+2 + 2as
+hydrostatic pressure p =  gh
+upthrust F =  gV
+Doppler effect for sound waves of  =
+s
+s
+vv
+vf
+
+electric current I  = Anvq
+resistors in series R = R1 + R2 + ...
+resistors in parallel
+R
+1  =
+1
+1
+R
++
+2
+1
+R
++ ...
+---PAGE 3---",NULL
+9702,2025,June,1,1,3,NULL,1,"1 Which quantity is a vector?
+A pressure
+B temperature
+C weight
+D work
+2 Four students, A, B, C and D, have completed an experiment to determine the acceleration of
+free fall, g. Each student repeated the experiment three times. The determi ned values of g are
+shown in the table.
+Which set of results has a high precision and a low accuracy?
+acceleration of free fall
+/ m s–2
+experiment 1 experiment 2 experiment 3
+A 7.2 9.4 8.3
+B 9.5 9.8 10.2
+C 9.8 9.8 9.9
+D 10.1 10.2 10.1
+3 The diameter of a ball is measured as (5.26   0.02) cm.
+What is the absolute uncertainty in the volume of the ball?
+A 0 . 2 9 cm3 B 0 . 8 7 cm3 C 1 . 1  cm3 D 7 . 0  cm3
+---PAGE 4---",images/9702_s25_11_qp_q3.png
+9702,2025,June,1,1,4,NULL,1,"4 Two vectors, X and Y, are shown.
+X Y
+What are the directions of X + Y and X – Y?
+A
+B
+C
+D
+X + Y X – Y",images/9702_s25_11_qp_q4.png
+9702,2025,June,1,1,5,NULL,1,"A ball is projected vertically downwards with an initial veloc ity of 20  m s–1. Air resistance is
+negligible.
+What is the displacement from its initial position of the ball after a time of 1.5 s?
+A 1 1  m B 1 9  m C 3 7  m D 4 1  m",NULL
+9702,2025,June,1,1,6,NULL,1,"A surveyor’s device emits a pulse of light. The light is refle cted from a wall 150
+m away.
+What is the total time taken for the pulse to travel from the device to the wall and then back to the
+device?
+A 0.05 ns B 0.10 ns C 0.50 s D 1.0 s
+---PAGE 5---
+5",NULL
+9702,2025,June,1,1,7,NULL,1,"Which equation of uniformly accelerated motion can be derived using only the gradient of a
+velocity–time graph?
+A s = tvu )+(2
+1
+B s = ut + 2
+2
+1 at
+C v = u + at
+D v
+2 = u
+2 + 2as",images/9702_s25_11_qp_q7.png
+9702,2025,June,1,1,8,NULL,1,"An object is projected horizontally from a table at time t = 0. The object falls in a uniform
+gravitational field. Air resistance is negligible.
+Graphs P, Q, R and S are velocity–time graphs.
+0
+0
+P
+v
+t 0
+0
+Q
+v
+t 0
+0
+R
+v
+t 0
+0
+S
+v
+t
+Which graphs represent the horizontal and vertical components of the velocity of the object?
+horizontal vertical
+A Q P
+B Q S
+C R P
+D R S",NULL
+9702,2025,June,1,1,9,NULL,1,"What is always conserved in elastic collisions?
+total kinetic energy total velocity
+A yes yes
+B yes no
+C no yes
+D no no
+---PAGE 6---
+6",NULL
+9702,2025,June,1,1,10,NULL,1,"A firework travels vertically upwards in air. Gases are pushed  vertically downwards from the
+firework.
+Several forces that act on the firework and gases are shown.
+air
+resistance
+force on
+gases
+weight
+thrust
+NOT TO SCALE
+Which forces are a Newton’s third law pair?
+A air resistance and force on gases
+B air resistance and thrust
+C force on gases and thrust
+D thrust and weight",images/9702_s25_11_qp_q10.png
+9702,2025,June,1,1,11,NULL,1,"Two blocks K and L slide towards each other along a horizontal  frictionless surface.
+The diagram shows the momentum of the two blocks just before they collide.
+K
+0.72 kg m s–1
+L
+0.46 kg m s–1
+During the collision, the blocks are in contact with each other for a time of 0.084 s.
+After the collision, the blocks separate and block L moves back  along its original path with a
+momentum of 0.12 kg m s–1.
+What is the magnitude of the average force exerted on block L by block K during the collision?
+A 3 . 1  N B 4 . 0  N C 6 . 9  N D 7 . 1  N
+---PAGE 7---
+7",NULL
+9702,2025,June,1,1,12,NULL,1,"Leonardo da Vinci proposed a flying machine that would work lik e a screw to lift the pilot into the
+air. The ‘screw’ is rotated by the pilot.
+The machine and the pilot together have a total mass of 120 kg.
+Which useful output power must the pilot provide to move vertic ally upwards at a constant speed
+of 2.5 m s–1?
+A 4 8  W B 300  W C 470  W D 2900  W",images/9702_s25_11_qp_q12.png
+9702,2025,June,1,1,13,NULL,1,"Which row describes a pair of forces that forms a couple?
+direction of
+the forces
+magnitude of
+the forces
+A opposite different
+B opposite equal
+C same different
+D same equal
+---PAGE 8---
+8",NULL
+9702,2025,June,1,1,14,NULL,1,"A uniform cylinder of weight 25.0  N is suspended from a newton meter.
+The cylinder is fully submerged in water, as shown.
+The reading on the newton meter is 10.0 N.
+newton
+meter
+cylinder
+water
+The water is replaced by a liquid with a density 10% greater th an the density of water. The
+cylinder remains fully submerged.
+What is the new reading on the newton meter?
+A 8 . 5  N B 9 . 0  N C 11.0  N D 11.5  N",images/9702_s25_11_qp_q14.png
+9702,2025,June,1,1,15,NULL,1,"A student balances a 30
+cm ruler on a fulcrum set at the 15  cm mark. She then places a 50  g
+mass on the 23 cm mark and a 20 g mass on the 11 cm mark, as shown.
+07 1 1 2 3
+20 g5 0  g
+30
+Which mass should she place on the 7 cm mark to restore the balance?
+A 3 0  g B 4 0  g C 4 7  g D 133  g",NULL
+9702,2025,June,1,1,16,NULL,1,"A submarine is at a depth of 130
+m below the surface of the sea.
+The pressure on the submarine due to the sea water is p.
+The submarine sinks to a depth of 260 m below the surface.
+Assume that the density of sea water is constant.
+What is the difference between the pressures on the submarine due to the sea water at  the two
+depths?
+A 0  B 0 . 5 p C p D 2 p
+---PAGE 9---
+9",NULL
+9702,2025,June,1,1,17,NULL,1,"An object is falling in a uniform gravitational field.
+Which two quantities are sufficient to calculate the change in gravitational potential energy?
+A mass and acceleration of free fall
+B mass and change in vertical displacement
+C weight and acceleration of free fall
+D weight and change in vertical displacement",images/9702_s25_11_qp_q17.png
+9702,2025,June,1,1,18,NULL,1,"The points X, Y and Z are on a rough, horizontal surface.
+3.0 m
+X
+YZ
+A box P is pushed across the surface from X to Y and then from Y to Z.
+The distance from X to Y is 3.0  m. The work done against the frictional force in moving the box
+from X to Y is 150 J.
+The work done against the frictional force in moving the box from Y to Z is 200 J.
+An identical box Q is pushed in a straight line from X to Z.
+The magnitude of the frictional force between the boxes and the surface is constant.
+How much extra work is done against the frictional force in moving P than Q?
+A 100  J B 250  J C 350  J D 600  J",NULL
+9702,2025,June,1,1,19,NULL,1,"The momentum of a car of mass m increases from p
+1 to p2.
+What is the increase in the kinetic energy of the car?
+A m
+pp
+2
+)–( 2122
+B m
+pp
+2
+)–( 212
+C m
+pp
+2
+– 12
+D m
+pp
+2
+– 21
+---PAGE 10---
+10",NULL
+9702,2025,June,1,1,20,NULL,1,"A parachutist is falling at constant (terminal) velocity.
+Which statement is not correct?
+A Gravitational potential energy is converted into kinetic energ y of the air.
+B Gravitational potential energy is converted into kinetic energ y of the parachutist.
+C Gravitational potential energy is converted into thermal energ y of the air.
+D Gravitational potential energy is converted into thermal energ y of the parachutist.",images/9702_s25_11_qp_q20.png
+9702,2025,June,1,1,21,NULL,1,"A student investigates a spring. The variation of the length o f the spring with the force applied to
+the spring is shown.
+0.60
+0.40
+0.20
+0
+length
+/ m
+force / N
+0 2.4
+What is the spring constant of the spring?
+A 0 . 1 7 N m–1 B 0 . 2 5 N m–1 C 4 . 0  N m–1 D 6 . 0  N m–1",NULL
+9702,2025,June,1,1,22,NULL,1,"The graph shows the variation with force of the extension of a  wire.
+0
+0
+force
+extension
+P
+Q
+R increasing force
+force decreasing
+The force is gradually increased to a maximum at Q and then gradually decreased to zero at R.
+Which statement is correct?
+A Along the line PQ, the wire obeys Hooke’s law.
+B Along the line RP, the spring constant is equal to .force
+extension
+C The wire has elastic deformation at point Q.
+D The work done in stretching the wire to P is equal to (force  extension) at point P.
+---PAGE 11---
+11",NULL
+9702,2025,June,1,1,23,NULL,1,"A uniform metal wire of length L and diameter d has spring constant k.
+What is the Young modulus of the metal?
+A kL
+d
+4
+2  B kL
+d2  C 2d
+kL
+  D 2
+4
+d
+kL
+",NULL
+9702,2025,June,1,1,24,NULL,1,"An aircraft produces a sound at a frequency of 30.0  Hz.
+The speed of sound in air is 330 m s–1.
+The aircraft is directly in front of the stationary observer an d travels in a straight line towards or
+away from the observer.
+The observer hears the sound from the aircraft at a frequency of 20.0 Hz.
+What is the speed and direction of the aircraft?
+speed  / m s–1 direction
+A 110 away from observer
+B 110 towards observer
+C 165 away from observer
+D 165 towards observer",images/9702_s25_11_qp_q24.png
+9702,2025,June,1,1,25,NULL,1,"Which statement about longitudinal and transverse wave motion for a progressive wave is
+correct?
+A All transverse and longitudinal w aves require a medium for propagation.
+B All transverse waves travel at the same speed, but longitudina l waves can travel at different
+speeds.
+C In both transverse waves and longitudinal waves, a particle wi th zero displacement has a
+maximum speed.
+D In a longitudinal wave there is a net movement of particles in  the direction of travel of the
+wave, but there is no net movement of particles in a transverse wave.",NULL
+9702,2025,June,1,1,26,NULL,1,"The diagram shows a progressive transverse wave on a stretched  string at one instant in time.
+One point on the string is labelled X.
+Which point on the string is 270° out of phase with X?
+A B
+C
+X
+D
+---PAGE 12---
+12",NULL
+9702,2025,June,1,1,27,NULL,1,"Which wavelength of electromagnetic radiation in free space co uld be green light?
+A 4 . 9   10–9
+m B 6 . 6   10–9
+m C 5 . 5   10–7
+m D 8 . 6   10–7
+m",NULL
+9702,2025,June,1,1,28,NULL,1,"Which group contains only waves that can be polarised?
+A infrared waves, radio waves, sound waves
+B visible light waves, microwaves, radio waves
+C visible light waves, radio waves, sound waves
+D microwaves, visible light waves, sound waves",NULL
+9702,2025,June,1,1,29,NULL,1,"One wave has an amplitude of 2 A. A second wave has an amplitude of
+.
+2
+A  The waves are
+otherwise identical.
+The two waves travel in opposite directions and overlap.
+What is the ratio ?
+wavecombined of amplitude minimum
+wavecombined of amplitude maximum
+A
+2
+3  B
+3
+5  C
+2
+5  D 4",NULL
+9702,2025,June,1,1,30,NULL,1,"Light of wavelength 680  nm is incident normally on a diffraction grating with 450 lines mm–1.
+What is the angle of diffraction of the second-order maximum in  the diffraction pattern that is
+produced?
+A 1 . 8 °  B 3 . 5 °  C 18° D 38°",NULL
+9702,2025,June,1,1,31,NULL,1,"A hollow tube is closed at one end and open at the other.
+A stationary sound wave of the lowest possible frequency, 820 Hz, is produced in the tube.
+The speed of sound in air is 330 m s–1.
+What is the length of the tube?
+A 1 0  cm B 2 0  cm C 4 0  cm D 160  cm",NULL
+9702,2025,June,1,1,32,NULL,1,"Which expression gives the definition of resistance?
+A current divided by potential difference
+B current multiplied by potential difference
+C potential difference divided by current
+D resistivity multiplied by length
+---PAGE 13---
+13",NULL
+9702,2025,June,1,1,33,NULL,1,"The graph shows the I–V characteristic of an electrical component.
+I
+V
+0
+0
+What is the component?
+A a filament lamp
+B a metallic conductor at constant temperature
+C a resistor
+D a semiconductor diode",images/9702_s25_11_qp_q33.png
+9702,2025,June,1,1,34,NULL,1,"The diagram shows six identical resistors connected in a circu it.
+PR
+Q
+S
+In which branch of the circuit is the most power dissipated?
+A P Q  B Q R  C R S  D SP
+---PAGE 14---
+14",NULL
+9702,2025,June,1,1,35,NULL,1,"The diagram shows a circuit containing a thermistor, a fixed r esistor and a battery.
+The graph shows the I−V characteristics of both components.
+0.8
+0.6
+0.4
+0.2
+0
+02468
+potential difference
+/ V
+current / mA
+10 12
+The battery has an e.m.f. of 12 V and negligible internal resistance.
+What is the current in the fixed resistor?
+A 0 . 3 6 mA B 0 . 4 0 mA C 0 . 4 8 mA D 0 . 8 0 mA",images/9702_s25_11_qp_q35.png
+9702,2025,June,1,1,36,NULL,1,"Two resistors of resistances R
+1 and R2 are connected in parallel.
+R2
+R1X Y
+What is the combined resistance between X and Y?
+A R1  +  R2 B
+21
+2  1
++  RR
+RR  C
+2  1
+21   +
+RR
+RR  D
+2
+1
+R
+R
+---PAGE 15---
+15",NULL
+9702,2025,June,1,1,37,NULL,1,"A cell is connected in series with an ammeter and a variable r esistor. A voltmeter is used to
+measure the p.d. across the variable resistor. The resistance o f the variable resistor is varied,
+and the p.d. and the current are recorded.
+The graph shows the variation with current of the p.d. across the variable resistor.
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0
+0 1 02 03 04 05 0
+current
+/ mA
+p.d. / V
+60 70 80
+What is the internal resistance of the cell?
+A 0.050   B 1 . 6   C 2 0   D 2 3  ",images/9702_s25_11_qp_q37.png
+9702,2025,June,1,1,38,NULL,1,"Which list contains only fundamental particles?
+A antineutrinos, baryons, neutrons, electrons
+B mesons, electrons, neutrinos, protons
+C positrons, quarks, hadrons, protons
+D quarks, positrons, neutrinos, leptons
+---PAGE 16---
+16
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every
+reasonable effort has been made by the publisher (UCLES) to tra ce copyright holders, but if any items requiring clearance have  unwittingly been included, the
+publisher will be pleased to make amends at the earliest possib le opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced on line in the Cambridge
+Assessment International Education Copyright Acknowledgements B ooklet. This is produced for each series of examinations and is  freely available to download
+at www.cambridgeinternational.org after the live examination se ries.
+Cambridge Assessment International Education is part of Cambrid ge Assessment. Cambridge Assessment is the brand name of the Un iversity of Cambridge
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.",NULL
+9702,2025,June,1,1,39,NULL,1,"Which statement explains why alpha-particles have discrete ene rgies, but beta-particles have a
+continuous range of energies?
+A Beta-particles have a much smaller mass than alpha-particles w hich means beta-particles
+can be emitted with a larger range of velocities.
+B Only alpha-particles experienc e repulsion from the nucleus whi ch is dependent on the
+number of protons in the nucleus.
+C Only beta-particles are emitted with another lepton and some e nergy is transferred to the
+other lepton.
+D Only the energy of alpha-particles is discrete because the com position of alpha-particles is
+always the same.",images/9702_s25_11_qp_q39.png
+9702,2025,June,1,1,40,NULL,1,"A hadron consists of antiquarks that are all identical.
+What is a possible value, in terms of the elementary charge e, for the charge on the hadron?
+A 0 e B + 1 e C + 2 e D + 3 e",NULL
+9702,2025,June,2,1,1,a,1,Define acceleration.,NULL
+9702,2025,June,2,1,1,b(i),2,"In an experiment, two objects A and B are released from the side of a building. Object A is released from rest at a height of 14 m above the horizontal ground. Object B is released with an initial upwards vertical velocity u at a height of 3.6 m above the ground. Both objects take the same time to reach the ground and they do not collide with each other. Air resistance is negligible. Calculate the time taken for object A to reach the ground.",images/9702_s25_21_qp_fig1_1.png
+9702,2025,June,2,1,1,b(ii),2,Use your answer in (b)(i) to calculate u.,NULL
+9702,2025,June,2,1,1,c(i),2,"In a second experiment, object B is released from the same height and given the same initial speed as in (b) but at a release angle theta to the vertical. State and explain whether the time taken for object B to reach the ground is less than, the same as or greater than the time in (b)(i).",images/9702_s25_21_qp_fig1_2.png
+9702,2025,June,2,1,1,c(ii),2,"By considering energy, state and explain the effect of the change in release angle on the speed at which B reaches the ground.",NULL
+9702,2025,June,2,1,2,a,2,State the principle of moments.,NULL
+9702,2025,June,2,1,2,b,3,"Three objects A, B and C are placed on a horizontal beam. The beam is in equilibrium. The beam is uniform and has length 6.0 m. The pivot is at the midpoint of the beam. Object A has mass 60 kg and is at one end of the beam. Object B has mass 45 kg and is at a distance x from the pivot. Object C has mass 80 kg and is at the other end of the beam. Calculate x.",images/9702_s25_21_qp_fig2_1.png
+9702,2025,June,2,1,2,c(i),3,"The beam is 0.80 m above horizontal ground. Object A is removed and replaced by a spring connected to the ground and the beam. After the change, the beam is again horizontal and in equilibrium. The positions of B and C are unchanged. The spring has an unstretched length of 0.59 m and obeys Hooke's law. Calculate the spring constant of the spring.",images/9702_s25_21_qp_fig2_2.png
+9702,2025,June,2,1,2,c(ii),2,Calculate the elastic potential energy of the spring.,NULL
+9702,2025,June,2,1,3,a,1,Define power.,NULL
+9702,2025,June,2,1,3,b(i),2,An electric car is powered by a motor. The car is travelling at a constant speed of 35 m s^-1 along a straight horizontal road. There is a total resistive force of 1750 N acting on the car. Calculate the power transmitted to the wheels of the car by the motor.,images/9702_s25_21_qp_fig3_1.png
+9702,2025,June,2,1,3,b(ii),2,Calculate the useful work done by the motor when the car travels a distance of 17 km.,NULL
+9702,2025,June,2,1,3,b(iii),3,The potential difference (p.d.) across the motor has a constant value of 600 V and the motor has an efficiency of 85%. Calculate the current in the motor.,NULL
+9702,2025,June,2,1,3,c(i),1,"The car in (b) now reaches a slope. The car continues down the slope at the same speed as in (b). State and explain the effect, if any, of the slope on the air resistance acting on the car.",images/9702_s25_21_qp_fig3_2.png
+9702,2025,June,2,1,3,c(ii),1,"State and explain the effect, if any, of the slope on the current in the motor.",NULL
+9702,2025,June,2,1,4,a,2,State the principle of superposition.,NULL
+9702,2025,June,2,1,4,b(i),3,Light of wavelength 7.2 x 10^-7 m is incident normally on a double slit. A screen is at a distance D from the double slit. The double slit and the screen are parallel. The separation of the slits in the double-slit arrangement is 0.16 mm. The resulting interference pattern on the screen contains nine dark fringes. The distance between the centres of the first and ninth dark fringes is 3.2 cm. Calculate D.,images/9702_s25_21_qp_fig4_2.png
+9702,2025,June,2,1,4,b(ii),3,The slit separation is now gradually decreased from 0.16 mm to 0.04 mm. The distance between the centres of adjacent dark fringes is x. Sketch the variation of x with slit separation.,images/9702_s25_21_qp_fig4_3.png
+9702,2025,June,2,1,5,a,2,"Use the definitions of speed v, frequency f and wavelength lambda to derive the wave equation v = f lambda.",NULL
+9702,2025,June,2,1,5,b(i),2,A source of sound waves of frequency 236 Hz is travelling at a constant velocity of 20 m s^-1. A stationary observer has a microphone connected to a cathode-ray oscilloscope (CRO). The microphone detects the sound waves as the source moves directly towards the observer. The resulting trace on the CRO is shown in Fig. 5.1. The time-base on the CRO is set to 1.0 ms div^-1. Calculate the frequency of the sound waves detected by the microphone.,images/9702_s25_21_qp_fig5_1.png
+9702,2025,June,2,1,5,b(ii),2,Determine the speed of the sound in air.,NULL
+9702,2025,June,2,1,6,a(i),1,A nichrome wire X of length 45 cm and cross-sectional area 4.7 x 10^-7 m^2 is connected into a circuit. The resistance of X is 1.1 ohms. The cell has electromotive force (e.m.f.) 1.3 V and negligible internal resistance. Calculate the current in X.,images/9702_s25_21_qp_fig6_1.png
+9702,2025,June,2,1,6,a(ii),2,The number density of charge carriers (electrons) in nichrome is 8.5 x 10^28 m^-3. Calculate the average drift speed of the charge carriers in X.,NULL
+9702,2025,June,2,1,6,a(iii),3,Calculate the resistivity of the nichrome.,NULL
+9702,2025,June,2,1,6,b(i),2,"Wire Y is identical to wire X. Wire Y is added to the circuit in parallel with wire X. State and explain the effect, if any, of this change on the reading on the ammeter.",images/9702_s25_21_qp_fig6_2.png
+9702,2025,June,2,1,6,b(ii),1,"State and explain the effect, if any, of this change on the average drift speed of the charge carriers in X.",NULL
+9702,2025,June,2,1,7,a,3,"Nitrogen-12 is an unstable isotope of nitrogen that decays by the emission of radiation to carbon-12. Complete the full nuclear equation for the decay, including all the particles involved.",NULL
+9702,2025,June,2,1,7,b(i),1,Hydrogen-1 is an isotope of hydrogen. An atom of hydrogen-1 comprises a proton with an orbiting electron. An antiparticle equivalent of hydrogen-1 comprises an antiproton with an orbiting positron. The antiquarks in the antiproton are the antiparticles of the quarks in a proton. State the charge on the positron in terms of the elementary charge e.,NULL
+9702,2025,June,2,1,7,b(ii),1,State the group (class) of fundamental particle to which the positron belongs.,NULL
+9702,2025,June,2,1,7,b(iii),3,State the flavour and charge of the three antiquarks that comprise the antiproton.,images/9702_s25_21_qp_table7_1.png
+9702,2025,June,4,1,1,a,2,Define gravitational potential at a point.,NULL
+9702,2025,June,4,1,1,b(i),3,Mars may be considered to be an isolated uniform sphere. The gravitational potential at the surface of Mars is -1.3 x 10^7 J kg^-1. The radius of Mars is 3.4 x 10^6 m. A spacecraft moves from a height of 1.7 x 10^6 m above the surface of Mars to a height of 6.8 x 10^6 m above the surface of Mars. The change in gravitational potential energy of the spacecraft is 5.1 x 10^8 J. Calculate the mass of Mars.,NULL
+9702,2025,June,4,1,1,b(ii),2,Calculate the gravitational potential at the surface of Mars.,NULL
+9702,2025,June,4,1,1,c(i),1,A satellite is in a geostationary orbit around Mars. State the time taken for Mars to rotate once on its axis.,NULL
+9702,2025,June,4,1,1,c(ii),1,State one other feature of a geostationary orbit.,NULL
+9702,2025,June,4,1,2,a,2,State Coulomb's law.,NULL
+9702,2025,June,4,1,2,b(i),1,An alpha-particle and an electron are separated by a distance of 170 pm in a vacuum. State the charge on the alpha-particle in terms of the elementary charge e.,NULL
+9702,2025,June,4,1,2,b(ii),1,Calculate the magnitude of the electric force between the alpha-particle and the electron.,NULL
+9702,2025,June,4,1,2,c(i),2,"The electron is moving in a circular path of radius 170 pm around the alpha-particle, which may be assumed to be stationary. Determine the speed of the electron.",NULL
+9702,2025,June,4,1,2,c(ii),2,Calculate the period of the orbit of the electron.,NULL
+9702,2025,June,4,1,2,d(i),2,A beta-particle and a proton are separated by a distance of 340 pm in a vacuum. Determine the ratio: electric force between alpha-particle and electron / electric force between beta-particle and proton.,NULL
+9702,2025,June,4,1,2,d(ii),1,Explain how the actual speed of the electron in its circular orbit compares with the value calculated in (c)(i) when the alpha-particle is not assumed to be stationary.,NULL
+9702,2025,June,4,1,3,a,2,Define specific latent heat.,NULL
+9702,2025,June,4,1,3,b,3,Use the kinetic model of matter to explain why the specific latent heat of vaporisation of a substance is greater than its specific latent heat of fusion.,NULL
+9702,2025,June,4,1,3,c,3,A mass of 37.0 g of steam at 100 degrees C is passed into 208 g of water at 10.3 degrees C. The steam condenses and the final temperature of the mixture is 26.4 degrees C. The specific heat capacity of water is 4.18 J g^-1 K^-1. Calculate the specific latent heat of vaporisation of water.,NULL
+9702,2025,June,4,1,4,a(i),2,Define internal energy.,NULL
+9702,2025,June,4,1,4,a(ii),2,Explain why the internal energy of an ideal gas is proportional to its thermodynamic temperature.,NULL
+9702,2025,June,4,1,4,b,3,"An ideal gas undergoes a cycle of changes consisting of a compression, followed by cooling at constant volume, and then an expansion. Complete the table to show the work done and the change in internal energy for each of the changes.",NULL
+9702,2025,June,4,1,5,a(i),1,A block is suspended from a vertical spring. The block is displaced downwards from its equilibrium position and then released. The block undergoes simple harmonic motion. Determine the amplitude of the oscillations.,images/9702_s25_41_qp_fig5_2.png
+9702,2025,June,4,1,5,a(ii),1,State what is meant by simple harmonic motion.,NULL
+9702,2025,June,4,1,5,b,3,Use Fig. 5.3 to determine the mass of the block.,images/9702_s25_41_qp_fig5_3.png
+9702,2025,June,4,1,5,c,3,"On Fig. 5.4, sketch a line to show the variation with height h of the potential energy EP of the block.",images/9702_s25_41_qp_fig5_4.png
+9702,2025,June,4,1,6,a(i),1,State what is meant by rectification.,NULL
+9702,2025,June,4,1,6,a(ii),1,State the purpose of a capacitor connected in parallel with a load resistor in a rectification circuit.,NULL
+9702,2025,June,4,1,6,b(i),2,An alternating voltage V is given by V = A sin(Bt). State the values of A and B.,images/9702_s25_41_qp_fig6_1.png
+9702,2025,June,4,1,6,b(ii),1,State the type of rectification produced by the circuit.,NULL
+9702,2025,June,4,1,6,b(iii),2,Complete the circuit diagram to show how four diodes are connected to produce this type of rectification.,images/9702_s25_41_qp_fig6_2.png
+9702,2025,June,4,1,6,b(iv),3,The capacitor discharges through the resistor. Calculate the time constant of the circuit.,NULL
+9702,2025,June,4,1,6,c,2,The capacitor has a capacitance of 570 uF. Calculate the resistance of the load resistor.,NULL
+9702,2025,June,4,1,7,a,2,Define magnetic flux density.,NULL
+9702,2025,June,4,1,7,b(i),1,A charged particle moves with speed v through a uniform magnetic field of flux density B. The velocity of the particle is perpendicular to the magnetic field. State an expression for the magnitude of the magnetic force F acting on the particle.,NULL
+9702,2025,June,4,1,7,b(ii),1,State the direction of the magnetic force acting on the particle at point Y.,NULL
+9702,2025,June,4,1,7,b(iii),1,Sketch the path of the particle after it passes point Y.,NULL
+9702,2025,June,4,1,7,c(i),3,An electric field is now applied in the same region as the magnetic field so that the particle passes through the region without being deflected. State the direction of the electric field and explain why the particle is undeflected.,images/9702_s25_41_qp_fig7_1.png
+9702,2025,June,4,1,7,c(ii),2,"Show that the speed v of the particle is given by v = E/B, where E is the electric field strength.",NULL
+9702,2025,June,4,1,8,a,1,State what is meant by the de Broglie wavelength.,NULL
+9702,2025,June,4,1,8,b,2,An electron is accelerated from rest through a potential difference of 6.8 kV. Calculate the de Broglie wavelength of the electron.,NULL
+9702,2025,June,4,1,8,c,2,State one similarity and one difference between an electron and a positron.,NULL
+9702,2025,June,4,1,8,d(i),1,"An electron and a positron, moving towards each other, collide. Name the process that occurs.",NULL
+9702,2025,June,4,1,8,d(ii),2,Explain why gamma photons are produced in this process.,NULL
+9702,2025,June,4,1,8,d(iii),1,"Explain why two gamma photons are produced, rather than one.",NULL
+9702,2025,June,4,1,8,d(iv),1,Calculate the total kinetic energy of the electron and the positron before the collision.,NULL
+9702,2025,June,4,1,8,d(v),3,Calculate the wavelength of each of the two gamma photons produced.,NULL
+9702,2025,June,4,1,9,a,1,Define activity of a radioactive source.,NULL
+9702,2025,June,4,1,9,b,3,Explain why the activity of a radioactive source decreases exponentially with time.,NULL
+9702,2025,June,4,1,9,c(i),2,"A radioactive isotope has an initial activity of 180 Bq. After a time of 8.4 minutes, its activity is 120 Bq. Calculate the decay constant lambda of the isotope.",NULL
+9702,2025,June,4,1,9,c(ii),2,Calculate the half-life of the isotope.,NULL
+9702,2025,June,4,1,9,c(iii),3,"On Fig. 9.1, sketch a graph to show the variation with time t of the activity of the isotope.",images/9702_s25_41_qp_fig9_1.png
+9702,2025,June,4,1,10,a,2,State Hubble's law.,NULL
+9702,2025,June,4,1,10,b(i),2,A spectral line in the light from a distant galaxy has a wavelength of 4.91 x 10^-7 m. The same spectral line in the light from a laboratory source has a wavelength of 4.62 x 10^-7 m. State and explain what can be deduced about the motion of the galaxy.,NULL
+9702,2025,June,4,1,10,b(ii),2,Calculate the speed of the galaxy relative to the Earth.,NULL
+9702,2025,June,4,1,10,b(iii),2,The surface temperature of the star in the distant galaxy is determined using Wien's displacement law. Explain why the value determined using the observed wavelength of maximum intensity will be incorrect.,NULL
+9702,2025,June,4,1,10,c,2,The Hubble constant is 2.3 x 10^-18 s^-1. Calculate the distance of the galaxy from the Earth.,NULL
+9709,2025,November,1,1,0,NULL,4,Question Statement (See PDF),NULL
+9709,2025,November,1,1,1,a,NULL,Find the value of i. Give your answer correct to 3 significant figures.,images/9709_w25_11_q1.png
+9709,2025,November,1,1,1,b,NULL,Find the exact value of the sum to infinity.,images/9709_w25_11_q1.png
+9709,2025,November,1,1,4,NULL,5,Question Statement (See PDF),NULL
+9709,2025,November,1,1,4,a,NULL,Express,NULL
+9709,2025,November,1,1,2,NULL,3,Question Statement (See PDF),images/9709_w25_11_q2.png
+9709,2025,November,1,1,2,b,NULL,The graph of y,images/9709_w25_11_q2.png
+9709,2025,November,1,1,5,a,NULL,Show that tan,images/9709_w25_11_q5.png
+9709,2025,November,1,1,2,b,NULL,Hence solve the equation,images/9709_w25_11_q2.png
+9709,2025,November,1,1,5,a,NULL,State the range of f.,images/9709_w25_11_q5.png
+9709,2025,November,1,1,5,b,NULL,Find an expression for,images/9709_w25_11_q5.png
+9709,2025,November,1,1,1,c,NULL,Solve the equation,images/9709_w25_11_q1.png
+9709,2025,November,1,1,69,NULL,4,Question Statement (See PDF),NULL
+9709,2025,November,1,1,2,a,NULL,Show that the area of the shaded region is approximately .,images/9709_w25_11_q2.png
+9709,2025,November,1,1,9,b,NULL,(i) Find the rate of increase of the area of the shaded region at the instant when r,NULL
+9709,2025,November,1,1,20,NULL,3,Question Statement (See PDF),NULL
+9709,2025,November,1,1,20,ii,NULL,Find the rate of increase of the length of the arc AB. Give your answer correct to 2 significant,NULL
+9709,2025,November,1,1,3,a,NULL,Find the area of the shaded region.,images/9709_w25_11_q3.png
+9709,2025,November,1,1,11,b,NULL,The shaded region is rotated through 360° about the y-axis.,images/9709_w25_11_q11.png
+9709,2025,November,1,1,9,a,NULL,It is given that (,NULL
+9709,2025,November,1,1,13,b,NULL,Hence find the difference between the values of the 15th terms of the two arithmetic progressions.,NULL
+9709,2025,November,1,1,0,a,NULL,Find the coordinates of these two points of intersection.,NULL
+9709,2025,November,1,1,15,b,NULL,The circle has centre C and the two points of intersection are denoted by A and B.,NULL
+9709,2025,November,1,1,2,a,NULL,Find the equation of the normal to the curve at P. Give your answer in the form y,images/9709_w25_11_q2.png
+9709,2025,November,1,1,2,b,NULL,Find the rate of change of the gradient of the curve when x,images/9709_w25_11_q2.png
+9709,2025,November,1,1,17,c,NULL,"Given that the curve also passes through the point (-1, q), find the value of q.",NULL
+9709,2025,November,3,1,1,NULL,4,Question Statement (See PDF),images/9709_w25_31_q1.png
+9709,2025,November,3,1,2,a,NULL,Show that the equation,images/9709_w25_31_q2.png
+9709,2025,November,3,1,4,NULL,3,Question Statement (See PDF),NULL
+9709,2025,November,3,1,4,b,NULL,Hence solve the equation,NULL
+9709,2025,November,3,1,3,a,NULL,Express,images/9709_w25_31_q3.png
+9709,2025,November,3,1,5,b,NULL,Hence solve the equation,NULL
+9709,2025,November,3,1,1,NULL,5,Question Statement (See PDF),images/9709_w25_31_q1.png
+9709,2025,November,3,1,2,a,NULL,Find two inequalities in terms of z that define the shaded region.,images/9709_w25_31_q2.png
+9709,2025,November,3,1,2,b,NULL,Calculate the least value of arg z for points in this region.,images/9709_w25_31_q2.png
+9709,2025,November,3,1,9,a,NULL,"By sketching a suitable pair of graphs, show that the equation",images/9709_w25_31_q9.png
+9709,2025,November,3,1,1,NULL,2,Question Statement (See PDF),images/9709_w25_31_q1.png
+9709,2025,November,3,1,1,b,NULL,Show by calculation that this root lies between 0.9 and 1.,images/9709_w25_31_q1.png
+9709,2025,November,3,1,15,c,NULL,Show that if a sequence of values given by the iterative formula,NULL
+9709,2025,November,3,1,1,d,NULL,Use the iterative formula given in part (c) to calculate x correct to 3 decimal places. Give the result,images/9709_w25_31_q1.png
+9709,2025,November,3,1,3,a,NULL,Express ( ),images/9709_w25_31_q3.png
+9709,2025,November,3,1,17,b,NULL,Hence obtain the expansion of ( ),NULL
+9709,2025,November,3,1,4,a,NULL,Find a vector equation for m.,NULL
+9709,2025,November,3,1,4,b,NULL,Find the position vector of the point of intersection of m and the line passing through the points,NULL
+9709,2025,November,3,1,19,c,NULL,Find the position vector of the foot of the perpendicular from C to m.,NULL
+9709,2025,November,5,1,2,a,NULL,"Draw up the probability distribution table for X, giving the probabilities as numerical fractions.",NULL
+9709,2025,November,5,1,2,b,NULL,Find E(X ).,NULL
+9709,2025,November,5,1,2,c,NULL,Find (,NULL
+9709,2025,November,5,1,2,a,NULL,Find the probability that a 6 is obtained for the first time on the 8th throw.,NULL
+9709,2025,November,5,1,2,b,NULL,Find the probability that a 6 is obtained for the third time on the 7th throw.,NULL
+9709,2025,November,5,1,3,3,NULL,,NULL
+9709,2025,November,5,1,8,2,NULL,,NULL
+9709,2025,November,5,1,8,7,NULL,,NULL
+9709,2025,November,5,1,8,4,NULL,,NULL
+9709,2025,November,5,1,9,5,NULL,,NULL
+9709,2025,November,5,1,9,6,NULL,,NULL
+9709,2025,November,5,1,9,8,NULL,,NULL
+9709,2025,November,5,1,9,3,NULL,,NULL
+9709,2025,November,5,1,9,1,NULL,,NULL
+9709,2025,November,5,1,7,2,NULL,,NULL
+9709,2025,November,5,1,7,a,NULL,Find the median and interquartile range for the annual salaries of employees at Browns.,NULL
+9709,2025,November,5,1,2,b,NULL,Find the mean and standard deviation of the annual salaries of these 54 employees.,NULL
+9709,2025,November,5,1,4,a,NULL,Complete the tree diagram below by entering all the remaining outcomes and probabilities.,images/9709_w25_51_q4.png
+9709,2025,November,5,1,2,b,NULL,Find the probability that all three marbles chosen are the same colour.,NULL
+9709,2025,November,5,1,5,a,NULL,"Find the probability, that in a week (7 days), Cooper wears a blue jumper on at least 5 days.",NULL
+9709,2025,November,5,1,5,b,NULL,"Use a suitable approximation to find the probability that, in any 150-day period, Cooper does not",NULL
+9709,2025,November,5,1,6,a,NULL,How many of these 350 bars would you expect to weigh between 148 g and 160 g?,NULL
+9709,2025,November,5,1,9,b,NULL,Find the value of n and the value of v.,NULL
+9709,2025,November,5,1,7,a,NULL,How many different arrangements are there of the 10 letters in the word SEYCHELLES?,NULL
+9709,2025,November,5,1,7,b,NULL,How many different arrangements are there of the 10 letters in the word SEYCHELLES in which,NULL
+9709,2025,November,5,1,11,c,NULL,How many different arrangements are there of the 10 letters in the word SEYCHELLES in which,images/9709_w25_51_q11.png
+9709,2025,November,5,1,11,d,NULL,Find the probability that these 5 letters include the three Es.,images/9709_w25_51_q11.png
+9709,2025,November,1,2,1,a,NULL,Express x,images/9709_w25_12_q1.png
+9709,2025,November,1,2,2,NULL,2,Question Statement (See PDF),images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,b,NULL,Hence find the set of values of the constant k for which the equation x,images/9709_w25_12_q2.png
+9709,2025,November,1,2,8,NULL,1,Question Statement (See PDF),NULL
+9709,2025,November,1,2,8,c,NULL,Find the exact roots of the equation x,NULL
+9709,2025,November,1,2,15,NULL,2,Question Statement (See PDF),NULL
+9709,2025,November,1,2,6,NULL,3,Question Statement (See PDF),images/9709_w25_12_q6.png
+9709,2025,November,1,2,3,a,NULL,The graph of,NULL
+9709,2025,November,1,2,2,b,NULL,A different graph has equation,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,a,NULL,Find the value of k.,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,b,NULL,"The coordinates of a point T on the curve are (1, t).",images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,a,NULL,Find the value of a.,images/9709_w25_12_q2.png
+9709,2025,November,1,2,7,b,NULL,Find the exact area of the shaded region.,NULL
+9709,2025,November,1,2,6,a,NULL,Sketch the graph of,images/9709_w25_12_q6.png
+9709,2025,November,1,2,2,b,NULL,Determine the number of solutions in the interval,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,i,NULL,,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,ii,NULL,,images/9709_w25_12_q2.png
+9709,2025,November,1,2,5,NULL,1,Question Statement (See PDF),NULL
+9709,2025,November,1,2,9,c,NULL,Solve the equation sin,images/9709_w25_12_q9.png
+9709,2025,November,1,2,7,a,NULL,Find the equation of the circle.,NULL
+9709,2025,November,1,2,7,b,NULL,Find the equation of the tangent to the circle at the point Q.,NULL
+9709,2025,November,1,2,11,c,NULL,The other point on the circle with x-coordinate 7 is R.,NULL
+9709,2025,November,1,2,8,a,NULL,Show that a,NULL
+9709,2025,November,1,2,9,b,NULL,(i) Find the sum to infinity of the geometric progression.,images/9709_w25_12_q9.png
+9709,2025,November,1,2,13,ii,NULL,Find the sum of the first 20 terms of the arithmetic progression.,NULL
+9709,2025,November,1,2,2,a,NULL,Find an expression for ( )x,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,b,NULL,State whether f,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,c,NULL,Find the range of g in terms of the constant a.,images/9709_w25_12_q2.png
+9709,2025,November,1,2,2,d,NULL,Find the set of values of a for which the composite function fg exists.,images/9709_w25_12_q2.png
+9709,2025,November,1,2,10,a,NULL,Show that s,NULL
+9709,2025,November,1,2,17,b,NULL,Find an expression for the area of the shaded region. Give your answer in the form,NULL
+9709,2025,November,3,2,1,a,NULL,Sketch the graph of y,images/9709_w25_32_q1.png
+9709,2025,November,3,2,3,NULL,1,Question Statement (See PDF),images/9709_w25_32_q3.png
+9709,2025,November,3,2,3,b,NULL,Hence or otherwise solve the inequality x,images/9709_w25_32_q3.png
+9709,2025,November,3,2,2,NULL,2,Question Statement (See PDF),NULL
+9709,2025,November,3,2,2,a,NULL,Find the complex number represented by the point P. Give your answer in the form,NULL
+9709,2025,November,3,2,2,b,NULL,Find the greatest value of argz for points in the shaded region.,NULL
+9709,2025,November,3,2,5,a,NULL,It is given that ( ),NULL
+9709,2025,November,3,2,2,b,NULL,It is given that (,NULL
+9709,2025,November,3,2,6,a,NULL,"By sketching a suitable pair of graphs, show that the equation cot",images/9709_w25_32_q6.png
+9709,2025,November,3,2,1,b,NULL,Show by calculation that the root is in the interval .,images/9709_w25_32_q1.png
+9709,2025,November,3,2,1,c,NULL,Use the iterative formula,images/9709_w25_32_q1.png
+9709,2025,November,3,2,3,a,NULL,Show that y,images/9709_w25_32_q3.png
+9709,2025,November,3,2,9,b,NULL,Hence find the coordinates of the points on the curve at which the normal is parallel to the y-axis.,images/9709_w25_32_q9.png
+9709,2025,November,3,2,8,a,NULL,Prove the identity sin,NULL
+9709,2025,November,3,2,11,b,NULL,Hence find the exact value of,NULL
+9709,2025,November,3,2,4,NULL,5,Question Statement (See PDF),images/9709_w25_32_q4.png
+9709,2025,November,3,2,2,a,NULL,Express ( ),NULL
+9709,2025,November,3,2,13,b,NULL,Hence find the exact value of,NULL
+9709,2025,November,3,2,1,a,NULL,Show that t,images/9709_w25_32_q1.png
+9709,2025,November,3,2,15,b,NULL,"Given that h = 0 when t = 0, find the time taken for the depth of the water in the tank to reach",NULL
+9709,2025,November,3,2,6,a,NULL,Find the vectors,images/9709_w25_32_q6.png
+9709,2025,November,3,2,6,b,NULL,Calculate the exact value of the cosine of angle CMB.,images/9709_w25_32_q6.png
+9709,2025,November,3,2,17,c,NULL,Hence or otherwise find the exact area of triangle ABC.,NULL
+9709,2025,November,5,2,1,a,NULL,Find the probability that the first head is obtained on the 5th throw.,images/9709_w25_52_q1.png
+9709,2025,November,5,2,1,b,NULL,Find the probability that the first head is obtained after the 6th throw.,images/9709_w25_52_q1.png
+9709,2025,November,5,2,2,a,NULL,Draw up the probability distribution table for X.,NULL
+9709,2025,November,5,2,2,b,NULL,Find Var(X ).,NULL
+9709,2025,November,5,2,3,a,NULL,How many members of the club would you expect to have heights within 5 cm of the mean?,NULL
+9709,2025,November,5,2,5,b,NULL,Find the value of v.,NULL
+9709,2025,November,5,2,3,a,NULL,Write down an equation in terms of x and hence find the value of x.,NULL
+9709,2025,November,5,2,7,b,NULL,Find the probability that the two cards have pictures of the same type of vehicle on them.,NULL
+9709,2025,November,5,2,46,a,NULL,Draw a histogram to represent this information.,NULL
+9709,2025,November,5,2,9,b,NULL,Calculate an estimate of the mean time taken by the 240 competitors.,NULL
+9709,2025,November,5,2,6,a,NULL,"Find the probability that, out of 10 randomly chosen people, none of them will have their next",NULL
+9709,2025,November,5,2,6,b,NULL,"Find the probability that, out of 10 randomly chosen people, fewer than 3 will have their next",NULL
+9709,2025,November,5,2,11,c,NULL,"Use a suitable approximation to find the probability that, out of 392 randomly chosen people,",NULL
+9709,2025,November,5,2,7,a,NULL,Find the number of different arrangements of the 10 letters in the word ZOOLOGICAL in which,NULL
+9709,2025,November,5,2,7,b,NULL,Find the number of different arrangements of the 10 letters in the word ZOOLOGICAL in which,NULL
+9709,2025,November,5,2,13,c,NULL,Find the probability that these two letters are different.,NULL
+9709,2025,November,1,3,1,a,NULL,Expand,images/9709_w25_13_q1.png
+9709,2025,November,1,3,6,NULL,3,Question Statement (See PDF),images/9709_w25_13_q6.png
+9709,2025,November,1,3,6,b,NULL,Hence find the coefficient of x3 in the expansion of,images/9709_w25_13_q6.png
+9709,2025,November,1,3,2,a,NULL,Solve the equation,images/9709_w25_13_q2.png
+9709,2025,November,1,3,4,NULL,2,Question Statement (See PDF),NULL
+9709,2025,November,1,3,4,b,NULL,Solve the equation cos,NULL
+9709,2025,November,1,3,2,a,NULL,Find the value of k. Give your answer correct to 6 decimal places.,images/9709_w25_13_q2.png
+9709,2025,November,1,3,2,b,NULL,Find the gradient of the chord AD. Give your answer correct to 4 decimal places.,images/9709_w25_13_q2.png
+9709,2025,November,1,3,2,c,NULL,State what the values in the table suggest about the value of,images/9709_w25_13_q2.png
+9709,2025,November,1,3,8,NULL,1,Question Statement (See PDF),images/9709_w25_13_q8.png
+9709,2025,November,1,3,5,a,NULL,"Given that the progression is arithmetic, find the 30th term.",NULL
+9709,2025,November,1,3,5,b,NULL,"Given instead that the progression is geometric, find the sum to infinity.",NULL
+9709,2025,November,1,3,4,a,NULL,Find the exact value of i.,NULL
+9709,2025,November,1,3,4,b,NULL,Find the exact area of the segment PXQ.,NULL
+9709,2025,November,1,3,5,a,NULL,Describe fully a suitable sequence of transformations. Make clear the order in which the,NULL
+9709,2025,November,1,3,5,b,NULL,You are given that ( ),NULL
+9709,2025,November,1,3,3,NULL,3,Question Statement (See PDF),images/9709_w25_13_q3.png
+9709,2025,November,1,3,8,a,NULL,Find the equation of the circle.,images/9709_w25_13_q8.png
+9709,2025,November,1,3,8,b,NULL,There are two tangents to the circle which have gradient,images/9709_w25_13_q8.png
+9709,2025,November,1,3,2,a,NULL,It is given that p,images/9709_w25_13_q2.png
+9709,2025,November,1,3,10,i,NULL,Express ( )x,NULL
+9709,2025,November,1,3,2,ii,NULL,State the range of f.,images/9709_w25_13_q2.png
+9709,2025,November,1,3,13,b,NULL,It is given instead that q,NULL
+9709,2025,November,1,3,9,NULL,5,Question Statement (See PDF),NULL
+9709,2025,November,1,3,6,a,NULL,"Find the coordinates of the point at which the tangent to the curve at the point (3, 5) intersects the",images/9709_w25_13_q6.png
+9709,2025,November,1,3,15,b,NULL,(i) Find the x-coordinates of each of the stationary points of the curve.,NULL
+9709,2025,November,1,3,15,ii,NULL,Find x,NULL
+9709,2025,November,2,3,2,NULL,3,Question Statement (See PDF),NULL
+9709,2025,November,2,3,3,a,NULL,Solve the equation,images/9709_w25_23_q3.png
+9709,2025,November,2,3,2,b,NULL,Hence solve the equation,NULL
+9709,2025,November,2,3,1,NULL,3,Question Statement (See PDF),images/9709_w25_23_q1.png
+9709,2025,November,2,3,1,NULL,5,Question Statement (See PDF),images/9709_w25_23_q1.png
+9709,2025,November,2,3,1,a,NULL,Show that the x-coordinate of B is ln,images/9709_w25_23_q1.png
+9709,2025,November,2,3,6,NULL,2,Question Statement (See PDF),images/9709_w25_23_q6.png
+9709,2025,November,2,3,6,b,NULL,Find the area of the shaded region. Give your answer in the form,images/9709_w25_23_q6.png
+9709,2025,November,2,3,1,a,NULL,Show that,images/9709_w25_23_q1.png
+9709,2025,November,2,3,9,b,NULL,Find the equation of the normal to the curve at the point where it crosses the x-axis. Give your,NULL
+9709,2025,November,2,3,2,a,NULL,Find the value of k.,NULL
+9709,2025,November,2,3,0,b,NULL,State the value of a and show that b satisfies the equation,NULL
+9709,2025,November,2,3,11,c,NULL,Show by calculation that,NULL
+9709,2025,November,2,3,1,d,NULL,"Use an iterative formula, based on the equation in part (b), to find the value of b correct to",images/9709_w25_23_q1.png
+9709,2025,November,5,3,1,a,NULL,3 students from Greenfield college are selected at random.,images/9709_w25_53_q1.png
+9709,2025,November,5,3,1,b,NULL,11 students from Greenfield college are selected at random.,images/9709_w25_53_q1.png
+9709,2025,November,5,3,2,NULL,4,Question Statement (See PDF),NULL
+9709,2025,November,5,3,3,a,NULL,Find the number of different arrangements of the 9 letters in the word DAFFODILS in which there,NULL
+9709,2025,November,5,3,3,b,NULL,Find the probability that a randomly chosen arrangement of the 9 letters in the word DAFFODILS,NULL
+9709,2025,November,5,3,4,a,NULL,Draw up the probability distribution table for X.,NULL
+9709,2025,November,5,3,7,b,NULL,Find Var(X ).,NULL
+9709,2025,November,5,3,7,c,NULL,Find the probability that it lands on 4 for the first time before the 8th spin.,NULL
+9709,2025,November,5,3,5,a,NULL,"Draw a fully labelled tree diagram to illustrate this information, including all the probabilities.",NULL
+9709,2025,November,5,3,9,b,NULL,Find the probability that one red marble and one blue marble are obtained.,NULL
+9709,2025,November,5,3,9,c,NULL,"Find the probability that a white counter is chosen from box A, given that one red marble and one",NULL
+9709,2025,November,5,3,74,a,NULL,"Draw a back-to-back stem-and-leaf diagram to represent this information, with Linnets on the",NULL
+9709,2025,November,5,3,74,b,NULL,Find the interquartile range of the times taken by the Linnets.,NULL
+9709,2025,November,5,3,11,c,NULL,"On the grid below, draw a box-and-whisker plot to represent the information for the Linnets and",NULL
+9709,2025,November,5,3,11,d,NULL,Make one comparison between the times taken by the Linnets and the times taken by the Puffins.,NULL
+9709,2025,November,5,3,7,a,NULL,"Find the probability that, on a randomly chosen day, Obi takes more than 15.6 minutes to walk to",NULL
+9709,2025,November,5,3,7,b,NULL,"On 90% of days, Obi takes more than t minutes to walk to work.",NULL
+9709,2025,November,5,3,13,c,NULL,On how many days in a year would you expect Obi to take within one minute of the mean time to,NULL
+9709,2025,June,1,1,1,NULL,4,Question Statement,images/9709_s25_11_q1.png
+9709,2025,June,1,1,11,a,NULL,Find the gradient of the normal to the curve at the point A.,NULL
+9709,2025,June,1,1,11,b,NULL,Find the equation of the curve.,NULL
+9709,2025,June,1,1,3,a,NULL,Find the tenth term of the progression. Give your answer correct to 3 significant figures.,NULL
+9709,2025,June,1,1,3,b,NULL,Find the exact value of the sum to infinity of the progression.,NULL
+9709,2025,June,1,1,16,NULL,5,Question Statement,NULL
+9709,2025,June,1,1,5,a,NULL,"Find the first three terms, in ascending powers of x, in the expansion of each of the following",images/9709_s25_11_q5.png
+9709,2025,June,1,1,5,i,NULL,(,images/9709_s25_11_q5.png
+9709,2025,June,1,1,5,ii,NULL,,images/9709_s25_11_q5.png
+9709,2025,June,1,1,4,NULL,2,Question Statement,NULL
+9709,2025,June,1,1,4,b,NULL,Given that the coefficient of x2 in the expansion of (,NULL
+9709,2025,June,1,1,3,a,NULL,Given that k,NULL
+9709,2025,June,1,1,9,b,NULL,Given instead that p,NULL
+9709,2025,June,1,1,2,a,NULL,A point P is moving along the curve in such a way that its y-coordinate is decreasing at 5 units per,images/9709_s25_11_q2.png
+9709,2025,June,1,1,11,b,NULL,Find the coordinates of the stationary points of the curve and determine their nature.,NULL
+9709,2025,June,1,1,1,a,NULL,It is given that the area of the triangle ABC is cm,images/9709_s25_11_q1.png
+9709,2025,June,1,1,15,b,NULL,It is given instead that the length of the chord BC is,NULL
+9709,2025,June,1,1,2,a,NULL,Describe fully a sequence of transformations which transforms the graph of,images/9709_s25_11_q2.png
+9709,2025,June,1,1,2,b,NULL,On the diagram sketch the graph of,images/9709_s25_11_q2.png
+9709,2025,June,1,1,17,c,NULL,Find an expression for,NULL
+9709,2025,June,1,1,17,d,NULL,State the range of g 1,NULL
+9709,2025,June,1,1,0,e,NULL,Find the value of,NULL
+9709,2025,June,1,1,1,f,NULL,Explain why the composite function hg 1,images/9709_s25_11_q1.png
+9709,2025,June,3,1,1,a,NULL,Sketch the graph of y,images/9709_s25_31_q1.png
+9709,2025,June,3,1,3,NULL,1,Question Statement,images/9709_s25_31_q3.png
+9709,2025,June,3,1,3,b,NULL,Solve the inequality x,images/9709_s25_31_q3.png
+9709,2025,June,3,1,17,NULL,6,Question Statement,NULL
+9709,2025,June,3,1,2,NULL,6,Question Statement,images/9709_s25_31_q2.png
+9709,2025,June,3,1,2,NULL,5,Question Statement,images/9709_s25_31_q2.png
+9709,2025,June,3,1,1,a,NULL,State the values of,images/9709_s25_31_q1.png
+9709,2025,June,3,1,1,b,NULL,"On a sketch of an Argand diagram with origin O, show the points A, B, C and D representing the",images/9709_s25_31_q1.png
+9709,2025,June,3,1,1,c,NULL,State the geometric effects of multiplying z1 and z2 by ~.,images/9709_s25_31_q1.png
+9709,2025,June,3,1,7,a,NULL,Express sin,images/9709_s25_31_q7.png
+9709,2025,June,3,1,11,b,NULL,Hence solve the equation,NULL
+9709,2025,June,3,1,6,a,NULL,Find a vector equation for the line l1.,images/9709_s25_31_q6.png
+9709,2025,June,3,1,3,b,NULL,Show that l1 and l2 do not intersect.,images/9709_s25_31_q3.png
+9709,2025,June,3,1,13,c,NULL,Find the acute angle between the directions of l1 and l2.,NULL
+9709,2025,June,3,1,4,a,NULL,Show that,NULL
+9709,2025,June,3,1,15,b,NULL,Verify by calculation that a lies between 2 and 2.1.,NULL
+9709,2025,June,3,1,15,c,NULL,Use an iterative formula based on the equation in part (a) to determine a correct to 2 decimal,NULL
+9709,2025,June,3,1,3,b,NULL,The variables x and y satisfy the differential equation,images/9709_s25_31_q3.png
+9709,2025,June,3,1,1,a,NULL,Find the exact value of a.,images/9709_s25_31_q1.png
+9709,2025,June,3,1,19,b,NULL,The region enclosed between the x-axis and the curve is rotated through 2r radians about the,NULL
+9709,2025,June,5,1,1,NULL,3,Question Statement,images/9709_s25_51_q1.png
+9709,2025,June,5,1,2,a,NULL,Find the number of different arrangements of the 8 letters in the word KANGAROO in which the,NULL
+9709,2025,June,5,1,2,b,NULL,Find the probability that fewer than 6 rolls of this dice are required to obtain an A.,NULL
+9709,2025,June,5,1,2,c,NULL,Find the probability that the second A is obtained on the 6th roll of the dice.,NULL
+9709,2025,June,5,1,3,a,NULL,"Draw a back-to-back stem-and-leaf diagram to represent this information, with Gulls on the",NULL
+9709,2025,June,5,1,3,b,NULL,Find the median and the interquartile range of the times of the runners from the Gulls.,NULL
+9709,2025,June,5,1,5,c,NULL,Find the mean of the times taken by all 50 runners.,NULL
+9709,2025,June,5,1,5,d,NULL,Find the value of,NULL
+9709,2025,June,5,1,4,a,4,How many competitors would you expect to have times within 1.2 minutes of the mean time? [4],NULL
+9709,2025,June,5,1,4,b,NULL,9 competitors who took part in this Saturday’s event are selected at random.,NULL
+9709,2025,June,5,1,7,c,NULL,80 competitors who took part in this Saturday’s event are selected at random.,NULL
+9709,2025,June,5,1,5,a,NULL,Find the number of different ways in which the 6 musicians can be selected if there must be at,NULL
+9709,2025,June,5,1,9,b,NULL,Find the number of different ways in which these three bands can be selected.,NULL
+9709,2025,June,5,1,6,a,NULL,Show that (,images/9709_s25_51_q6.png
+9709,2025,June,5,1,3,b,NULL,Draw up the probability distribution table for X.,NULL
+9709,2025,June,5,1,11,c,NULL,"Find the probability that at least 2 of the marbles chosen are blue, given that at least 1 red marble",NULL
+9709,2025,June,1,2,6,NULL,4,Question Statement,NULL
+9709,2025,June,1,2,0,NULL,4,Question Statement,NULL
+9709,2025,June,1,2,5,NULL,4,Question Statement,images/9709_s25_12_q5.png
+9709,2025,June,1,2,2,a,NULL,Find the rate at which the y-coordinate of P is changing when x,images/9709_s25_12_q2.png
+9709,2025,June,1,2,9,NULL,3,Question Statement,images/9709_s25_12_q9.png
+9709,2025,June,1,2,9,b,NULL,Given that the curve has a minimum point when x,images/9709_s25_12_q9.png
+9709,2025,June,1,2,1,NULL,2,Question Statement,images/9709_s25_12_q1.png
+9709,2025,June,1,2,2,a,NULL,State the greatest and least possible values of y.,images/9709_s25_12_q2.png
+9709,2025,June,1,2,2,b,NULL,Sketch the curve.,images/9709_s25_12_q2.png
+9709,2025,June,1,2,2,c,NULL,Hence determine the number of solutions of the equation cos x,images/9709_s25_12_q2.png
+9709,2025,June,1,2,3,NULL,6,Question Statement,images/9709_s25_12_q3.png
+9709,2025,June,1,2,7,a,NULL,Prove the identity tan,images/9709_s25_12_q7.png
+9709,2025,June,1,2,9,b,NULL,Hence solve the equation,images/9709_s25_12_q9.png
+9709,2025,June,1,2,180,NULL,4,Question Statement,NULL
+9709,2025,June,1,2,2,a,NULL,"Find the coordinates of A, B and C.",images/9709_s25_12_q2.png
+9709,2025,June,1,2,11,b,NULL,Find the angle ACB in radians. Give your answer correct to 3 significant figures.,NULL
+9709,2025,June,1,2,11,c,NULL,The chord AB divides the circle into two segments.,NULL
+9709,2025,June,1,2,3,a,NULL,Find an expression for x,images/9709_s25_12_q3.png
+9709,2025,June,1,2,3,b,NULL,"Find the x-coordinate of the other stationary point of the curve, and determine the nature of this",images/9709_s25_12_q3.png
+9709,2025,June,1,2,13,c,NULL,Find the equation of the curve.,NULL
+9709,2025,June,1,2,13,d,NULL,Find the equation of the normal to the curve at the point where x,NULL
+9709,2025,June,1,2,14,i,NULL,Find the value of k.,NULL
+9709,2025,June,1,2,14,ii,NULL,Find the sum of the first 20 terms of the progression.,NULL
+9709,2025,June,1,2,15,b,NULL,The fourth and sixth terms of a geometric progression are 36 and 6 respectively. The common,NULL
+9709,2025,June,1,2,2,b,NULL,(i) Find an expression for,images/9709_s25_12_q2.png
+9709,2025,June,1,2,1,NULL,3,Question Statement,images/9709_s25_12_q1.png
+9709,2025,June,1,2,17,ii,NULL,Find an expression for (,NULL
+9709,2025,June,1,2,1,NULL,4,Question Statement,images/9709_s25_12_q1.png
+9709,2025,June,3,2,4,NULL,5,Question Statement,NULL
+9709,2025,June,3,2,2,a,NULL,Expand (,images/9709_s25_32_q2.png
+9709,2025,June,3,2,3,NULL,4,Question Statement,images/9709_s25_32_q3.png
+9709,2025,June,3,2,3,b,NULL,State the set of values of x for which the expansion is valid.,images/9709_s25_32_q3.png
+9709,2025,June,3,2,180,NULL,6,Question Statement,NULL
+9709,2025,June,3,2,5,NULL,5,Question Statement,images/9709_s25_32_q5.png
+9709,2025,June,3,2,6,a,NULL,"By sketching a suitable pair of graphs, show that the equation",images/9709_s25_32_q6.png
+9709,2025,June,3,2,1,NULL,2,Question Statement,images/9709_s25_32_q1.png
+9709,2025,June,3,2,1,b,NULL,Show by calculation that this root lies between 1 and 1.5.,images/9709_s25_32_q1.png
+9709,2025,June,3,2,9,c,NULL,Use the iterative formula,images/9709_s25_32_q9.png
+9709,2025,June,3,2,7,a,NULL,Express sin,images/9709_s25_32_q7.png
+9709,2025,June,3,2,11,b,NULL,Hence solve the equation,NULL
+9709,2025,June,3,2,5,a,NULL,Find a vector equation for the line through A and B.,images/9709_s25_32_q5.png
+9709,2025,June,3,2,5,b,NULL,"Using a scalar product, find the exact value of cos BAC.",images/9709_s25_32_q5.png
+9709,2025,June,3,2,15,c,NULL,Hence find the exact area of triangle ABC.,NULL
+9709,2025,June,3,2,1,b,NULL,Find the exact value of,images/9709_s25_32_q1.png
+9709,2025,June,3,2,0,NULL,6,Question Statement,NULL
+9709,2025,June,3,2,1,a,NULL,Find the exact x-coordinate of M.,images/9709_s25_32_q1.png
+9709,2025,June,3,2,19,b,NULL,By using the substitution,NULL
+9709,2025,June,5,2,1,NULL,3,Question Statement,images/9709_s25_52_q1.png
+9709,2025,June,5,2,2,NULL,5,Question Statement,NULL
+9709,2025,June,5,2,3,a,NULL,Find the probability that both marbles selected are the same colour.,NULL
+9709,2025,June,5,2,3,b,NULL,Find the probability that the first marble is blue given that the second marble is red.,NULL
+9709,2025,June,5,2,4,a,NULL,Find the probability that the next three vehicles approaching this junction from Bromley all go in,NULL
+9709,2025,June,5,2,4,b,NULL,"Find the probability that, from the vehicles approaching this junction from Bromley today, the 1st",NULL
+9709,2025,June,5,2,4,c,NULL,"Find the probability that, from the vehicles approaching this junction from Bromley today, the 2nd",NULL
+9709,2025,June,5,2,300,a,NULL,"On the grid, draw a cumulative frequency graph to illustrate this information.",NULL
+9709,2025,June,5,2,300,b,NULL,120 students take more than k minutes to travel to college. Use your graph to estimate the value of k.,NULL
+9709,2025,June,5,2,7,c,NULL,Calculate estimates of the mean and standard deviation of the times taken to travel to college by,NULL
+9709,2025,June,5,2,6,a,NULL,Find the number of different ways in which the 10 letters in the word AMALGAMATE can be,NULL
+9709,2025,June,5,2,6,b,NULL,Find the number of different ways in which the 10 letters in the word AMALGAMATE can be,NULL
+9709,2025,June,5,2,9,c,NULL,Find the number of different selections in which the five letters include at least one M and at least,NULL
+9709,2025,June,5,2,7,a,NULL,How many of these 120 adult kestrels would you expect to have wingspan between 72.4 cm and,NULL
+9709,2025,June,5,2,7,b,NULL,Find the value of n and the value of v.,NULL
+9709,2025,June,5,2,11,c,NULL,Find the probability that fewer than 3 have masses greater than 0.202 kg.,NULL
+9709,2025,June,1,3,2,NULL,4,Question Statement,images/9709_s25_13_q2.png
+9709,2025,June,1,3,1,NULL,4,Question Statement,images/9709_s25_13_q1.png
+9709,2025,June,1,3,3,NULL,4,Question Statement,images/9709_s25_13_q3.png
+9709,2025,June,1,3,4,a,NULL,Find the first three terms in the expansion of,images/9709_s25_13_q4.png
+9709,2025,June,1,3,5,NULL,3,Question Statement,NULL
+9709,2025,June,1,3,5,b,NULL,"Use your answer to part (a), with a suitable value of x, to find an approximation to .1 9855.",NULL
+9709,2025,June,1,3,1,NULL,6,Question Statement,images/9709_s25_13_q1.png
+9709,2025,June,1,3,6,NULL,6,Question Statement,NULL
+9709,2025,June,1,3,2,a,NULL,Find the set of values of x for which y decreases as x increases.,images/9709_s25_13_q2.png
+9709,2025,June,1,3,2,b,NULL,It is given that the maximum point of the curve has y-coordinate 27.,images/9709_s25_13_q2.png
+9709,2025,June,1,3,1,a,NULL,"Show that the size of angle EAF is 0.9273 radians, correct to 4 significant figures.",images/9709_s25_13_q1.png
+9709,2025,June,1,3,1,b,NULL,Find the perimeter of the shaded region.,images/9709_s25_13_q1.png
+9709,2025,June,1,3,1,c,NULL,Find the area of the shaded region.,images/9709_s25_13_q1.png
+9709,2025,June,1,3,9,a,NULL,"Show that one of the possible values of k is 10, and find the other possible value.",NULL
+9709,2025,June,1,3,11,b,NULL,It is now given that k,images/9709_s25_13_q11.png
+9709,2025,June,1,3,0,NULL,5,Question Statement,NULL
+9709,2025,June,1,3,5,a,NULL,Find the coordinates of the two stationary points.,NULL
+9709,2025,June,1,3,5,b,NULL,Find x,NULL
+9709,2025,June,1,3,13,c,NULL,The curve C is transformed to the curve C1 using a translation of,NULL
+9709,2025,June,1,3,7,i,NULL,State the coordinates of the maximum point of C1.,images/9709_s25_13_q7.png
+9709,2025,June,1,3,7,ii,NULL,Find the equation of C1 in the form y,images/9709_s25_13_q7.png
+9709,2025,June,1,3,1,a,NULL,Given that the range of f is ( )x,images/9709_s25_13_q1.png
+9709,2025,June,1,3,33,NULL,4,Question Statement,NULL
+9709,2025,June,1,3,15,b,NULL,Given instead that,NULL
+9709,2025,June,1,3,96,NULL,6,Question Statement,NULL
+9709,2025,June,3,3,1,a,NULL,Sketch the graph of y,images/9709_s25_33_q1.png
+9709,2025,June,3,3,2,NULL,1,Question Statement,images/9709_s25_33_q2.png
+9709,2025,June,3,3,2,b,NULL,Hence or otherwise solve the inequality,images/9709_s25_33_q2.png
+9709,2025,June,3,3,3,NULL,4,Question Statement,images/9709_s25_33_q3.png
+9709,2025,June,3,3,4,a,NULL,It is given that z,images/9709_s25_33_q4.png
+9709,2025,June,3,3,2,b,NULL,z,images/9709_s25_33_q2.png
+9709,2025,June,3,3,0,NULL,3,Question Statement,NULL
+9709,2025,June,3,3,2,a,NULL,Show that y,images/9709_s25_33_q2.png
+9709,2025,June,3,3,2,b,NULL,Find the gradients of the tangents to the curve when x,images/9709_s25_33_q2.png
+9709,2025,June,3,3,0,NULL,2,Question Statement,NULL
+9709,2025,June,3,3,10,NULL,6,Question Statement,images/9709_s25_33_q10.png
+9709,2025,June,3,3,5,a,NULL,Express ( )x,images/9709_s25_33_q5.png
+9709,2025,June,3,3,9,b,NULL,Hence obtain the expansion of ( )x,images/9709_s25_33_q9.png
+9709,2025,June,3,3,9,c,NULL,State the set of values of x for which the expansion in part (b) is valid.,images/9709_s25_33_q9.png
+9709,2025,June,3,3,8,a,NULL,Prove the identity cot,NULL
+9709,2025,June,3,3,11,b,NULL,Hence solve the equation cot,NULL
+9709,2025,June,3,3,3,a,NULL,Find a vector equation for l.,images/9709_s25_33_q3.png
+9709,2025,June,3,3,3,b,NULL,The point P is the foot of the perpendicular from A to l.,images/9709_s25_33_q3.png
+9709,2025,June,3,3,13,c,NULL,The point D is the reflection of A in l.,NULL
+9709,2025,June,3,3,2,a,NULL,"Solve the differential equation, obtaining a relation between x and y.",images/9709_s25_33_q2.png
+9709,2025,June,3,3,15,b,NULL,Given that,NULL
+9709,2025,June,3,3,1,a,NULL,Show that tan a,images/9709_s25_33_q1.png
+9709,2025,June,3,3,4,b,NULL,Show by calculation that .,images/9709_s25_33_q4.png
+9709,2025,June,3,3,17,c,NULL,Show that if a sequence of values given by the iterative formula,NULL
+9709,2025,June,3,3,1,d,NULL,Use the iterative formula in part (c) to calculate a correct to 4 decimal places. Give the result of,images/9709_s25_33_q1.png
+9709,2025,June,5,3,2,a,NULL,"Given that the mean of these 40 values is 124.0, find the value of k.",NULL
+9709,2025,June,5,3,2,b,NULL,Find the standard deviation of these 40 values of x.,NULL
+9709,2025,June,5,3,2,a,NULL,3 students are selected at random from the students who study Science.,NULL
+9709,2025,June,5,3,2,b,NULL,10 students are selected at random from the students who study Science.,NULL
+9709,2025,June,5,3,3,a,NULL,Find (,NULL
+9709,2025,June,5,3,8,NULL,1,Question Statement,NULL
+9709,2025,June,5,3,8,b,NULL,Find (,NULL
+9709,2025,June,5,3,1,NULL,2,Question Statement,images/9709_s25_53_q1.png
+9709,2025,June,5,3,1,c,NULL,Find the probability that a 3 is obtained for the second time before the 6th throw.,images/9709_s25_53_q1.png
+9709,2025,June,5,3,12,a,NULL,Use the graph to estimate how many people took between 4 and 7.5 minutes to complete the,NULL
+9709,2025,June,5,3,7,b,NULL,"On the grid below, draw a box-and-whisker plot to summarise the information in the cumulative",NULL
+9709,2025,June,5,3,5,a,NULL,"Draw a tree diagram to represent this information, giving the probability on each branch.",NULL
+9709,2025,June,5,3,9,b,NULL,Find the probability that both marbles chosen are the same colour.,NULL
+9709,2025,June,5,3,9,c,NULL,"Find the probability that the marble chosen from bag A is blue, given that the marble chosen from",NULL
+9709,2025,June,5,3,6,a,2,Find the probability that the mass of pasta in a randomly chosen large bag is less than 2.65 kg. [2],NULL
+9709,2025,June,5,3,6,b,NULL,Find the number of bags for which you would expect the mass of pasta to be more than 1.65,NULL
+9709,2025,June,5,3,11,c,NULL,"Find, in either order, the value of n and the value of v.",NULL
+9709,2025,June,5,3,7,a,NULL,Find the number of different arrangements of the 7 men in a line in which Ali and Ben do not,NULL
+9709,2025,June,5,3,7,b,NULL,Find the number of different arrangements of the 7 men and 4 women in a line in which all the,NULL
+9709,2025,June,5,3,13,c,NULL,"In how many ways can the 7 men and 4 women be divided into a group of 6, a group of 3 and a",NULL
+9709,2025,June,5,3,13,d,NULL,"The 7 men and 4 women are divided at random into a group of 6, a group of 3 and a group of 2.",NULL
+9709,2025,March,1,2,13,NULL,4,Question Statement,NULL
+9709,2025,March,1,2,2,a,NULL,Find the gradient of the curve at P.,images/9709_m25_12_q2.png
+9709,2025,March,1,2,2,b,NULL,Find the coordinates of M. Give each coordinate correct to 3 significant figures.,images/9709_m25_12_q2.png
+9709,2025,March,1,2,3,a,NULL,Find the complete expansion of,images/9709_m25_12_q3.png
+9709,2025,March,1,2,2,b,NULL,Hence determine the coefficient of x2 in the expansion of x,images/9709_m25_12_q2.png
+9709,2025,March,1,2,4,NULL,2,Question Statement,images/9709_m25_12_q4.png
+9709,2025,March,1,2,4,a,NULL,Find the perimeter of the shaded region.,images/9709_m25_12_q4.png
+9709,2025,March,1,2,4,b,NULL,Find the area of the shaded region.,images/9709_m25_12_q4.png
+9709,2025,March,1,2,5,NULL,6,Question Statement,NULL
+9709,2025,March,1,2,2,a,NULL,State the coordinates of the centre of the circle in terms of r.,images/9709_m25_12_q2.png
+9709,2025,March,1,2,2,b,NULL,"Given that the distance between the origin and the centre of the circle is 15 units, find the value",images/9709_m25_12_q2.png
+9709,2025,March,1,2,2,c,NULL,The point on the circle furthest from the origin is denoted by P.,images/9709_m25_12_q2.png
+9709,2025,March,1,2,7,a,NULL,Show that tan,images/9709_m25_12_q7.png
+9709,2025,March,1,2,9,b,NULL,Hence solve the equation tan,images/9709_m25_12_q9.png
+9709,2025,March,1,2,1,NULL,4,Question Statement,images/9709_m25_12_q1.png
+9709,2025,March,1,2,120,a,NULL,Find the common ratio.,NULL
+9709,2025,March,1,2,120,b,NULL,The first nine terms of the progression are now removed.,NULL
+9709,2025,March,1,2,1,a,NULL,Use the expression for,images/9709_m25_12_q1.png
+9709,2025,March,1,2,2,b,NULL,Find the equation of the curve.,images/9709_m25_12_q2.png
+9709,2025,March,1,2,7,a,NULL,Find the area of region A.,images/9709_m25_12_q7.png
+9709,2025,March,1,2,13,b,NULL,Find the area of region B.,NULL
+9709,2025,March,1,2,1,a,NULL,Show that,images/9709_m25_12_q1.png
+9709,2025,March,1,2,15,b,NULL,The curve with equation y,NULL
+9709,2025,March,1,2,3,c,NULL,The range of h is given by ( )x,images/9709_m25_12_q3.png
+9709,2025,March,3,2,2,NULL,3,Question Statement,images/9709_m25_32_q2.png
+9709,2025,March,3,2,0,NULL,5,Question Statement,NULL
+9709,2025,March,3,2,1,a,NULL,Find two inequalities in terms of z that define the shaded region.,images/9709_m25_32_q1.png
+9709,2025,March,3,2,1,b,NULL,Find the greatest value of z  for points in this region.,images/9709_m25_32_q1.png
+9709,2025,March,3,2,180,NULL,6,Question Statement,NULL
+9709,2025,March,3,2,4,NULL,5,Question Statement,images/9709_m25_32_q4.png
+9709,2025,March,3,2,0,NULL,7,Question Statement,NULL
+9709,2025,March,3,2,1,a,NULL,Show that p satisfies the equation,images/9709_m25_32_q1.png
+9709,2025,March,3,2,11,b,NULL,Show by calculation that .,images/9709_m25_32_q11.png
+9709,2025,March,3,2,1,c,NULL,Use an iterative formula based on the equation in part (a) to calculate p correct to 3 decimal,images/9709_m25_32_q1.png
+9709,2025,March,3,2,1,a,NULL,Show that the lines are skew.,images/9709_m25_32_q1.png
+9709,2025,March,3,2,13,b,NULL,Find the obtuse angle between the directions of the two lines.,NULL
+9709,2025,March,3,2,3,a,NULL,Find the values of a and b.,NULL
+9709,2025,March,3,2,15,b,NULL,"When a and b have the values found in part (a), factorise ( )x",NULL
+9709,2025,March,3,2,15,c,NULL,Hence solve the inequality ( )x,NULL
+9709,2025,March,3,2,2,a,NULL,Express ( )x,images/9709_m25_32_q2.png
+9709,2025,March,3,2,17,b,NULL,Hence find the exact value of,NULL
+9709,2025,March,3,2,0,NULL,6,Question Statement,NULL
+9709,2025,March,5,2,1,a,NULL,Show that (,images/9709_m25_52_q1.png
+9709,2025,March,5,2,3,NULL,1,Question Statement,NULL
+9709,2025,March,5,2,3,b,NULL,Draw up the probability distribution table for X.,NULL
+9709,2025,March,5,2,3,c,NULL,Given that ( ),NULL
+9709,2025,March,5,2,47,NULL,2,Question Statement,NULL
+9709,2025,March,5,2,2,a,1,Find the probability that the 3 customers bought computers all made by different companies. [1],NULL
+9709,2025,March,5,2,2,b,NULL,Find the probability that fewer than 10 of these customers bought a computer made by company F.,NULL
+9709,2025,March,5,2,5,c,NULL,Use a suitable approximation to find the probability that more than 24 of these customers bought a,NULL
+9709,2025,March,5,2,24,a,NULL,"On the grid below, draw a cumulative frequency graph to illustrate this information.",NULL
+9709,2025,March,5,2,7,b,NULL,38% of these leaves are of length k cm or more.,NULL
+9709,2025,March,5,2,7,c,NULL,Calculate an estimate for the mean length of these 250 leaves.,NULL
+9709,2025,March,5,2,4,a,NULL,Find the probability that all three cars are the same colour.,NULL
+9709,2025,March,5,2,9,b,NULL,"Find the probability that, when the 3 cars are selected, at least one car is white and at least one car",NULL
+9709,2025,March,5,2,5,a,NULL,Find the probability that the mass of peaches sold on any given day is between 56 kg and 75 kg.,NULL
+9709,2025,March,5,2,11,b,NULL,Find the value of v.,NULL
+9709,2025,March,5,2,11,c,NULL,"Find the probability that, in a randomly chosen week, the first day on which less than 59.1 kg of",NULL
+9709,2025,March,5,2,11,d,NULL,"Find the probability that, in a randomly chosen week, the first day on which less than 59.1 kg of",NULL
+9709,2025,March,5,2,6,a,NULL,How many different colour arrangements are there of the 10 books?,NULL
+9709,2025,March,5,2,6,b,NULL,How many different colour arrangements are there of the 10 books in which the 3 blue books are,NULL
+9709,2025,March,5,2,13,c,NULL,How many different colour arrangements are there of the 10 books with exactly 4 books between,NULL
+9709,2025,March,5,2,13,d,NULL,"Find the number of different selections if the 4 books include at least 1 red book, at most 1 blue",NULL
+9709,2024,November,1,1,1,NULL,4,Question Statement,images/9709_w24_11_q1.png
+9709,2024,November,1,1,2,NULL,4,Question Statement,images/9709_w24_11_q2.png
+9709,2024,November,1,1,209,NULL,5,Question Statement,NULL
+9709,2024,November,1,1,0,NULL,5,Question Statement,NULL
+9709,2024,November,1,1,1,a,NULL,Find the x-coordinate of the point on the curve at which the gradient is 2,images/9709_w24_11_q1.png
+9709,2024,November,1,1,1,b,NULL,"Given that the curve passes through the point (4, 11), find the equation of the curve.",images/9709_w24_11_q1.png
+9709,2024,November,1,1,2,a,NULL,Find the distance between the centres of the circles.,images/9709_w24_11_q2.png
+9709,2024,November,1,1,2,b,NULL,Find the greatest and least possible values of d.,images/9709_w24_11_q2.png
+9709,2024,November,1,1,2,a,NULL,Find the equation of the tangent to the curve at A. Give your answer in the form y,images/9709_w24_11_q2.png
+9709,2024,November,1,1,9,b,NULL,Find the area of the region bounded by the curve and the lines x,NULL
+9709,2024,November,1,1,0,NULL,4,Question Statement,NULL
+9709,2024,November,1,1,8,a,NULL,It is given that b is an angle between 90° and 180° such that sin,NULL
+9709,2024,November,1,1,3,NULL,3,Question Statement,NULL
+9709,2024,November,1,1,11,b,NULL,Solve the equation  sin,NULL
+9709,2024,November,1,1,3,a,NULL,Find the set of values of x for which y decreases as x increases.,NULL
+9709,2024,November,1,1,13,b,NULL,It is given that y,NULL
+9709,2024,November,1,1,2,a,NULL,Find the value of d.,images/9709_w24_11_q2.png
+9709,2024,November,1,1,15,b,NULL,The sum of the first 77 terms of the arithmetic progression is denoted by S77. The sum of the first,images/9709_w24_11_q15.png
+9709,2024,November,1,1,10,NULL,5,Question Statement,NULL
+9709,2024,November,1,1,2,a,NULL,Express ( )x,images/9709_w24_11_q2.png
+9709,2024,November,1,1,2,b,NULL,The graph of,images/9709_w24_11_q2.png
+9709,2024,November,1,1,0,c,NULL,Sketch the graph of,NULL
+9709,2024,November,1,1,0,d,NULL,Sketch the graph of,NULL
+9709,2024,November,3,1,2,NULL,5,Question Statement,images/9709_w24_31_q2.png
+9709,2024,November,3,1,3,NULL,4,Question Statement,NULL
+9709,2024,November,3,1,4,a,NULL,Show that sec,images/9709_w24_31_q4.png
+9709,2024,November,3,1,2,NULL,3,Question Statement,images/9709_w24_31_q2.png
+9709,2024,November,3,1,7,b,NULL,Hence or otherwise solve the equation sec,images/9709_w24_31_q7.png
+9709,2024,November,3,1,1,NULL,5,Question Statement,images/9709_w24_31_q1.png
+9709,2024,November,3,1,5,a,NULL,"By sketching a suitable pair of graphs, show that the equation",NULL
+9709,2024,November,3,1,1,NULL,2,Question Statement,images/9709_w24_31_q1.png
+9709,2024,November,3,1,1,b,NULL,Show by calculation that this root lies between 7 and 9.,images/9709_w24_31_q1.png
+9709,2024,November,3,1,9,c,NULL,Use the iterative formula,images/9709_w24_31_q9.png
+9709,2024,November,3,1,3,a,NULL,Given that the x-coordinate of M lies in the interval r,NULL
+9709,2024,November,3,1,11,b,NULL,Find the exact area of the region R.,NULL
+9709,2024,November,3,1,2,a,NULL,Express ( )x,images/9709_w24_31_q2.png
+9709,2024,November,3,1,13,b,NULL,Hence find the coefficient of x3 in the expansion of ( )x,NULL
+9709,2024,November,3,1,8,a,NULL,Given that z,images/9709_w24_31_q8.png
+9709,2024,November,3,1,1,b,NULL,Show that a,images/9709_w24_31_q1.png
+9709,2024,November,3,1,15,c,NULL,"On a single Argand diagram, sketch the loci given by the equations",NULL
+9709,2024,November,3,1,1,d,NULL,The complex number z is such that,images/9709_w24_31_q1.png
+9709,2024,November,3,1,2,a,NULL,State a vector equation for l.,images/9709_w24_31_q2.png
+9709,2024,November,3,1,2,b,NULL,The position vector of point B relative to the origin O is,images/9709_w24_31_q2.png
+9709,2024,November,3,1,17,c,NULL,The line m has vector equation r,NULL
+9709,2024,November,3,1,10,a,NULL,Show that t,NULL
+9709,2024,November,3,1,19,b,NULL,At time t,NULL
+9709,2024,November,3,1,20,NULL,6,Question Statement,NULL
+9709,2024,November,5,1,1,a,NULL,Find (,images/9709_w24_51_q1.png
+9709,2024,November,5,1,1,b,NULL,Find the probability that Nicola obtains a 6 for the second time on her 8th throw.,images/9709_w24_51_q1.png
+9709,2024,November,5,1,2,a,NULL,"Draw up the probability distribution table for X, giving the probabilities as numerical fractions.",NULL
+9709,2024,November,5,1,2,b,NULL,Find the value of Var( X  ).,NULL
+9709,2024,November,5,1,200,a,NULL,Draw a cumulative frequency graph to illustrate the data.,NULL
+9709,2024,November,5,1,200,b,NULL,Use your graph to estimate the median and the interquartile range of the data.,NULL
+9709,2024,November,5,1,5,c,NULL,Calculate an estimate for the mean value of the times taken by the 200 pupils to walk to school.,NULL
+9709,2024,November,5,1,4,a,NULL,Find the probability that the two marbles that Rahul chooses are the same colour.,images/9709_w24_51_q4.png
+9709,2024,November,5,1,7,b,NULL,Find the probability that the two marbles that Rahul chooses are both from bag Y given that both,NULL
+9709,2024,November,5,1,5,a,NULL,Find the probability that a randomly chosen green apple weighs between 83 grams and 95 grams.,NULL
+9709,2024,November,5,1,9,b,NULL,The shop also sells red apples. 60% of the red apples sold by the shop weigh more than 80 grams.,NULL
+9709,2024,November,5,1,6,a,NULL,Find the mean and the standard deviation of the heights of the female students at Breven college.,NULL
+9709,2024,November,5,1,11,b,NULL,Find the probability that fewer than 8 of these 10 students have heights more than 162.5 cm.,NULL
+9709,2024,November,5,1,7,a,NULL,How many different arrangements are there of the 9 letters in the word INTELLECT in which the,NULL
+9709,2024,November,5,1,7,b,NULL,How many different arrangements are there of the 9 letters in the word INTELLECT in which,NULL
+9709,2024,November,5,1,13,c,4,Find the percentage of the possible selections which contain at least one E and exactly one T. [4],NULL
+9709,2024,November,1,2,2,a,NULL,"State the values of a, b and c.",images/9709_w24_12_q2.png
+9709,2024,November,1,2,2,b,NULL,"For these values of a, b and c, determine the number of solutions in the interval",images/9709_w24_12_q2.png
+9709,2024,November,1,2,2,i,NULL,,images/9709_w24_12_q2.png
+9709,2024,November,1,2,7,NULL,1,Question Statement,images/9709_w24_12_q7.png
+9709,2024,November,1,2,7,ii,NULL,,images/9709_w24_12_q7.png
+9709,2024,November,1,2,1,NULL,1,Question Statement,images/9709_w24_12_q1.png
+9709,2024,November,1,2,2,a,NULL,Find the sum of the first 20 terms of the progression.,images/9709_w24_12_q2.png
+9709,2024,November,1,2,2,b,NULL,Find the value of k.,images/9709_w24_12_q2.png
+9709,2024,November,1,2,2,a,NULL,Find and simplify an expression for the gradient of the chord AB in terms of h.,images/9709_w24_12_q2.png
+9709,2024,November,1,2,2,b,NULL,"Explain how the gradient of the curve at the point A can be deduced from the answer to part (a),",images/9709_w24_12_q2.png
+9709,2024,November,1,2,4,a,NULL,,images/9709_w24_12_q4.png
+9709,2024,November,1,2,6,NULL,2,Question Statement,images/9709_w24_12_q6.png
+9709,2024,November,1,2,6,b,NULL,(,images/9709_w24_12_q6.png
+9709,2024,November,1,2,1,a,NULL,(i) State the value of (,images/9709_w24_12_q1.png
+9709,2024,November,1,2,1,ii,NULL,,images/9709_w24_12_q1.png
+9709,2024,November,1,2,1,iii,NULL,Find an expression for,images/9709_w24_12_q1.png
+9709,2024,November,1,2,2,b,NULL,Solve the equation ( ),images/9709_w24_12_q2.png
+9709,2024,November,1,2,7,a,NULL,By expressing,images/9709_w24_12_q7.png
+9709,2024,November,1,2,2,b,NULL,,images/9709_w24_12_q2.png
+9709,2024,November,1,2,9,NULL,5,Question Statement,images/9709_w24_12_q9.png
+9709,2024,November,1,2,2,a,NULL,Express the equation in the form (,images/9709_w24_12_q2.png
+9709,2024,November,1,2,10,b,NULL,(i) Find the equation of the normal to the circle at the point A.,images/9709_w24_12_q10.png
+9709,2024,November,1,2,13,ii,NULL,Find the values of p and q.,NULL
+9709,2024,November,1,2,1,a,NULL,It is given that one of the points of intersection of the curve and the line has coordinates,images/9709_w24_12_q1.png
+9709,2024,November,1,2,15,b,NULL,It is given instead that the line and the curve do not intersect.,NULL
+9709,2024,November,1,2,2,a,NULL,"Find the equation of the normal to the curve at the point (1, 0).",images/9709_w24_12_q2.png
+9709,2024,November,1,2,2,b,NULL,Find ( ),images/9709_w24_12_q2.png
+9709,2024,November,1,2,0,c,NULL,"Determine, making your reasoning clear, whether f is an increasing function, a decreasing function",NULL
+9709,2024,November,3,2,1,NULL,4,Question Statement,images/9709_w24_32_q1.png
+9709,2024,November,3,2,2,a,NULL,"By sketching a suitable pair of graphs, show that the equation cot",images/9709_w24_32_q2.png
+9709,2024,November,3,2,1,NULL,2,Question Statement,images/9709_w24_32_q1.png
+9709,2024,November,3,2,1,b,NULL,Show that if a sequence of real values given by the iterative formula,images/9709_w24_32_q1.png
+9709,2024,November,3,2,3,NULL,5,Question Statement,NULL
+9709,2024,November,3,2,5,a,NULL,The complex number u is given by,images/9709_w24_32_q5.png
+9709,2024,November,3,2,4,NULL,2,Question Statement,NULL
+9709,2024,November,3,2,4,b,NULL,The complex numbers u and u* are plotted on an Argand diagram.,NULL
+9709,2024,November,3,2,6,NULL,4,Question Statement,NULL
+9709,2024,November,3,2,7,a,NULL,Show that the equation tan,images/9709_w24_32_q7.png
+9709,2024,November,3,2,0,NULL,3,Question Statement,NULL
+9709,2024,November,3,2,9,b,NULL,Hence solve the equation tan,images/9709_w24_32_q9.png
+9709,2024,November,3,2,1,a,NULL,Show that,images/9709_w24_32_q1.png
+9709,2024,November,3,2,3,NULL,4,Question Statement,NULL
+9709,2024,November,3,2,11,b,NULL,Hence find the equation of the normal to the curve at the point where,images/9709_w24_32_q11.png
+9709,2024,November,3,2,2,a,NULL,The point D is such that ABCD is a trapezium with DC,images/9709_w24_32_q2.png
+9709,2024,November,3,2,3,NULL,2,Question Statement,NULL
+9709,2024,November,3,2,3,b,NULL,The diagonals of the trapezium intersect at the point P.,NULL
+9709,2024,November,3,2,13,c,NULL,"Using a scalar product, calculate angle ABC.",NULL
+9709,2024,November,3,2,0,a,NULL,Show that r and t satisfy the differential equation,NULL
+9709,2024,November,3,2,2,b,NULL,Find the quotient and remainder when r,images/9709_w24_32_q2.png
+9709,2024,November,3,2,15,c,NULL,"Solve the differential equation in part (a), obtaining an expression for t in terms of r.",NULL
+9709,2024,November,3,2,15,d,NULL,Find the value of t when the radius of the balloon is 12.,NULL
+9709,2024,November,3,2,2,a,NULL,Find,images/9709_w24_32_q2.png
+9709,2024,November,3,2,17,b,NULL,Use the substitution u,NULL
+9709,2024,November,5,2,28,a,NULL,Find (,NULL
+9709,2024,November,5,2,28,b,NULL,Find (,NULL
+9709,2024,November,5,2,28,c,NULL,Determine whether or not X and N are independent events.,NULL
+9709,2024,November,5,2,28,d,NULL,Find the probability that she succeeds on fewer than 3 of these shots.,NULL
+9709,2024,November,5,2,2,a,NULL,Find the number of different arrangements of the 9 letters in the word ALGEBRAIC.,NULL
+9709,2024,November,5,2,2,b,NULL,Find the number of different arrangements of the 9 letters in the word ALGEBRAIC in which,NULL
+9709,2024,November,5,2,3,a,NULL,Draw up the probability distribution table for X.,NULL
+9709,2024,November,5,2,3,b,NULL,Find,NULL
+9709,2024,November,5,2,4,a,NULL,How many of these trees would you expect to have height less than 18.2 metres?,NULL
+9709,2024,November,5,2,4,b,NULL,Find the value of v.,NULL
+9709,2024,November,5,2,5,a,NULL,In how many ways can the group of 7 be chosen?,NULL
+9709,2024,November,5,2,5,b,NULL,In how many ways can the group of 5 be chosen?,NULL
+9709,2024,November,5,2,65,a,NULL,"Draw a back-to-back stem-and-leaf diagram to represent this information, with the Falcons on the",NULL
+9709,2024,November,5,2,65,b,NULL,Find the median and the interquartile range of the times for the Falcons.,NULL
+9709,2024,November,5,2,42,c,NULL,Find the mean and the standard deviation of the times taken by all 30 runners from the two teams.,NULL
+9709,2024,November,5,2,7,a,NULL,Find (,NULL
+9709,2024,November,5,2,5,b,NULL,Find (,NULL
+9709,2024,November,5,2,7,c,NULL,Find the probability that Leno scores his second goal on or before his 5th attempt.,NULL
+9709,2024,November,5,2,11,d,NULL,Use a suitable approximation to find the probability that Leno scores more than 28 goals but fewer,NULL
+9709,2024,November,1,3,1,NULL,3,Question Statement,images/9709_w24_13_q1.png
+9709,2024,November,1,3,1,NULL,2,Question Statement,images/9709_w24_13_q1.png
+9709,2024,November,1,3,3,a,NULL,Find the coefficients of x3 and x4 in the expansion of (,NULL
+9709,2024,November,1,3,5,NULL,3,Question Statement,NULL
+9709,2024,November,1,3,5,b,NULL,Given that the coefficient of x4 in the expansion of (,NULL
+9709,2024,November,1,3,360,NULL,4,Question Statement,NULL
+9709,2024,November,1,3,6,a,NULL,Describe fully a sequence of three transformations which transforms the graph of,images/9709_w24_13_q6.png
+9709,2024,November,1,3,6,b,NULL,Find an expression for ( )x,images/9709_w24_13_q6.png
+9709,2024,November,1,3,17,NULL,5,Question Statement,NULL
+9709,2024,November,1,3,7,a,NULL,Given that,NULL
+9709,2024,November,1,3,9,b,NULL,Given instead that the area of each semicircle is,NULL
+9709,2024,November,1,3,50,NULL,5,Question Statement,NULL
+9709,2024,November,1,3,8,a,NULL,Express x,NULL
+9709,2024,November,1,3,2,NULL,2,Question Statement,images/9709_w24_13_q2.png
+9709,2024,November,1,3,2,b,NULL,Find the least value of k for which the function f,images/9709_w24_13_q2.png
+9709,2024,November,1,3,1,NULL,1,Question Statement,images/9709_w24_13_q1.png
+9709,2024,November,1,3,1,c,NULL,Find an expression for,images/9709_w24_13_q1.png
+9709,2024,November,1,3,11,d,NULL,Hence or otherwise solve the equation,images/9709_w24_13_q11.png
+9709,2024,November,1,3,29,NULL,3,Question Statement,NULL
+9709,2024,November,1,3,2,a,NULL,Find the x-coordinates of the points of intersection of the curves.,images/9709_w24_13_q2.png
+9709,2024,November,1,3,13,b,NULL,Find the area of the shaded region.,NULL
+9709,2024,November,1,3,14,a,NULL,Show that the centre of the circle lies on the line y,NULL
+9709,2024,November,1,3,15,b,NULL,Find the two possible equations of the circle.,NULL
+9709,2024,November,1,3,1,a,NULL,Find y,images/9709_w24_13_q1.png
+9709,2024,November,1,3,2,b,NULL,It is given that k,images/9709_w24_13_q2.png
+9709,2024,November,1,3,17,c,NULL,"Points A and B on the curve have x-coordinates 0.25 and 1 respectively. For a different value of k,",NULL
+9709,2024,November,3,3,1,a,NULL,"On the Argand diagram below, sketch the locus of the points representing z.",images/9709_w24_33_q1.png
+9709,2024,November,3,3,1,b,NULL,"On the same diagram, sketch the locus of the points representing z2.",images/9709_w24_33_q1.png
+9709,2024,November,3,3,2,a,NULL,Show that if a sequence of values given by the iterative formula,images/9709_w24_33_q2.png
+9709,2024,November,3,3,0,NULL,2,Question Statement,NULL
+9709,2024,November,3,3,0,b,NULL,The equation has a root close to 1.2 .,NULL
+9709,2024,November,3,3,3,a,NULL,State the value of k and find the value of a correct to 2 significant figures.,NULL
+9709,2024,November,3,3,3,b,NULL,Find the time taken for P to double. Give your answer correct to the nearest hour.,NULL
+9709,2024,November,3,3,9,NULL,5,Question Statement,NULL
+9709,2024,November,3,3,5,a,NULL,Show that cos,NULL
+9709,2024,November,3,3,7,b,NULL,Solve the equation cos,images/9709_w24_33_q7.png
+9709,2024,November,3,3,180,NULL,3,Question Statement,NULL
+9709,2024,November,3,3,5,a,NULL,State the coordinates of P.,NULL
+9709,2024,November,3,3,5,b,NULL,Find the exact value of the cosine of the acute angle between l and m.,NULL
+9709,2024,November,3,3,9,c,NULL,"The point A on line l has coordinates ( , , )",NULL
+9709,2024,November,3,3,8,NULL,3,Question Statement,images/9709_w24_33_q8.png
+9709,2024,November,3,3,1,a,NULL,Show that,images/9709_w24_33_q1.png
+9709,2024,November,3,3,11,b,NULL,Find the equation of the normal to the curve at the point where,NULL
+9709,2024,November,3,3,2,a,NULL,Express ( )x,images/9709_w24_33_q2.png
+9709,2024,November,3,3,13,b,NULL,Hence obtain the expansion of ( )x,NULL
+9709,2024,November,3,3,13,c,NULL,State the set of values of x for which the expansion in part (b) is valid.,NULL
+9709,2024,November,3,3,9,a,NULL,Find the quotient and remainder when x,NULL
+9709,2024,November,3,3,4,NULL,3,Question Statement,images/9709_w24_33_q4.png
+9709,2024,November,3,3,15,b,NULL,Hence show that,NULL
+9709,2024,November,3,3,600,a,NULL,Show that,NULL
+9709,2024,November,3,3,17,b,NULL,It is given that when t,NULL
+9709,2024,November,3,3,2,a,NULL,Find the value of a correct to 2 decimal places.,images/9709_w24_33_q2.png
+9709,2024,November,3,3,19,b,NULL,Use the substitution,NULL
+9709,2024,November,5,3,1,a,NULL,Find the probability that either all three own an electric car or none of them owns an electric car.,images/9709_w24_53_q1.png
+9709,2024,November,5,3,1,b,NULL,Use a suitable approximation to find the probability that more than 45 of these residents own an,images/9709_w24_53_q1.png
+9709,2024,November,5,3,2,a,NULL,Draw up the probability distribution table for X.,NULL
+9709,2024,November,5,3,2,b,NULL,Find E(X ).,NULL
+9709,2024,November,5,3,3,a,NULL,Find the probability that a randomly chosen adult male in Molimba has a height greater than,NULL
+9709,2024,November,5,3,3,b,NULL,"Find the value of k, giving your answer correct to 1 decimal place.",NULL
+9709,2024,November,5,3,4,cm,NULL,,NULL
+9709,2024,November,5,3,6,a,NULL,Draw a cumulative frequency graph to illustrate the data.,NULL
+9709,2024,November,5,3,6,b,NULL,Use your graph to estimate the 30th percentile of the heights of the sunflower plants.,NULL
+9709,2024,November,5,3,7,c,NULL,Calculate estimates for the mean and the standard deviation of the heights of the 150 sunflower,NULL
+9709,2024,November,5,3,5,a,NULL,Find the probability that she obtains no more than 2 chocolates that are wrapped in red foil.,NULL
+9709,2024,November,5,3,5,b,NULL,Find the probability that the first time he obtains a chocolate that is wrapped in red foil is before,NULL
+9709,2024,November,5,3,9,c,NULL,Find the probability that the second chocolate chosen is the first one wrapped in gold foil given,NULL
+9709,2024,November,5,3,6,a,NULL,Find the number of different arrangements of the 9 letters in the word HAPPINESS.,NULL
+9709,2024,November,5,3,6,b,NULL,Find the number of different arrangements of the 9 letters in the word HAPPINESS in which the,NULL
+9709,2024,November,5,3,11,c,NULL,Find the number of different arrangements of the 9 letters in the word HAPPINESS in which the,NULL
+9709,2024,November,5,3,11,d,NULL,Find the probability that both Ps are in one group and both Ss are in the other group.,NULL
+9709,2024,June,1,1,1,a,NULL,Express y,images/9709_s24_11_q1.png
+9709,2024,June,1,1,2,NULL,2,Question Statement,NULL
+9709,2024,June,1,1,2,b,NULL,Hence find the exact solutions of the equation x,NULL
+9709,2024,June,1,1,7,a,NULL,In order to transform the curve,NULL
+9709,2024,June,1,1,7,b,NULL,Find ( ),NULL
+9709,2024,June,1,1,6,a,NULL,Find the value of the constant a.,NULL
+9709,2024,June,1,1,6,b,NULL,Hence find the coefficient of x3 in the expansion of (,NULL
+9709,2024,June,1,1,2,a,NULL,Find the value of k. Give your answer correct to 5 decimal places.,NULL
+9709,2024,June,1,1,2,b,NULL,Find the gradient of the chord AE. Give your answer correct to 4 decimal places.,NULL
+9709,2024,June,1,1,2,c,NULL,Deduce the value of,NULL
+9709,2024,June,1,1,5,a,NULL,Prove the identity,images/9709_s24_11_q5.png
+9709,2024,June,1,1,2,b,NULL,Hence solve the equation,NULL
+9709,2024,June,1,1,1,a,NULL,"On this diagram, sketch the graph of",images/9709_s24_11_q1.png
+9709,2024,June,1,1,1,b,NULL,Find an expression for,images/9709_s24_11_q1.png
+9709,2024,June,1,1,1,c,NULL,Solve the equation ( ),images/9709_s24_11_q1.png
+9709,2024,June,1,1,1,d,NULL,Explain why the equation,images/9709_s24_11_q1.png
+9709,2024,June,1,1,1,a,NULL,Show that,images/9709_s24_11_q1.png
+9709,2024,June,1,1,1,b,NULL,Find the perimeter and the area of the shape ABCD. Give your answers correct to 3 significant,images/9709_s24_11_q1.png
+9709,2024,June,1,1,8,a,NULL,The first three terms of an arithmetic progression are,NULL
+9709,2024,June,1,1,11,b,NULL,The first three terms of a geometric progression are,NULL
+9709,2024,June,1,1,9,NULL,8,Question Statement,NULL
+9709,2024,June,1,1,0,a,NULL,Find the set of values of x for which ( ),NULL
+9709,2024,June,1,1,17,b,NULL,"A triangle is bounded by the y-axis, the normal to the curve at the point where x",NULL
+9709,2024,June,3,1,1,NULL,4,Question Statement,images/9709_s24_31_q1.png
+9709,2024,June,3,1,7,NULL,4,Question Statement,images/9709_s24_31_q7.png
+9709,2024,June,3,1,3,NULL,4,Question Statement,NULL
+9709,2024,June,3,1,3,a,NULL,Express u in the form,NULL
+9709,2024,June,3,1,1,NULL,2,Question Statement,images/9709_s24_31_q1.png
+9709,2024,June,3,1,1,b,NULL,Express the complex number u,images/9709_s24_31_q1.png
+9709,2024,June,3,1,2,NULL,7,Question Statement,images/9709_s24_31_q2.png
+9709,2024,June,3,1,6,a,NULL,"By sketching a suitable pair of graphs, show that the equation cosec x",images/9709_s24_31_q6.png
+9709,2024,June,3,1,1,b,NULL,Verify by calculation that a lies between 1 and 2.,images/9709_s24_31_q1.png
+9709,2024,June,3,1,9,c,NULL,Show that if a sequence of values in the interval,NULL
+9709,2024,June,3,1,1,d,NULL,Use this iterative formula with an initial value of 1.4 to determine a correct to 2 decimal places.,images/9709_s24_31_q1.png
+9709,2024,June,3,1,1,e,NULL,State the minimum number of calculated iterations needed with this initial value to determine a,images/9709_s24_31_q1.png
+9709,2024,June,3,1,7,a,NULL,On a single Argand diagram sketch the loci given by the equations z,images/9709_s24_31_q7.png
+9709,2024,June,3,1,4,NULL,4,Question Statement,images/9709_s24_31_q4.png
+9709,2024,June,3,1,4,b,NULL,Hence find the least value of z,images/9709_s24_31_q4.png
+9709,2024,June,3,1,2,a,NULL,Show that a,images/9709_s24_31_q2.png
+9709,2024,June,3,1,4,b,NULL,Find the position vector of the point of intersection.,images/9709_s24_31_q4.png
+9709,2024,June,3,1,9,c,NULL,Show that A lies on l1.,NULL
+9709,2024,June,3,1,9,d,NULL,Find the position vector of B.,NULL
+9709,2024,June,3,1,2,b,NULL,Hence find the exact value of,images/9709_s24_31_q2.png
+9709,2024,June,3,1,0,a,NULL,Show that x and t satisfy the differential equation,NULL
+9709,2024,June,3,1,300,NULL,2,Question Statement,NULL
+9709,2024,June,3,1,300,b,NULL,"Using partial fractions, solve the differential equation and obtain an expression for t in terms of a",NULL
+9709,2024,June,5,1,2,a,NULL,Find the mean of all 45 values of x.,NULL
+9709,2024,June,5,1,2,b,NULL,Find the standard deviation of all 45 values of x.,NULL
+9709,2024,June,5,1,2,a,NULL,Find the probability that a randomly chosen adult raccoon of this species has a tail length between,NULL
+9709,2024,June,5,1,2,b,NULL,Find the value of v.,NULL
+9709,2024,June,5,1,12,a,NULL,Draw a histogram to represent this information.,NULL
+9709,2024,June,5,1,5,b,NULL,The interquartile range is R cm. Show that R is not greater than 15.,NULL
+9709,2024,June,5,1,4,a,NULL,Show that the probability that a player obtains a 4 in one turn is 64,images/9709_s24_51_q4.png
+9709,2024,June,5,1,4,b,NULL,Find the probability that neither Xeno nor Yao score any points in their first two turns.,images/9709_s24_51_q4.png
+9709,2024,June,5,1,7,c,NULL,Xeno and Yao each have three turns.,NULL
+9709,2024,June,5,1,5,a,NULL,Find the probability that in a week (7 days) it snows on at least five days.,NULL
+9709,2024,June,5,1,5,b,NULL,Find the probability that in three randomly chosen weeks at least one is a white week.,NULL
+9709,2024,June,5,1,9,c,NULL,Use a suitable approximation to find the probability that in 60 randomly chosen weeks fewer than,NULL
+9709,2024,June,5,1,6,a,NULL,Draw up the probability distribution table for .,images/9709_s24_51_q6.png
+9709,2024,June,5,1,11,b,NULL,Given that (,NULL
+9709,2024,June,5,1,7,a,NULL,How many different arrangements are there of these 8 digits?,NULL
+9709,2024,June,5,1,7,b,NULL,"Find the number of different arrangements of the 8 digits in which there is a 2 at the beginning, a 2",NULL
+9709,2024,June,5,1,13,c,NULL,Find the probability that the three digits are all different.,NULL
+9709,2024,June,1,2,5,NULL,3,Question Statement,images/9709_s24_12_q5.png
+9709,2024,June,1,2,2,NULL,5,Question Statement,images/9709_s24_12_q2.png
+9709,2024,June,1,2,3,a,NULL,Show that the equation cos,images/9709_s24_12_q3.png
+9709,2024,June,1,2,7,NULL,3,Question Statement,NULL
+9709,2024,June,1,2,7,b,NULL,Hence solve the equation  cos,NULL
+9709,2024,June,1,2,360,NULL,3,Question Statement,NULL
+9709,2024,June,1,2,1,a,NULL,Find an expression for,images/9709_s24_12_q1.png
+9709,2024,June,1,2,2,b,NULL,State the range of g and explain whether g 1,images/9709_s24_12_q2.png
+9709,2024,June,1,2,0,c,NULL,Solve the equation,NULL
+9709,2024,June,1,2,25,NULL,4,Question Statement,NULL
+9709,2024,June,1,2,1,a,NULL,Given that,images/9709_s24_12_q1.png
+9709,2024,June,1,2,1,b,NULL,(i) Find the sum to infinity of the progression in terms of i.,images/9709_s24_12_q1.png
+9709,2024,June,1,2,1,ii,NULL,Given that,images/9709_s24_12_q1.png
+9709,2024,June,1,2,1,a,NULL,Find the coordinates of A and B.,images/9709_s24_12_q1.png
+9709,2024,June,1,2,11,b,NULL,,NULL
+9709,2024,June,1,2,32,NULL,5,Question Statement,NULL
+9709,2024,June,1,2,2,a,NULL,Find the two possible values of the constant a.,images/9709_s24_12_q2.png
+9709,2024,June,1,2,13,b,NULL,"For the greater value of a, find the equation of the diameter which is perpendicular to the given",NULL
+9709,2024,June,1,2,1,a,NULL,It is given that,images/9709_s24_12_q1.png
+9709,2024,June,1,2,1,i,NULL,Show that the length,images/9709_s24_12_q1.png
+9709,2024,June,1,2,1,ii,NULL,Find the area of the plate. Give your answer correct to 3 significant figures.,images/9709_s24_12_q1.png
+9709,2024,June,1,2,15,b,NULL,It is given instead that the perimeter of the plate is 6 cm.,NULL
+9709,2024,June,1,2,2,a,NULL,Determine the set of values of x for which ( ),images/9709_s24_12_q2.png
+9709,2024,June,1,2,17,b,NULL,Given that ( ),NULL
+9709,2024,June,1,2,1,a,NULL,A point P is moving along the curve in such a way that the y-coordinate of point P is decreasing at,images/9709_s24_12_q1.png
+9709,2024,June,1,2,32,NULL,4,Question Statement,NULL
+9709,2024,June,1,2,19,b,NULL,Point A on the curve has y-coordinate 32. Point B on the curve is such that the gradient of the curve,NULL
+9709,2024,June,3,2,1,a,NULL,Sketch the graph of y,images/9709_s24_32_q1.png
+9709,2024,June,3,2,2,NULL,1,Question Statement,images/9709_s24_32_q2.png
+9709,2024,June,3,2,2,b,NULL,Solve the inequality x,images/9709_s24_32_q2.png
+9709,2024,June,3,2,2,a,NULL,Show that the graph of y against x is a straight line.,images/9709_s24_32_q2.png
+9709,2024,June,3,2,2,b,NULL,Given that a,images/9709_s24_32_q2.png
+9709,2024,June,3,2,5,a,NULL,It is given that the equation e,images/9709_s24_32_q5.png
+9709,2024,June,3,2,1,b,NULL,Show that if a sequence of values in the interval .,images/9709_s24_32_q1.png
+9709,2024,June,3,2,3,NULL,1,Question Statement,NULL
+9709,2024,June,3,2,3,c,NULL,Use this iterative formula to determine the root correct to 3 decimal places. Give the result of each,NULL
+9709,2024,June,3,2,6,a,NULL,Find the exact coordinates of M.,NULL
+9709,2024,June,3,2,9,b,NULL,Find the exact value of,images/9709_s24_32_q9.png
+9709,2024,June,3,2,7,a,NULL,Show that cos,NULL
+9709,2024,June,3,2,4,NULL,3,Question Statement,NULL
+9709,2024,June,3,2,11,b,NULL,Hence find the exact value of,NULL
+9709,2024,June,3,2,3,a,NULL,Find a vector equation for l1.,NULL
+9709,2024,June,3,2,2,b,NULL,Find the coordinates of the point of intersection of l1and l2.,images/9709_s24_32_q2.png
+9709,2024,June,3,2,13,c,NULL,The point D on l2 is such that AB,NULL
+9709,2024,June,3,2,3,a,NULL,Express z~ in the form,NULL
+9709,2024,June,3,2,3,b,NULL,Express z and ~ in the form e,NULL
+9709,2024,June,3,2,1,c,NULL,"On an Argand diagram, the points representing ~ and z~ are A and B respectively.",images/9709_s24_32_q1.png
+9709,2024,June,3,2,15,d,NULL,"Using your answers to part (b), prove that tan",NULL
+9709,2024,June,3,2,12,NULL,3,Question Statement,NULL
+9709,2024,June,3,2,4,NULL,2,Question Statement,NULL
+9709,2024,June,3,2,4,b,NULL,The variables x and i satisfy the differential equation,NULL
+9709,2024,June,3,2,0,NULL,8,Question Statement,NULL
+9709,2024,June,5,2,1,a,NULL,Find the probability that Rajesh is successful for the first time on his 7th attempt.,images/9709_s24_52_q1.png
+9709,2024,June,5,2,1,b,NULL,Find the probability that Rajesh is successful for the first time before his 6th attempt.,images/9709_s24_52_q1.png
+9709,2024,June,5,2,1,c,NULL,Find the probability that Rajesh is successful for the second time on his 10th attempt.,images/9709_s24_52_q1.png
+9709,2024,June,5,2,2,a,NULL,Find the probability that Seva selects at least one red marble.,images/9709_s24_52_q2.png
+9709,2024,June,5,2,2,b,NULL,Find the probability that Seva obtains a head given that he selects no red marbles.,images/9709_s24_52_q2.png
+9709,2024,June,5,2,3,a,NULL,Find the percentage of oranges that are classified as large.,NULL
+9709,2024,June,5,2,5,b,NULL,Find the greatest possible weight of a small orange.,NULL
+9709,2024,June,5,2,9,a,NULL,Find the median and the interquartile range of the salaries of the Petral employees.,NULL
+9709,2024,June,5,2,7,b,NULL,Represent the data shown in the back-to-back stem-and-leaf diagram by a pair of box-and-whisker,NULL
+9709,2024,June,5,2,7,c,NULL,Comment on whether the mean or the median would be a better representation of the data for the,NULL
+9709,2024,June,5,2,5,a,NULL,Show that (,NULL
+9709,2024,June,5,2,7,b,NULL,Draw up the probability distribution table for X .,NULL
+9709,2024,June,5,2,9,c,NULL,Find the value of,NULL
+9709,2024,June,5,2,6,a,NULL,A random sample of 110 residents of Mahjing is chosen.,NULL
+9709,2024,June,5,2,11,b,NULL,"For a random sample of 10 residents of Mahjing, find the probability that fewer than 8 classified",NULL
+9709,2024,June,5,2,11,c,NULL,Three residents of Mahjing are selected at random.,NULL
+9709,2024,June,5,2,7,a,NULL,How many different arrangements are there of the 10 letters in the word REGENERATE?,NULL
+9709,2024,June,5,2,7,b,NULL,How many different arrangements are there of the 10 letters in the word REGENERATE in which,NULL
+9709,2024,June,5,2,13,c,NULL,Find the probability that a randomly chosen arrangement of the 10 letters in the word,NULL
+9709,2024,June,1,3,10,NULL,4,Question Statement,images/9709_s24_13_q10.png
+9709,2024,June,1,3,2,a,NULL,,images/9709_s24_13_q2.png
+9709,2024,June,1,3,1,NULL,3,Question Statement,images/9709_s24_13_q1.png
+9709,2024,June,1,3,1,b,NULL,Find the exact value of t that satisfies the equation,images/9709_s24_13_q1.png
+9709,2024,June,1,3,225,a,NULL,Find the values of r and i.,NULL
+9709,2024,June,1,3,225,b,NULL,Find the area of triangle ACB.,NULL
+9709,2024,June,1,3,4,a,NULL,Show,NULL
+9709,2024,June,1,3,0,NULL,3,Question Statement,NULL
+9709,2024,June,1,3,0,b,NULL,Hence solve the equation,NULL
+9709,2024,June,1,3,2,a,NULL,Find the coordinates of the stationary point.,images/9709_s24_13_q2.png
+9709,2024,June,1,3,2,b,NULL,Determine the nature of the stationary point.,images/9709_s24_13_q2.png
+9709,2024,June,1,3,2,c,NULL,"For positive values of x, determine whether the curve shows a function that is increasing,",images/9709_s24_13_q2.png
+9709,2024,June,1,3,2,a,NULL,Find the equation of the curve.,images/9709_s24_13_q2.png
+9709,2024,June,1,3,2,b,NULL,The curve is transformed by a stretch in the x-direction with scale factor 2,images/9709_s24_13_q2.png
+9709,2024,June,1,3,10,NULL,3,Question Statement,images/9709_s24_13_q10.png
+9709,2024,June,1,3,7,a,NULL,Find the common difference.,NULL
+9709,2024,June,1,3,7,b,NULL,Find the sum of all the terms of the arithmetic progression whose values are between 25 and 100.,NULL
+9709,2024,June,1,3,3,a,NULL,Find the equation of the tangent to the curve at the point where x,NULL
+9709,2024,June,1,3,13,b,NULL,The region shaded in the diagram is enclosed by the curve and the straight lines x,NULL
+9709,2024,June,1,3,3,a,NULL,Find the value of r.,NULL
+9709,2024,June,1,3,3,b,NULL,Find the sum of the first 20 terms of the geometric progression. Give your answer correct to,NULL
+9709,2024,June,1,3,15,c,NULL,Find the sum to infinity of the progression,NULL
+9709,2024,June,1,3,5,NULL,3,Question Statement,images/9709_s24_13_q5.png
+9709,2024,June,1,3,2,a,NULL,"By completing the square, find the range of f.",images/9709_s24_13_q2.png
+9709,2024,June,1,3,4,b,NULL,It is given that the graph of,NULL
+9709,2024,June,3,3,2,NULL,4,Question Statement,images/9709_s24_33_q2.png
+9709,2024,June,3,3,1,NULL,5,Question Statement,images/9709_s24_33_q1.png
+9709,2024,June,3,3,3,NULL,5,Question Statement,images/9709_s24_33_q3.png
+9709,2024,June,3,3,4,NULL,4,Question Statement,NULL
+9709,2024,June,3,3,2,NULL,5,Question Statement,images/9709_s24_33_q2.png
+9709,2024,June,3,3,6,a,NULL,On an Argand diagram shade the region whose points represent complex numbers z which satisfy,images/9709_s24_33_q6.png
+9709,2024,June,3,3,1,b,NULL,Calculate the greatest value of argz for points in this region.,images/9709_s24_33_q1.png
+9709,2024,June,3,3,2,a,NULL,Show that x,images/9709_s24_33_q2.png
+9709,2024,June,3,3,7,NULL,1,Question Statement,NULL
+9709,2024,June,3,3,7,b,NULL,Find the quotient when ( )x,NULL
+9709,2024,June,3,3,9,c,NULL,Hence solve the equation,NULL
+9709,2024,June,3,3,360,NULL,3,Question Statement,NULL
+9709,2024,June,3,3,8,a,NULL,Express cos,images/9709_s24_33_q8.png
+9709,2024,June,3,3,11,b,NULL,Hence find the exact value of,images/9709_s24_33_q11.png
+9709,2024,June,3,3,1,a,NULL,Show that x and t satisfy the differential equation,images/9709_s24_33_q1.png
+9709,2024,June,3,3,13,b,NULL,"Solve the differential equation, obtaining an expression for t in terms of x.",NULL
+9709,2024,June,3,3,4,a,NULL,Given that the acute angle between the directions of these lines is 4,NULL
+9709,2024,June,3,3,15,b,NULL,"Given instead that the lines intersect, find the value of a and the position vector of the point of",NULL
+9709,2024,June,5,3,1,a,NULL,Draw up the probability distribution table for X.,images/9709_s24_53_q1.png
+9709,2024,June,5,3,1,b,NULL,Find the value of Var(X ).,images/9709_s24_53_q1.png
+9709,2024,June,5,3,3,c,NULL,Find the probability that X is even given that X,NULL
+9709,2024,June,5,3,2,a,NULL,Find the probability that an adult chosen at random from this country will have height greater than,NULL
+9709,2024,June,5,3,5,b,NULL,Find the mean and the standard deviation of this distribution.,NULL
+9709,2024,June,5,3,3,a,NULL,"Draw a tree diagram to represent this information, showing the probability on each of the branches.",NULL
+9709,2024,June,5,3,7,b,NULL,Find the value of x.,NULL
+9709,2024,June,5,3,71,a,NULL,"Draw a back-to-back stem-and-leaf diagram to represent this information, with Penguins on the",NULL
+9709,2024,June,5,3,9,b,NULL,"On the same diagram, draw a box-and-whisker plot to represent the times for the Dolphins.",NULL
+9709,2024,June,5,3,75,c,NULL,Hence state one difference between the distributions of the times for the Penguins and the,NULL
+9709,2024,June,5,3,5,a,NULL,Find the probability that Salah completes the puzzle for the first time on the 5th day.,NULL
+9709,2024,June,5,3,5,b,NULL,Find the probability that Salah completes the puzzle for the second time on the 5th day.,NULL
+9709,2024,June,5,3,5,c,NULL,Find the probability that Salah completes the puzzle fewer than 5 times in a week (7 days).,NULL
+9709,2024,June,5,3,11,d,NULL,Use a suitable approximation to find the probability that Salah completes the puzzle more than,NULL
+9709,2024,June,5,3,6,a,NULL,How many different arrangements are there of the 9 letters in the word RECORDERS?,NULL
+9709,2024,June,5,3,6,b,NULL,How many different arrangements are there of the 9 letters in the word RECORDERS in which,NULL
+9709,2024,June,5,3,13,c,NULL,Find the probability that the three Rs are in the same group.,NULL
+9709,2024,March,1,2,2,NULL,3,Question Statement,images/9709_m24_12_q2.png
+9709,2024,March,1,2,1,a,NULL,State the coordinates of A.,images/9709_m24_12_q1.png
+9709,2024,March,1,2,1,b,NULL,A sequence of transformations is applied to the curve in the following order.,images/9709_m24_12_q1.png
+9709,2024,March,1,2,4,a,NULL,Prove that (,images/9709_m24_12_q4.png
+9709,2024,March,1,2,2,b,NULL,Hence solve the equation (,images/9709_m24_12_q2.png
+9709,2024,March,1,2,0,NULL,6,Question Statement,NULL
+9709,2024,March,1,2,2,a,NULL,Find the value of the constant k.,images/9709_m24_12_q2.png
+9709,2024,March,1,2,2,b,NULL,Find the coordinates of P.,images/9709_m24_12_q2.png
+9709,2024,March,1,2,8,a,NULL,An arithmetic progression is such that its first term is 6 and its tenth term is 19.5 .,images/9709_m24_12_q8.png
+9709,2024,March,1,2,8,b,NULL,"A geometric progression a1, a2, a3, ... is such that a",images/9709_m24_12_q8.png
+9709,2024,March,1,2,24,NULL,4,Question Statement,NULL
+9709,2024,March,1,2,1,a,NULL,Given that the range of the function g f is,images/9709_m24_12_q1.png
+9709,2024,March,1,2,39,NULL,4,Question Statement,NULL
+9709,2024,March,1,2,39,b,NULL,"For this value of k, determine the range of the function f g.",NULL
+9709,2024,March,1,2,11,c,NULL,The function h is defined for all real values of x and is such that,NULL
+9709,2024,March,1,2,10,a,NULL,"Find the equation of the tangent to the circle at the point (–6, 9).",NULL
+9709,2024,March,1,2,10,b,NULL,Find the equation of the circle in the form x,NULL
+9709,2024,March,1,2,13,c,NULL,Find the value of i correct to 4 significant figures.,NULL
+9709,2024,March,1,2,13,d,NULL,Find the perimeter and area of the segment shaded in the diagram.,NULL
+9709,2024,March,1,2,2,a,NULL,Find the exact coordinates of M.,images/9709_m24_12_q2.png
+9709,2024,March,1,2,15,b,NULL,Find the area of the region bounded by the curve and the line segment AB.,NULL
+9709,2024,March,3,2,5,NULL,3,Question Statement,images/9709_m24_32_q5.png
+9709,2024,March,3,2,2,a,NULL,Find the coefficient of x2 in the expansion of (,images/9709_m24_32_q2.png
+9709,2024,March,3,2,4,NULL,4,Question Statement,images/9709_m24_32_q4.png
+9709,2024,March,3,2,4,b,NULL,State the set of values of x for which the expansion in part (a) is valid.,images/9709_m24_32_q4.png
+9709,2024,March,3,2,3,a,NULL,Express z2 in the form e,images/9709_m24_32_q3.png
+9709,2024,March,3,2,1,NULL,3,Question Statement,images/9709_m24_32_q1.png
+9709,2024,March,3,2,1,b,NULL,The complex number ~ is such that z2~ is real and z,images/9709_m24_32_q1.png
+9709,2024,March,3,2,7,NULL,4,Question Statement,NULL
+9709,2024,March,3,2,5,a,NULL,"On a sketch of an Argand diagram, shade the region whose points represent complex numbers z",images/9709_m24_32_q5.png
+9709,2024,March,3,2,10,NULL,4,Question Statement,images/9709_m24_32_q10.png
+9709,2024,March,3,2,10,b,NULL,Find the greatest value of argz for points in this region.,images/9709_m24_32_q10.png
+9709,2024,March,3,2,2,a,NULL,Show that d,images/9709_m24_32_q2.png
+9709,2024,March,3,2,9,b,NULL,Hence show that the curve does not have a tangent that is parallel to the x-axis.,images/9709_m24_32_q9.png
+9709,2024,March,3,2,2,a,NULL,Show that a satisfies the equation,images/9709_m24_32_q2.png
+9709,2024,March,3,2,11,b,NULL,Verify by calculation that a lies between 0.4 and 0.5 .,images/9709_m24_32_q11.png
+9709,2024,March,3,2,11,c,NULL,Use an iterative formula based on the equation in part (a) to determine a correct to 2 decimal,images/9709_m24_32_q11.png
+9709,2024,March,3,2,8,a,NULL,Express sin,images/9709_m24_32_q8.png
+9709,2024,March,3,2,13,b,NULL,Hence solve the equation,NULL
+9709,2024,March,3,2,7,a,NULL,Show that OABC is a rectangle.,NULL
+9709,2024,March,3,2,15,b,NULL,Use a scalar product to find the acute angle between the diagonals of OABC.,NULL
+9709,2024,March,3,2,2,a,NULL,Express ( ),images/9709_m24_32_q2.png
+9709,2024,March,3,2,17,b,NULL,Hence find the exact value of,NULL
+9709,2024,March,5,2,1,a,NULL,Find the probability that both the marbles chosen are red.,images/9709_m24_52_q1.png
+9709,2024,March,5,2,1,b,NULL,Find the probability that the first marble chosen is blue given that the second marble chosen is red.,images/9709_m24_52_q1.png
+9709,2024,March,5,2,2,a,NULL,Sam makes 10 attempts at scoring goals.,NULL
+9709,2024,March,5,2,2,b,NULL,Find the probability that Sam’s first successful attempt will be before her 5th attempt.,NULL
+9709,2024,March,5,2,5,c,NULL,Wei is a member of the same soccer club. He is also practising scoring goals. The probability that,NULL
+9709,2024,March,5,2,12,a,NULL,Draw a histogram to represent this information.,NULL
+9709,2024,March,5,2,7,b,NULL,Calculate an estimate for the mean time for these students to complete the puzzle.,NULL
+9709,2024,March,5,2,7,c,NULL,In which class interval does the lower quartile of the times lie?,NULL
+9709,2024,March,5,2,4,a,NULL,"In a random sample of 500 of these small bags of rice, how many would you expect to have a mass",NULL
+9709,2024,March,5,2,4,b,NULL,Find the value of v.,NULL
+9709,2024,March,5,2,9,c,NULL,Use a suitable approximation to find the probability that fewer than 22 of these large bags of rice,NULL
+9709,2024,March,5,2,5,a,NULL,Show that (,NULL
+9709,2024,March,5,2,2,b,NULL,Complete the probability distribution table for .,NULL
+9709,2024,March,5,2,11,c,NULL,Find the value of,NULL
+9709,2024,March,5,2,6,a,NULL,In how many ways can the committee of 5 members be chosen if it must include at least 2 men and,NULL
+9709,2024,March,5,2,6,b,NULL,How many different arrangements are there of the 10 members if all the men stand together and all,NULL
+9709,2024,March,5,2,13,c,NULL,How many different arrangements are there of the 10 members in which Olly and Petra stand next,NULL

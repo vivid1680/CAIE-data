@@ -1,11 +1,1075 @@
 subject_code,year,session,paper_number,variant,question_number,topic_name
-9702,2025,March,2,2,1,Physical Quantities and Units
 9702,2025,March,2,2,1,"Forces, Density and Pressure"
-9702,2025,March,2,2,2,"Forces, Density and Pressure"
-9702,2025,March,2,2,3,Kinematics
+9702,2025,March,2,2,2,Dynamics
 9702,2025,March,2,2,3,Dynamics
-9702,2025,March,2,2,3,"Work, Energy and Power"
-9702,2025,March,2,2,4,Superposition
+9702,2025,March,2,2,4,Waves
 9702,2025,March,2,2,5,Waves
 9702,2025,March,2,2,6,Electricity
-9702,2025,March,2,2,7,Particle Physics
+9702,2025,March,2,2,7,Kinematics
+9702,2025,March,1,2,1,Dynamics
+9702,2025,March,1,2,2,Physical Quantities and Units
+9702,2025,March,1,2,3,Dynamics
+9702,2025,March,1,2,4,Kinematics
+9702,2025,March,1,2,5,Kinematics
+9702,2025,March,1,2,6,Dynamics
+9702,2025,March,1,2,7,Dynamics
+9702,2025,March,1,2,8,Dynamics
+9702,2025,March,1,2,9,Dynamics
+9702,2025,March,1,2,10,"Forces, Density and Pressure"
+9702,2025,March,1,2,11,Dynamics
+9702,2025,March,1,2,12,"Forces, Density and Pressure"
+9702,2025,March,1,2,13,Dynamics
+9702,2025,March,1,2,14,Kinematics
+9702,2025,March,1,2,15,Kinematics
+9702,2025,March,1,2,16,Dynamics
+9702,2025,March,1,2,17,"Work, Energy and Power"
+9702,2025,March,1,2,18,"Work, Energy and Power"
+9702,2025,March,1,2,19,Dynamics
+9702,2025,March,1,2,20,Deformation of Solids
+9702,2025,March,1,2,21,Deformation of Solids
+9702,2025,March,1,2,22,Waves
+9702,2025,March,1,2,23,Physical Quantities and Units
+9702,2025,March,1,2,24,Waves
+9702,2025,March,1,2,25,Waves
+9702,2025,March,1,2,26,Waves
+9702,2025,March,1,2,27,Superposition
+9702,2025,March,1,2,28,Waves
+9702,2025,March,1,2,29,Superposition
+9702,2025,March,1,2,30,Electricity
+9702,2025,March,1,2,31,Electricity
+9702,2025,March,1,2,32,"Work, Energy and Power"
+9702,2025,March,1,2,33,Electricity
+9702,2025,March,1,2,34,D.C. Circuits
+9702,2025,March,1,2,35,Electricity
+9702,2025,March,1,2,36,Electricity
+9702,2025,March,1,2,37,Particle Physics
+9702,2025,March,1,2,38,Kinematics
+9702,2025,March,1,2,39,Particle Physics
+9702,2025,March,1,2,40,Electricity
+9702,2025,March,4,2,1,Kinematics
+9702,2025,March,4,2,2,Gravitational Fields
+9702,2025,March,4,2,3,Temperature
+9702,2025,March,4,2,4,Medical Physics
+9702,2025,March,4,2,5,Capacitance
+9702,2025,March,4,2,6,Kinematics
+9702,2025,March,4,2,7,Magnetic Fields
+9702,2025,March,4,2,8,"Work, Energy and Power"
+9702,2025,March,4,2,9,Nuclear Physics
+9702,2025,March,4,2,10,Astronomy and Cosmology
+9702,2025,June,1,2,1,Dynamics
+9702,2025,June,1,2,2,Physical Quantities and Units
+9702,2025,June,1,2,3,"Forces, Density and Pressure"
+9702,2025,June,1,2,4,Oscillations
+9702,2025,June,1,2,5,Kinematics
+9702,2025,June,1,2,6,Kinematics
+9702,2025,June,1,2,7,Dynamics
+9702,2025,June,1,2,8,Kinematics
+9702,2025,June,1,2,9,Ideal Gases
+9702,2025,June,1,2,10,"Work, Energy and Power"
+9702,2025,June,1,2,11,Dynamics
+9702,2025,June,1,2,12,Kinematics
+9702,2025,June,1,2,13,"Work, Energy and Power"
+9702,2025,June,1,2,14,Dynamics
+9702,2025,June,1,2,15,Dynamics
+9702,2025,June,1,2,16,Physical Quantities and Units
+9702,2025,June,1,2,17,Kinematics
+9702,2025,June,1,2,18,Kinematics
+9702,2025,June,1,2,19,Dynamics
+9702,2025,June,1,2,20,"Work, Energy and Power"
+9702,2025,June,1,2,21,Deformation of Solids
+9702,2025,June,1,2,22,Deformation of Solids
+9702,2025,June,1,2,23,Deformation of Solids
+9702,2025,June,1,2,24,Waves
+9702,2025,June,1,2,25,Kinematics
+9702,2025,June,1,2,26,Kinematics
+9702,2025,June,1,2,27,Waves
+9702,2025,June,1,2,28,Physical Quantities and Units
+9702,2025,June,1,2,29,Superposition
+9702,2025,June,1,2,30,Waves
+9702,2025,June,1,2,31,Superposition
+9702,2025,June,1,2,32,Electricity
+9702,2025,June,1,2,33,Electricity
+9702,2025,June,1,2,34,D.C. Circuits
+9702,2025,June,1,2,35,Electricity
+9702,2025,June,1,2,36,D.C. Circuits
+9702,2025,June,1,2,37,Electricity
+9702,2025,June,1,2,38,Physical Quantities and Units
+9702,2025,June,1,2,39,Particle Physics
+9702,2025,June,1,2,40,Nuclear Physics
+9702,2025,June,2,2,1,"Work, Energy and Power"
+9702,2025,June,2,2,2,Dynamics
+9702,2025,June,2,2,3,Waves
+9702,2025,June,2,2,4,Dynamics
+9702,2025,June,2,2,5,Deformation of Solids
+9702,2025,June,2,2,6,D.C. Circuits
+9702,2025,June,2,2,7,Nuclear Physics
+9702,2025,June,4,2,1,Kinematics
+9702,2025,June,4,2,2,Magnetic Fields
+9702,2025,June,4,2,3,"Forces, Density and Pressure"
+9702,2025,June,4,2,4,Ideal Gases
+9702,2025,June,4,2,5,Oscillations
+9702,2025,June,4,2,6,Waves
+9702,2025,June,4,2,7,Capacitance
+9702,2025,June,4,2,8,D.C. Circuits
+9702,2025,June,4,2,9,Waves
+9702,2025,June,4,2,10,Nuclear Physics
+9702,2025,November,1,2,1,Dynamics
+9702,2025,November,1,2,2,"Forces, Density and Pressure"
+9702,2025,November,1,2,3,Dynamics
+9702,2025,November,1,2,4,Kinematics
+9702,2025,November,1,2,5,Kinematics
+9702,2025,November,1,2,6,Kinematics
+9702,2025,November,1,2,7,Kinematics
+9702,2025,November,1,2,8,Dynamics
+9702,2025,November,1,2,9,Dynamics
+9702,2025,November,1,2,10,Dynamics
+9702,2025,November,1,2,11,Kinematics
+9702,2025,November,1,2,12,Dynamics
+9702,2025,November,1,2,13,Physical Quantities and Units
+9702,2025,November,1,2,14,Kinematics
+9702,2025,November,1,2,15,Dynamics
+9702,2025,November,1,2,16,"Forces, Density and Pressure"
+9702,2025,November,1,2,17,"Work, Energy and Power"
+9702,2025,November,1,2,18,"Work, Energy and Power"
+9702,2025,November,1,2,19,Dynamics
+9702,2025,November,1,2,20,Kinematics
+9702,2025,November,1,2,21,Deformation of Solids
+9702,2025,November,1,2,22,Deformation of Solids
+9702,2025,November,1,2,23,Deformation of Solids
+9702,2025,November,1,2,24,Kinematics
+9702,2025,November,1,2,25,Waves
+9702,2025,November,1,2,26,Waves
+9702,2025,November,1,2,27,Kinematics
+9702,2025,November,1,2,28,Waves
+9702,2025,November,1,2,29,Waves
+9702,2025,November,1,2,30,Waves
+9702,2025,November,1,2,31,Superposition
+9702,2025,November,1,2,32,D.C. Circuits
+9702,2025,November,1,2,33,Electricity
+9702,2025,November,1,2,34,"Work, Energy and Power"
+9702,2025,November,1,2,35,D.C. Circuits
+9702,2025,November,1,2,36,D.C. Circuits
+9702,2025,November,1,2,37,Electricity
+9702,2025,November,1,2,38,Particle Physics
+9702,2025,November,1,2,39,Particle Physics
+9702,2025,November,1,2,40,Nuclear Physics
+9702,2025,November,2,2,1,Physical Quantities and Units
+9702,2025,November,2,2,2,Dynamics
+9702,2025,November,2,2,3,Deformation of Solids
+9702,2025,November,2,2,4,Waves
+9702,2025,November,2,2,5,Electricity
+9702,2025,November,2,2,6,Particle Physics
+9702,2025,November,4,2,1,Dynamics
+9702,2025,November,4,2,2,Ideal Gases
+9702,2025,November,4,2,3,Temperature
+9702,2025,November,4,2,4,Ideal Gases
+9702,2025,November,4,2,5,Kinematics
+9702,2025,November,4,2,6,Electric Fields
+9702,2025,November,4,2,7,Electricity
+9702,2025,November,4,2,8,"Work, Energy and Power"
+9702,2025,November,4,2,9,Nuclear Physics
+9702,2025,November,4,2,10,Waves
+9702,2024,March,1,2,1,Dynamics
+9702,2024,March,1,2,2,Dynamics
+9702,2024,March,1,2,3,Deformation of Solids
+9702,2024,March,1,2,4,Kinematics
+9702,2024,March,1,2,5,Kinematics
+9702,2024,March,1,2,6,Kinematics
+9702,2024,March,1,2,7,Physical Quantities and Units
+9702,2024,March,1,2,8,Dynamics
+9702,2024,March,1,2,9,Kinematics
+9702,2024,March,1,2,10,Dynamics
+9702,2024,March,1,2,11,Dynamics
+9702,2024,March,1,2,12,"Forces, Density and Pressure"
+9702,2024,March,1,2,13,Dynamics
+9702,2024,March,1,2,14,Dynamics
+9702,2024,March,1,2,15,Dynamics
+9702,2024,March,1,2,16,Kinematics
+9702,2024,March,1,2,17,"Forces, Density and Pressure"
+9702,2024,March,1,2,18,Electricity
+9702,2024,March,1,2,19,"Work, Energy and Power"
+9702,2024,March,1,2,20,Dynamics
+9702,2024,March,1,2,21,Deformation of Solids
+9702,2024,March,1,2,22,Dynamics
+9702,2024,March,1,2,23,Deformation of Solids
+9702,2024,March,1,2,24,Kinematics
+9702,2024,March,1,2,25,Waves
+9702,2024,March,1,2,26,Waves
+9702,2024,March,1,2,27,Physical Quantities and Units
+9702,2024,March,1,2,28,"Work, Energy and Power"
+9702,2024,March,1,2,29,Waves
+9702,2024,March,1,2,30,Waves
+9702,2024,March,1,2,31,Kinematics
+9702,2024,March,1,2,32,Electricity
+9702,2024,March,1,2,33,Electricity
+9702,2024,March,1,2,34,Electricity
+9702,2024,March,1,2,35,D.C. Circuits
+9702,2024,March,1,2,36,Electricity
+9702,2024,March,1,2,37,Electricity
+9702,2024,March,1,2,38,Electricity
+9702,2024,March,1,2,39,Particle Physics
+9702,2024,March,1,2,40,Particle Physics
+9702,2024,March,2,2,1,Physical Quantities and Units
+9702,2024,March,2,2,2,Kinematics
+9702,2024,March,2,2,3,Deformation of Solids
+9702,2024,March,2,2,4,Nuclear Physics
+9702,2024,March,2,2,5,Waves
+9702,2024,March,2,2,6,Superposition
+9702,2024,March,2,2,7,Electricity
+9702,2024,March,2,2,8,Particle Physics
+9702,2024,March,4,2,1,Gravitational Fields
+9702,2024,March,4,2,2,Ideal Gases
+9702,2024,March,4,2,3,Waves
+9702,2024,March,4,2,4,Capacitance
+9702,2024,March,4,2,5,Kinematics
+9702,2024,March,4,2,6,Magnetic Fields
+9702,2024,March,4,2,7,"Work, Energy and Power"
+9702,2024,March,4,2,8,Nuclear Physics
+9702,2024,March,4,2,9,Waves
+9702,2024,March,4,2,10,Astronomy and Cosmology
+9702,2024,November,4,2,1,Magnetic Fields
+9702,2024,November,4,2,2,"Work, Energy and Power"
+9702,2024,November,4,2,3,"Work, Energy and Power"
+9702,2024,November,4,2,4,Ideal Gases
+9702,2024,November,4,2,5,"Work, Energy and Power"
+9702,2024,November,4,2,6,Electric Fields
+9702,2024,November,4,2,7,Electricity
+9702,2024,November,4,2,8,Physical Quantities and Units
+9702,2024,November,4,2,9,Physical Quantities and Units
+9702,2024,November,4,2,10,Physical Quantities and Units
+9702,2024,November,2,2,1,Dynamics
+9702,2024,November,2,2,2,Kinematics
+9702,2024,November,2,2,3,Deformation of Solids
+9702,2024,November,2,2,4,Waves
+9702,2024,November,2,2,5,Electricity
+9702,2024,November,2,2,6,Particle Physics
+9702,2024,November,1,2,1,Physical Quantities and Units
+9702,2024,November,1,2,2,"Work, Energy and Power"
+9702,2024,November,1,2,3,Physical Quantities and Units
+9702,2024,November,1,2,4,Kinematics
+9702,2024,November,1,2,5,Kinematics
+9702,2024,November,1,2,6,Physical Quantities and Units
+9702,2024,November,1,2,7,Dynamics
+9702,2024,November,1,2,8,Kinematics
+9702,2024,November,1,2,9,Dynamics
+9702,2024,November,1,2,10,"Work, Energy and Power"
+9702,2024,November,1,2,11,"Forces, Density and Pressure"
+9702,2024,November,1,2,12,Physical Quantities and Units
+9702,2024,November,1,2,13,Physical Quantities and Units
+9702,2024,November,1,2,14,"Forces, Density and Pressure"
+9702,2024,November,1,2,15,"Work, Energy and Power"
+9702,2024,November,1,2,16,Kinematics
+9702,2024,November,1,2,17,"Work, Energy and Power"
+9702,2024,November,1,2,18,"Work, Energy and Power"
+9702,2024,November,1,2,19,Physical Quantities and Units
+9702,2024,November,1,2,20,Deformation of Solids
+9702,2024,November,1,2,21,Deformation of Solids
+9702,2024,November,1,2,22,"Work, Energy and Power"
+9702,2024,November,1,2,23,Waves
+9702,2024,November,1,2,24,Kinematics
+9702,2024,November,1,2,25,Waves
+9702,2024,November,1,2,26,Waves
+9702,2024,November,1,2,27,Physical Quantities and Units
+9702,2024,November,1,2,28,Physical Quantities and Units
+9702,2024,November,1,2,29,Superposition
+9702,2024,November,1,2,30,Waves
+9702,2024,November,1,2,31,Waves
+9702,2024,November,1,2,32,Electricity
+9702,2024,November,1,2,33,Physical Quantities and Units
+9702,2024,November,1,2,34,Electricity
+9702,2024,November,1,2,35,Electricity
+9702,2024,November,1,2,36,D.C. Circuits
+9702,2024,November,1,2,37,Electricity
+9702,2024,November,1,2,38,Particle Physics
+9702,2024,November,1,2,39,Physical Quantities and Units
+9702,2024,November,1,2,40,Particle Physics
+9702,2024,June,1,2,1,Physical Quantities and Units
+9702,2024,June,1,2,2,Dynamics
+9702,2024,June,1,2,3,Kinematics
+9702,2024,June,1,2,4,"Work, Energy and Power"
+9702,2024,June,1,2,5,Kinematics
+9702,2024,June,1,2,6,Dynamics
+9702,2024,June,1,2,7,Dynamics
+9702,2024,June,1,2,8,"Forces, Density and Pressure"
+9702,2024,June,1,2,9,"Forces, Density and Pressure"
+9702,2024,June,1,2,10,Dynamics
+9702,2024,June,1,2,11,Dynamics
+9702,2024,June,1,2,12,"Forces, Density and Pressure"
+9702,2024,June,1,2,13,"Work, Energy and Power"
+9702,2024,June,1,2,14,Physical Quantities and Units
+9702,2024,June,1,2,15,Dynamics
+9702,2024,June,1,2,16,Deformation of Solids
+9702,2024,June,1,2,17,Deformation of Solids
+9702,2024,June,1,2,18,Waves
+9702,2024,June,1,2,19,Waves
+9702,2024,June,1,2,20,Waves
+9702,2024,June,1,2,21,Waves
+9702,2024,June,1,2,22,Waves
+9702,2024,June,1,2,23,Waves
+9702,2024,June,1,2,24,Superposition
+9702,2024,June,1,2,25,Superposition
+9702,2024,June,1,2,26,Superposition
+9702,2024,June,1,2,27,Physical Quantities and Units
+9702,2024,June,1,2,28,Electricity
+9702,2024,June,1,2,29,Kinematics
+9702,2024,June,1,2,30,Electricity
+9702,2024,June,1,2,31,D.C. Circuits
+9702,2024,June,1,2,32,Electricity
+9702,2024,June,1,2,33,Electricity
+9702,2024,June,1,2,34,D.C. Circuits
+9702,2024,June,1,2,35,Electricity
+9702,2024,June,1,2,36,D.C. Circuits
+9702,2024,June,1,2,37,Particle Physics
+9702,2024,June,1,2,38,Particle Physics
+9702,2024,June,1,2,39,Nuclear Physics
+9702,2024,June,1,2,40,Particle Physics
+9702,2024,June,2,2,1,Physical Quantities and Units
+9702,2024,June,2,2,2,Kinematics
+9702,2024,June,2,2,3,Electricity
+9702,2024,June,2,2,4,Deformation of Solids
+9702,2024,June,2,2,5,D.C. Circuits
+9702,2024,June,2,2,6,Waves
+9702,2024,June,2,2,7,Particle Physics
+9702,2024,June,4,2,1,Kinematics
+9702,2024,June,4,2,2,Temperature
+9702,2024,June,4,2,4,Kinematics
+9702,2024,June,4,2,5,Physical Quantities and Units
+9702,2024,June,4,2,6,Capacitance
+9702,2024,June,4,2,7,Magnetic Fields
+9702,2024,June,4,2,8,Astronomy and Cosmology
+9702,2024,June,4,2,9,"Work, Energy and Power"
+9702,2024,June,4,3,1,Dynamics
+9702,2024,June,4,3,2,Temperature
+9702,2024,June,4,3,3,"Work, Energy and Power"
+9702,2024,June,4,3,4,Kinematics
+9702,2024,June,4,3,5,Physical Quantities and Units
+9702,2024,June,4,3,6,Electricity
+9702,2024,June,4,3,7,"Work, Energy and Power"
+9702,2024,June,4,3,8,Medical Physics
+9702,2024,June,4,3,9,Nuclear Physics
+9702,2024,June,2,3,1,Physical Quantities and Units
+9702,2024,June,2,3,2,Kinematics
+9702,2024,June,2,3,3,Deformation of Solids
+9702,2024,June,2,3,4,Kinematics
+9702,2024,June,2,3,5,D.C. Circuits
+9702,2024,June,2,3,6,"Work, Energy and Power"
+9702,2024,June,1,3,1,Physical Quantities and Units
+9702,2024,June,1,3,2,Physical Quantities and Units
+9702,2024,June,1,3,3,Physical Quantities and Units
+9702,2024,June,1,3,4,Physical Quantities and Units
+9702,2024,June,1,3,5,Physical Quantities and Units
+9702,2024,June,1,3,6,Physical Quantities and Units
+9702,2024,June,1,3,7,Physical Quantities and Units
+9702,2024,June,1,3,8,Physical Quantities and Units
+9702,2024,June,1,3,9,Physical Quantities and Units
+9702,2024,June,1,3,10,Physical Quantities and Units
+9702,2024,June,1,3,11,Physical Quantities and Units
+9702,2024,June,1,3,12,Physical Quantities and Units
+9702,2024,June,1,3,13,Physical Quantities and Units
+9702,2024,June,1,3,14,Physical Quantities and Units
+9702,2024,June,1,3,15,Physical Quantities and Units
+9702,2024,June,1,3,16,Physical Quantities and Units
+9702,2024,June,1,3,17,Physical Quantities and Units
+9702,2024,June,1,3,18,Physical Quantities and Units
+9702,2024,June,1,3,19,Physical Quantities and Units
+9702,2024,June,1,3,20,Physical Quantities and Units
+9702,2024,June,1,3,21,Physical Quantities and Units
+9702,2024,June,1,3,22,Physical Quantities and Units
+9702,2024,June,1,3,23,Physical Quantities and Units
+9702,2024,June,1,3,24,Physical Quantities and Units
+9702,2024,June,1,3,25,Physical Quantities and Units
+9702,2024,June,1,3,26,Physical Quantities and Units
+9702,2024,June,1,3,27,Physical Quantities and Units
+9702,2024,June,1,3,28,Physical Quantities and Units
+9702,2024,June,1,3,29,Physical Quantities and Units
+9702,2024,June,1,3,30,Physical Quantities and Units
+9702,2024,June,1,3,31,Physical Quantities and Units
+9702,2024,June,1,3,32,Physical Quantities and Units
+9702,2024,June,1,3,33,Physical Quantities and Units
+9702,2024,June,1,3,34,Physical Quantities and Units
+9702,2024,June,1,3,35,Physical Quantities and Units
+9702,2024,June,1,3,36,Physical Quantities and Units
+9702,2024,June,1,3,37,Physical Quantities and Units
+9702,2024,June,1,3,38,Physical Quantities and Units
+9702,2024,June,1,3,39,Physical Quantities and Units
+9702,2024,June,1,3,40,Physical Quantities and Units
+9702,2024,June,1,1,1,Physical Quantities and Units
+9702,2024,June,1,1,2,Physical Quantities and Units
+9702,2024,June,1,1,3,Physical Quantities and Units
+9702,2024,June,1,1,4,Physical Quantities and Units
+9702,2024,June,1,1,5,Physical Quantities and Units
+9702,2024,June,1,1,6,Physical Quantities and Units
+9702,2024,June,1,1,7,Physical Quantities and Units
+9702,2024,June,1,1,8,Physical Quantities and Units
+9702,2024,June,1,1,9,Physical Quantities and Units
+9702,2024,June,1,1,10,Physical Quantities and Units
+9702,2024,June,1,1,11,Physical Quantities and Units
+9702,2024,June,1,1,12,Physical Quantities and Units
+9702,2024,June,1,1,13,Physical Quantities and Units
+9702,2024,June,1,1,14,Physical Quantities and Units
+9702,2024,June,1,1,15,Physical Quantities and Units
+9702,2024,June,1,1,16,Physical Quantities and Units
+9702,2024,June,1,1,17,Physical Quantities and Units
+9702,2024,June,1,1,18,Physical Quantities and Units
+9702,2024,June,1,1,19,Physical Quantities and Units
+9702,2024,June,1,1,20,Physical Quantities and Units
+9702,2024,June,1,1,21,Physical Quantities and Units
+9702,2024,June,1,1,22,Physical Quantities and Units
+9702,2024,June,1,1,23,Physical Quantities and Units
+9702,2024,June,1,1,24,Physical Quantities and Units
+9702,2024,June,1,1,25,Physical Quantities and Units
+9702,2024,June,1,1,26,Physical Quantities and Units
+9702,2024,June,1,1,27,Physical Quantities and Units
+9702,2024,June,1,1,28,Physical Quantities and Units
+9702,2024,June,1,1,29,Physical Quantities and Units
+9702,2024,June,1,1,30,Physical Quantities and Units
+9702,2024,June,1,1,31,Physical Quantities and Units
+9702,2024,June,1,1,32,Physical Quantities and Units
+9702,2024,June,1,1,33,Physical Quantities and Units
+9702,2024,June,1,1,34,Physical Quantities and Units
+9702,2024,June,1,1,35,Physical Quantities and Units
+9702,2024,June,1,1,36,Physical Quantities and Units
+9702,2024,June,1,1,37,Physical Quantities and Units
+9702,2024,June,1,1,38,Physical Quantities and Units
+9702,2024,June,1,1,39,Physical Quantities and Units
+9702,2024,June,1,1,40,Physical Quantities and Units
+9702,2024,June,4,1,1,Gravitational Fields
+9702,2024,June,4,1,2,Electricity
+9702,2024,June,4,1,3,"Work, Energy and Power"
+9702,2024,June,4,1,4,Waves
+9702,2024,June,4,1,5,Electric Fields
+9702,2024,June,4,1,8,Medical Physics
+9702,2024,June,4,1,9,Nuclear Physics
+9702,2024,November,4,1,1,Dynamics
+9702,2024,November,4,1,2,Temperature
+9702,2024,November,4,1,4,Oscillations
+9702,2024,November,4,1,6,Waves
+9702,2024,November,4,1,10,Astronomy and Cosmology
+9702,2024,November,1,1,1,Physical Quantities and Units
+9702,2024,November,1,1,2,Physical Quantities and Units
+9702,2024,November,1,1,3,Physical Quantities and Units
+9702,2024,November,1,1,4,Physical Quantities and Units
+9702,2024,November,1,1,5,Physical Quantities and Units
+9702,2024,November,1,1,6,Physical Quantities and Units
+9702,2024,November,1,1,7,Physical Quantities and Units
+9702,2024,November,1,1,8,Physical Quantities and Units
+9702,2024,November,1,1,9,Physical Quantities and Units
+9702,2024,November,1,1,10,Physical Quantities and Units
+9702,2024,November,1,1,11,Physical Quantities and Units
+9702,2024,November,1,1,12,Physical Quantities and Units
+9702,2024,November,1,1,13,Physical Quantities and Units
+9702,2024,November,1,1,14,Physical Quantities and Units
+9702,2024,November,1,1,15,Physical Quantities and Units
+9702,2024,November,1,1,16,Physical Quantities and Units
+9702,2024,November,1,1,17,Physical Quantities and Units
+9702,2024,November,1,1,18,Physical Quantities and Units
+9702,2024,November,1,1,19,Physical Quantities and Units
+9702,2024,November,1,1,20,Physical Quantities and Units
+9702,2024,November,1,1,21,Physical Quantities and Units
+9702,2024,November,1,1,22,Physical Quantities and Units
+9702,2024,November,1,1,23,Physical Quantities and Units
+9702,2024,November,1,1,24,Physical Quantities and Units
+9702,2024,November,1,1,25,Physical Quantities and Units
+9702,2024,November,1,1,26,Physical Quantities and Units
+9702,2024,November,1,1,27,Physical Quantities and Units
+9702,2024,November,1,1,28,Physical Quantities and Units
+9702,2024,November,1,1,29,Physical Quantities and Units
+9702,2024,November,1,1,30,Physical Quantities and Units
+9702,2024,November,1,1,31,Physical Quantities and Units
+9702,2024,November,1,1,32,Physical Quantities and Units
+9702,2024,November,1,1,33,Physical Quantities and Units
+9702,2024,November,1,1,34,Physical Quantities and Units
+9702,2024,November,1,1,35,Physical Quantities and Units
+9702,2024,November,1,1,36,Physical Quantities and Units
+9702,2024,November,1,1,37,Physical Quantities and Units
+9702,2024,November,1,1,38,Physical Quantities and Units
+9702,2024,November,1,1,39,Physical Quantities and Units
+9702,2024,November,1,1,40,Physical Quantities and Units
+9702,2024,November,2,1,1,"Forces, Density and Pressure"
+9702,2024,November,2,1,2,Kinematics
+9702,2024,November,2,1,3,"Work, Energy and Power"
+9702,2024,November,2,1,4,Deformation of Solids
+9702,2024,November,2,1,6,Superposition
+9702,2024,November,2,1,7,Physical Quantities and Units
+9702,2024,November,1,3,1,Physical Quantities and Units
+9702,2024,November,1,3,2,Physical Quantities and Units
+9702,2024,November,1,3,3,Physical Quantities and Units
+9702,2024,November,1,3,4,Physical Quantities and Units
+9702,2024,November,1,3,5,Physical Quantities and Units
+9702,2024,November,1,3,6,Physical Quantities and Units
+9702,2024,November,1,3,7,Physical Quantities and Units
+9702,2024,November,1,3,8,Physical Quantities and Units
+9702,2024,November,1,3,9,Physical Quantities and Units
+9702,2024,November,1,3,10,Physical Quantities and Units
+9702,2024,November,1,3,11,Physical Quantities and Units
+9702,2024,November,1,3,12,Physical Quantities and Units
+9702,2024,November,1,3,13,Physical Quantities and Units
+9702,2024,November,1,3,14,Physical Quantities and Units
+9702,2024,November,1,3,15,Physical Quantities and Units
+9702,2024,November,1,3,16,Physical Quantities and Units
+9702,2024,November,1,3,17,Physical Quantities and Units
+9702,2024,November,1,3,18,Physical Quantities and Units
+9702,2024,November,1,3,19,Physical Quantities and Units
+9702,2024,November,1,3,20,Physical Quantities and Units
+9702,2024,November,1,3,21,Physical Quantities and Units
+9702,2024,November,1,3,22,Physical Quantities and Units
+9702,2024,November,1,3,23,Physical Quantities and Units
+9702,2024,November,1,3,24,Physical Quantities and Units
+9702,2024,November,1,3,25,Physical Quantities and Units
+9702,2024,November,1,3,26,Physical Quantities and Units
+9702,2024,November,1,3,27,Physical Quantities and Units
+9702,2024,November,1,3,28,Physical Quantities and Units
+9702,2024,November,1,3,29,Physical Quantities and Units
+9702,2024,November,1,3,30,Physical Quantities and Units
+9702,2024,November,1,3,31,Physical Quantities and Units
+9702,2024,November,1,3,32,Physical Quantities and Units
+9702,2024,November,1,3,33,Physical Quantities and Units
+9702,2024,November,1,3,34,Physical Quantities and Units
+9702,2024,November,1,3,35,Physical Quantities and Units
+9702,2024,November,1,3,36,Physical Quantities and Units
+9702,2024,November,1,3,37,Physical Quantities and Units
+9702,2024,November,1,3,38,Physical Quantities and Units
+9702,2024,November,1,3,39,Physical Quantities and Units
+9702,2024,November,1,3,40,Physical Quantities and Units
+9702,2024,November,4,3,1,Kinematics
+9702,2024,November,4,3,2,Temperature
+9702,2024,November,4,3,4,Oscillations
+9702,2024,November,4,3,6,Alternating Currents
+9702,2024,November,4,3,7,Magnetic Fields
+9702,2024,November,4,3,10,Astronomy and Cosmology
+9702,2024,November,2,3,1,Kinematics
+9702,2024,November,2,3,2,Dynamics
+9702,2024,November,2,3,3,Physical Quantities and Units
+9702,2024,November,2,3,5,Waves
+9702,2024,November,2,3,6,D.C. Circuits
+9702,2025,November,1,1,1,Physical Quantities and Units
+9702,2025,November,1,1,2,Physical Quantities and Units
+9702,2025,November,1,1,3,Physical Quantities and Units
+9702,2025,November,1,1,4,Physical Quantities and Units
+9702,2025,November,1,1,5,Physical Quantities and Units
+9702,2025,November,1,1,6,Physical Quantities and Units
+9702,2025,November,1,1,7,Physical Quantities and Units
+9702,2025,November,1,1,8,Physical Quantities and Units
+9702,2025,November,1,1,9,Physical Quantities and Units
+9702,2025,November,1,1,10,Physical Quantities and Units
+9702,2025,November,1,1,11,Physical Quantities and Units
+9702,2025,November,1,1,12,Physical Quantities and Units
+9702,2025,November,1,1,13,Physical Quantities and Units
+9702,2025,November,1,1,14,Physical Quantities and Units
+9702,2025,November,1,1,15,Physical Quantities and Units
+9702,2025,November,1,1,16,Physical Quantities and Units
+9702,2025,November,1,1,17,Physical Quantities and Units
+9702,2025,November,1,1,18,Physical Quantities and Units
+9702,2025,November,1,1,19,Physical Quantities and Units
+9702,2025,November,1,1,20,Physical Quantities and Units
+9702,2025,November,1,1,21,Physical Quantities and Units
+9702,2025,November,1,1,22,Physical Quantities and Units
+9702,2025,November,1,1,23,Physical Quantities and Units
+9702,2025,November,1,1,24,Physical Quantities and Units
+9702,2025,November,1,1,25,Physical Quantities and Units
+9702,2025,November,1,1,26,Physical Quantities and Units
+9702,2025,November,1,1,27,Physical Quantities and Units
+9702,2025,November,1,1,28,Physical Quantities and Units
+9702,2025,November,1,1,29,Physical Quantities and Units
+9702,2025,November,1,1,30,Physical Quantities and Units
+9702,2025,November,1,1,31,Physical Quantities and Units
+9702,2025,November,1,1,32,Physical Quantities and Units
+9702,2025,November,1,1,33,Physical Quantities and Units
+9702,2025,November,1,1,34,Physical Quantities and Units
+9702,2025,November,1,1,35,Physical Quantities and Units
+9702,2025,November,1,1,36,Physical Quantities and Units
+9702,2025,November,1,1,37,Physical Quantities and Units
+9702,2025,November,1,1,38,Physical Quantities and Units
+9702,2025,November,1,1,39,Physical Quantities and Units
+9702,2025,November,1,1,40,Physical Quantities and Units
+9702,2025,November,2,1,1,Kinematics
+9702,2025,November,2,1,2,"Forces, Density and Pressure"
+9702,2025,November,2,1,3,Deformation of Solids
+9702,2025,November,2,1,4,Superposition
+9702,2025,November,4,1,1,Motion in a Circle
+9702,2025,November,4,1,3,Gravitational Fields
+9702,2025,November,4,1,4,Ideal Gases
+9702,2025,November,4,1,9,Quantum Physics
+9702,2025,November,1,3,1,Physical Quantities and Units
+9702,2025,November,1,3,2,Physical Quantities and Units
+9702,2025,November,1,3,3,Physical Quantities and Units
+9702,2025,November,1,3,4,Physical Quantities and Units
+9702,2025,November,1,3,5,Physical Quantities and Units
+9702,2025,November,1,3,6,Physical Quantities and Units
+9702,2025,November,1,3,7,Physical Quantities and Units
+9702,2025,November,1,3,8,Physical Quantities and Units
+9702,2025,November,1,3,9,Physical Quantities and Units
+9702,2025,November,1,3,10,Physical Quantities and Units
+9702,2025,November,1,3,11,Physical Quantities and Units
+9702,2025,November,1,3,12,Physical Quantities and Units
+9702,2025,November,1,3,13,Physical Quantities and Units
+9702,2025,November,1,3,14,Physical Quantities and Units
+9702,2025,November,1,3,15,Physical Quantities and Units
+9702,2025,November,1,3,16,Physical Quantities and Units
+9702,2025,November,1,3,17,Physical Quantities and Units
+9702,2025,November,1,3,18,Physical Quantities and Units
+9702,2025,November,1,3,19,Physical Quantities and Units
+9702,2025,November,1,3,20,Physical Quantities and Units
+9702,2025,November,1,3,21,Physical Quantities and Units
+9702,2025,November,1,3,22,Physical Quantities and Units
+9702,2025,November,1,3,23,Physical Quantities and Units
+9702,2025,November,1,3,24,Physical Quantities and Units
+9702,2025,November,1,3,25,Physical Quantities and Units
+9702,2025,November,1,3,26,Physical Quantities and Units
+9702,2025,November,1,3,27,Physical Quantities and Units
+9702,2025,November,1,3,28,Physical Quantities and Units
+9702,2025,November,1,3,29,Physical Quantities and Units
+9702,2025,November,1,3,30,Physical Quantities and Units
+9702,2025,November,1,3,31,Physical Quantities and Units
+9702,2025,November,1,3,32,Physical Quantities and Units
+9702,2025,November,1,3,33,Physical Quantities and Units
+9702,2025,November,1,3,34,Physical Quantities and Units
+9702,2025,November,1,3,35,Physical Quantities and Units
+9702,2025,November,1,3,36,Physical Quantities and Units
+9702,2025,November,1,3,37,Physical Quantities and Units
+9702,2025,November,1,3,38,Physical Quantities and Units
+9702,2025,November,1,3,39,Physical Quantities and Units
+9702,2025,November,1,3,40,Physical Quantities and Units
+9702,2025,November,2,3,1,Kinematics
+9702,2025,November,2,3,2,"Forces, Density and Pressure"
+9702,2025,November,2,3,3,Deformation of Solids
+9702,2025,November,2,3,4,Superposition
+9702,2025,November,4,3,1,Motion in a Circle
+9702,2025,November,4,3,3,Gravitational Fields
+9702,2025,November,4,3,4,Ideal Gases
+9702,2025,November,4,3,9,Quantum Physics
+9702,2025,June,1,3,1,Physical Quantities and Units
+9702,2025,June,1,3,2,Dynamics
+9702,2025,June,1,3,3,Physical Quantities and Units
+9702,2025,June,1,3,4,Physical Quantities and Units
+9702,2025,June,1,3,5,Kinematics
+9702,2025,June,1,3,6,Physical Quantities and Units
+9702,2025,June,1,3,7,Kinematics
+9702,2025,June,1,3,8,Kinematics
+9702,2025,June,1,3,9,Dynamics
+9702,2025,June,1,3,10,Kinematics
+9702,2025,June,1,3,11,Dynamics
+9702,2025,June,1,3,12,Dynamics
+9702,2025,June,1,3,13,Dynamics
+9702,2025,June,1,3,14,Physical Quantities and Units
+9702,2025,June,1,3,15,"Forces, Density and Pressure"
+9702,2025,June,1,3,16,Kinematics
+9702,2025,June,1,3,17,"Work, Energy and Power"
+9702,2025,June,1,3,18,"Work, Energy and Power"
+9702,2025,June,1,3,19,"Work, Energy and Power"
+9702,2025,June,1,3,20,Deformation of Solids
+9702,2025,June,1,3,21,Dynamics
+9702,2025,June,1,3,22,Dynamics
+9702,2025,June,1,3,23,Dynamics
+9702,2025,June,1,3,24,Kinematics
+9702,2025,June,1,3,25,Superposition
+9702,2025,June,1,3,26,Waves
+9702,2025,June,1,3,27,Waves
+9702,2025,June,1,3,28,Waves
+9702,2025,June,1,3,29,Waves
+9702,2025,June,1,3,30,Waves
+9702,2025,June,1,3,31,Waves
+9702,2025,June,1,3,32,Physical Quantities and Units
+9702,2025,June,1,3,33,Electricity
+9702,2025,June,1,3,34,Electricity
+9702,2025,June,1,3,35,Electricity
+9702,2025,June,1,3,36,D.C. Circuits
+9702,2025,June,1,3,37,D.C. Circuits
+9702,2025,June,1,3,38,Particle Physics
+9702,2025,June,1,3,39,Particle Physics
+9702,2025,June,1,3,40,Particle Physics
+9702,2025,June,2,3,1,Kinematics
+9702,2025,June,2,3,2,Dynamics
+9702,2025,June,2,3,3,"Work, Energy and Power"
+9702,2025,June,2,3,4,Kinematics
+9702,2025,June,2,3,5,Waves
+9702,2025,June,2,3,6,Superposition
+9702,2025,June,2,3,7,D.C. Circuits
+9702,2025,June,2,3,8,Electricity
+9702,2025,June,4,3,1,Gravitational Fields
+9702,2025,June,4,3,2,Gravitational Fields
+9702,2025,June,4,3,3,Thermodynamics
+9702,2025,June,4,3,4,Ideal Gases
+9702,2025,June,4,3,5,"Work, Energy and Power"
+9702,2025,June,4,3,6,D.C. Circuits
+9702,2025,June,4,3,7,Magnetic Fields
+9702,2025,June,4,3,8,Particle Physics
+9702,2025,June,4,3,9,Nuclear Physics
+9702,2025,June,4,3,10,Astronomy and Cosmology
+9709,2025,November,1,1,1,Series
+9709,2025,November,1,1,2,Series
+9709,2025,November,1,1,3,Series
+9709,2025,November,1,1,4,Quadratics
+9709,2025,November,1,1,5,Trigonometry
+9709,2025,November,1,1,6,Functions
+9709,2025,November,1,1,7,Circular Measure
+9709,2025,November,1,1,8,Integration
+9709,2025,November,1,1,9,Series
+9709,2025,November,1,1,10,Coordinate Geometry
+9709,2025,November,1,1,11,Differentiation
+9709,2025,November,3,1,1,Algebra
+9709,2025,November,3,1,2,Complex Numbers
+9709,2025,November,3,1,3,Algebra
+9709,2025,November,3,1,4,Vectors
+9709,2025,November,3,1,9,Numerical Solutions of Equations
+9709,2025,November,5,1,1,Discrete Random Variables
+9709,2025,November,5,1,2,Discrete Random Variables
+9709,2025,November,5,1,4,Probability
+9709,2025,November,5,1,5,The Normal Distribution
+9709,2025,November,5,1,6,The Normal Distribution
+9709,2025,November,5,1,7,Permutations and Combinations
+9709,2025,November,5,1,11,Permutations and Combinations
+9709,2025,November,1,2,1,Trigonometry
+9709,2025,November,1,2,2,Differentiation
+9709,2025,November,1,2,3,Series
+9709,2025,November,1,2,4,Integration
+9709,2025,November,1,2,5,Quadratics
+9709,2025,November,1,2,6,Coordinate Geometry
+9709,2025,November,1,2,7,Circular Measure
+9709,2025,November,1,2,8,Series
+9709,2025,November,1,2,9,Differentiation
+9709,2025,November,3,2,1,Algebra
+9709,2025,November,3,2,2,Complex Numbers
+9709,2025,November,3,2,3,Logarithmic and Exponential Functions
+9709,2025,November,3,2,4,Vectors
+9709,2025,November,3,2,5,Differential Equations
+9709,2025,November,3,2,6,Integration
+9709,2025,November,3,2,7,Trigonometry
+9709,2025,November,3,2,8,Numerical Solutions of Equations
+9709,2025,November,3,2,9,Differentiation
+9709,2025,November,5,2,1,Representation of Data
+9709,2025,November,5,2,2,Probability
+9709,2025,November,5,2,3,Discrete Random Variables
+9709,2025,November,5,2,4,Permutations and Combinations
+9709,2025,November,5,2,5,The Normal Distribution
+9709,2025,November,5,2,6,The Normal Distribution
+9709,2025,November,5,2,7,Probability
+9709,2025,November,1,3,1,Series
+9709,2025,November,1,3,2,Differentiation
+9709,2025,November,1,3,3,Circular Measure
+9709,2025,November,1,3,4,Trigonometry
+9709,2025,November,1,3,5,Integration
+9709,2025,November,1,3,6,Functions
+9709,2025,November,1,3,7,Differentiation
+9709,2025,November,1,3,8,Coordinate Geometry
+9709,2025,November,2,3,1,Algebra
+9709,2025,November,2,3,2,Logarithmic and Exponential Functions
+9709,2025,November,2,3,3,Trigonometry
+9709,2025,November,2,3,4,Differentiation
+9709,2025,November,2,3,5,Integration
+9709,2025,November,2,3,6,Numerical Solutions of Equations
+9709,2025,November,2,3,7,Differentiation
+9709,2025,November,2,3,8,Integration
+9709,2025,November,5,3,1,Representation of Data
+9709,2025,November,5,3,2,Probability
+9709,2025,November,5,3,3,Permutations and Combinations
+9709,2025,November,5,3,4,Discrete Random Variables
+9709,2025,November,5,3,5,The Normal Distribution
+9709,2025,November,5,3,6,The Normal Distribution
+9709,2025,November,5,3,7,Probability
+9709,2025,June,1,1,1,Series
+9709,2025,June,1,1,2,Quadratics
+9709,2025,June,1,1,3,Differentiation
+9709,2025,June,1,1,4,Circular Measure
+9709,2025,June,1,1,5,Trigonometry
+9709,2025,June,1,1,6,Functions
+9709,2025,June,1,1,7,Integration
+9709,2025,June,1,1,8,Series
+9709,2025,June,1,1,9,Coordinate Geometry
+9709,2025,June,3,1,1,Algebra
+9709,2025,June,3,1,2,Complex Numbers
+9709,2025,June,3,1,3,Logarithmic and Exponential Functions
+9709,2025,June,3,1,4,Vectors
+9709,2025,June,3,1,5,Differential Equations
+9709,2025,June,3,1,6,Integration
+9709,2025,June,3,1,7,Trigonometry
+9709,2025,June,3,1,8,Numerical Solutions of Equations
+9709,2025,June,3,1,9,Differentiation
+9709,2025,June,5,1,1,Representation of Data
+9709,2025,June,5,1,2,Probability
+9709,2025,June,5,1,3,Discrete Random Variables
+9709,2025,June,5,1,4,Permutations and Combinations
+9709,2025,June,5,1,5,The Normal Distribution
+9709,2025,June,5,1,6,The Normal Distribution
+9709,2025,June,5,1,7,Probability
+9709,2025,June,1,2,1,Series
+9709,2025,June,1,2,2,Differentiation
+9709,2025,June,1,2,3,Circular Measure
+9709,2025,June,1,2,4,Trigonometry
+9709,2025,June,1,2,5,Integration
+9709,2025,June,1,2,6,Functions
+9709,2025,June,1,2,7,Differentiation
+9709,2025,June,1,2,8,Coordinate Geometry
+9709,2025,June,1,2,9,Differentiation
+9709,2025,June,3,2,1,Algebra
+9709,2025,June,3,2,2,Complex Numbers
+9709,2025,June,3,2,3,Logarithmic and Exponential Functions
+9709,2025,June,3,2,4,Vectors
+9709,2025,June,3,2,5,Differential Equations
+9709,2025,June,3,2,6,Integration
+9709,2025,June,3,2,7,Trigonometry
+9709,2025,June,3,2,8,Numerical Solutions of Equations
+9709,2025,June,3,2,9,Differentiation
+9709,2025,June,5,2,1,Representation of Data
+9709,2025,June,5,2,2,Probability
+9709,2025,June,5,2,3,Discrete Random Variables
+9709,2025,June,5,2,4,Permutations and Combinations
+9709,2025,June,5,2,5,The Normal Distribution
+9709,2025,June,5,2,6,The Normal Distribution
+9709,2025,June,5,2,7,Probability
+9709,2025,June,1,3,1,Series
+9709,2025,June,1,3,2,Differentiation
+9709,2025,June,1,3,3,Circular Measure
+9709,2025,June,1,3,4,Trigonometry
+9709,2025,June,1,3,5,Integration
+9709,2025,June,1,3,6,Functions
+9709,2025,June,1,3,7,Differentiation
+9709,2025,June,1,3,8,Coordinate Geometry
+9709,2025,June,1,3,9,Differentiation
+9709,2025,June,1,3,10,Integration
+9709,2025,June,1,3,11,Trigonometry
+9709,2025,June,1,3,12,Coordinate Geometry
+9709,2025,June,3,3,1,Algebra
+9709,2025,June,3,3,2,Complex Numbers
+9709,2025,June,3,3,3,Logarithmic and Exponential Functions
+9709,2025,June,3,3,4,Vectors
+9709,2025,June,3,3,5,Differential Equations
+9709,2025,June,3,3,6,Integration
+9709,2025,June,3,3,7,Trigonometry
+9709,2025,June,3,3,8,Numerical Solutions of Equations
+9709,2025,June,3,3,9,Differentiation
+9709,2025,June,3,3,10,Algebra
+9709,2025,June,5,3,1,Representation of Data
+9709,2025,June,5,3,2,Probability
+9709,2025,June,5,3,3,Discrete Random Variables
+9709,2025,June,5,3,4,Permutations and Combinations
+9709,2025,June,5,3,5,The Normal Distribution
+9709,2025,June,5,3,6,The Normal Distribution
+9709,2025,June,5,3,7,Probability
+9709,2025,March,1,2,1,Series
+9709,2025,March,1,2,2,Differentiation
+9709,2025,March,1,2,3,Circular Measure
+9709,2025,March,1,2,4,Trigonometry
+9709,2025,March,1,2,5,Integration
+9709,2025,March,1,2,6,Functions
+9709,2025,March,1,2,7,Differentiation
+9709,2025,March,1,2,8,Coordinate Geometry
+9709,2025,March,1,2,9,Integration
+9709,2025,March,1,2,10,Trigonometry
+9709,2025,March,1,2,11,Coordinate Geometry
+9709,2025,March,3,2,1,Algebra
+9709,2025,March,3,2,2,Complex Numbers
+9709,2025,March,3,2,3,Logarithmic and Exponential Functions
+9709,2025,March,3,2,4,Vectors
+9709,2025,March,3,2,5,Differential Equations
+9709,2025,March,3,2,6,Integration
+9709,2025,March,3,2,7,Trigonometry
+9709,2025,March,3,2,8,Numerical Solutions of Equations
+9709,2025,March,3,2,9,Differentiation
+9709,2025,March,3,2,10,Complex Numbers
+9709,2025,March,5,2,1,Representation of Data
+9709,2025,March,5,2,2,Probability
+9709,2025,March,5,2,3,Discrete Random Variables
+9709,2025,March,5,2,4,Permutations and Combinations
+9709,2025,March,5,2,5,The Normal Distribution
+9709,2025,March,5,2,6,The Normal Distribution
+9709,2025,March,5,2,7,Probability
+9709,2024,November,1,1,1,Series
+9709,2024,November,1,1,2,Differentiation
+9709,2024,November,1,1,3,Circular Measure
+9709,2024,November,1,1,4,Trigonometry
+9709,2024,November,1,1,5,Integration
+9709,2024,November,1,1,6,Functions
+9709,2024,November,1,1,7,Differentiation
+9709,2024,November,1,1,8,Coordinate Geometry
+9709,2024,November,1,1,9,Integration
+9709,2024,November,1,1,10,Trigonometry
+9709,2024,November,1,1,11,Coordinate Geometry
+9709,2024,November,3,1,1,Algebra
+9709,2024,November,3,1,2,Complex Numbers
+9709,2024,November,3,1,3,Logarithmic and Exponential Functions
+9709,2024,November,3,1,4,Vectors
+9709,2024,November,3,1,5,Differential Equations
+9709,2024,November,3,1,6,Integration
+9709,2024,November,3,1,7,Trigonometry
+9709,2024,November,3,1,8,Numerical Solutions of Equations
+9709,2024,November,3,1,9,Differentiation
+9709,2024,November,3,1,10,Complex Numbers
+9709,2024,November,5,1,1,Representation of Data
+9709,2024,November,5,1,2,Probability
+9709,2024,November,5,1,3,Discrete Random Variables
+9709,2024,November,5,1,4,Permutations and Combinations
+9709,2024,November,5,1,5,The Normal Distribution
+9709,2024,November,5,1,6,The Normal Distribution
+9709,2024,November,5,1,7,Probability
+9709,2024,November,1,2,1,Series
+9709,2024,November,1,2,2,Differentiation
+9709,2024,November,1,2,3,Circular Measure
+9709,2024,November,1,2,4,Trigonometry
+9709,2024,November,1,2,5,Integration
+9709,2024,November,1,2,6,Functions
+9709,2024,November,1,2,7,Differentiation
+9709,2024,November,1,2,8,Coordinate Geometry
+9709,2024,November,1,2,9,Integration
+9709,2024,November,1,2,10,Trigonometry
+9709,2024,November,1,2,11,Coordinate Geometry
+9709,2024,November,3,2,1,Algebra
+9709,2024,November,3,2,2,Complex Numbers
+9709,2024,November,3,2,3,Logarithmic and Exponential Functions
+9709,2024,November,3,2,4,Vectors
+9709,2024,November,3,2,5,Differential Equations
+9709,2024,November,3,2,6,Integration
+9709,2024,November,3,2,7,Trigonometry
+9709,2024,November,3,2,8,Numerical Solutions of Equations
+9709,2024,November,3,2,9,Differentiation
+9709,2024,November,3,2,10,Complex Numbers
+9709,2024,November,3,2,11,Vectors
+9709,2024,November,5,2,1,Representation of Data
+9709,2024,November,5,2,2,Probability
+9709,2024,November,5,2,3,Discrete Random Variables
+9709,2024,November,5,2,4,Permutations and Combinations
+9709,2024,November,5,2,5,The Normal Distribution
+9709,2024,November,5,2,6,The Normal Distribution
+9709,2024,November,5,2,7,Probability
+9709,2024,November,1,3,1,Series
+9709,2024,November,1,3,2,Differentiation
+9709,2024,November,1,3,3,Circular Measure
+9709,2024,November,1,3,4,Trigonometry
+9709,2024,November,1,3,5,Integration
+9709,2024,November,1,3,6,Functions
+9709,2024,November,1,3,7,Differentiation
+9709,2024,November,1,3,8,Coordinate Geometry
+9709,2024,November,1,3,9,Integration
+9709,2024,November,1,3,10,Trigonometry
+9709,2024,November,1,3,11,Coordinate Geometry
+9709,2024,November,3,3,1,Algebra
+9709,2024,November,3,3,2,Complex Numbers
+9709,2024,November,3,3,3,Logarithmic and Exponential Functions
+9709,2024,November,3,3,4,Vectors
+9709,2024,November,3,3,5,Differential Equations
+9709,2024,November,3,3,6,Integration
+9709,2024,November,3,3,7,Trigonometry
+9709,2024,November,3,3,8,Numerical Solutions of Equations
+9709,2024,November,3,3,9,Differentiation
+9709,2024,November,3,3,10,Complex Numbers
+9709,2024,November,5,3,1,Representation of Data
+9709,2024,November,5,3,2,Probability
+9709,2024,November,5,3,3,Discrete Random Variables
+9709,2024,November,5,3,4,Permutations and Combinations
+9709,2024,November,5,3,5,The Normal Distribution
+9709,2024,November,5,3,6,The Normal Distribution
+9709,2024,November,5,3,7,Probability
+9709,2024,June,1,1,1,Series
+9709,2024,June,1,1,2,Differentiation
+9709,2024,June,1,1,3,Circular Measure
+9709,2024,June,1,1,4,Trigonometry
+9709,2024,June,1,1,5,Integration
+9709,2024,June,1,1,6,Functions
+9709,2024,June,1,1,7,Differentiation
+9709,2024,June,1,1,8,Coordinate Geometry
+9709,2024,June,1,1,9,Integration
+9709,2024,June,1,1,10,Trigonometry
+9709,2024,June,1,1,11,Coordinate Geometry
+9709,2024,June,3,1,1,Algebra
+9709,2024,June,3,1,2,Complex Numbers
+9709,2024,June,3,1,3,Logarithmic and Exponential Functions
+9709,2024,June,3,1,4,Vectors
+9709,2024,June,3,1,5,Differential Equations
+9709,2024,June,3,1,6,Integration
+9709,2024,June,3,1,7,Trigonometry
+9709,2024,June,3,1,8,Numerical Solutions of Equations
+9709,2024,June,3,1,9,Differentiation
+9709,2024,June,3,1,10,Complex Numbers
+9709,2024,June,5,1,1,Representation of Data
+9709,2024,June,5,1,2,Probability
+9709,2024,June,5,1,3,Discrete Random Variables
+9709,2024,June,5,1,4,Permutations and Combinations
+9709,2024,June,5,1,5,The Normal Distribution
+9709,2024,June,5,1,6,The Normal Distribution
+9709,2024,June,5,1,7,Probability
+9709,2024,June,1,2,1,Series
+9709,2024,June,1,2,2,Differentiation
+9709,2024,June,1,2,3,Circular Measure
+9709,2024,June,1,2,4,Trigonometry
+9709,2024,June,1,2,5,Integration
+9709,2024,June,1,2,6,Functions
+9709,2024,June,1,2,7,Differentiation
+9709,2024,June,1,2,8,Coordinate Geometry
+9709,2024,June,1,2,9,Integration
+9709,2024,June,1,2,10,Trigonometry
+9709,2024,June,1,2,11,Coordinate Geometry
+9709,2024,June,3,2,1,Algebra
+9709,2024,June,3,2,2,Complex Numbers
+9709,2024,June,3,2,3,Logarithmic and Exponential Functions
+9709,2024,June,3,2,4,Vectors
+9709,2024,June,3,2,5,Differential Equations
+9709,2024,June,3,2,6,Integration
+9709,2024,June,3,2,7,Trigonometry
+9709,2024,June,3,2,8,Numerical Solutions of Equations
+9709,2024,June,3,2,9,Differentiation
+9709,2024,June,3,2,10,Complex Numbers
+9709,2024,June,5,2,1,Representation of Data
+9709,2024,June,5,2,2,Probability
+9709,2024,June,5,2,3,Discrete Random Variables
+9709,2024,June,5,2,4,Permutations and Combinations
+9709,2024,June,5,2,5,The Normal Distribution
+9709,2024,June,5,2,6,The Normal Distribution
+9709,2024,June,5,2,7,Probability
+9709,2024,June,1,3,1,Series
+9709,2024,June,1,3,2,Differentiation
+9709,2024,June,1,3,3,Circular Measure
+9709,2024,June,1,3,4,Trigonometry
+9709,2024,June,1,3,5,Integration
+9709,2024,June,1,3,6,Functions
+9709,2024,June,1,3,7,Differentiation
+9709,2024,June,1,3,8,Coordinate Geometry
+9709,2024,June,1,3,9,Integration
+9709,2024,June,1,3,10,Trigonometry
+9709,2024,June,1,3,11,Coordinate Geometry
+9709,2024,June,3,3,1,Algebra
+9709,2024,June,3,3,2,Complex Numbers
+9709,2024,June,3,3,3,Logarithmic and Exponential Functions
+9709,2024,June,3,3,4,Vectors
+9709,2024,June,3,3,5,Differential Equations
+9709,2024,June,3,3,6,Integration
+9709,2024,June,3,3,7,Trigonometry
+9709,2024,June,3,3,8,Numerical Solutions of Equations
+9709,2024,June,3,3,9,Differentiation
+9709,2024,June,3,3,10,Complex Numbers
+9709,2024,June,3,3,11,Vectors
+9709,2024,June,5,3,1,Representation of Data
+9709,2024,June,5,3,2,Probability
+9709,2024,June,5,3,3,Discrete Random Variables
+9709,2024,June,5,3,4,Permutations and Combinations
+9709,2024,June,5,3,5,The Normal Distribution
+9709,2024,June,5,3,6,The Normal Distribution
+9709,2024,June,5,3,7,Probability
+9709,2024,March,1,2,1,Series
+9709,2024,March,1,2,2,Differentiation
+9709,2024,March,1,2,3,Circular Measure
+9709,2024,March,1,2,4,Trigonometry
+9709,2024,March,1,2,5,Integration
+9709,2024,March,1,2,6,Functions
+9709,2024,March,1,2,7,Differentiation
+9709,2024,March,1,2,8,Coordinate Geometry
+9709,2024,March,1,2,9,Integration
+9709,2024,March,1,2,10,Trigonometry
+9709,2024,March,1,2,11,Coordinate Geometry
+9709,2024,March,3,2,1,Algebra
+9709,2024,March,3,2,2,Complex Numbers
+9709,2024,March,3,2,3,Logarithmic and Exponential Functions
+9709,2024,March,3,2,4,Vectors
+9709,2024,March,3,2,5,Differential Equations
+9709,2024,March,3,2,6,Integration
+9709,2024,March,3,2,7,Trigonometry
+9709,2024,March,3,2,8,Numerical Solutions of Equations
+9709,2024,March,3,2,9,Differentiation
+9709,2024,March,3,2,10,Complex Numbers
+9709,2024,March,3,2,11,Vectors
+9709,2024,March,5,2,1,Representation of Data
+9709,2024,March,5,2,2,Probability
+9709,2024,March,5,2,3,Discrete Random Variables
+9709,2024,March,5,2,4,Permutations and Combinations
+9709,2024,March,5,2,5,The Normal Distribution
+9709,2024,March,5,2,6,The Normal Distribution
+9709,2024,March,5,2,7,Probability

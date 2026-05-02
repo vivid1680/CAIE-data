@@ -1355,3 +1355,3142 @@ subject_code,year,session,paper_number,variant,question_number,label,point_numbe
 9702,2025,November,1,3,38,NULL,1,Correct Option: A,1,B
 9702,2025,November,1,3,39,NULL,1,Correct Option: A,1,B
 9702,2025,November,1,3,40,NULL,1,Correct Option: B,1,B
+9702,2025,June,1,3,1,NULL,1,A,1,B
+9702,2025,June,1,3,2,NULL,1,C,1,B
+9702,2025,June,1,3,3,NULL,1,C,1,B
+9702,2025,June,1,3,4,NULL,1,B,1,B
+9702,2025,June,1,3,5,NULL,1,B,1,B
+9702,2025,June,1,3,6,NULL,1,A,1,B
+9702,2025,June,1,3,7,NULL,1,A,1,B
+9702,2025,June,1,3,8,NULL,1,B,1,B
+9702,2025,June,1,3,9,NULL,1,B,1,B
+9702,2025,June,1,3,10,NULL,1,B,1,B
+9702,2025,June,1,3,11,NULL,1,C,1,B
+9702,2025,June,1,3,12,NULL,1,D,1,B
+9702,2025,June,1,3,13,NULL,1,D,1,B
+9702,2025,June,1,3,14,NULL,1,C,1,B
+9702,2025,June,1,3,15,NULL,1,D,1,B
+9702,2025,June,1,3,16,NULL,1,B,1,B
+9702,2025,June,1,3,17,NULL,1,B,1,B
+9702,2025,June,1,3,18,NULL,1,D,1,B
+9702,2025,June,1,3,19,NULL,1,C,1,B
+9702,2025,June,1,3,20,NULL,1,D,1,B
+9702,2025,June,1,3,21,NULL,1,D,1,B
+9702,2025,June,1,3,22,NULL,1,A,1,B
+9702,2025,June,1,3,23,NULL,1,D,1,B
+9702,2025,June,1,3,24,NULL,1,D,1,B
+9702,2025,June,1,3,25,NULL,1,C,1,B
+9702,2025,June,1,3,26,NULL,1,B,1,B
+9702,2025,June,1,3,27,NULL,1,C,1,B
+9702,2025,June,1,3,28,NULL,1,B,1,B
+9702,2025,June,1,3,29,NULL,1,A,1,B
+9702,2025,June,1,3,30,NULL,1,D,1,B
+9702,2025,June,1,3,31,NULL,1,A,1,B
+9702,2025,June,1,3,32,NULL,1,C,1,B
+9702,2025,June,1,3,33,NULL,1,C,1,B
+9702,2025,June,1,3,34,NULL,1,D,1,B
+9702,2025,June,1,3,35,NULL,1,C,1,B
+9702,2025,June,1,3,36,NULL,1,C,1,B
+9702,2025,June,1,3,37,NULL,1,A,1,B
+9702,2025,June,1,3,38,NULL,1,D,1,B
+9702,2025,June,1,3,39,NULL,1,A,1,B
+9702,2025,June,1,3,40,NULL,1,A,1,B
+9702,2025,June,2,3,1,a,1,Rate of change of displacement,1,B
+9702,2025,June,2,3,1,b,1,For object A: s = ut + 1/2at^2 so 10 = 1/2 * 9.81 * t^2,1,C
+9702,2025,June,2,3,1,b,2,t = 1.4,1,C
+9702,2025,June,2,3,1,b,3,h = 5.7 m,1,A
+9702,2025,June,2,3,1,c(i),1,time taken (to reach the ground is) same,1,B
+9702,2025,June,2,3,1,c(i),2,The initial vertical (component of the) velocity is the same (as in part (1b)),1,B
+9702,2025,June,2,3,1,c(ii),1,The (total) initial energy is greater (than in part (1b)),1,B
+9702,2025,June,2,3,1,c(ii),2,"change in gravitational potential energy is same, so speed is greater",1,B
+9702,2025,June,2,3,2,a,1,force × perpendicular distance (of line of action of force to / from the point),1,B
+9702,2025,June,2,3,2,b(i),1,150 × 9.81 × 4.5 or 90 × 9.81 × 4.5 or 3.0 × 9.81 × m,1,C
+9702,2025,June,2,3,2,b(i),2,(150 × 9.81 × 4.5) = (90 × 9.81 × 4.5) + (3.0 × 9.81 × m),1,C
+9702,2025,June,2,3,2,b(i),3,m = 90 kg,1,A
+9702,2025,June,2,3,2,b(ii),1,Young modulus = σ / ε or F / Aε or FL / Ax,1,C
+9702,2025,June,2,3,2,b(ii),2,Area of wire = π × (1.8 × 10–3 / 2)^2 = 2.5 × 10–6,1,C
+9702,2025,June,2,3,2,b(ii),3,Young modulus = 2.9 × 10^11 Pa,1,A
+9702,2025,June,2,3,2,b(iii),1,Moment provided by B will decrease / moment due to wire will increase,1,B
+9702,2025,June,2,3,2,b(iii),2,So force acting on wire will increase (Young’s modulus and area remain constant) and the strain will increase,1,B
+9702,2025,June,2,3,3,a,1,W = Fd,1,B
+9702,2025,June,2,3,3,a,2,P = Fd / t = Fv,1,B
+9702,2025,June,2,3,3,b(i),1,(∆)E(P) = mg(∆)h,1,C
+9702,2025,June,2,3,3,b(i),2,increase of gravitational potential energy of car in 1.0 s = 1500 × 9.81 × 30 × sin 6.0 = 46 000 J,1,A
+9702,2025,June,2,3,3,b(ii),1,(Power to overcome total resistive forces) = 1600 × 30 = 48 000 W,1,C
+9702,2025,June,2,3,3,b(ii),2,power = 48 000 + 46 000 = 9.4 × 10^4 W,1,A
+9702,2025,June,2,3,3,c(i),1,"Air resistance is the same, as the speed is the same",1,B
+9702,2025,June,2,3,3,c(ii),1,Mass / weight has increased so (power will) increase,1,B
+9702,2025,June,2,3,4,a,1,sum / total momentum (of a system of bodies) is constant,1,M
+9702,2025,June,2,3,4,a,2,for an isolated system / no (resultant) external force,1,A
+9702,2025,June,2,3,4,b(i),1,p = mv or 4.0 × 6.0 or 2.0 × 3.0,1,C
+9702,2025,June,2,3,4,b(i),2,v = 5.0 m s−1,1,A
+9702,2025,June,2,3,4,b(ii),1,KE before = (0.5 × 4.0 × 6.0^2) + (0.5 × 2.0 × 3.0^2) = 81 J,1,C
+9702,2025,June,2,3,4,b(ii),2,percentage transferred = [(81 – 75) / 81] × 100 = 7%,1,A
+9702,2025,June,2,3,5,a,1,sound waves are longitudinal / not transverse,1,B
+9702,2025,June,2,3,5,b(i),1,A periodic curve of at least one period with minimum 0 and maximum I0,1,B
+9702,2025,June,2,3,5,b(i),2,Smooth continuous sin^2α curve,1,B
+9702,2025,June,2,3,5,b(i),3,"Peaks at 90° and 270° and troughs at 0, 180° and 360°",1,B
+9702,2025,June,2,3,5,b(ii),1,I ∝ A^2,1,C
+9702,2025,June,2,3,5,b(ii),2,I = I0 cos^2 θ,1,C
+9702,2025,June,2,3,5,b(ii),3,At α = 20° the angle between the planes of polarisation of light and filter is 70° (or 110°). I = I0 cos^2 70,1,C
+9702,2025,June,2,3,5,b(ii),4,amplitude = 0.34 A0,1,A
+9702,2025,June,2,3,6,a,1,wave passes (through) an aperture and spreads,1,B
+9702,2025,June,2,3,6,b(i),1,v = fλ,1,C
+9702,2025,June,2,3,6,b(i),2,f = 3.00 × 10^8 / 720 × 10^−9 = 4.2 × 10^14 Hz,1,A
+9702,2025,June,2,3,6,b(ii),1,d = nλ / sin θ,1,C
+9702,2025,June,2,3,6,b(ii),2,d = (2 × 720 × 10^−9) / sin 26,1,C
+9702,2025,June,2,3,6,b(ii),3,number of lines per m = 1 / (3.3 × 10^−6) = 3.0 × 10^5 m^−1,1,A
+9702,2025,June,2,3,6,b(iii),1,λ × 3 = 720 × 2,1,C
+9702,2025,June,2,3,6,b(iii),2,λ = 480 nm,1,A
+9702,2025,June,2,3,7,a,1,R = ρL / A,1,C
+9702,2025,June,2,3,7,a,2,= (1.12 × 10^−6 × 1.5) / 2.45 × 10^−7,1,C
+9702,2025,June,2,3,7,a,3,= 6.86 Ω,1,A
+9702,2025,June,2,3,7,b(i),1,(A method where the) reading (on the galvanometer) is zero.,1,B
+9702,2025,June,2,3,7,b(ii),1,e.m.f. / 1.2 = 64 / 150,1,C
+9702,2025,June,2,3,7,b(ii),2,e.m.f. = (64 / 150) × 1.2 = 0.51 V,1,A
+9702,2025,June,2,3,7,b(iii),1,(the internal resistance will cause a) drop in p.d. across the wire / the terminal p.d. is lower,1,B
+9702,2025,June,2,3,7,b(iii),2,So the null point will move to the right,1,B
+9702,2025,June,2,3,8,a,1,"3 correct quark flavours: anti-up, anti-down, anti-down",1,B
+9702,2025,June,2,3,8,a,2,Charge on anti-up quark –2/3(e),1,B
+9702,2025,June,2,3,8,a,3,Charge on anti-down quark (+)1/3(e),1,B
+9702,2025,June,2,3,8,b,1,particle: (electron) neutrino,1,B
+9702,2025,June,2,3,8,b,2,antiparticle: positron,1,B
+9702,2025,June,4,3,1,a,1,work done per unit mass,1,B
+9702,2025,June,4,3,1,a,2,work (done in) moving mass from infinity (to the point),1,B
+9702,2025,June,4,3,1,b(i),1,evidence of addition of 3.4×10^6 to 1.7×10^6 or 6.8×10^6,1,C
+9702,2025,June,4,3,1,b(i),2,GM×122/(5.1×10^6) or GM×122/(10.2×10^6),1,C
+9702,2025,June,4,3,1,b(i),3,6.67×10^–11×M×122×[(5.1×10^6)^–1 – (10.2×10^6)^–1] = 5.1×10^8 leading to M=6.4×10^23 kg,1,A
+9702,2025,June,4,3,1,b(ii),1,φ = –(6.67×10^–11×6.4×10^23)/(3.4×10^6),1,C
+9702,2025,June,4,3,1,b(ii),2,φ = –1.3×10^7 J kg^–1,1,A
+9702,2025,June,4,3,1,c(i),1,Mars takes (just under) 25 hours to rotate once on its axis,1,B
+9702,2025,June,4,3,1,c(ii),1,orbit is equatorial or orbit is in same direction as direction of rotation of Mars,1,B
+9702,2025,June,4,3,2,a,1,(electric) force is (directly) proportional to product of charges,1,B
+9702,2025,June,4,3,2,a,2,force (between point charges) is inversely proportional to the square of their separation,1,B
+9702,2025,June,4,3,2,b(i),1,charge = (+)2e,1,A
+9702,2025,June,4,3,2,b(ii),1,F = 2×(1.60×10^–19)^2 / [4π×8.85×10^–12×(170×10^–12)^2] = 1.6×10^–8 N,1,A
+9702,2025,June,4,3,2,c(i),1,F = mv^2/r,1,C
+9702,2025,June,4,3,2,c(i),2,v = 1.7×10^6 m s^–1,1,A
+9702,2025,June,4,3,2,c(ii),1,F = mrω^2 and ω = 2π/T,1,C
+9702,2025,June,4,3,2,c(ii),2,T = 6.2×10^–16 s,1,A
+9702,2025,June,4,3,2,d(i),1,E ∝ Q/r^2,1,C
+9702,2025,June,4,3,2,d(i),2,ratio = [1.60×10^–19×(170×10^–12)^2] / [3.2×10^–19×(340×10^–12)^2] = 0.13,1,A
+9702,2025,June,4,3,2,d(ii),1,resultant force slightly less (than 1.6×10^–8 N) so speed lower or resultant force slightly less (than 1.6×10^–8 N) so period greater,1,B
+9702,2025,June,4,3,3,a,1,(thermal) energy per unit mass (to cause state change),1,B
+9702,2025,June,4,3,3,a,2,(thermal) energy to change state at constant temperature,1,B
+9702,2025,June,4,3,3,b,1,(for vaporisation): involves greater change in volume (of substance),1,B
+9702,2025,June,4,3,3,b,2,more work has to be done by molecules (to separate) or greater increase in potential energy of molecules,1,M
+9702,2025,June,4,3,3,b,3,"kinetic energy of molecules unchanged, so more thermal energy needed",1,A
+9702,2025,June,4,3,3,c,1,Q = mc∆θ and Q = mL,1,C
+9702,2025,June,4,3,3,c,2,∆θ for the water = 26.4 – 10.3,1,C
+9702,2025,June,4,3,3,c,3,(37.0 × L) + (37.0 × 4.18 × 10.3) = (208 × 4.18 × 16.1),1,C
+9702,2025,June,4,3,3,c,4,L = 335 J g^–1,1,A
+9702,2025,June,4,3,4,a(i),1,sum of potential energy and kinetic energy,1,B
+9702,2025,June,4,3,4,a(i),2,(total) energy of random motion of particles,1,B
+9702,2025,June,4,3,4,a(ii),1,"potential energy (of molecules) (in an ideal gas) is zero, so the internal energy of the gas is equal to the total kinetic energy",1,B
+9702,2025,June,4,3,4,a(ii),2,kinetic energy of molecules is proportional to (thermodynamic) temperature (so internal energy is proportional to (thermodynamic) temperature)),1,B
+9702,2025,June,4,3,4,b,1,cooling work done = 0,1,B
+9702,2025,June,4,3,4,b,2,compression increase in internal energy = +2U,1,B
+9702,2025,June,4,3,4,b,3,cooling change in internal energy = –U,1,B
+9702,2025,June,4,3,4,b,4,"both rows: thermal energy adds to work to give increase in internal energy in terms of U and/or W (compression: 2U – W, cooling: –U)",1,B
+9702,2025,June,4,3,5,a(i),1,amplitude = 0.60 m,1,A
+9702,2025,June,4,3,5,a(ii),1,oscillations are simple harmonic,1,B
+9702,2025,June,4,3,5,b,1,mean / equilibrium position is at h = 1.4 m,1,B
+9702,2025,June,4,3,5,b,2,total energy of oscillations = 9.0 J,1,B
+9702,2025,June,4,3,5,b,3,angular frequency of oscillations = 1.2 rad s^–1 or period of oscillations = 5.1 s or frequency of oscillation = 0.19 Hz,1,B
+9702,2025,June,4,3,5,c,1,U-shaped curve resting on h axis (with minimum at EP = 0),1,B
+9702,2025,June,4,3,5,c,2,"curve from h = 0.8 m to h = 2.0 m, with minimum EP shown at h = 1.4 m",1,B
+9702,2025,June,4,3,5,c,3,both end-points of curve shown at EP = 9.0 J,1,B
+9702,2025,June,4,3,6,a(i),1,conversion from a.c. to d.c.,1,B
+9702,2025,June,4,3,6,a(ii),1,smoothing,1,B
+9702,2025,June,4,3,6,b(i),1,A = 12 V,1,A
+9702,2025,June,4,3,6,b(i),2,B = 2π / (20 × 10^–3) = 310 rad s^–1,1,A
+9702,2025,June,4,3,6,b(ii),1,full-wave (rectification),1,B
+9702,2025,June,4,3,6,b(iii),1,"four diodes shown, with correct circuit symbols",1,B
+9702,2025,June,4,3,6,b(iii),2,four diodes correctly connected to form a bridge rectifier,1,B
+9702,2025,June,4,3,6,b(iv),1,V = V0 exp (–t / τ) or V = V0 exp (–t / RC) and τ = RC,1,C
+9702,2025,June,4,3,6,b(iv),2,8.0 = 12 exp (– 7.3 × 10^–3 / τ),1,C
+9702,2025,June,4,3,6,b(iv),3,τ = 0.018 s,1,A
+9702,2025,June,4,3,6,c,1,time constant = RC,1,C
+9702,2025,June,4,3,6,c,2,R = (0.018 / 570 × 10^–6) = 32 Ω,1,A
+9702,2025,June,4,3,7,a,1,force per unit length,1,B
+9702,2025,June,4,3,7,a,2,force per unit current (and length/current perpendicular to field),1,B
+9702,2025,June,4,3,7,b(i),1,F = BQv,1,B
+9702,2025,June,4,3,7,b(ii),1,arrow at Y pointing vertically upwards,1,B
+9702,2025,June,4,3,7,b(iii),1,upwards deflection showing circular path,1,B
+9702,2025,June,4,3,7,c(i),1,electric field applied vertically downwards,1,B
+9702,2025,June,4,3,7,c(i),2,electric force on particle in opposite direction to magnetic force,1,B
+9702,2025,June,4,3,7,c(i),3,particle undeflected when magnitudes of electric and magnetic forces are equal,1,B
+9702,2025,June,4,3,7,c(ii),1,EQ = BQv,1,B
+9702,2025,June,4,3,7,c(ii),2,v = E / B,1,A
+9702,2025,June,4,3,8,a,1,wavelength associated with a moving particle,1,B
+9702,2025,June,4,3,8,b,1,λ = h / p,1,C
+9702,2025,June,4,3,8,b,2,= (6.63 × 10^–34) / (9.11 × 10^–31 × 4.9 × 10^7) = 1.5 × 10^–11 m,1,A
+9702,2025,June,4,3,8,c,1,similarity: same mass or same magnitude of charge or both leptons,1,B
+9702,2025,June,4,3,8,c,2,"difference: electron has negative charge, positron has positive charge or positron is anti-particle of electron",1,B
+9702,2025,June,4,3,8,d(i),1,(pair) annihilation,1,B
+9702,2025,June,4,3,8,d(ii),1,their mass gets converted into energy,1,B
+9702,2025,June,4,3,8,d(ii),2,(their mass–energy) becomes the energy of the gamma photons,1,B
+9702,2025,June,4,3,8,d(iii),1,they travel in opposite directions to conserve momentum,1,B
+9702,2025,June,4,3,8,d(iv),1,kinetic energy = ½ × 9.11 × 10^–31 × (4.9 × 10^7)^2 = 1.1 × 10^–15 J,1,A
+9702,2025,June,4,3,8,d(v),1,E = mc^2,1,C
+9702,2025,June,4,3,8,d(v),2,E = hc / λ or E = hf and c = fλ,1,C
+9702,2025,June,4,3,8,d(v),3,(1.1 × 10^–15) + (9.11 × 10^–31 × (3.00 × 10^8)^2) = (6.63 × 10^–34 × 3.00 × 10^8) / λ leading to λ = 2.39 × 10^–12 m,1,A
+9702,2025,June,4,3,9,a,1,number of nuclear disintegrations per unit time,1,B
+9702,2025,June,4,3,9,b,1,activity is proportional to the number of undecayed nuclei,1,B
+9702,2025,June,4,3,9,b,2,activity = (–) rate of change of number of undecayed nuclei,1,B
+9702,2025,June,4,3,9,b,3,N is proportional to the rate of change of N (so exponential variation),1,B
+9702,2025,June,4,3,9,c(i),1,120 = 180 exp (– λ × 8.4),1,C
+9702,2025,June,4,3,9,c(i),2,λ = 0.048 min^–1,1,A
+9702,2025,June,4,3,9,c(ii),1,half-life = ln 2 / 0.048,1,C
+9702,2025,June,4,3,9,c(ii),2,= 14 min,1,A
+9702,2025,June,4,3,9,c(iii),1,"line with negative gradient throughout, starting at (0, 180)",1,B
+9702,2025,June,4,3,9,c(iii),2,"curve with negative gradient passing through (8.4, 120)",1,B
+9702,2025,June,4,3,9,c(iii),3,"curve with decreasing negative gradient, from t = 0 to t = 24 min, passing through (14, 90)",1,B
+9702,2025,June,4,3,10,a,1,speed is (directly) proportional to distance,1,M
+9702,2025,June,4,3,10,a,2,"speed is speed of recession of galaxy from an observer, and distance is the distance of the galaxy from the observer",1,A
+9702,2025,June,4,3,10,b(i),1,galaxy is receding from the Earth,1,B
+9702,2025,June,4,3,10,b(i),2,observed wavelength is redshifted from emitted wavelength,1,B
+9702,2025,June,4,3,10,b(ii),1,∆λ / λ = v / c so (4.91 – 4.62) / 4.62 = v / (3.00 × 10^8),1,C
+9702,2025,June,4,3,10,b(ii),2,v = 1.9 × 10^7 m s^–1,1,A
+9702,2025,June,4,3,10,b(iii),1,wavelength (of maximum intensity) is inversely proportional to temperature (temperature is lower),1,B
+9702,2025,June,1,1,1,NULL,1,NULL,1,B
+9702,2025,June,1,1,2,NULL,1,NULL,1,B
+9702,2025,June,1,1,3,NULL,1,NULL,1,B
+9702,2025,June,1,1,4,NULL,1,NULL,1,B
+9702,2025,June,1,1,5,NULL,1,NULL,1,B
+9702,2025,June,1,1,6,NULL,1,NULL,1,B
+9702,2025,June,1,1,7,NULL,1,NULL,1,B
+9702,2025,June,1,1,8,NULL,1,NULL,1,B
+9702,2025,June,1,1,9,NULL,1,NULL,1,B
+9702,2025,June,1,1,10,NULL,1,NULL,1,B
+9702,2025,June,1,1,11,NULL,1,NULL,1,B
+9702,2025,June,1,1,12,NULL,1,NULL,1,B
+9702,2025,June,1,1,13,NULL,1,NULL,1,B
+9702,2025,June,1,1,14,NULL,1,NULL,1,B
+9702,2025,June,1,1,15,NULL,1,NULL,1,B
+9702,2025,June,1,1,16,NULL,1,NULL,1,B
+9702,2025,June,1,1,17,NULL,1,NULL,1,B
+9702,2025,June,1,1,18,NULL,1,NULL,1,B
+9702,2025,June,1,1,19,NULL,1,NULL,1,B
+9702,2025,June,1,1,20,NULL,1,NULL,1,B
+9702,2025,June,1,1,21,NULL,1,NULL,1,B
+9702,2025,June,1,1,22,NULL,1,NULL,1,B
+9702,2025,June,1,1,23,NULL,1,NULL,1,B
+9702,2025,June,1,1,24,NULL,1,NULL,1,B
+9702,2025,June,1,1,25,NULL,1,NULL,1,B
+9702,2025,June,1,1,26,NULL,1,NULL,1,B
+9702,2025,June,1,1,27,NULL,1,NULL,1,B
+9702,2025,June,1,1,28,NULL,1,NULL,1,B
+9702,2025,June,1,1,29,NULL,1,NULL,1,B
+9702,2025,June,1,1,30,NULL,1,NULL,1,B
+9702,2025,June,1,1,31,NULL,1,NULL,1,B
+9702,2025,June,1,1,32,NULL,1,NULL,1,B
+9702,2025,June,1,1,33,NULL,1,NULL,1,B
+9702,2025,June,1,1,34,NULL,1,NULL,1,B
+9702,2025,June,1,1,35,NULL,1,NULL,1,B
+9702,2025,June,1,1,36,NULL,1,NULL,1,B
+9702,2025,June,1,1,37,NULL,1,NULL,1,B
+9702,2025,June,1,1,38,NULL,1,NULL,1,B
+9702,2025,June,1,1,39,NULL,1,NULL,1,B
+9702,2025,June,1,1,40,NULL,1,NULL,1,B
+9702,2025,June,2,1,1,a,1,rate of change of velocity,1,B
+9702,2025,June,2,1,1,b(i),1,s = ut + 1/2at^2 and u = 0 or s = 1/2at^2 OR t = sqrt(2 x 14 / 9.81),1,C
+9702,2025,June,2,1,1,b(i),1,t = 1.7 s,1,A
+9702,2025,June,2,1,1,b(ii),1,u = (3.6 - 1/2 x 9.81 x 1.7^2) / 1.7,1,C
+9702,2025,June,2,1,1,b(ii),1,u = (-) 6.2 m s^-1,1,A
+9702,2025,June,2,1,1,c(i),1,Less time (as it reaches a lower height),1,B
+9702,2025,June,2,1,1,c(i),1,(because) the initial vertical (component of the) velocity is smaller (than in part (b)),1,B
+9702,2025,June,2,1,1,c(ii),1,The (total) initial energy is the same (as in part (b)),1,B
+9702,2025,June,2,1,1,c(ii),1,"change in gravitational potential energy is same, so speed is the same",1,B
+9702,2025,June,2,1,2,a,1,in (rotational) equilibrium,1,B
+9702,2025,June,2,1,2,a,1,sum / total of clockwise moments about a point = sum / total of anticlockwise moments about the (same) point,1,B
+9702,2025,June,2,1,2,b,1,80 x 9.81 x 3 or 60 x 9.81 x 3 or 45 x 9.81 x x,1,C
+9702,2025,June,2,1,2,b,1,80 x 9.81 x 3 = (60 x 9.81 x 3) + (45 x 9.81 x x),1,C
+9702,2025,June,2,1,2,b,1,x = 1.3 m,1,A
+9702,2025,June,2,1,2,c(i),1,k = F / x ; x = 0.80 - 0.59 = 0.21 m,1,C
+9702,2025,June,2,1,2,c(i),1,k = (60 x 9.81) / 0.21,1,C
+9702,2025,June,2,1,2,c(i),1,= 2800 N m^-1,1,A
+9702,2025,June,2,1,2,c(ii),1,E = 1/2 kx^2 or E = 1/2 Fx or E = 1/2 F^2/k ; = 1/2 x 2800 x 0.21^2,1,C
+9702,2025,June,2,1,2,c(ii),1,= 62 J,1,A
+9702,2025,June,2,1,3,a,1,work done per unit time,1,B
+9702,2025,June,2,1,3,b(i),1,P = F x v = 1750 x 35,1,C
+9702,2025,June,2,1,3,b(i),1,= 6.1 x 10^4 W,1,A
+9702,2025,June,2,1,3,b(ii),1,W = Fs = 1750 x 17000,1,C
+9702,2025,June,2,1,3,b(ii),1,= 3.0 x 10^7 J,1,A
+9702,2025,June,2,1,3,b(iii),1,P = V x I ; Power in = 600 x I,1,C
+9702,2025,June,2,1,3,b(iii),1,Efficiency = useful power output / (total) power input ; 0.85 = 6.1 x 10^4 / (600 x I),1,C
+9702,2025,June,2,1,3,b(iii),1,I = 120 A,1,A
+9702,2025,June,2,1,3,c(i),1,"Air resistance is the same, as the speed is the same",1,B
+9702,2025,June,2,1,3,c(ii),1,The motor is producing less power (because of gravitational force / conversion of gravitational potential energy to kinetic energy) so the current will be smaller,1,B
+9702,2025,June,2,1,4,a,1,(when two or more) waves meet / overlap (at a point),1,B
+9702,2025,June,2,1,4,a,1,(resultant) displacement is sum of the individual displacements,1,B
+9702,2025,June,2,1,4,b(i),1,"Fringe width, x = 3.2 x 10^-2 / 8 = 4.0 x 10^-3 m",1,C
+9702,2025,June,2,1,4,b(i),1,D = ax / lambda = (4.0 x 10^-3 x 0.16 x 10^-3) / 7.2 x 10^-7,1,C
+9702,2025,June,2,1,4,b(i),1,= 0.89 m,1,A
+9702,2025,June,2,1,4,b(ii),1,"Curved line with a negative gradient of decreasing magnitude throughout, from slit separation 0.04 mm to 0.16 mm",1,B
+9702,2025,June,2,1,4,b(ii),1,"Line of negative gradient ending at (0.16, 0.4), from slit separation 0.04 mm",1,B
+9702,2025,June,2,1,4,b(ii),1,"Line of negative gradient passing through (0.08, 0.8) and (0.04, 1.6)",1,B
+9702,2025,June,2,1,5,a,1,wavelength = distance between successive/adjacent in phase points/wavefronts/crests/troughs OR frequency = (number of) oscillations/cycles passing a point per unit time,1,B
+9702,2025,June,2,1,5,a,1,speed = distance / time and wavelength x frequency = speed or v = d/t = lambda / T = f lambda,1,B
+9702,2025,June,2,1,5,b(i),1,T = 4 x 10^-3 ; f = 1 / T = 1 / 0.004,1,C
+9702,2025,June,2,1,5,b(i),1,f = 250 Hz,1,A
+9702,2025,June,2,1,5,b(ii),1,fo = fs v / (v - vs) ; 250 = 236 x v / (v - 20) ; v = (250 x 20) / (250 - 236),1,C
+9702,2025,June,2,1,5,b(ii),1,= 360 m s^-1,1,A
+9702,2025,June,2,1,6,a(i),1,I = 1.3 / 1.1 = 1.2 A,1,A
+9702,2025,June,2,1,6,a(ii),1,v = I / nqA = 1.2 / (8.5 x 10^28 x 1.60 x 10^-19 x 4.7 x 10^-7),1,C
+9702,2025,June,2,1,6,a(ii),1,= 1.9 x 10^-4 m s^-1,1,A
+9702,2025,June,2,1,6,a(iii),1,rho = RA / L,1,C
+9702,2025,June,2,1,6,a(iii),1,= (1.1 x 4.7 x 10^-7) / 0.45,1,C
+9702,2025,June,2,1,6,a(iii),1,= 1.1 x 10^-6 Ohm m,1,A
+9702,2025,June,2,1,6,b(i),1,(Total) resistance decreases (and the potential difference stays the same),1,M
+9702,2025,June,2,1,6,b(i),1,(so the reading on the ammeter) increases,1,A
+9702,2025,June,2,1,6,b(ii),1,(The average drift speed will be) the same because the current is the same (in X),1,B
+9702,2025,June,2,1,7,a,1,beta-plus shown,1,B
+9702,2025,June,2,1,7,a,1,neutrino shown,1,B
+9702,2025,June,2,1,7,a,1,"symbols, nucleon numbers and proton numbers all correct (12_7 N -> 12_6 C + 0_1 beta + 0_0 neutrino)",1,B
+9702,2025,June,2,1,7,b(i),1,+1,1,B
+9702,2025,June,2,1,7,b(ii),1,Lepton(s),1,B
+9702,2025,June,2,1,7,b(iii),1,"3 correct quark flavours (up, up, down)",1,B
+9702,2025,June,2,1,7,b(iii),1,Charge on anti-up quark -2/3(e),1,B
+9702,2025,June,2,1,7,b(iii),1,Charge on anti-down quark (+)1/3(e),1,B
+9702,2025,June,4,1,1,a,1,work done per unit mass,1,B
+9702,2025,June,4,1,1,a,1,work (done in) moving mass from infinity (to the point),1,B
+9702,2025,June,4,1,1,b(i),1,evidence of addition of 3.4 x 10^6 to 1.7 x 10^6 or 6.8 x 10^6,1,C
+9702,2025,June,4,1,1,b(i),1,GM x 12^2 / (5.1 x 10^6) or GM x 12^2 / (10.2 x 10^6),1,C
+9702,2025,June,4,1,1,b(i),1,M = 6.4 x 10^23 kg,1,A
+9702,2025,June,4,1,1,b(ii),1,phi = (-) (6.67 x 10^-11 x 6.4 x 10^23) / (3.4 x 10^6),1,C
+9702,2025,June,4,1,1,b(ii),1,= -1.3 x 10^7 J kg^-1,1,A
+9702,2025,June,4,1,1,c(i),1,Mars takes (just under) 25 hours to rotate once on its axis,1,B
+9702,2025,June,4,1,1,c(ii),1,orbit is equatorial OR orbit is in same direction as direction of rotation of Mars,1,B
+9702,2025,June,4,1,2,a,1,(electric) force is (directly) proportional to product of charges,1,B
+9702,2025,June,4,1,2,a,1,force (between point charges) is inversely proportional to the square of their separation,1,B
+9702,2025,June,4,1,2,b(i),1,charge = (+)2e,1,A
+9702,2025,June,4,1,2,b(ii),1,F = 2 x (1.60 x 10^-19)^2 / [4pi x 8.85 x 10^-12 x (170 x 10^-12)^2] = 1.6 x 10^-8 N,1,A
+9702,2025,June,4,1,2,c(i),1,F = mv^2 / r,1,C
+9702,2025,June,4,1,2,c(i),1,v = 1.7 x 10^6 m s^-1,1,A
+9702,2025,June,4,1,2,c(ii),1,F = mr w^2 and w = 2pi / T,1,C
+9702,2025,June,4,1,2,c(ii),1,T = 6.2 x 10^-16 s,1,A
+9702,2025,June,4,1,2,d(i),1,E proportional to Q / r^2,1,C
+9702,2025,June,4,1,2,d(i),1,ratio = 0.13,1,A
+9702,2025,June,4,1,2,d(ii),1,resultant force slightly less (than 1.6 x 10^-8 N) so speed lower OR resultant force slightly less so period greater,1,B
+9702,2025,June,4,1,3,a,1,(thermal) energy per unit mass (to cause state change),1,B
+9702,2025,June,4,1,3,a,1,(thermal) energy to change state at constant temperature,1,B
+9702,2025,June,4,1,3,b,1,involves greater change in volume (of substance) OR involves greater increase in separation of molecules,1,B
+9702,2025,June,4,1,3,b,1,more work has to be done by molecules (to separate) OR greater increase in potential energy of molecules,1,M
+9702,2025,June,4,1,3,b,1,"kinetic energy of molecules unchanged, so more thermal energy needed",1,A
+9702,2025,June,4,1,3,c,1,Q = mc dT and Q = mL,1,C
+9702,2025,June,4,1,3,c,1,dT for the water = 26.4 - 10.3,1,C
+9702,2025,June,4,1,3,c,1,L = 335 J g^-1,1,A
+9702,2025,June,4,1,4,a(i),1,sum of potential energy and kinetic energy,1,B
+9702,2025,June,4,1,4,a(i),1,(total) energy of random motion of particles,1,B
+9702,2025,June,4,1,4,a(ii),1,"potential energy (of molecules) (in an ideal gas) is zero, so the internal energy of the gas is equal to the total kinetic energy (of molecules)",1,B
+9702,2025,June,4,1,4,a(ii),1,kinetic energy of molecules is proportional to (thermodynamic) temperature (so internal energy is proportional to (thermodynamic) temperature),1,B
+9702,2025,June,4,1,4,b,1,cooling work done = 0,1,B
+9702,2025,June,4,1,4,b,1,compression increase in internal energy = +2U,1,B
+9702,2025,June,4,1,4,b,1,cooling change in internal energy = -U,1,B
+9702,2025,June,4,1,5,a(i),1,amplitude = 0.60 m,1,A
+9702,2025,June,4,1,5,a(ii),1,oscillations are simple harmonic,1,B
+9702,2025,June,4,1,5,b,1,mean / equilibrium position is at h = 1.4 m,1,B
+9702,2025,June,4,1,5,b,1,total energy of oscillations = 9.0 J,1,B
+9702,2025,June,4,1,5,b,1,mass of block = 33 kg,1,B
+9702,2025,June,4,1,5,c,1,U-shaped curve resting on h axis (with minimum at EP = 0),1,B
+9702,2025,June,4,1,5,c,1,"curve from h = 0.8 m to h = 2.0 m, with minimum EP shown at h = 1.4 m",1,B
+9702,2025,June,4,1,5,c,1,both end-points of curve shown at EP = 9.0 J,1,B
+9702,2025,June,4,1,6,a(i),1,conversion from a.c. to d.c.,1,B
+9702,2025,June,4,1,6,a(ii),1,smoothing,1,B
+9702,2025,June,4,1,6,b(i),1,A = 12 V,1,A
+9702,2025,June,4,1,6,b(i),1,B = 310 rad s^-1,1,A
+9702,2025,June,4,1,6,b(ii),1,full-wave (rectification),1,B
+9702,2025,June,4,1,6,b(iii),1,"four diodes shown, with correct circuit symbols",1,B
+9702,2025,June,4,1,6,b(iii),1,four diodes correctly connected to form a bridge rectifier,1,B
+9702,2025,June,4,1,6,b(iv),1,V = V0 exp (-t / tau),1,C
+9702,2025,June,4,1,6,b(iv),1,8.0 = 12 exp (- 7.3 x 10^-3 / tau),1,C
+9702,2025,June,4,1,6,b(iv),1,tau = 0.018 s,1,A
+9702,2025,June,4,1,6,c,1,time constant = RC,1,C
+9702,2025,June,4,1,6,c,1,R = 32 Ohm,1,A
+9702,2025,June,4,1,7,a,1,force per unit length,1,B
+9702,2025,June,4,1,7,a,1,force per unit current (length / current perpendicular to field),1,B
+9702,2025,June,4,1,7,b(i),1,F = BQv,1,B
+9702,2025,June,4,1,7,b(ii),1,arrow at Y pointing vertically upwards,1,B
+9702,2025,June,4,1,7,b(iii),1,upwards deflection showing circular path,1,B
+9702,2025,June,4,1,7,c(i),1,electric field applied vertically downwards (may be shown on a labelled diagram),1,B
+9702,2025,June,4,1,7,c(i),1,electric force on particle in opposite direction to magnetic force,1,B
+9702,2025,June,4,1,7,c(i),1,particle undeflected when magnitudes of electric and magnetic forces are equal,1,B
+9702,2025,June,4,1,7,c(ii),1,EQ = BQv,1,B
+9702,2025,June,4,1,7,c(ii),1,v = E / B,1,A
+9702,2025,June,4,1,8,a,1,wavelength associated with a moving particle,1,B
+9702,2025,June,4,1,8,b,1,lambda = h / p,1,C
+9702,2025,June,4,1,8,b,1,= 1.5 x 10^-11 m,1,A
+9702,2025,June,4,1,8,c,1,similarity: same mass / same magnitude of charge / both leptons,1,B
+9702,2025,June,4,1,8,c,1,"difference: electron has negative charge, positron has positive charge / positron is anti-particle of electron",1,B
+9702,2025,June,4,1,8,d(i),1,(pair) annihilation,1,B
+9702,2025,June,4,1,8,d(ii),1,their mass gets converted into energy,1,B
+9702,2025,June,4,1,8,d(ii),1,(their mass-energy) becomes the energy of the gamma photons,1,B
+9702,2025,June,4,1,8,d(iii),1,they travel in opposite directions to conserve momentum,1,B
+9702,2025,June,4,1,8,d(iv),1,kinetic energy = 1.1 x 10^-15 J,1,A
+9702,2025,June,4,1,8,d(v),1,E = mc^2,1,C
+9702,2025,June,4,1,8,d(v),1,E = hc / lambda,1,C
+9702,2025,June,4,1,8,d(v),1,lambda = 2.39 x 10^-12 m,1,A
+9702,2025,June,4,1,9,a,1,number of nuclear disintegrations per unit time,1,B
+9702,2025,June,4,1,9,b,1,activity is proportional to the number of undecayed nuclei,1,B
+9702,2025,June,4,1,9,b,1,activity = (-) rate of change of number of undecayed nuclei,1,B
+9702,2025,June,4,1,9,b,1,N is proportional to the rate of change of N (so exponential variation),1,B
+9702,2025,June,4,1,9,c(i),1,120 = 180 exp (- lambda x 8.4),1,C
+9702,2025,June,4,1,9,c(i),1,lambda = 0.048 min^-1,1,A
+9702,2025,June,4,1,9,c(ii),1,half-life = ln 2 / 0.048 = 14 min,1,A
+9702,2025,June,4,1,9,c(ii),1,14 min,1,A
+9702,2025,June,4,1,9,c(iii),1,"line with negative gradient throughout, starting at (0, 180)",1,B
+9702,2025,June,4,1,9,c(iii),1,"curve with negative gradient passing through (8.4, 120)",1,B
+9702,2025,June,4,1,9,c(iii),1,"curve with decreasing negative gradient, from t = 0 to t = 24 min, passing through (14, 90)",1,B
+9702,2025,June,4,1,10,a,1,speed is (directly) proportional to distance,1,M
+9702,2025,June,4,1,10,a,1,"speed is speed of recession of galaxy from an observer, and distance is the distance of the galaxy from the observer",1,A
+9702,2025,June,4,1,10,b(i),1,galaxy is receding from the Earth,1,B
+9702,2025,June,4,1,10,b(i),1,observed wavelength is redshifted from emitted wavelength,1,B
+9702,2025,June,4,1,10,b(ii),1,delta lambda / lambda = v / c,1,C
+9702,2025,June,4,1,10,b(ii),1,v = 1.9 x 10^7 m s^-1,1,A
+9702,2025,June,4,1,10,b(iii),1,wavelength (of maximum intensity) is inversely proportional to temperature,1,B
+9702,2025,June,4,1,10,b(iii),1,"observed wavelength too high, so determined temperature too low",1,B
+9702,2025,June,4,1,10,c,1,v = H0 d,1,C
+9702,2025,June,4,1,10,c,1,d = 8.3 x 10^24 m,1,A
+9709,2025,November,1,1,1,NULL,1,*M1,1,
+9709,2025,November,1,1,64,NULL,1,A1,1,
+9709,2025,November,1,1,16,NULL,1,B1,1,B0 for use of ⩽ and/or ⩾.
+9709,2025,November,1,1,64,NULL,1,B1,1,Condone poor notation.
+9709,2025,November,1,1,1,NULL,1,M1,1,Must come from division.
+9709,2025,November,1,1,1,NULL,1,A1,1,Allow greater accuracy 1.318116…
+9709,2025,November,1,1,1,NULL,1,A0,1,for 75.5o.
+9709,2025,November,1,1,2,b,1,M1,1,Using exact or approximate value for r.
+9709,2025,November,1,1,3,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,1,1,3,NULL,1,B1,1,Or coefficient is
+9709,2025,November,1,1,3,NULL,1,M1,1,
+9709,2025,November,1,1,6,NULL,1,A1,1,Or coefficient is
+9709,2025,November,1,1,2,NULL,1,M1,1,Solve quadratic in p2 using suitable method. E.g.
+9709,2025,November,1,1,2,NULL,1,B1,1,No other solutions.
+9709,2025,November,1,1,4,a,1,B1,1,
+9709,2025,November,1,1,4,b,1,B1,1,
+9709,2025,November,1,1,3,NULL,1,B1,1,FT Following their value of b.
+9709,2025,November,1,1,10,NULL,1,B1,1,FT Following their value of a.
+9709,2025,November,1,1,1,NULL,1,B1,1,Candidates can work from LHS to RHS or RHS
+9709,2025,November,1,1,1,NULL,1,M1,1,
+9709,2025,November,1,1,1,NULL,1,A1,1,AG – necessary detail needed.
+9709,2025,November,1,1,4,NULL,1,B1,1,
+9709,2025,November,1,1,4,NULL,1,M1,1,
+9709,2025,November,1,1,4,NULL,1,A1,1,AG – necessary detail needed.
+9709,2025,November,1,1,2,NULL,1,B1,1,
+9709,2025,November,1,1,2,NULL,1,M1,1,
+9709,2025,November,1,1,5,b,1,*M1,1,
+9709,2025,November,1,1,1,NULL,1,A1,1,Condone
+9709,2025,November,1,1,2,NULL,1,A1,1,"Or greater accuracy 70.528…, 109.471…, and"
+9709,2025,November,1,1,2,NULL,1,A0,1,if
+9709,2025,November,1,1,3,NULL,1,B1,1,Must be ⩾ rather than >.
+9709,2025,November,1,1,6,b,1,M1,1,Or in terms of x already.
+9709,2025,November,1,1,12,NULL,1,A1,1,Now in terms of x.
+9709,2025,November,1,1,12,NULL,1,A0,1,for  in final answer.
+9709,2025,November,1,1,6,c,1,*M1,1,Expect 2((x + 3)2 – 12) – 5.
+9709,2025,November,1,1,69,NULL,1,A1,1,OE
+9709,2025,November,1,1,4,NULL,1,A1,1,
+9709,2025,November,1,1,1,NULL,1,*M1,1,Incorrect order of
+9709,2025,November,1,1,1,NULL,1,A1,1,
+9709,2025,November,1,1,2,NULL,1,A1,1,AG
+9709,2025,November,1,1,2,NULL,1,B1,1,Or greater accuracy
+9709,2025,November,1,1,20,NULL,1,M1,1,‘their’ d
+9709,2025,November,1,1,20,NULL,1,A1,1,AWRT
+9709,2025,November,1,1,3,NULL,1,B1,1,Could be implied by d
+9709,2025,November,1,1,3,NULL,1,A1,1,AWRT
+9709,2025,November,1,1,2,NULL,1,B1,1,OE
+9709,2025,November,1,1,2,NULL,1,A1,1,
+9709,2025,November,1,1,2,NULL,1,M1,1,Condone ky4.
+9709,2025,November,1,1,16,NULL,1,A1,1,
+9709,2025,November,1,1,16,NULL,1,A1,1,Condone omission of π  except for last mark.
+9709,2025,November,1,1,9,NULL,1,*M1,1,Allow unsimplified.
+9709,2025,November,1,1,36,NULL,1,A1,1,Must be simplified but can be implied by later
+9709,2025,November,1,1,5,NULL,1,A1,1,
+9709,2025,November,1,1,9,b,1,M1,1,
+9709,2025,November,1,1,9,b,1,B1,1,Must be from correct d in part (a).
+9709,2025,November,1,1,9,b,1,M1,1,Using a = 3 + their d from part (a).
+9709,2025,November,1,1,9,b,1,A1,1,
+9709,2025,November,1,1,10,a,1,*M1,1,Allow unsimplified.
+9709,2025,November,1,1,0,NULL,1,A1,1,Or similarly simplified equivalent.
+9709,2025,November,1,1,0,NULL,1,B1,1,
+9709,2025,November,1,1,10,b,1,B1,1,
+9709,2025,November,1,1,2,NULL,1,M1,1,OE
+9709,2025,November,1,1,10,NULL,1,B1,1,
+9709,2025,November,1,1,43,NULL,1,A1,1,
+9709,2025,November,1,1,16,NULL,1,B1,1,B1 OE
+9709,2025,November,1,1,100,NULL,1,B1,1,
+9709,2025,November,1,1,8,NULL,1,B1,1,B1
+9709,2025,November,1,1,4,NULL,1,A1,1,OE
+9709,2025,November,1,1,11,NULL,1,A1,1,Not y = 11.
+9709,2025,November,3,1,1,NULL,1,*M1,1,Accept
+9709,2025,November,3,1,1,NULL,1,A1,1,
+9709,2025,November,3,1,2,NULL,1,A1,1,"If no working seen, no marks are available."
+9709,2025,November,3,1,2,a,1,B1,1,
+9709,2025,November,3,1,2,a,1,M1,1,
+9709,2025,November,3,1,4,NULL,1,A1,1,E.g. 16(2x + 1) = (3x – 1)2 or 9x2 – 38x – 15 = 0
+9709,2025,November,3,1,2,b,1,M1,1,
+9709,2025,November,3,1,2,b,1,A1,1,
+9709,2025,November,3,1,3,a,1,B1,1,
+9709,2025,November,3,1,3,a,1,B1,1,FT FT their 3 and 4.
+9709,2025,November,3,1,4,NULL,1,M1,1,Using their 3 and 4.
+9709,2025,November,3,1,4,NULL,1,M0,1,A0.
+9709,2025,November,3,1,4,NULL,1,A1,1,
+9709,2025,November,3,1,4,NULL,1,B1,1,FT FT their R from (a).
+9709,2025,November,3,1,5,NULL,1,M1,1,
+9709,2025,November,3,1,5,NULL,1,A1,1,Answers may be more accurate for A marks.
+9709,2025,November,3,1,5,NULL,1,A1,1,Ignore answers outside the given interval.
+9709,2025,November,3,1,4,NULL,1,M1,1,Condone sign error.
+9709,2025,November,3,1,4,NULL,1,A1,1,OE
+9709,2025,November,3,1,4,NULL,1,M1,1,Allow arithmetical errors.
+9709,2025,November,3,1,0,NULL,1,A1,1,OE
+9709,2025,November,3,1,0,NULL,1,A1,1,May be more accurate.
+9709,2025,November,3,1,5,a,1,B1,1,Allow 2
+9709,2025,November,3,1,3,NULL,1,M1,1,Accept equation or any inequality sign.
+9709,2025,November,3,1,2,NULL,1,A1,1,OE
+9709,2025,November,3,1,5,b,1,B1,1,May be clearly indicated as a point on the diagram.
+9709,2025,November,3,1,3,NULL,1,M1,1,
+9709,2025,November,3,1,3,NULL,1,A1,1,
+9709,2025,November,3,1,6,NULL,1,M1,1,
+9709,2025,November,3,1,4,NULL,1,M1,1,
+9709,2025,November,3,1,2,NULL,1,M1,1,Need some evidence of multiplying.
+9709,2025,November,3,1,5,NULL,1,A1,1,
+9709,2025,November,3,1,5,NULL,1,A1,1,OE
+9709,2025,November,3,1,5,NULL,1,M1,1,Two separate equations.
+9709,2025,November,3,1,1,NULL,1,B1,1,
+9709,2025,November,3,1,1,NULL,1,M1,1,Might split first as 1
+9709,2025,November,3,1,1,NULL,1,A1,1,Simplifies to
+9709,2025,November,3,1,1,NULL,1,M1,1,Allow for d .
+9709,2025,November,3,1,1,NULL,1,A1,1,OE. Must have 1 in numerator.
+9709,2025,November,3,1,2,NULL,1,B1,1,
+9709,2025,November,3,1,2,NULL,1,M1,1,
+9709,2025,November,3,1,2,NULL,1,A1,1,
+9709,2025,November,3,1,1,NULL,1,M1,1,Express in terms of t.
+9709,2025,November,3,1,1,NULL,1,A1,1,OE
+9709,2025,November,3,1,8,NULL,1,B1,1,
+9709,2025,November,3,1,2,NULL,1,B1,1,OE
+9709,2025,November,3,1,1,NULL,1,B1,1,OE
+9709,2025,November,3,1,1,NULL,1,M1,1,
+9709,2025,November,3,1,1,NULL,1,A1,1,"OE, e.g."
+9709,2025,November,3,1,2,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,3,1,4,NULL,1,B1,1,
+9709,2025,November,3,1,4,NULL,1,B1,1,"Needs to mark intersection with a dot, a cross, or say"
+9709,2025,November,3,1,9,b,1,M1,1,E.g.
+9709,2025,November,3,1,0,NULL,1,A1,1,
+9709,2025,November,3,1,9,d,1,M1,1,
+9709,2025,November,3,1,9,d,1,A1,1,
+9709,2025,November,3,1,9,d,1,A1,1,E.g.
+9709,2025,November,3,1,1,NULL,1,A1,1,"SC: If B0 scored due to missing term(s), then a"
+9709,2025,November,3,1,1,NULL,1,A1,1,"SC if obtaining A = 1 and then scoring B0, they can"
+9709,2025,November,3,1,2,NULL,1,M1,1,Symbolic binomial coefficients not sufficient for the
+9709,2025,November,3,1,2,NULL,1,M1,1,.
+9709,2025,November,3,1,2,NULL,1,A1,1,"FT FT B, C and D."
+9709,2025,November,3,1,2,NULL,1,A1,1,FT
+9709,2025,November,3,1,108,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,3,1,11,a,1,M1,1,
+9709,2025,November,3,1,11,b,1,B1,1,Or (
+9709,2025,November,3,1,5,NULL,1,A1,1,Accept coordinates.
+9709,2025,November,5,1,18,NULL,1,B1,1,Using sum of probabilities =1 to form an equation in k or value of
+9709,2025,November,5,1,18,NULL,1,B1,1,Table with at least 2 correctly linked probabilities accurate. May
+9709,2025,November,5,1,3,NULL,1,B1,1,4 correctly linked probabilities accurate.
+9709,2025,November,5,1,9,NULL,1,B1,1,FT FT 28 × their k or correct with 0
+9709,2025,November,5,1,18,NULL,1,M1,1,
+9709,2025,November,5,1,9,NULL,1,A1,1,
+9709,2025,November,5,1,7,NULL,1,B1,1,Accept 0.0465136… rounded to 3 or more SF.
+9709,2025,November,5,1,6,NULL,1,B1,1,
+9709,2025,November,5,1,6,NULL,1,M1,1,
+9709,2025,November,5,1,1,NULL,1,A1,1,AWRT.
+9709,2025,November,5,1,3,a,1,B1,1,"Accept Q2, must be identified."
+9709,2025,November,5,1,3,a,1,M1,1,335[00] ⩽ UQ ⩽ 337[00] – 313[00] ⩽ LQ ⩽ 315[00].
+9709,2025,November,5,1,3,a,1,A1,1,CAO.
+9709,2025,November,5,1,54,NULL,1,B1,1,Accept 878300
+9709,2025,November,5,1,54,NULL,1,B1,1,"Accept [$]32866.67 to 3 or more SF,"
+9709,2025,November,5,1,54,NULL,1,M1,1,Accept un-simplified variance formula.
+9709,2025,November,5,1,54,NULL,1,A1,1,"Accept un-simplified, condone 1.85."
+9709,2025,November,5,1,54,NULL,1,A1,1,Condone 1.36 if B1B0 scored for mean.
+9709,2025,November,5,1,4,a,1,B1,1,Bag B branches completed correctly including Red/Blue.
+9709,2025,November,5,1,4,a,1,B1,1,2 sets of Bag A branches completely correctly including Red/Blue.
+9709,2025,November,5,1,4,a,1,B1,1,Final 2 sets of Bag A branches completely correctly including
+9709,2025,November,5,1,11,NULL,1,M1,1,"Both, FT their tree diagram probabilities."
+9709,2025,November,5,1,726,NULL,1,A1,1,0.4320661… to 3 or more SF.
+9709,2025,November,5,1,5,a,1,M1,1,One term of the form 7Cx ( ) (
+9709,2025,November,5,1,0,NULL,1,A1,1,Correct un-simplified expression no terms omitted leading to the
+9709,2025,November,5,1,0,NULL,1,B1,1,0.4198 < p ⩽ 0.42[0].
+9709,2025,November,5,1,0,NULL,1,M1,1,One term of the form 7Cx ( ) (
+9709,2025,November,5,1,0,NULL,1,A1,1,"Correct un-simplified expression, no more than 2 ‘middle’ terms"
+9709,2025,November,5,1,5,b,1,B1,1,"15 and 13.5 seen, allowed un-simplified. May be seen in the"
+9709,2025,November,5,1,5,b,1,M1,1,Substituting their µ and σ into the ±standardising formula (any
+9709,2025,November,5,1,5,b,1,M1,1,Use continuity correction 21.5 or 22.5 in standardisation formula.
+9709,2025,November,5,1,5,b,1,M1,1,"Appropriate area Φ, from final process, must be a probability"
+9709,2025,November,5,1,5,b,1,A1,1,AWRT 0.962.
+9709,2025,November,5,1,6,NULL,1,M1,1,"Substituting 155, 6 and 148 or 160 into ± standardisation formula,"
+9709,2025,November,5,1,6,NULL,1,M1,1,.
+9709,2025,November,5,1,1,NULL,1,M1,1,Calculating the appropriate probability area (leading to their final
+9709,2025,November,5,1,1,NULL,1,A1,1,AWRT 0.676 SOI.
+9709,2025,November,5,1,236,NULL,1,B1,1,FT Strict FT their at least 4 figure probability × 350
+9709,2025,November,5,1,114,NULL,1,B1,1,"1.405 < z1 < 1.407, −1.407 < z1 < −1.405 seen."
+9709,2025,November,5,1,114,NULL,1,B1,1,"0.841 < z < 0.843, −0.843 < z < −0.841 seen."
+9709,2025,November,5,1,114,NULL,1,M1,1,"Use of the ±standardisation formula once with µ, σ equating to a z-"
+9709,2025,November,5,1,114,NULL,1,M1,1,"Solve two equations in µ and σ using the elimination method,"
+9709,2025,November,5,1,114,NULL,1,A1,1,104.5
+9709,2025,November,5,1,151200,NULL,1,B1,1,CAO.
+9709,2025,November,5,1,7,b,1,M1,1,
+9709,2025,November,5,1,7,b,1,M1,1,Integer 7
+9709,2025,November,5,1,7,b,1,A1,1,
+9709,2025,November,5,1,840,NULL,1,M1,1,
+9709,2025,November,5,1,1,NULL,1,M1,1,"Summing 4 correct or correctly identified scenarios, oe"
+9709,2025,November,5,1,1,NULL,1,A1,1,
+9709,2025,November,5,1,2,NULL,1,M1,1,
+9709,2025,November,5,1,1,NULL,1,M1,1,"Summing 4 correct or correctly identified scenarios, OE."
+9709,2025,November,5,1,7,c,1,M1,1,
+9709,2025,November,5,1,3360,NULL,1,M1,1,
+9709,2025,November,5,1,360,NULL,1,A1,1,
+9709,2025,November,5,1,7,d,1,B1,1,
+9709,2025,November,5,1,7,d,1,M1,1,Seen.
+9709,2025,November,5,1,1,NULL,1,A1,1,"If M mark not awarded, SCB1 for 21"
+9709,2025,November,5,1,11,NULL,1,B1,1,
+9709,2025,November,5,1,11,NULL,1,M1,1,
+9709,2025,November,1,2,2,NULL,1,B2,1,",1,0 B2 for all 3 correct values. B1 for any two correct."
+9709,2025,November,1,2,28,NULL,1,B1,1,FT
+9709,2025,November,1,2,23,NULL,1,M1,1,Solving as far as (
+9709,2025,November,1,2,18,NULL,1,A1,1,ISW if decimals given after the exact answers.
+9709,2025,November,1,2,2,NULL,1,B1,1,
+9709,2025,November,1,2,2,NULL,1,M1,1,"May still be part of a list if, e.g., underlining or"
+9709,2025,November,1,2,2,NULL,1,A1,1,Accept
+9709,2025,November,1,2,2,NULL,1,B1,1,Condone ‘shift’ and vector written as co-ordinates.
+9709,2025,November,1,2,3,NULL,1,B2,1,",1,0 B2 for 3 correct components. B1 for 2."
+9709,2025,November,1,2,3,b,1,B2,1,",1,0 B1 for 3 outside the function and nowhere else,"
+9709,2025,November,1,2,4,a,1,B1,1,
+9709,2025,November,1,2,4,NULL,1,B2,1,",1,0FT FT their k from 4(a) or the letter k."
+9709,2025,November,1,2,4,NULL,1,B2,1,for both correct components and no other x-terms.
+9709,2025,November,1,2,4,NULL,1,B1,1,for one correct.
+9709,2025,November,1,2,2,NULL,1,M1,1,Substituting
+9709,2025,November,1,2,5,NULL,1,A1,1,
+9709,2025,November,1,2,1,NULL,1,B1,1,
+9709,2025,November,1,2,2,NULL,1,M1,1,Setting their d
+9709,2025,November,1,2,2,NULL,1,A1,1,
+9709,2025,November,1,2,4,NULL,1,B1,1,Recognising the quadratic in
+9709,2025,November,1,2,2,NULL,1,M1,1,Condone sign errors only.
+9709,2025,November,1,2,4,NULL,1,A1,1,
+9709,2025,November,1,2,5,b,1,B1,1,SOI
+9709,2025,November,1,2,2,NULL,1,B2,1,", 1, 0 B2 for both correct components and no other x terms."
+9709,2025,November,1,2,2,NULL,1,B1,1,for one correct term.
+9709,2025,November,1,2,2,NULL,1,M1,1,Substituting their a (from part (a)) and their b (from
+9709,2025,November,1,2,6,a,1,B2,1,", 1, 0 B2 Fully correct curve, including 2, 5 and"
+9709,2025,November,1,2,1,NULL,1,B1,1,for one full cycle from 0 to 2π  starting on the
+9709,2025,November,1,2,1,NULL,1,B1,1,Ignore any working out seen or graphs drawn.
+9709,2025,November,1,2,3,NULL,1,B1,1,
+9709,2025,November,1,2,1,NULL,1,M1,1,* For replacing
+9709,2025,November,1,2,0,NULL,1,M1,1,DM1 only.
+9709,2025,November,1,2,0,NULL,1,A1,1,
+9709,2025,November,1,2,2,NULL,1,A2,1,", 1, 0 A2 for three correct values and no others in the range"
+9709,2025,November,1,2,0,NULL,1,A1,1,for 2 correct values.
+9709,2025,November,1,2,7,a,1,B1,1,SOI
+9709,2025,November,1,2,10,NULL,1,B1,1,SOI
+9709,2025,November,1,2,6,NULL,1,M1,1,"Using what they think that the centre and radius are,"
+9709,2025,November,1,2,0,NULL,1,A1,1,May be done by other equivalent method.
+9709,2025,November,1,2,3,NULL,1,B1,1,Allow unsimplified.
+9709,2025,November,1,2,5,NULL,1,M1,1,Use of
+9709,2025,November,1,2,5,NULL,1,A1,1,ISW
+9709,2025,November,1,2,0,NULL,1,B1,1,Or rearranging to form '
+9709,2025,November,1,2,5,NULL,1,M1,1,Substituting x = 7 and y = 11 into a correct
+9709,2025,November,1,2,7,c,1,B1,1,
+9709,2025,November,1,2,5,NULL,1,B1,1,
+9709,2025,November,1,2,5,NULL,1,M1,1,Using their stated line and the equation from part (b)
+9709,2025,November,1,2,3,NULL,1,A1,1,
+9709,2025,November,1,2,3,NULL,1,B1,1,Can be implied by correct y-coordinate of point of
+9709,2025,November,1,2,5,NULL,1,M1,1,Using
+9709,2025,November,1,2,3,NULL,1,A1,1,Allow 15.3 AWRT.
+9709,2025,November,1,2,3,NULL,1,B1,1,"For one correct equation connecting a, b and c only."
+9709,2025,November,1,2,3,NULL,1,M1,1,Forming an equation in a and c only using both the
+9709,2025,November,1,2,0,NULL,1,A1,1,AG
+9709,2025,November,1,2,18,NULL,1,M1,1,Factorising or other accepted method for solving.
+9709,2025,November,1,2,1,NULL,1,B1,1,Condone extra ‘solution’
+9709,2025,November,1,2,1,NULL,1,B0,1,if any error seen leading to
+9709,2025,November,1,2,3,NULL,1,M1,1,* Correctly finding a value for r from their c.
+9709,2025,November,1,2,2,NULL,1,A1,1,Do not condone extra ‘answer’.
+9709,2025,November,1,2,6,NULL,1,B1,1,SOI
+9709,2025,November,1,2,2,NULL,1,M1,1,Use of a correct sum formula with
+9709,2025,November,1,2,960,NULL,1,A1,1,
+9709,2025,November,1,2,6,NULL,1,B1,1,"B1B1 B1 for the correct powers, B1 for ×3 in at least one"
+9709,2025,November,1,2,6,NULL,1,B1,1,* This mark is only available if
+9709,2025,November,1,2,3,NULL,1,B1,1,Allow ‘
+9709,2025,November,1,2,2,NULL,1,M1,1,Do not allow
+9709,2025,November,1,2,4,NULL,1,A1,1,Accept 5
+9709,2025,November,1,2,0,NULL,1,M1,1,Do not allow
+9709,2025,November,1,2,2,NULL,1,M1,1,Forming a correct equation.
+9709,2025,November,1,2,2,NULL,1,A1,1,AG
+9709,2025,November,1,2,3,NULL,1,B1,1,"SOI, unless clearly associated with the wrong angle."
+9709,2025,November,1,2,3,NULL,1,B1,1,*
+9709,2025,November,1,2,2,NULL,1,B1,1,* May be multiplied by 2 or by 3.
+9709,2025,November,1,2,24,NULL,1,B1,1,Fully correct solution.
+9709,2025,November,3,2,1,a,1,B1,1,Roughly symmetrical.
+9709,2025,November,3,2,2,NULL,1,B1,1,Ignore
+9709,2025,November,3,2,3,NULL,1,B1,1,Need a clear conclusion – must imply rejection of
+9709,2025,November,3,2,3,NULL,1,B0,1,if using ⩾.
+9709,2025,November,3,2,2,NULL,1,*M1,1,"Not available after incorrect manipulation, e.g."
+9709,2025,November,3,2,2,NULL,1,A1,1,Or equivalent with no powers
+9709,2025,November,3,2,9,NULL,1,A1,1,
+9709,2025,November,3,2,9,NULL,1,*M1,1,E.g.
+9709,2025,November,3,2,81,NULL,1,A1,1,"OE with powers of x only, e.g."
+9709,2025,November,3,2,81,NULL,1,A1,1,
+9709,2025,November,3,2,3,a,1,M1,1,E.g.(
+9709,2025,November,3,2,3,NULL,1,A1,1,Or exact equivalent in the form x + iy.
+9709,2025,November,3,2,10,NULL,1,B1,1,
+9709,2025,November,3,2,10,NULL,1,M1,1,
+9709,2025,November,3,2,10,NULL,1,A1,1,Accept AWRT
+9709,2025,November,3,2,5,NULL,1,B1,1,Must be choosing the positive root.
+9709,2025,November,3,2,6,NULL,1,M1,1,
+9709,2025,November,3,2,5,NULL,1,A1,1,Accept AWRT
+9709,2025,November,3,2,1,NULL,1,M1,1,* Condone sign error in formula for integration by parts.
+9709,2025,November,3,2,2,NULL,1,A1,1,OE
+9709,2025,November,3,2,2,NULL,1,A1,1,ISW
+9709,2025,November,3,2,5,a,1,M1,1,
+9709,2025,November,3,2,2,NULL,1,A1,1,AG
+9709,2025,November,3,2,0,NULL,1,M1,1,
+9709,2025,November,3,2,18,NULL,1,A1,1,OE
+9709,2025,November,3,2,30,NULL,1,A1,1,OE
+9709,2025,November,3,2,72,NULL,1,A1,1,Correct only.
+9709,2025,November,3,2,3,NULL,1,M1,1,
+9709,2025,November,3,2,8,NULL,1,A1,1,
+9709,2025,November,3,2,8,NULL,1,M1,1,Or expand (
+9709,2025,November,3,2,72,NULL,1,A1,1,
+9709,2025,November,3,2,72,NULL,1,A1,1,Correct answers only.
+9709,2025,November,3,2,3,NULL,1,M1,1,Using this as part of a hybrid method they need to be
+9709,2025,November,3,2,2,NULL,1,A1,1,
+9709,2025,November,3,2,72,NULL,1,A1,1,Correct answer only.
+9709,2025,November,3,2,8,NULL,1,B1,1,
+9709,2025,November,3,2,10,NULL,1,M1,1,Use the factor
+9709,2025,November,3,2,30,NULL,1,A1,1,
+9709,2025,November,3,2,30,NULL,1,M1,1,Use the factor (
+9709,2025,November,3,2,8,NULL,1,M1,1,
+9709,2025,November,3,2,2,NULL,1,B1,1,
+9709,2025,November,3,2,1,NULL,1,B1,1,Need to see enough of both graphs to confirm there is
+9709,2025,November,3,2,6,b,1,M1,1,E.g. 0.9712
+9709,2025,November,3,2,0,NULL,1,M0,1,if working in degrees.
+9709,2025,November,3,2,0,NULL,1,A1,1,Values to 2 sf or better.
+9709,2025,November,3,2,1,NULL,1,M1,1,M0 if working in degrees.
+9709,2025,November,3,2,1,NULL,1,A1,1,
+9709,2025,November,3,2,1,NULL,1,A1,1,"E.g. 0.5,0.4858,0.4967,0.4883,0.4947,...."
+9709,2025,November,3,2,3,NULL,1,B1,1,
+9709,2025,November,3,2,2,NULL,1,M1,1,Needs to be clear how the value of d
+9709,2025,November,3,2,7,b,1,*M1,1,"E.g.,"
+9709,2025,November,3,2,0,NULL,1,B1,1,Allow if the values are stated separately.
+9709,2025,November,3,2,2,NULL,1,A1,1,Allow if the values are stated separately.
+9709,2025,November,3,2,8,a,1,*M1,1,
+9709,2025,November,3,2,3,NULL,1,A1,1,AG
+9709,2025,November,3,2,3,NULL,1,*M1,1,E.g.
+9709,2025,November,3,2,3,NULL,1,A1,1,
+9709,2025,November,3,2,4,NULL,1,B1,1,
+9709,2025,November,3,2,5,NULL,1,B1,1,
+9709,2025,November,3,2,5,NULL,1,B1,1,If using the substitution
+9709,2025,November,3,2,5,NULL,1,M1,1,OE
+9709,2025,November,3,2,12,NULL,1,A1,1,Or exact simplified equivalent (e.g. as 2 terms).
+9709,2025,November,3,2,3,NULL,1,A1,1,"SC: If B0 is scored because of an omission of ‘A’, then"
+9709,2025,November,3,2,3,NULL,1,B1,1,M1.
+9709,2025,November,3,2,3,NULL,1,B2,1,FT
+9709,2025,November,3,2,3,NULL,1,B1,1,"for any two terms correct, B2 for all three terms"
+9709,2025,November,3,2,3,NULL,1,M1,1,E.g.
+9709,2025,November,3,2,2,NULL,1,A1,1,Accept equivalent fractions with integers.
+9709,2025,November,3,2,2,NULL,1,A0,1,XP if
+9709,2025,November,3,2,5000,NULL,1,B1,1,SOI
+9709,2025,November,3,2,2500,NULL,1,*M1,1,OE
+9709,2025,November,3,2,250,NULL,1,A1,1,AG
+9709,2025,November,3,2,10,b,1,B1,1,E.g.
+9709,2025,November,3,2,500,NULL,1,B1,1,OE (depending on how they use the 250).
+9709,2025,November,3,2,500,NULL,1,B1,1,
+9709,2025,November,3,2,0,NULL,1,M1,1,Requires a value for the constant. M0 if their equation
+9709,2025,November,3,2,0,NULL,1,M0,1,if they never had a constant.
+9709,2025,November,3,2,0,NULL,1,A1,1,Accept AWRT.
+9709,2025,November,3,2,2,NULL,1,B1,1,Do not ISW.
+9709,2025,November,3,2,4,NULL,1,B1,1,Do not ISW.
+9709,2025,November,3,2,11,b,1,M1,1,Or
+9709,2025,November,3,2,11,b,1,M1,1,
+9709,2025,November,3,2,75,NULL,1,A1,1,"Or exact equivalent, e.g."
+9709,2025,November,3,2,2,NULL,1,A0,1,"if they never have a statement ""cos"
+9709,2025,November,3,2,2,NULL,1,M1,1,
+9709,2025,November,3,2,84,NULL,1,M1,1,
+9709,2025,November,3,2,375,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,3,2,375,NULL,1,A0,1,"if they never have a statement ""cos"
+9709,2025,November,3,2,11,c,1,M1,1,
+9709,2025,November,3,2,375,NULL,1,A1,1,"Or equivalent, e.g."
+9709,2025,November,3,2,5625,NULL,1,A0,1,XP if they had changed the sign in their working for
+9709,2025,November,3,2,5625,NULL,1,M1,1,2  area of CMB.
+9709,2025,November,3,2,374,NULL,1,A1,1,"Or exact equivalent, e.g. 2 2 11 17"
+9709,2025,November,3,2,1500,NULL,1,M1,1,
+9709,2025,November,3,2,20,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,3,2,20,NULL,1,M1,1,Must have a matching set of sides for their angle.
+9709,2025,November,3,2,2,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,5,2,3125,NULL,1,B1,1,CAO.
+9709,2025,November,5,2,4,NULL,1,M1,1,
+9709,2025,November,5,2,15625,NULL,1,A1,1,0.046656 rounded to at least 3SF.
+9709,2025,November,5,2,5,NULL,1,B1,1,Table with correct x values and at least 1 correct probability.
+9709,2025,November,5,2,5,NULL,1,B1,1,"A second correct probability correctly linked to the correct x value,"
+9709,2025,November,5,2,5,NULL,1,B1,1,Two more correct probabilities correctly linked to the correct x
+9709,2025,November,5,2,5,NULL,1,B1,1,5 correct probabilities linked with correct x values.
+9709,2025,November,5,2,15,NULL,1,M1,1,Accept un-simplified expression. May be calculated in variance.
+9709,2025,November,5,2,9,NULL,1,M1,1,Appropriate variance formula using their (E(X))2 value.
+9709,2025,November,5,2,9,NULL,1,A1,1,AWRT.
+9709,2025,November,5,2,3,a,1,M1,1,Substituting 187.4 and 6.4 and either 182.4 or 192.4 appropriately
+9709,2025,November,5,2,1,NULL,1,M1,1,"Appropriate area Φ, from final process. Must be a probability."
+9709,2025,November,5,2,1,NULL,1,A1,1,0.565 ⩽ p < 0.5655 SOI.
+9709,2025,November,5,2,70,NULL,1,B1,1,FT Strict FT their at least 4 figure probability × 124 (Check with
+9709,2025,November,5,2,3,b,1,B1,1,0.7385 < z < 0.7395 or –0.7395 < z < −0.7385 seen.
+9709,2025,November,5,2,3,b,1,M1,1,"±standardisation formula with 170.3, 172.7, σ equated to a z-value"
+9709,2025,November,5,2,3,b,1,A1,1,3.245 ⩽ σ ⩽ 3.25.
+9709,2025,November,5,2,3,NULL,1,B1,1,Either 6
+9709,2025,November,5,2,9,NULL,1,B1,1,Correct equation formed.
+9709,2025,November,5,2,0,NULL,1,M1,1,Rearrange probabilities to form quadratic equation and solve to
+9709,2025,November,5,2,18,NULL,1,A1,1,"If M1 not awarded, SCB1 for [x =] 42 WWW."
+9709,2025,November,5,2,126,NULL,1,M1,1,Two identified un-simplified outcomes with their x substituted.
+9709,2025,November,5,2,126,NULL,1,M1,1,"Add probabilities, 0 < p < 1, for 3 correct scenarios, no"
+9709,2025,November,5,2,23,NULL,1,A1,1,0.365079… rounded to at least 3SF.
+9709,2025,November,5,2,20,NULL,1,M1,1,"At least 4 correct frequency densities (F/CW, e.g."
+9709,2025,November,5,2,20,NULL,1,A1,1,All heights correct on graph.
+9709,2025,November,5,2,20,NULL,1,B1,1,"Bar ends at 0.5, 10.5, 20.5, 25.5, 30.5, 50.5, with a linear scale, 0.5"
+9709,2025,November,5,2,20,NULL,1,B1,1,"Axes labelled frequency density (OE e.g. fd) and time, minutes"
+9709,2025,November,5,2,240,NULL,1,M1,1,At least 4 correct midpoints
+9709,2025,November,5,2,28,NULL,1,M1,1,Correct mean formula using their 5 midpoints (must be within
+9709,2025,November,5,2,28,NULL,1,A1,1,Accept 207
+9709,2025,November,5,2,282475249,NULL,1,B1,1,0.03457…
+9709,2025,November,5,2,7,NULL,1,M1,1,One term 10Cx ( ) (
+9709,2025,November,5,2,0,NULL,1,A1,1,Correct un-simplified expression. Allow 10 for 10C1.
+9709,2025,November,5,2,0,NULL,1,B1,1,0.838 ⩽ p ⩽ 0.839.
+9709,2025,November,5,2,0,NULL,1,B1,1,0.838 ⩽ p ⩽ 0.8385.
+9709,2025,November,5,2,7,NULL,1,B1,1,"56 and 48 seen, allow un-simplified, may be seen in the"
+9709,2025,November,5,2,48,NULL,1,M1,1,Substituting their µ and positive σ into the ± standardising formula
+9709,2025,November,5,2,48,NULL,1,M1,1,Use continuity correction 64.5 or 65.5 in ±standardisation formula
+9709,2025,November,5,2,48,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a probability."
+9709,2025,November,5,2,48,NULL,1,A1,1,Final answer
+9709,2025,November,5,2,7,a,1,B1,1,
+9709,2025,November,5,2,7,a,1,M1,1,
+9709,2025,November,5,2,7,a,1,A1,1,CAO.
+9709,2025,November,5,2,2,NULL,1,B1,1,
+9709,2025,November,5,2,42,NULL,1,B1,1,
+9709,2025,November,5,2,2,NULL,1,M1,1,
+9709,2025,November,5,2,7,NULL,1,A1,1,CAO.
+9709,2025,November,5,2,4,NULL,1,B1,1,
+9709,2025,November,5,2,1,NULL,1,M1,1,
+9709,2025,November,5,2,26880,NULL,1,A1,1,CAO.
+9709,2025,November,5,2,5,NULL,1,B1,1,
+9709,2025,November,5,2,9,NULL,1,M1,1,
+9709,2025,November,5,2,45,NULL,1,A1,1,"If one or more M mark not awarded, SCB1 for 41, 0.911"
+9709,2025,November,5,2,1,NULL,1,M1,1,3C2 + 2C2 seen.
+9709,2025,November,5,2,10,NULL,1,M1,1,
+9709,2025,November,1,3,4,NULL,1,M1,1,OE
+9709,2025,November,1,3,20,NULL,1,A1,1,Three correct simplified terms.
+9709,2025,November,1,3,20,NULL,1,A1,1,Four correct simplified terms.
+9709,2025,November,1,3,64,NULL,1,M1,1,Selecting the correct products using their expansion.
+9709,2025,November,1,3,8,NULL,1,A1,1,Accept
+9709,2025,November,1,3,4,NULL,1,M1,1,Condone
+9709,2025,November,1,3,5,NULL,1,A1,1,
+9709,2025,November,1,3,4,NULL,1,*M1,1,Replacing
+9709,2025,November,1,3,5,NULL,1,A1,1,AWRT
+9709,2025,November,1,3,3,a,1,B1,1,CAO. Not AWRT.
+9709,2025,November,1,3,3,b,1,B1,1,CAO. Not AWRT.
+9709,2025,November,1,3,3,c,1,B1,1,"CAO. 30 may be accompanied by ‘around’, ‘approximately’ etc."
+9709,2025,November,1,3,5,NULL,1,M1,1,Correct expression for
+9709,2025,November,1,3,125,NULL,1,A1,1,
+9709,2025,November,1,3,20,NULL,1,B1,1,OE
+9709,2025,November,1,3,0,NULL,1,M1,1,Forming a 3-term quadratic. Condone only  errors.
+9709,2025,November,1,3,2,NULL,1,A1,1,May be seen in the S∞ formula.
+9709,2025,November,1,3,1,NULL,1,A1,1,
+9709,2025,November,1,3,5,NULL,1,B1,1,Stating two correct relationships between k and r. This can be
+9709,2025,November,1,3,0,NULL,1,M1,1,Forming a three-term quadratic in r. Condone only  errors.
+9709,2025,November,1,3,2,NULL,1,B1,1,Use of a correct expression for either
+9709,2025,November,1,3,3,NULL,1,B1,1,Correct answer can imply B1B1.
+9709,2025,November,1,3,3,NULL,1,*M1,1,Use of a correct formula with
+9709,2025,November,1,3,0,NULL,1,A1,1,OE. Exact equivalents only.
+9709,2025,November,1,3,6,a,1,B2,1,",1,0 B2 for all three {} elements correct. B1 for two {} elements"
+9709,2025,November,1,3,4,NULL,1,B2,1,",1,0 B2 for all three {} elements correct. B1 for two {} elements"
+9709,2025,November,1,3,4,NULL,1,B1,1,Combined translations (condone transformations accompanied by
+9709,2025,November,1,3,2,NULL,1,B2,1,",1,0 B2 for all three {} elements correct. B1 for two {} elements"
+9709,2025,November,1,3,2,NULL,1,B2,1,",1,0"
+9709,2025,November,1,3,2,NULL,1,B1,1,Combined translations (condone transformations accompanied by
+9709,2025,November,1,3,2,NULL,1,B1,1,Individual values are considered the final answer and NOT those
+9709,2025,November,1,3,3,NULL,1,B1,1,
+9709,2025,November,1,3,4,NULL,1,B1,1,
+9709,2025,November,1,3,2,NULL,1,*M1,1,OE
+9709,2025,November,1,3,2,NULL,1,A1,1,OE
+9709,2025,November,1,3,1,NULL,1,A1,1,This mark is dependent on getting the correct inverse.
+9709,2025,November,1,3,3,NULL,1,*M1,1,OE
+9709,2025,November,1,3,8,a,1,B1,1,
+9709,2025,November,1,3,2,NULL,1,M1,1,Use of a correct method to find (
+9709,2025,November,1,3,5,NULL,1,A1,1,OE
+9709,2025,November,1,3,2,NULL,1,B1,1,Correct expression using either (
+9709,2025,November,1,3,2,NULL,1,M1,1,Product of their gradients
+9709,2025,November,1,3,0,NULL,1,A1,1,OE
+9709,2025,November,1,3,8,b,1,B1,1,SOI
+9709,2025,November,1,3,2,NULL,1,*M1,1,Correct form of a line equation with their normal gradient i.e. not
+9709,2025,November,1,3,0,NULL,1,B1,1,OE
+9709,2025,November,1,3,2,NULL,1,*M1,1,Replacing d
+9709,2025,November,1,3,4,NULL,1,B1,1,This mark can be implied by a correct differential.
+9709,2025,November,1,3,2,NULL,1,*M1,1,Differentiating their expression for y. Use of the chain rule must
+9709,2025,November,1,3,25,NULL,1,B1,1,Replacing
+9709,2025,November,1,3,4,NULL,1,M1,1,Forming a three-term quadratic in x.
+9709,2025,November,1,3,2,NULL,1,M1,1,Equating the curve and the line to form a 3-term quadratic.
+9709,2025,November,1,3,2,NULL,1,A1,1,SOI
+9709,2025,November,1,3,4,NULL,1,A1,1,"FT FT their limits from the quadratic, both limits must be positive."
+9709,2025,November,1,3,4,NULL,1,*M1,1,For use of
+9709,2025,November,1,3,12,NULL,1,A1,1,OE
+9709,2025,November,1,3,12,NULL,1,A1,1,
+9709,2025,November,1,3,6,NULL,1,A1,1,Condone a negative answer changed to a positive.
+9709,2025,November,1,3,6,NULL,1,A0,1,for omission of π.
+9709,2025,November,1,3,2,NULL,1,M1,1,Equating the curve and the line to form a 3-term quadratic
+9709,2025,November,1,3,4,NULL,1,*M1,1,For use of (
+9709,2025,November,1,3,12,NULL,1,A1,1,for each element of the integral.
+9709,2025,November,1,3,2,NULL,1,A1,1,
+9709,2025,November,1,3,8,NULL,1,B1,1,B1 for each {} element.
+9709,2025,November,1,3,8,NULL,1,B1,1,
+9709,2025,November,1,3,8,NULL,1,B1,1,FT OE. FT their value of c.
+9709,2025,November,1,3,0,NULL,1,*M1,1,Allow one error for this mark if the intention is clear.
+9709,2025,November,1,3,9,NULL,1,A1,1,", A1"
+9709,2025,November,1,3,2,NULL,1,*M1,1,Equating 5  and
+9709,2025,November,1,3,45,NULL,1,*M1,1,Recognising the relationship between 5  and
+9709,2025,November,1,3,1,NULL,1,B1,1,B1 for each {} element.
+9709,2025,November,1,3,1,NULL,1,B1,1,
+9709,2025,November,1,3,8,NULL,1,*M1,1,"Using their differentiated expression, which must contain"
+9709,2025,November,1,3,40,NULL,1,A1,1,Accept (
+9709,2025,November,1,3,8,NULL,1,*M1,1,Equate their d
+9709,2025,November,1,3,8,NULL,1,A1,1,Both values.
+9709,2025,November,1,3,1,NULL,1,B1,1,"FT Correct differentials of the elements of their d ,"
+9709,2025,November,1,3,1,NULL,1,B1,1,FT
+9709,2025,November,1,3,8,NULL,1,M1,1,
+9709,2025,November,1,3,10,NULL,1,A1,1,WWW
+9709,2025,November,2,3,1,NULL,1,M1,1,
+9709,2025,November,2,3,1,NULL,1,A1,1,
+9709,2025,November,2,3,3,NULL,1,A1,1,Condone omission of
+9709,2025,November,2,3,2,NULL,1,M1,1,
+9709,2025,November,2,3,12,NULL,1,A1,1,
+9709,2025,November,2,3,3,NULL,1,B1,1,Or exact equivalent.
+9709,2025,November,2,3,3,NULL,1,M1,1,
+9709,2025,November,2,3,7,NULL,1,A1,1,OE
+9709,2025,November,2,3,2,NULL,1,B1,1,
+9709,2025,November,2,3,3,NULL,1,A1,1,OE
+9709,2025,November,2,3,5,NULL,1,B1,1,FT Following an appropriate answer from part (a).
+9709,2025,November,2,3,5,NULL,1,M1,1,Condone working in degrees for this mark.
+9709,2025,November,2,3,5,NULL,1,A1,1,Or greater accuracy 4.0688…
+9709,2025,November,2,3,4,NULL,1,M1,1,*
+9709,2025,November,2,3,1,NULL,1,A1,1,OE
+9709,2025,November,2,3,0,NULL,1,A1,1,
+9709,2025,November,2,3,7,NULL,1,A1,1,"Or greater accuracy 12.764…, 32.235…"
+9709,2025,November,2,3,0,NULL,1,M1,1,E.g. 1 ln
+9709,2025,November,2,3,2,NULL,1,A1,1,AG – necessary detail needed.
+9709,2025,November,2,3,1,NULL,1,A1,1,AG – necessary detail needed.
+9709,2025,November,2,3,2,NULL,1,A1,1,
+9709,2025,November,2,3,14,NULL,1,M1,1,Allow decimals for this mark (14.56).
+9709,2025,November,2,3,6,a,1,M1,1,
+9709,2025,November,2,3,3,NULL,1,A1,1,AG – necessary detail needed.
+9709,2025,November,2,3,0,NULL,1,M1,1,Allow if degrees used
+9709,2025,November,2,3,1,NULL,1,A1,1,Must be in radians here
+9709,2025,November,2,3,4,NULL,1,A1,1,
+9709,2025,November,2,3,2,NULL,1,M1,1,"Or equivalent method, e.g. inspection."
+9709,2025,November,2,3,9,NULL,1,A1,1,
+9709,2025,November,2,3,2,NULL,1,M1,1,Or Example 1: ( )
+9709,2025,November,2,3,1,NULL,1,A1,1,Example 1: (
+9709,2025,November,2,3,7,d,1,M1,1,
+9709,2025,November,2,3,7,d,1,A1,1,Answer required to exactly 3 significant figures.
+9709,2025,November,2,3,7,d,1,A1,1,
+9709,2025,November,2,3,2,NULL,1,*M1,1,Where
+9709,2025,November,2,3,2,NULL,1,A1,1,OE. Allow unsimplified
+9709,2025,November,2,3,12,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,2,3,6,NULL,1,A1,1,Or exact equivalent.
+9709,2025,November,5,3,27,NULL,1,B1,1,OE.
+9709,2025,November,5,3,1,b,1,M1,1,One term of form 11Cx ( ) (
+9709,2025,November,5,3,0,NULL,1,A1,1,"Correct un-simplified expression, no terms omitted leading to"
+9709,2025,November,5,3,1,NULL,1,B1,1,
+9709,2025,November,5,3,1,NULL,1,M1,1,One term of form 11Cx ( ) (
+9709,2025,November,5,3,0,NULL,1,A1,1,"Correct un-simplified expression, no more than 6 ‘middle’"
+9709,2025,November,5,3,2,NULL,1,B1,1,Expression of the form 16Cx  10Cy with x+ y = 6 linked to a
+9709,2025,November,5,3,2,NULL,1,M1,1,"Two identified outcomes evaluated accurately, accept un-"
+9709,2025,November,5,3,2,NULL,1,M1,1,"Sum of their values of 3 correct identified scenarios, no"
+9709,2025,November,5,3,2,NULL,1,A1,1,"If either or both Ms not awarded, SCB1 for 174 300 WWW."
+9709,2025,November,5,3,3,a,1,M1,1,
+9709,2025,November,5,3,3,a,1,A1,1,
+9709,2025,November,5,3,2,NULL,1,M1,1,5!
+9709,2025,November,5,3,30,NULL,1,M1,1,
+9709,2025,November,5,3,2,NULL,1,A1,1,
+9709,2025,November,5,3,4,NULL,1,M1,1,Accept
+9709,2025,November,5,3,4,NULL,1,M1,1,Accept 90720 as denominator in a fraction.
+9709,2025,November,5,3,4,NULL,1,A1,1,WWW.
+9709,2025,November,5,3,4,NULL,1,M1,1,Accept 7!
+9709,2025,November,5,3,4,NULL,1,M1,1,Accept 362880 as denominator in a fraction.
+9709,2025,November,5,3,1,NULL,1,A1,1,WWW.
+9709,2025,November,5,3,3,b,1,M1,1,Accept 10080 alone or as the numerator or denominator of a
+9709,2025,November,5,3,3,b,1,M1,1,Accept 90720 as denominator in a fraction.
+9709,2025,November,5,3,3,b,1,A1,1,WWW.
+9709,2025,November,5,3,16,NULL,1,B1,1,Table with correct x values and one correct probability.
+9709,2025,November,5,3,16,NULL,1,B1,1,"2 more probabilities correct linked to the correct x value, need"
+9709,2025,November,5,3,16,NULL,1,B1,1,5 correct probabilities linked with correct outcomes.
+9709,2025,November,5,3,8,NULL,1,M1,1,FT Accept un-simplified or bold expression with probabilities (0 <
+9709,2025,November,5,3,8,NULL,1,M1,1,FT Appropriate variance formula using their (E(X))2 value.
+9709,2025,November,5,3,64,NULL,1,A1,1,Accept 1.984375 to 3 or more SF.
+9709,2025,November,5,3,4,NULL,1,M1,1,
+9709,2025,November,5,3,4,NULL,1,A1,1,= 0.8665 to 4SF.
+9709,2025,November,5,3,4,NULL,1,A1,1,
+9709,2025,November,5,3,5,a,1,B1,1,Correct tree diagram structure.
+9709,2025,November,5,3,5,a,1,B1,1,Counter and first marble probabilities correct with outcomes
+9709,2025,November,5,3,5,a,1,B1,1,Second marble probabilities correct with outcomes labelled.
+9709,2025,November,5,3,70,NULL,1,M1,1,At least 2 correct 3-term products linked to correct scenarios.
+9709,2025,November,5,3,70,NULL,1,M1,1,4 correct identified scenarios added.
+9709,2025,November,5,3,70,NULL,1,A1,1,SCB1 for 39
+9709,2025,November,5,3,70,NULL,1,M1,1,Correct formula for conditional probability using their
+9709,2025,November,5,3,13,NULL,1,A1,1,
+9709,2025,November,5,3,4,NULL,1,B1,1,"Correct stem, ignore extra values (not in reverse, not split)"
+9709,2025,November,5,3,4,NULL,1,B1,1,"Correct Linnets labelled on left, leaves in order from right to"
+9709,2025,November,5,3,4,NULL,1,B1,1,"Correct Puffins labelled on same diagram, leaves in order and"
+9709,2025,November,5,3,4,NULL,1,B1,1,"Correct non-symmetrical key, for their diagram, need both"
+9709,2025,November,5,3,4,NULL,1,B1,1,"if both stems correct,"
+9709,2025,November,5,3,4,NULL,1,B1,1,"if Linnets correct to the left of the stem,"
+9709,2025,November,5,3,4,NULL,1,B1,1,if both keys correct including ‘mins’ and team name.
+9709,2025,November,5,3,6,b,1,M1,1,64 ⩽ UQ ⩽ 68−51 ⩽ LQ ⩽ 57
+9709,2025,November,5,3,6,b,1,A1,1,
+9709,2025,November,5,3,74,NULL,1,B1,1,"Single linear scale from 45 to 75, at least 3 equally spaces"
+9709,2025,November,5,3,74,NULL,1,B1,1,FT Correct plot labelled ‘Linnets’ with 5 key values using their
+9709,2025,November,5,3,74,NULL,1,B1,1,Correct plot labelled ‘Puffins’ with 5 key values using the same
+9709,2025,November,5,3,6,d,1,B1,1,Not just a comment comparing median or range.
+9709,2025,November,5,3,7,a,1,M1,1,"Use of ± standardisation formula with 15.6, 14.8 and 1.5"
+9709,2025,November,5,3,1,NULL,1,M1,1,Calculating the appropriate probability area (leading to their
+9709,2025,November,5,3,1,NULL,1,A1,1,AWRT 0.297.
+9709,2025,November,5,3,7,b,1,B1,1,
+9709,2025,November,5,3,7,b,1,M1,1,"Using ± standardisation formula with 14.8, 1.5 and t equating"
+9709,2025,November,5,3,2,NULL,1,A1,1,AWRT 12.9.
+9709,2025,November,5,3,1,NULL,1,M1,1,Substituting 14.8 and 1.5 and either 13.8 or 15.8 appropriately
+9709,2025,November,5,3,1,NULL,1,A1,1,AWRT 0.495.
+9709,2025,November,5,3,1,NULL,1,B1,1,FT Strict FT their at least 4 figure probability × 225 (Check with
+9709,2025,June,1,1,0,NULL,1,M1,1,For expressing as a 3-term quadratic.
+9709,2025,June,1,1,3,NULL,1,A1,1,For both.
+9709,2025,June,1,1,3,NULL,1,A1,1,A1 AWRT
+9709,2025,June,1,1,3,NULL,1,A1,1,for any correct angle from a correct value of
+9709,2025,June,1,1,3,NULL,1,A1,1,for all 4 and no others in the interval
+9709,2025,June,1,1,90,NULL,1,M1,1,Substitute x = 4 into d .
+9709,2025,June,1,1,90,NULL,1,A1,1,AWRT 0.0111.
+9709,2025,June,1,1,2,NULL,1,B1,1,B1 Accept unsimplified.
+9709,2025,June,1,1,2,NULL,1,M1,1,Sub
+9709,2025,June,1,1,2,NULL,1,A1,1,Condone c = 2 as final answer if ‘y = …’ seen
+9709,2025,June,1,1,26,NULL,1,B1,1,"For first and second, or first and third equations."
+9709,2025,June,1,1,0,NULL,1,M1,1,For expressing as a 3-term quadratic from two
+9709,2025,June,1,1,3,NULL,1,A1,1,CAO
+9709,2025,June,1,1,32,NULL,1,A1,1,CAO
+9709,2025,June,1,1,18,NULL,1,A1,1,AWRT. Ignore other values.
+9709,2025,June,1,1,1,NULL,1,B1,1,
+9709,2025,June,1,1,0,NULL,1,M1,1,Expressing as a 3-term cubic from two
+9709,2025,June,1,1,4,NULL,1,A1,1,CAO
+9709,2025,June,1,1,4,NULL,1,M0,1,if no method is shown for finding r
+9709,2025,June,1,1,4,NULL,1,M1,1,"FT on values of a and r, provided 1"
+9709,2025,June,1,1,7,NULL,1,A1,1,"FT FT on values of a and r, provided 1"
+9709,2025,June,1,1,16,NULL,1,*M1,1,Attempt to integrate both terms and subtract
+9709,2025,June,1,1,2,NULL,1,B1,1,B1 B1 for each integral.
+9709,2025,June,1,1,2,NULL,1,B2,1,",1, 0 for"
+9709,2025,June,1,1,2,NULL,1,A1,1,CAO
+9709,2025,June,1,1,2,NULL,1,B1,1,
+9709,2025,June,1,1,2,NULL,1,M1,1,
+9709,2025,June,1,1,10,NULL,1,B1,1,
+9709,2025,June,1,1,10,NULL,1,A1,1,CAO
+9709,2025,June,1,1,80,NULL,1,B2,1,",1,0 B2 for all correct."
+9709,2025,June,1,1,80,NULL,1,B1,1,for any two correct.
+9709,2025,June,1,1,2,NULL,1,B2,1,",1,0 OE"
+9709,2025,June,1,1,2,NULL,1,B2,1,for all correct.
+9709,2025,June,1,1,2,NULL,1,B1,1,for any two correct.
+9709,2025,June,1,1,2,NULL,1,*M1,1,3 terms FT their values.
+9709,2025,June,1,1,4,NULL,1,A1,1,SC B1 following M0 if method for solving
+9709,2025,June,1,1,3,NULL,1,*M1,1,"Substitutes k = 2, p = 11 and eliminates y or x."
+9709,2025,June,1,1,5,NULL,1,A1,1,A1 A1 for either both x-values correct or for both
+9709,2025,June,1,1,2,NULL,1,*M1,1,Substitute and reduce to 3-term quadratic.
+9709,2025,June,1,1,2,NULL,1,A1,1,Correct quadratic.
+9709,2025,June,1,1,9,NULL,1,M1,1,Attempt to solve a 3-term quadratic in k by
+9709,2025,June,1,1,9,NULL,1,A1,1,SC B1 following M0 if no method shown for
+9709,2025,June,1,1,9,NULL,1,A0,1,for correct answer following incorrect
+9709,2025,June,1,1,8,NULL,1,B1,1,OE
+9709,2025,June,1,1,4,NULL,1,M1,1,OE
+9709,2025,June,1,1,4,NULL,1,M1,1,For correct use of chain rule with ±5 and their
+9709,2025,June,1,1,11,NULL,1,A1,1,Or decreasing at a rate of 4 .
+9709,2025,June,1,1,4,NULL,1,M1,1,Equating their 2-term d
+9709,2025,June,1,1,2,NULL,1,A1,1,AWRT 1.22.
+9709,2025,June,1,1,4,NULL,1,A1,1,A0 A1 if one point correct.
+9709,2025,June,1,1,8,NULL,1,M1,1,For differentiation.
+9709,2025,June,1,1,8,NULL,1,A1,1,No need for reason.
+9709,2025,June,1,1,8,NULL,1,B1,1,Seen or implied.
+9709,2025,June,1,1,0,NULL,1,M1,1,3-term quadratic.
+9709,2025,June,1,1,11,NULL,1,A1,1,No method needed for solving quadratic.
+9709,2025,June,1,1,5,NULL,1,M1,1,At least one correct.
+9709,2025,June,1,1,6,NULL,1,A1,1,At least one correct.
+9709,2025,June,1,1,5,NULL,1,M1,1,Distance from point of intersection to line
+9709,2025,June,1,1,5,NULL,1,M1,1,Condone use of 46.
+9709,2025,June,1,1,432,NULL,1,A1,1,
+9709,2025,June,1,1,4,NULL,1,B1,1,
+9709,2025,June,1,1,6,NULL,1,B1,1,
+9709,2025,June,1,1,6,NULL,1,M1,1,Using their r and their
+9709,2025,June,1,1,3,NULL,1,A1,1,Fraction must be simplified.
+9709,2025,June,1,1,2,NULL,1,*M1,1,
+9709,2025,June,1,1,4,NULL,1,A1,1,Accept
+9709,2025,June,1,1,4,NULL,1,A1,1,Or
+9709,2025,June,1,1,10,a,1,B2,1,",1,0"
+9709,2025,June,1,1,5,NULL,1,B2,1,",1,0"
+9709,2025,June,1,1,5,NULL,1,B1,1,Transformations correct and in the correct order.
+9709,2025,June,1,1,3,NULL,1,B2,1,",1,0"
+9709,2025,June,1,1,3,NULL,1,B1,1,Transformations correct and in the correct order.
+9709,2025,June,1,1,10,b,1,B1,1,For line or curve in correct quadrants only.
+9709,2025,June,1,1,10,b,1,B1,1,"Must not pass through (0, 0)."
+9709,2025,June,1,1,3,NULL,1,M1,1,Allow x/y swap.
+9709,2025,June,1,1,3,NULL,1,A1,1,Must be in terms of x.
+9709,2025,June,1,1,2,NULL,1,B1,1,FT
+9709,2025,June,1,1,9,NULL,1,B1,1,AWRT 3.44.
+9709,2025,June,1,1,0,NULL,1,B1,1,Minimum acceptable: ‘The range of
+9709,2025,June,3,1,1,a,1,B1,1,Symmetrical. In correct position.
+9709,2025,June,3,1,2,NULL,1,B1,1,
+9709,2025,June,3,1,5,NULL,1,B1,1,
+9709,2025,June,3,1,2,NULL,1,B1,1,Ignore
+9709,2025,June,3,1,2,NULL,1,M1,1,E.g.
+9709,2025,June,3,1,1,NULL,1,A1,1,OE without logs.
+9709,2025,June,3,1,1,NULL,1,A1,1,"OE, ISW"
+9709,2025,June,3,1,5,NULL,1,*M1,1,Multiply numerator (and denominator) by the
+9709,2025,June,3,1,5,NULL,1,A1,1,OE
+9709,2025,June,3,1,5,NULL,1,M1,1,
+9709,2025,June,3,1,4,NULL,1,A1,1,
+9709,2025,June,3,1,4,NULL,1,B1,1,SOI
+9709,2025,June,3,1,2,NULL,1,*M1,1,Correct use of their derivatives.
+9709,2025,June,3,1,3,NULL,1,A1,1,Or exact equivalent.
+9709,2025,June,3,1,2,NULL,1,B1,1,SOI
+9709,2025,June,3,1,2,NULL,1,*M1,1,Complete method.
+9709,2025,June,3,1,3,NULL,1,A1,1,
+9709,2025,June,3,1,6,NULL,1,A1,1,
+9709,2025,June,3,1,22,NULL,1,M1,1,Or use long division and equate a constant
+9709,2025,June,3,1,22,NULL,1,A1,1,Must evaluate the terms.
+9709,2025,June,3,1,3,NULL,1,M1,1,Or use long division and equate a constant
+9709,2025,June,3,1,3,NULL,1,A1,1,Must evaluate the terms.
+9709,2025,June,3,1,1,NULL,1,B1,1,
+9709,2025,June,3,1,6,b,1,B1,1,
+9709,2025,June,3,1,6,b,1,B1,1,"FT C and D correct, or FT their A and B."
+9709,2025,June,3,1,6,c,1,B1,1,Accept 90 .
+9709,2025,June,3,1,6,c,1,B0,1,if an incorrect statement seen.
+9709,2025,June,3,1,6,c,1,B1,1,"Not required to state the centre of the enlargement,"
+9709,2025,June,3,1,2,NULL,1,B1,1,Or exact 2 term equivalent.
+9709,2025,June,3,1,21,NULL,1,B1,1,ft  Follow their 5
+9709,2025,June,3,1,2,NULL,1,M1,1,"OE, WWW."
+9709,2025,June,3,1,1,NULL,1,A1,1,
+9709,2025,June,3,1,21,NULL,1,B1,1,FT SOI
+9709,2025,June,3,1,21,NULL,1,M1,1,
+9709,2025,June,3,1,21,NULL,1,A1,1,
+9709,2025,June,3,1,8,a,1,M1,1,Accept column vectors.
+9709,2025,June,3,1,2,NULL,1,A1,1,"OE, e.g."
+9709,2025,June,3,1,8,b,1,B1,1,ft
+9709,2025,June,3,1,2,NULL,1,M1,1,
+9709,2025,June,3,1,5,NULL,1,A1,1,Or
+9709,2025,June,3,1,7,NULL,1,A1,1,
+9709,2025,June,3,1,8,c,1,M1,1,E.g.(
+9709,2025,June,3,1,14,NULL,1,A1,1,
+9709,2025,June,3,1,9,a,1,M1,1,*
+9709,2025,June,3,1,6,NULL,1,A1,1,AG
+9709,2025,June,3,1,9,b,1,M1,1,Not from using calculator to evaluate the original
+9709,2025,June,3,1,9,b,1,A1,1,"E.g., using"
+9709,2025,June,3,1,6,NULL,1,M1,1,
+9709,2025,June,3,1,6,NULL,1,A1,1,E.g. 2
+9709,2025,June,3,1,0,NULL,1,M1,1,
+9709,2025,June,3,1,5,NULL,1,A1,1,
+9709,2025,June,3,1,5,NULL,1,A1,1,ISW
+9709,2025,June,3,1,3,NULL,1,B1,1,
+9709,2025,June,3,1,5,NULL,1,B1,1,ft Follow their linear quotient.
+9709,2025,June,3,1,3,NULL,1,B1,1,ft From the x term in their remainder ax + b.
+9709,2025,June,3,1,3,NULL,1,M1,1,
+9709,2025,June,3,1,3,NULL,1,A1,1,OE
+9709,2025,June,3,1,2,NULL,1,M1,1,*
+9709,2025,June,3,1,2,NULL,1,A1,1,E.g. d
+9709,2025,June,3,1,1,NULL,1,A1,1,Exact answer in radians only.
+9709,2025,June,3,1,2,NULL,1,A1,1,Or (
+9709,2025,June,3,1,4,NULL,1,A1,1,"If the factor of π  is missing throughout, allow the"
+9709,2025,June,5,1,1,NULL,1,B1,1,0.771 < z < 0.773 or −0.773 < z < −0.771 seen.
+9709,2025,June,5,1,1,NULL,1,M1,1,"Use of the ±standardisation formula with µ, 1.48 and 0.14 and"
+9709,2025,June,5,1,1,NULL,1,A1,1,1.585 < µ ⩽ 1.59.
+9709,2025,June,5,1,2,a,1,M1,1,
+9709,2025,June,5,1,2,NULL,1,M1,1,"n – 6!, where n is an integer > 720."
+9709,2025,June,5,1,1800,NULL,1,A1,1,
+9709,2025,June,5,1,2,NULL,1,M1,1,"5! × p, where p is an integer > 1."
+9709,2025,June,5,1,2,NULL,1,M1,1,
+9709,2025,June,5,1,4,NULL,1,M1,1,
+9709,2025,June,5,1,1024,NULL,1,A1,1,0.7626 < p ⩽ 0.763.
+9709,2025,June,5,1,4096,NULL,1,M1,1,
+9709,2025,June,5,1,5,NULL,1,A1,1,AWRT
+9709,2025,June,5,1,8,NULL,1,B1,1,"Correct stem, ignore extra values (not in reverse, not split)."
+9709,2025,June,5,1,8,NULL,1,B1,1,"Correct Gulls labelled on left, leaves in order from right to left and"
+9709,2025,June,5,1,8,NULL,1,B1,1,"Correct Herons labelled on same diagram, leaves in order and"
+9709,2025,June,5,1,8,NULL,1,B1,1,"Correct key for their diagram, need both clubs labelled and ‘sec’"
+9709,2025,June,5,1,8,NULL,1,B1,1,"if both stems correct,"
+9709,2025,June,5,1,8,NULL,1,B1,1,if Gulls is correct to the left of the stem
+9709,2025,June,5,1,8,NULL,1,B0,1,
+9709,2025,June,5,1,8,NULL,1,B1,1,if both keys correct including ‘sec’ or ‘s’
+9709,2025,June,5,1,3,b,1,B1,1,"Clearly identified, e.g. Q2, med, m.."
+9709,2025,June,5,1,3,b,1,M1,1,9.7 ⩽ UQ ⩽ 10.0 – 8.2 ⩽ LQ ⩽ 8.6.
+9709,2025,June,5,1,3,b,1,A1,1,WWW
+9709,2025,June,5,1,50,NULL,1,M1,1,
+9709,2025,June,5,1,50,NULL,1,A1,1,"If M0 scored, SCB1 for 8.54 WWW."
+9709,2025,June,5,1,50,NULL,1,M1,1,"Substitute values into correct variance formula, any form."
+9709,2025,June,5,1,2,NULL,1,A1,1,"Mark final answer. If one or both M marks not awarded, SCB1 for"
+9709,2025,June,5,1,4,a,1,M1,1,OE
+9709,2025,June,5,1,1,NULL,1,M1,1,Calculating the correct probability area (leading to their final
+9709,2025,June,5,1,1,NULL,1,A1,1,
+9709,2025,June,5,1,1,NULL,1,B1,1,FT FT their 4-figure probability to obtain a single integer answer. No
+9709,2025,June,5,1,4,b,1,M1,1,One term of the form 9Cx ( ) (
+9709,2025,June,5,1,0,NULL,1,A1,1,Correct un-simplified expression.
+9709,2025,June,5,1,0,NULL,1,B1,1,0.925 < p ⩽ 0.926 from correct working.
+9709,2025,June,5,1,0,NULL,1,M1,1,One term of the form 9Cx ( ) (
+9709,2025,June,5,1,48,NULL,1,B1,1,"48 and 19.2 (CAO) seen, allow un-simplified."
+9709,2025,June,5,1,48,NULL,1,M1,1,Substituting their 48 and their 19.2 into the ±standardising
+9709,2025,June,5,1,48,NULL,1,M1,1,Use continuity correction 49.5 or 50.5 in their standardisation
+9709,2025,June,5,1,1,NULL,1,M1,1,"Appropriate probability area, from final process, must be a"
+9709,2025,June,5,1,1,NULL,1,A1,1,AWRT
+9709,2025,June,5,1,5,a,1,B1,1,Correct outcome/value for either the 1st or 2nd scenario clearly
+9709,2025,June,5,1,5,a,1,M1,1,"2 correct outcomes/values obtained, accept un-simplified"
+9709,2025,June,5,1,5,a,1,M1,1,"Sum of 3 correct scenarios, may be identified by un-simplified"
+9709,2025,June,5,1,5,a,1,A1,1,CAO
+9709,2025,June,5,1,5,b,1,M1,1,
+9709,2025,June,5,1,5,b,1,M1,1,"their 2520 × their 400 × their 12 seen, accept un-simplified,"
+9709,2025,June,5,1,12096000,NULL,1,A1,1,Condone 12100000.
+9709,2025,June,5,1,7,NULL,1,M1,1,AG.
+9709,2025,June,5,1,7,NULL,1,A1,1,
+9709,2025,June,5,1,2,NULL,1,A1,1,
+9709,2025,June,5,1,1,NULL,1,B1,1,Table with correct values of x and at least one further non-zero
+9709,2025,June,5,1,1,NULL,1,B1,1,Third probability correct.
+9709,2025,June,5,1,1,NULL,1,B1,1,Fourth probability correct.
+9709,2025,June,5,1,1,NULL,1,B1,1,Fifth probability correct.
+9709,2025,June,5,1,7,NULL,1,B2,1,max scored.
+9709,2025,June,5,1,21,NULL,1,M1,1,
+9709,2025,June,5,1,21,NULL,1,B1,1,FT
+9709,2025,June,5,1,105,NULL,1,A1,1,Accept 0.87628…to at least 3SF.
+9709,2025,June,1,2,1,NULL,1,B2,1,",1,0 B2 for 3 correct components. B1 for 2."
+9709,2025,June,1,2,14,NULL,1,B2,1,",1,0 B2 for 3 correct components. B1 for 2."
+9709,2025,June,1,2,7,NULL,1,B2,1,",1,0 B2 for 3 correct components. B1 for 2."
+9709,2025,June,1,2,24,NULL,1,*M1,1,OE
+9709,2025,June,1,2,2,NULL,1,B1,1,OE
+9709,2025,June,1,2,2,NULL,1,B1,1,May be seen in a list.
+9709,2025,June,1,2,64,NULL,1,B1,1,This term must now be identified if given as part of a list.
+9709,2025,June,1,2,1280,NULL,1,M1,1,
+9709,2025,June,1,2,2,NULL,1,A1,1,OE
+9709,2025,June,1,2,2,NULL,1,*M1,1,For attempt at differentiation; at least one correct term
+9709,2025,June,1,2,2,NULL,1,A1,1,OE simplified form.
+9709,2025,June,1,2,4,NULL,1,M1,1,For setting their 2 term d
+9709,2025,June,1,2,16,NULL,1,A1,1,
+9709,2025,June,1,2,5,a,1,B1,1,B1 B2 for answers of 1
+9709,2025,June,1,2,5,b,1,B2,1,",1,0 Ignore any graph outside domain ("
+9709,2025,June,1,2,5,b,1,B1,1,"for two complete cycles, one from 0 to approximately"
+9709,2025,June,1,2,5,b,1,B2,1,for correct curve; condone any incorrect x-axis
+9709,2025,June,1,2,5,c,1,B1,1,Ignore any graphs drawn
+9709,2025,June,1,2,3,NULL,1,B1,1,
+9709,2025,June,1,2,5,NULL,1,B1,1,B1 B1 for 𝑘(5𝑥+ 4)
+9709,2025,June,1,2,5,NULL,1,M1,1,
+9709,2025,June,1,2,2,NULL,1,M1,1,
+9709,2025,June,1,2,10,NULL,1,A1,1,
+9709,2025,June,1,2,7,a,1,M1,1,The first two marks can be applied in the reverse order
+9709,2025,June,1,2,2,NULL,1,A1,1,WWW
+9709,2025,June,1,2,3,NULL,1,*B1,1,OE
+9709,2025,June,1,2,3,NULL,1,B1,1,OE
+9709,2025,June,1,2,3,NULL,1,B1,1,AWRT
+9709,2025,June,1,2,8,a,1,B1,1,Condone
+9709,2025,June,1,2,2,NULL,1,B1,1,Condone
+9709,2025,June,1,2,2,NULL,1,B1,1,
+9709,2025,June,1,2,29,NULL,1,M1,1,Or other correct method for an isosceles triangle using
+9709,2025,June,1,2,29,NULL,1,A1,1,AWRT
+9709,2025,June,1,2,5,NULL,1,M1,1,Use of
+9709,2025,June,1,2,2,NULL,1,A1,1,AWRT
+9709,2025,June,1,2,29,NULL,1,B1,1,Sight of
+9709,2025,June,1,2,2,NULL,1,M1,1,Use of correct sector formula with their identified radius
+9709,2025,June,1,2,10,NULL,1,M1,1,Use of correct triangle formula with their identified radius
+9709,2025,June,1,2,10,NULL,1,A1,1,AWRT
+9709,2025,June,1,2,2,NULL,1,B1,1,May be unsimplified.
+9709,2025,June,1,2,3,NULL,1,M1,1,Substituting
+9709,2025,June,1,2,3,NULL,1,A1,1,
+9709,2025,June,1,2,2,NULL,1,B1,1,"May be done by inspection or calculator, but must be"
+9709,2025,June,1,2,2,NULL,1,B1,1,WWW. Or other valid method.
+9709,2025,June,1,2,3,NULL,1,B1,1,FT May be unsimplified. FT their nonzero c.
+9709,2025,June,1,2,7,NULL,1,M1,1,Substituting (
+9709,2025,June,1,2,7,NULL,1,A1,1,
+9709,2025,June,1,2,4,NULL,1,*M1,1,Setting their
+9709,2025,June,1,2,9,NULL,1,B1,1,
+9709,2025,June,1,2,0,NULL,1,A1,1,OE in correct form.
+9709,2025,June,1,2,8,NULL,1,M1,1,OE
+9709,2025,June,1,2,6,NULL,1,A1,1,Condone extra ‘solution’ k = 0.
+9709,2025,June,1,2,24,NULL,1,*M1,1,Using a correct method to find a and d from their k. SOI.
+9709,2025,June,1,2,2760,NULL,1,A1,1,
+9709,2025,June,1,2,6,NULL,1,B1,1,SOI
+9709,2025,June,1,2,6,NULL,1,*M1,1,Using a correct method to find r. Condone .
+9709,2025,June,1,2,6,NULL,1,*M1,1,Using a correct method to find a. Condone .
+9709,2025,June,1,2,6,NULL,1,A1,1,OE in the required form.
+9709,2025,June,1,2,2,NULL,1,B1,1,B1 B1 for each correct { }.
+9709,2025,June,1,2,2,NULL,1,*M1,1,Equating y or
+9709,2025,June,1,2,2,NULL,1,A1,1,Do not condone x =  or
+9709,2025,June,1,2,4,NULL,1,*M1,1,Using
+9709,2025,June,1,2,2,NULL,1,A1,1,
+9709,2025,June,1,2,2,NULL,1,A1,1,Do not condone
+9709,2025,June,1,2,1,NULL,1,*M1,1,SOI
+9709,2025,June,1,2,4,NULL,1,A1,1,
+9709,2025,June,1,2,2,NULL,1,A1,1,Do not condone x =
+9709,2025,June,3,2,1,NULL,1,*M1,1,
+9709,2025,June,3,2,1,NULL,1,A1,1,E.g.
+9709,2025,June,3,2,3,NULL,1,A1,1,OE
+9709,2025,June,3,2,3,NULL,1,A1,1,"CAO, must be 3 d.p."
+9709,2025,June,3,2,1,NULL,1,B1,1,
+9709,2025,June,3,2,2,NULL,1,B1,1,
+9709,2025,June,3,2,2,NULL,1,M1,1,
+9709,2025,June,3,2,3,NULL,1,A1,1,Ignore extra terms.
+9709,2025,June,3,2,2,NULL,1,B1,1,OE
+9709,2025,June,3,2,2,NULL,1,B0,1,for an ambiguous statement.
+9709,2025,June,3,2,3,NULL,1,B1,1,Allow for a circle in the correct place even if their
+9709,2025,June,3,2,3,NULL,1,B1,1,FT FT centre not at the origin.
+9709,2025,June,3,2,3,NULL,1,B1,1,Position can be implied provided there is some
+9709,2025,June,3,2,3,NULL,1,B1,1,"FT FT from their (1, 2) not at the origin."
+9709,2025,June,3,2,3,NULL,1,B1,1,Dependent on all previous marks.
+9709,2025,June,3,2,3,NULL,1,*M1,1,Condone one slip in manipulating the original
+9709,2025,June,3,2,3,NULL,1,A1,1,E.g. 3 – (2 – 2 tan2 x) = 3 tan x
+9709,2025,June,3,2,3,NULL,1,A1,1,"E.g. 2 tan2 x – 3 tan x + 1 = 0,"
+9709,2025,June,3,2,3,NULL,1,A1,1,
+9709,2025,June,3,2,3,NULL,1,A1,1,Ignore answers outside the given interval.
+9709,2025,June,3,2,5,NULL,1,*M1,1,
+9709,2025,June,3,2,5,NULL,1,A1,1,
+9709,2025,June,3,2,5,NULL,1,A1,1,Accept 3-term equivalents.
+9709,2025,June,3,2,2,NULL,1,A1,1,"Must state the square roots, not x and y separately,"
+9709,2025,June,3,2,2,NULL,1,A0,1,if there are additional incorrect solutions.
+9709,2025,June,3,2,6,a,1,B1,1,
+9709,2025,June,3,2,1,NULL,1,B1,1,"Needs to mark intersection with a dot, a cross, or say"
+9709,2025,June,3,2,2,NULL,1,M1,1,Or comparing
+9709,2025,June,3,2,2,NULL,1,M0,1,if working in degrees (gives 0.98… and 0.47…
+9709,2025,June,3,2,2,NULL,1,A1,1,Values correct.
+9709,2025,June,3,2,6,c,1,M1,1,M0 if working in degrees.
+9709,2025,June,3,2,6,c,1,A1,1,No working seen at all scores 0/3.
+9709,2025,June,3,2,6,c,1,A1,1,"1.03, 1.0149, 1.0281, 1.0166, 1.0266, 1.0179,"
+9709,2025,June,3,2,7,a,1,B1,1,From correct work.
+9709,2025,June,3,2,24,NULL,1,M1,1,"If cos  = 24 and sin  = 7 seen, then M0 A0."
+9709,2025,June,3,2,24,NULL,1,A1,1,CAO
+9709,2025,June,3,2,25,NULL,1,B1,1,"FT Can be implied by 0.2(0033…), or by"
+9709,2025,June,3,2,3,NULL,1,M1,1,"Need some method shown, but might not show"
+9709,2025,June,3,2,3,NULL,1,A1,1,AWRT
+9709,2025,June,3,2,8,NULL,1,B1,1,
+9709,2025,June,3,2,3,NULL,1,B1,1,OE
+9709,2025,June,3,2,4,NULL,1,M1,1,Or
+9709,2025,June,3,2,1,NULL,1,A1,1,OE
+9709,2025,June,3,2,3,NULL,1,M1,1,E.g.
+9709,2025,June,3,2,2,NULL,1,A1,1,E.g.
+9709,2025,June,3,2,4,NULL,1,A1,1,OE
+9709,2025,June,3,2,9,a,1,M1,1,A complete method.
+9709,2025,June,3,2,3,NULL,1,M1,1,
+9709,2025,June,3,2,7,NULL,1,M1,1,Independent M0M1 is possible.
+9709,2025,June,3,2,59,NULL,1,A1,1,From correct working. The answer needs to come
+9709,2025,June,3,2,59,NULL,1,A0,1,.
+9709,2025,June,3,2,9,c,1,M1,1,"For “hence”, must be using the angle at A."
+9709,2025,June,3,2,2,NULL,1,M1,1,NB: These two M marks are independent.
+9709,2025,June,3,2,59,NULL,1,A1,1,"Accept simplified equivalent exact forms, e.g."
+9709,2025,June,3,2,4,NULL,1,B1,1,Could be found by using long division or by writing
+9709,2025,June,3,2,4,NULL,1,B1,1,Allow B1B1 if implied by correct division and no
+9709,2025,June,3,2,2,NULL,1,*M1,1,OE
+9709,2025,June,3,2,2,NULL,1,A1,1,FT OE
+9709,2025,June,3,2,8,NULL,1,A1,1,
+9709,2025,June,3,2,2,NULL,1,*M1,1,With a ‘+’ in the middle.
+9709,2025,June,3,2,2,NULL,1,A1,1,OE
+9709,2025,June,3,2,0,NULL,1,A1,1,OE
+9709,2025,June,3,2,0,NULL,1,A1,1,
+9709,2025,June,3,2,3,NULL,1,B1,1,
+9709,2025,June,3,2,3,NULL,1,*M1,1,
+9709,2025,June,3,2,2,NULL,1,*M1,1,
+9709,2025,June,3,2,2,NULL,1,A1,1,
+9709,2025,June,3,2,11,b,1,B1,1,SOI
+9709,2025,June,3,2,11,b,1,*M1,1,OE
+9709,2025,June,3,2,10,NULL,1,A1,1,OE
+9709,2025,June,3,2,10,NULL,1,A1,1,WWW
+9709,2025,June,5,2,3,NULL,1,B1,1,Table with correct values of x and at least one non-
+9709,2025,June,5,2,3,NULL,1,B1,1,Two more correct non-zero probabilities linked
+9709,2025,June,5,2,3,NULL,1,B1,1,Four correct probabilities linked with the correct
+9709,2025,June,5,2,112,NULL,1,B1,1,"112 and 33.6 (CAO) seen, allow un-simplified."
+9709,2025,June,5,2,112,NULL,1,M1,1,Substituting their 112 and their 33.6 into the
+9709,2025,June,5,2,112,NULL,1,M1,1,Use continuity correction 119.5 or 120.5 in their
+9709,2025,June,5,2,1,NULL,1,M1,1,"Appropriate area Φ , from final process, must be a"
+9709,2025,June,5,2,1,NULL,1,A1,1,Final answer AWRT.
+9709,2025,June,5,2,15,NULL,1,M1,1,OE.
+9709,2025,June,5,2,80,NULL,1,A1,1,ISW.
+9709,2025,June,5,2,15,NULL,1,M1,1,
+9709,2025,June,5,2,16,NULL,1,M1,1,
+9709,2025,June,5,2,15,NULL,1,A1,1,0.254237… to at least 3 SF.
+9709,2025,June,5,2,4,a,1,M1,1,OE.
+9709,2025,June,5,2,400,NULL,1,A1,1,CAO exact answer.
+9709,2025,June,5,2,8,NULL,1,M1,1,1 0.7d
+9709,2025,June,5,2,8,NULL,1,A1,1,0.942 ⩽ p < 0.9425.
+9709,2025,June,5,2,7,NULL,1,M1,1,
+9709,2025,June,5,2,4,c,1,M1,1,(p)2 (1 – p)5
+9709,2025,June,5,2,4,c,1,A1,1,AWRT.
+9709,2025,June,5,2,5,a,1,B1,1,At least 5 points plotted accurately at class upper
+9709,2025,June,5,2,5,a,1,B1,1,"All points plotted correct, curve drawn, no line"
+9709,2025,June,5,2,5,b,1,M1,1,Use of graph must be seen.
+9709,2025,June,5,2,5,b,1,A1,1,"FT Strict FT, reading at their curve condone use of t."
+9709,2025,June,5,2,5,c,1,B1,1,May be un-simplified and/or in variance
+9709,2025,June,5,2,5,c,1,B1,1,"At least 5 correct midpoints seen, may be un-"
+9709,2025,June,5,2,300,NULL,1,M1,1,Correct un-simplified mean formula with their 6
+9709,2025,June,5,2,300,NULL,1,A1,1,WWW.
+9709,2025,June,5,2,300,NULL,1,M1,1,Correct un-simplified Variance formula with their
+9709,2025,June,5,2,300,NULL,1,A1,1,20.4 ⩽ σ < 20.45 WWW.
+9709,2025,June,5,2,6,a,1,M1,1,"4! × m,"
+9709,2025,June,5,2,1,NULL,1,M1,1,"n × 5C1 or n × 5C4 or n × 5,"
+9709,2025,June,5,2,120,NULL,1,A1,1,
+9709,2025,June,5,2,4,NULL,1,M1,1,
+9709,2025,June,5,2,1560,NULL,1,A1,1,
+9709,2025,June,5,2,6,NULL,1,B1,1,
+9709,2025,June,5,2,1,NULL,1,M1,1,
+9709,2025,June,5,2,10080,NULL,1,A1,1,
+9709,2025,June,5,2,3,NULL,1,B1,1,
+9709,2025,June,5,2,1,NULL,1,B1,1,One identified outcome correct (excluding
+9709,2025,June,5,2,1,NULL,1,M1,1,Five correct scenarios added
+9709,2025,June,5,2,1,NULL,1,A1,1,
+9709,2025,June,5,2,1,NULL,1,M1,1,Three correct scenarios added
+9709,2025,June,5,2,7,a,1,M1,1,"Use of ±standardisation formula once with 74.8, 3.2"
+9709,2025,June,5,2,7,a,1,M1,1,"Calculating the appropriate probability area,"
+9709,2025,June,5,2,7,a,1,A1,1,AWRT 0.454 WWW.
+9709,2025,June,5,2,7,a,1,B1,1,FT Strict FT their 4-figure probability × 120 (check
+9709,2025,June,5,2,7,b,1,B1,1,0.841 < z1 < 0.843 or −0.843 < z1 < −0.841 seen.
+9709,2025,June,5,2,7,b,1,B1,1,0.582 < z2 < 0.584 or −0.584 < z2 < −0.582 seen.
+9709,2025,June,5,2,7,b,1,M1,1,"Use of the ±standardisation formula once with µ, σ"
+9709,2025,June,5,2,7,b,1,M1,1,Solve 2 equations in µ and σ with an attempt at the
+9709,2025,June,5,2,7,b,1,A1,1,AWRT
+9709,2025,June,5,2,7,c,1,M1,1,One term of the form 10Cx ( ) (
+9709,2025,June,5,2,0,NULL,1,A1,1,Correct un-simplified expression.
+9709,2025,June,5,2,0,NULL,1,B1,1,0.677 < p ⩽ 0.678.
+9709,2025,June,5,2,0,NULL,1,M1,1,One term of the form 10Cx ( ) (
+9709,2025,June,5,2,0,NULL,1,B1,1,0.677 < p ⩽ 0.678
+9709,2025,June,1,3,12,NULL,1,B1,1,Correct differential but can be unsimplified.
+9709,2025,June,1,3,5,NULL,1,*M1,1,Substitute
+9709,2025,June,1,3,1,NULL,1,A1,1,
+9709,2025,June,1,3,2,NULL,1,B1,1,"A correct unsimplified expression for r, this may only be seen"
+9709,2025,June,1,3,2,NULL,1,*M1,1,OE
+9709,2025,June,1,3,2,NULL,1,B1,1,
+9709,2025,June,1,3,2,NULL,1,*M1,1,
+9709,2025,June,1,3,4,NULL,1,A1,1,OE
+9709,2025,June,1,3,1,NULL,1,B1,1,OE
+9709,2025,June,1,3,1,NULL,1,*M1,1,Their integral must contain (
+9709,2025,June,1,3,36,NULL,1,A1,1,
+9709,2025,June,1,3,180,NULL,1,B1,1,B1B1 Coefficients must be simplified.
+9709,2025,June,1,3,100,NULL,1,B1,1,"Identify 0.01 as the only value to substitute, condone any"
+9709,2025,June,1,3,180,NULL,1,M1,1,Clear use of their x-value from their solution of
+9709,2025,June,1,3,2,NULL,1,A1,1,Correct answer to at least 3sf coming from substitution into
+9709,2025,June,1,3,5,NULL,1,M1,1,
+9709,2025,June,1,3,2,NULL,1,*M1,1,To obtain a 3-term quadratic in cos .
+9709,2025,June,1,3,0,NULL,1,A1,1,OE
+9709,2025,June,1,3,0,NULL,1,A1,1,AWRT as final answers.
+9709,2025,June,1,3,0,NULL,1,A1,1,Condone other answers outside the range but no others
+9709,2025,June,1,3,55,NULL,1,B1,1,SOI
+9709,2025,June,1,3,2,NULL,1,B1,1,SOI
+9709,2025,June,1,3,2,NULL,1,M1,1,"Using a valid substitution, expect either"
+9709,2025,June,1,3,0,NULL,1,A1,1,All terms need not be collected on one side.
+9709,2025,June,1,3,9,NULL,1,A1,1,A1 Ignore presence of extra solutions for N and a.
+9709,2025,June,1,3,3,NULL,1,*B1,1,OE
+9709,2025,June,1,3,3,NULL,1,B1,1,
+9709,2025,June,1,3,4,NULL,1,B1,1,FT SOI
+9709,2025,June,1,3,2,NULL,1,B1,1,Correct integration of the three terms given.
+9709,2025,June,1,3,3,NULL,1,M1,1,
+9709,2025,June,1,3,21,NULL,1,A1,1,Do not ISW if they continue to find a straight line. Condone
+9709,2025,June,1,3,1,NULL,1,M1,1,Attempt a complete valid method for finding angle EAF.
+9709,2025,June,1,3,1,NULL,1,A1,1,AG
+9709,2025,June,1,3,32,NULL,1,M1,1,Attempt a complete valid method for finding angle EAF.
+9709,2025,June,1,3,2,NULL,1,A1,1,AG
+9709,2025,June,1,3,4,NULL,1,B1,1,OE
+9709,2025,June,1,3,4,NULL,1,M1,1,Use of r with (
+9709,2025,June,1,3,4,NULL,1,A1,1,
+9709,2025,June,1,3,2,NULL,1,M1,1,Use
+9709,2025,June,1,3,2,NULL,1,M1,1,Attempt a complete method for finding area of shaded region.
+9709,2025,June,1,3,2,NULL,1,A1,1,AWRT
+9709,2025,June,1,3,2,NULL,1,M1,1,Area of the segment with (
+9709,2025,June,1,3,2,NULL,1,M1,1,"Attempt a complete method for finding area of shaded region,"
+9709,2025,June,1,3,5,NULL,1,B1,1,Obtain at least one relevant gradient.
+9709,2025,June,1,3,5,NULL,1,M1,1,Clear of fractions and expand brackets.
+9709,2025,June,1,3,5,NULL,1,B1,1,Obtain at least one of
+9709,2025,June,1,3,4,NULL,1,M1,1,Expect
+9709,2025,June,1,3,0,NULL,1,B1,1,OE
+9709,2025,June,1,3,0,NULL,1,M1,1,Substitution of (
+9709,2025,June,1,3,9,b,1,B1,1,SOI
+9709,2025,June,1,3,6,NULL,1,*M1,1,Attempt at finding the gradient of the radius using (
+9709,2025,June,1,3,7,NULL,1,A1,1,OE
+9709,2025,June,1,3,0,NULL,1,A1,1,"All correct terms on one side, but condone them being in the"
+9709,2025,June,1,3,2,NULL,1,*M1,1,Differentiate implicitly to arrive at an expression with two
+9709,2025,June,1,3,2,NULL,1,B1,1,Correct differential.
+9709,2025,June,1,3,0,NULL,1,M1,1,Equating a two term d
+9709,2025,June,1,3,6,NULL,1,A1,1,", A1 A1 for two correct x-values or one correct point, second A1"
+9709,2025,June,1,3,5,NULL,1,B1,1,FT Following through on their first derivative which must
+9709,2025,June,1,3,3,NULL,1,M1,1,Substitute x-coordinate of each stationary point and determine
+9709,2025,June,1,3,27,NULL,1,A1,1,CWO
+9709,2025,June,1,3,13,NULL,1,B1,1,
+9709,2025,June,1,3,1,NULL,1,A1,1,Answer must be in this format; the '
+9709,2025,June,1,3,4,NULL,1,B1,1,
+9709,2025,June,1,3,33,NULL,1,M1,1,Condone
+9709,2025,June,1,3,33,NULL,1,B1,1,Condone
+9709,2025,June,1,3,3,NULL,1,A1,1,OE
+9709,2025,June,1,3,4,NULL,1,B1,1,The co-ordinates of the minimum point (likely to be either
+9709,2025,June,1,3,33,NULL,1,M1,1,Their y-coordinate equated to 33.
+9709,2025,June,1,3,4,NULL,1,M1,1,Condone
+9709,2025,June,1,3,132,NULL,1,B1,1,OE
+9709,2025,June,1,3,2,NULL,1,B1,1,Expression for ( )
+9709,2025,June,1,3,2,NULL,1,M1,1,Replacing x with 0 in their ( )
+9709,2025,June,1,3,6,NULL,1,A1,1,
+9709,2025,June,1,3,36,NULL,1,M1,1,
+9709,2025,June,1,3,16,NULL,1,M1,1,Either composite function using their ( )
+9709,2025,June,1,3,16,NULL,1,A1,1,Complete algebraic expression for
+9709,2025,June,1,3,16,NULL,1,M1,1,Replacing x with 0 in their
+9709,2025,June,1,3,96,NULL,1,A1,1,OE
+9709,2025,June,1,3,5,NULL,1,A1,1,OE
+9709,2025,June,3,3,1,a,1,B1,1,Symmetrical. In correct position.
+9709,2025,June,3,3,2,NULL,1,B1,1,Allow if seen in an inequality.
+9709,2025,June,3,3,3,NULL,1,B1,1,Allow if seen in an inequality.
+9709,2025,June,3,3,2,NULL,1,B1,1,SC B1 only for
+9709,2025,June,3,3,5,NULL,1,M1,1,
+9709,2025,June,3,3,2,NULL,1,A1,1,
+9709,2025,June,3,3,2,NULL,1,A1,1,SC B1 only for
+9709,2025,June,3,3,2,NULL,1,*M1,1,Use of any correct law applied to original terms.
+9709,2025,June,3,3,0,NULL,1,A1,1,OE
+9709,2025,June,3,3,3,NULL,1,M1,1,*
+9709,2025,June,3,3,2,NULL,1,A1,1,OE
+9709,2025,June,3,3,20,NULL,1,A1,1,Or exact simplified equivalent.
+9709,2025,June,3,3,2,NULL,1,B1,1,Allow equivalent forms.
+9709,2025,June,3,3,2,NULL,1,B1,1,Clear demonstration that the product of the
+9709,2025,June,3,3,4,NULL,1,B1,1,Allow equivalent forms.
+9709,2025,June,3,3,7,NULL,1,M1,1,"E.g. find the product and sum of the roots, or"
+9709,2025,June,3,3,9,NULL,1,A1,1,OE
+9709,2025,June,3,3,5,a,1,B1,1,
+9709,2025,June,3,3,2,NULL,1,B1,1,
+9709,2025,June,3,3,2,NULL,1,M1,1,Need implicit differentiation and attempt at a
+9709,2025,June,3,3,2,NULL,1,A1,1,AG
+9709,2025,June,3,3,2,NULL,1,B1,1,Using
+9709,2025,June,3,3,2,NULL,1,M1,1,Must make use of
+9709,2025,June,3,3,5,b,1,B1,1,E.g.
+9709,2025,June,3,3,2,NULL,1,B1,1,E.g.
+9709,2025,June,3,3,4,NULL,1,*M1,1,Multiply numerator (and denominator) by the
+9709,2025,June,3,3,4,NULL,1,A1,1,OE
+9709,2025,June,3,3,0,NULL,1,A1,1,One correct solution A1.
+9709,2025,June,3,3,0,NULL,1,A1,1,Two solutions only.
+9709,2025,June,3,3,4,NULL,1,*M1,1,Equate to a real constant
+9709,2025,June,3,3,4,NULL,1,A1,1,
+9709,2025,June,3,3,3,NULL,1,A1,1,One correct solution A1.
+9709,2025,June,3,3,3,NULL,1,A1,1,Two solutions only.
+9709,2025,June,3,3,4,NULL,1,*M1,1,Use of
+9709,2025,June,3,3,2,NULL,1,M1,1,
+9709,2025,June,3,3,1,NULL,1,A1,1,Allow M1 A1 if correct A or B found even if
+9709,2025,June,3,3,1,NULL,1,A1,1,ISW
+9709,2025,June,3,3,2,NULL,1,A2,1,FT A1 FT for each partial fraction.
+9709,2025,June,3,3,72,NULL,1,A1,1,Ignore terms in higher powers of x.
+9709,2025,June,3,3,2,NULL,1,B1,1,OE
+9709,2025,June,3,3,8,a,1,M1,1,
+9709,2025,June,3,3,2,NULL,1,M1,1,(
+9709,2025,June,3,3,1,NULL,1,M1,1,
+9709,2025,June,3,3,1,NULL,1,M1,1,(
+9709,2025,June,3,3,2,NULL,1,A1,1,(
+9709,2025,June,3,3,8,b,1,*M1,1,
+9709,2025,June,3,3,5,NULL,1,A1,1,OE
+9709,2025,June,3,3,5,NULL,1,A1,1,AWRT
+9709,2025,June,3,3,9,a,1,M1,1,E.g.
+9709,2025,June,3,3,9,b,1,B1,1,Allow unsimplified.
+9709,2025,June,3,3,3,NULL,1,A1,1,Or correct equivalents.
+9709,2025,June,3,3,3,NULL,1,A1,1,Or equivalent column vector.
+9709,2025,June,3,3,9,c,1,M1,1,E.g.
+9709,2025,June,3,3,10,a,1,B1,1,
+9709,2025,June,3,3,10,a,1,*M1,1,
+9709,2025,June,3,3,10,a,1,A1,1,
+9709,2025,June,3,3,3,NULL,1,A1,1,
+9709,2025,June,3,3,9,NULL,1,A1,1,
+9709,2025,June,3,3,18,NULL,1,A1,1,OE ISW
+9709,2025,June,3,3,18,NULL,1,M1,1,AWRT
+9709,2025,June,3,3,18,NULL,1,M0,1,for answers in degrees.
+9709,2025,June,3,3,18,NULL,1,A1,1,AWRT
+9709,2025,June,3,3,11,a,1,*M1,1,Could be working in terms of a.
+9709,2025,June,3,3,4,NULL,1,A1,1,AG
+9709,2025,June,3,3,11,b,1,M1,1,"Allow smaller interval, provided it contains the"
+9709,2025,June,3,3,11,b,1,A1,1,E.g. tan1.8
+9709,2025,June,3,3,4,NULL,1,B1,1,Or work from right to left.
+9709,2025,June,3,3,4,NULL,1,B1,1,Allow working in x or a.
+9709,2025,June,3,3,11,d,1,M1,1,M0 if working in degrees.
+9709,2025,June,3,3,11,d,1,A1,1,
+9709,2025,June,3,3,11,d,1,A1,1,E.g.
+9709,2025,June,5,3,40,NULL,1,B1,1,
+9709,2025,June,5,3,40,NULL,1,M1,1,
+9709,2025,June,5,3,40,NULL,1,A1,1,14.08758…to at least 3SF.
+9709,2025,June,5,3,2,NULL,1,M1,1,622978.4 comes from expansion of
+9709,2025,June,5,3,2,NULL,1,A1,1,14.08758…to at least 3SF.
+9709,2025,June,5,3,1,NULL,1,M1,1,Might also be seen as 1 – 3C0(0.55)3[(0.45)0].
+9709,2025,June,5,3,8000,NULL,1,A1,1,AWRT.
+9709,2025,June,5,3,8000,NULL,1,M1,1,
+9709,2025,June,5,3,2,b,1,M1,1,One term of the form 10Cx ( ) (
+9709,2025,June,5,3,0,NULL,1,A1,1,Correct un-simplified expression.
+9709,2025,June,5,3,0,NULL,1,B1,1,0.09955 < p ≤ 0.0996.
+9709,2025,June,5,3,0,NULL,1,M1,1,One term of the form 10Cx ( ) (
+9709,2025,June,5,3,0,NULL,1,B1,1,0.09955 < p ⩽ 0.0996.
+9709,2025,June,5,3,1679616,NULL,1,B1,1,
+9709,2025,June,5,3,6,NULL,1,M1,1,
+9709,2025,June,5,3,6,NULL,1,A1,1,AWRT.
+9709,2025,June,5,3,7776,NULL,1,B1,1,"Two identified scenarios correct, accept un-simplified"
+9709,2025,June,5,3,7776,NULL,1,M1,1,Four correctly identified scenarios added (here they may be
+9709,2025,June,5,3,3888,NULL,1,A1,1,0.196 ⩽ p < 0.1963
+9709,2025,June,5,3,6,NULL,1,B1,1,"1 – 1 identified scenario correct, accept un-simplified calculations."
+9709,2025,June,5,3,6,NULL,1,M1,1,1 – 2 correctly identified scenarios (here they may be identified by
+9709,2025,June,5,3,3888,NULL,1,A1,1,0.196 ⩽ p < 0.1963.
+9709,2025,June,5,3,4,a,1,B1,1,
+9709,2025,June,5,3,4,b,1,B1,1,Plotted on box.
+9709,2025,June,5,3,4,b,1,B1,1,Correct end points of whiskers (2 and 12).
+9709,2025,June,5,3,4,b,1,B1,1,OE.
+9709,2025,June,5,3,1,NULL,1,B1,1,Correct structure and probabilities for Bag A branches which must
+9709,2025,June,5,3,1,NULL,1,B1,1,"Correct structure and probabilities for one Bag B branch, including"
+9709,2025,June,5,3,1,NULL,1,B1,1,"Correct structure and probabilities for remaining Bag B branches,"
+9709,2025,June,5,3,9,NULL,1,M1,1,"Correct or FT tree diagram probabilities with all 3 (R, B and G)"
+9709,2025,June,5,3,19,NULL,1,A1,1,"Accept 0.5278, 0.528."
+9709,2025,June,5,3,9,NULL,1,M1,1,
+9709,2025,June,5,3,108,NULL,1,B1,1,FT
+9709,2025,June,5,3,41,NULL,1,A1,1,"Accept 0.488, 0.4878."
+9709,2025,June,5,3,6,a,1,M1,1,"Substituting 2.65, 2.50 and 0.12 into the ±standardisation formula"
+9709,2025,June,5,3,6,a,1,A1,1,0.894 ⩽ p ⩽ 0.8944.
+9709,2025,June,5,3,6,b,1,M1,1,Seeing 2.50 + 1.65 × 0.12 or 2.698 and 2.50 and 0.12 substituted
+9709,2025,June,5,3,6,b,1,A1,1,AWRT.
+9709,2025,June,5,3,6,b,1,B1,1,"FT Strict FT their at least 4-DP calculated probability, seen anywhere"
+9709,2025,June,5,3,6,c,1,B1,1,0.738 < z1 < 0.740 or −0.740 < z1 < −0.738 seen.
+9709,2025,June,5,3,6,c,1,B1,1,0.150 < z2 < 0.152 or −0.152 < z2 < −0.150 seen.
+9709,2025,June,5,3,6,c,1,M1,1,"Use of the ±standardisation formula once with µ, σ equating to a z-"
+9709,2025,June,5,3,6,c,1,M1,1,"Solve 2 equations in µ and σ using the elimination method,"
+9709,2025,June,5,3,6,c,1,A1,1,AWRT
+9709,2025,June,5,3,7,a,1,M1,1,"7! – k, k an integer ⩾ 1."
+9709,2025,June,5,3,7,a,1,M1,1,"m – 6! × n : n = 1, 2 where m an integer > 6!"
+9709,2025,June,5,3,7,a,1,A1,1,
+9709,2025,June,5,3,7,a,1,M1,1,5! × p where p an integer > 1.
+9709,2025,June,5,3,7,a,1,M1,1,"q × 6 × 5, q × 6C2, q × 6P2,"
+9709,2025,June,5,3,2,NULL,1,A1,1,
+9709,2025,June,5,3,7,b,1,M1,1,"7! × r, where r is an integer, r > 1"
+9709,2025,June,5,3,7,b,1,M1,1,7!
+9709,2025,June,5,3,241920,NULL,1,A1,1,CAO.
+9709,2025,June,5,3,7,c,1,M1,1,
+9709,2025,June,5,3,7,c,1,A1,1,
+9709,2025,June,5,3,7,d,1,B1,1,"560 seen, accept un-simplified."
+9709,2025,June,5,3,7,d,1,B1,1,28 seen accept un-simplified.
+9709,2025,June,5,3,4620,NULL,1,M1,1,
+9709,2025,June,5,3,55,NULL,1,A1,1,
+9709,2025,June,5,3,33,NULL,1,B1,1,
+9709,2025,June,5,3,165,NULL,1,B1,1,
+9709,2025,June,5,3,165,NULL,1,M1,1,their 4
+9709,2025,March,1,2,3,NULL,1,B1,1,OE
+9709,2025,March,1,2,0,NULL,1,M1,1,OE
+9709,2025,March,1,2,0,NULL,1,A1,1,"Identification of correct critical values, may only be seen in"
+9709,2025,March,1,2,11,NULL,1,A1,1,CWO
+9709,2025,March,1,2,11,NULL,1,A0,1,if ⩽ sign or signs used.
+9709,2025,March,1,2,5,NULL,1,B1,1,OE
+9709,2025,March,1,2,9,NULL,1,B1,1,FT Correct use of
+9709,2025,March,1,2,0,NULL,1,M1,1,Equate their derivative of the form
+9709,2025,March,1,2,2,NULL,1,A1,1,AWRT
+9709,2025,March,1,2,3,NULL,1,B1,1,May be seen in a full expansion.
+9709,2025,March,1,2,3,NULL,1,B1,1,Correct combination of numerical coefficients for the
+9709,2025,March,1,2,81,NULL,1,M1,1,OE
+9709,2025,March,1,2,81,NULL,1,A1,1,OE
+9709,2025,March,1,2,2,NULL,1,M1,1,Other terms may be seen.
+9709,2025,March,1,2,2,NULL,1,A1,1,Accept
+9709,2025,March,1,2,4,a,1,B1,1,Accept 45.8 12π.
+9709,2025,March,1,2,2,NULL,1,M1,1,Allow angles correctly converted to degrees for this mark.
+9709,2025,March,1,2,6,NULL,1,B1,1,
+9709,2025,March,1,2,2,NULL,1,M1,1,OE
+9709,2025,March,1,2,400,NULL,1,M1,1,Attempt to determine positions of first and last terms
+9709,2025,March,1,2,6,NULL,1,A1,1,OE
+9709,2025,March,1,2,6,NULL,1,M1,1,
+9709,2025,March,1,2,26,NULL,1,M1,1,
+9709,2025,March,1,2,26,NULL,1,A1,1,
+9709,2025,March,1,2,11275,NULL,1,A1,1,
+9709,2025,March,1,2,11275,NULL,1,M1,1,
+9709,2025,March,1,2,395,NULL,1,M1,1,"Attempt to find n, which results in 40, 41 or 42."
+9709,2025,March,1,2,41,NULL,1,A1,1,CWO
+9709,2025,March,1,2,8,NULL,1,B1,1,OE
+9709,2025,March,1,2,15,NULL,1,B1,1,FT OE
+9709,2025,March,1,2,0,NULL,1,M1,1,Or other valid method of solution for their three-term
+9709,2025,March,1,2,0,NULL,1,A1,1,CWO
+9709,2025,March,1,2,4,NULL,1,B1,1,"M0,"
+9709,2025,March,1,2,5,NULL,1,M1,1,
+9709,2025,March,1,2,4,NULL,1,A1,1,FT
+9709,2025,March,1,2,2,NULL,1,M1,1,
+9709,2025,March,1,2,1,NULL,1,M1,1,
+9709,2025,March,1,2,1,NULL,1,A1,1,AG
+9709,2025,March,1,2,0,NULL,1,*M1,1,Allow  errors in arriving at their quadratic in
+9709,2025,March,1,2,10,NULL,1,A1,1,Condone inclusion of sin
+9709,2025,March,1,2,10,NULL,1,A1,1,AWRT
+9709,2025,March,1,2,10,NULL,1,A0,1,for additional values between 0 and 270 .
+9709,2025,March,1,2,1,NULL,1,B1,1,
+9709,2025,March,1,2,1,NULL,1,M1,1,Elimination of either a or r.
+9709,2025,March,1,2,0,NULL,1,A1,1,OE
+9709,2025,March,1,2,2,NULL,1,A1,1,
+9709,2025,March,1,2,240,NULL,1,B1,1,FT
+9709,2025,March,1,2,2,NULL,1,M1,1,With (their 240) and (
+9709,2025,March,1,2,2,NULL,1,M1,1,Correctly using the 10th term as ‘a’ and the sum to infinity.
+9709,2025,March,1,2,32,NULL,1,B1,1,FT
+9709,2025,March,1,2,2,NULL,1,M1,1,With (
+9709,2025,March,1,2,16,NULL,1,A1,1,A0 for 0.313
+9709,2025,March,1,2,2,NULL,1,M1,1,Substitute
+9709,2025,March,1,2,2,NULL,1,B1,1,B1 OE
+9709,2025,March,1,2,2,NULL,1,B1,1,for each correct { }.
+9709,2025,March,1,2,0,NULL,1,M1,1,Substitute
+9709,2025,March,1,2,6,NULL,1,A1,1,
+9709,2025,March,1,2,2,NULL,1,M1,1,Integration of their d
+9709,2025,March,1,2,2,NULL,1,A1,1,OE
+9709,2025,March,1,2,2,NULL,1,B1,1,B1 B1 for each correct { }.
+9709,2025,March,1,2,9,NULL,1,M1,1,Correct use of 7 and 0 in an expression with at least two
+9709,2025,March,1,2,13,NULL,1,A1,1,
+9709,2025,March,1,2,2,NULL,1,B1,1,
+9709,2025,March,1,2,7,NULL,1,*M1,1,Using
+9709,2025,March,1,2,5,NULL,1,A1,1,"FT Only FT, following B0M1DM1DM1, from their (a) if"
+9709,2025,March,1,2,2,NULL,1,B1,1,OE
+9709,2025,March,1,2,1,NULL,1,B1,1,OE
+9709,2025,March,1,2,2,NULL,1,M1,1,Allow  errors only.
+9709,2025,March,1,2,2,NULL,1,B1,1,FT OE
+9709,2025,March,1,2,15,NULL,1,B1,1,OE
+9709,2025,March,1,2,5,NULL,1,B1,1,
+9709,2025,March,3,2,1,NULL,1,B1,1,"OE, with ln removed."
+9709,2025,March,3,2,1,NULL,1,M1,1,E.g. [e–2x = 1 − e–3]
+9709,2025,March,3,2,1,NULL,1,A1,1,CAO
+9709,2025,March,3,2,1,NULL,1,B1,1,"OE, without ln."
+9709,2025,March,3,2,1,NULL,1,M1,1,
+9709,2025,March,3,2,2,NULL,1,B1,1,
+9709,2025,March,3,2,2,NULL,1,B1,1,OE
+9709,2025,March,3,2,8,NULL,1,B1,1,OE
+9709,2025,March,3,2,3,a,1,B1,1,Condone strict inequalities throughout (a).
+9709,2025,March,3,2,3,a,1,M1,1,Accept equation or any inequality sign.
+9709,2025,March,3,2,3,NULL,1,A1,1,Accept
+9709,2025,March,3,2,3,b,1,M1,1,* (
+9709,2025,March,3,2,5,NULL,1,A1,1,"AWRT 4.35, e.g. 4.3525…"
+9709,2025,March,3,2,1,NULL,1,B1,1,OE
+9709,2025,March,3,2,2,NULL,1,B1,1,SOI
+9709,2025,March,3,2,2,NULL,1,B1,1,May be implied by further work.
+9709,2025,March,3,2,2,NULL,1,M1,1,FT their 3-term quadratic. Allow tan–1(..).
+9709,2025,March,3,2,2,NULL,1,A1,1,AWRT 79.8.
+9709,2025,March,3,2,2,NULL,1,A1,1,"Allow 160, or AWRT 160.2."
+9709,2025,March,3,2,5,NULL,1,M1,1,
+9709,2025,March,3,2,4,NULL,1,A1,1,Or x2 + y2 = 14.
+9709,2025,March,3,2,4,NULL,1,M1,1,"Allow slips in e.g. signs, powers etc."
+9709,2025,March,3,2,4,NULL,1,A1,1,May be implied by further work.
+9709,2025,March,3,2,5,NULL,1,A1,1,Accept e.g.
+9709,2025,March,3,2,6,NULL,1,B1,1,sin2 2θ = 1
+9709,2025,March,3,2,2,NULL,1,M1,1,Position of (x + 5) or (
+9709,2025,March,3,2,4,NULL,1,B1,1,FT Allow 1
+9709,2025,March,3,2,5,NULL,1,M1,1,OE
+9709,2025,March,3,2,5,NULL,1,A1,1,E.g.
+9709,2025,March,3,2,4,NULL,1,A1,1,FT
+9709,2025,March,3,2,7,a,1,M1,1,3x2 cos (2x) + x3
+9709,2025,March,3,2,7,a,1,A1,1,OE
+9709,2025,March,3,2,2,NULL,1,A1,1,AG
+9709,2025,March,3,2,7,b,1,M1,1,
+9709,2025,March,3,2,2,NULL,1,A1,1,
+9709,2025,March,3,2,7,c,1,M1,1,
+9709,2025,March,3,2,7,c,1,A1,1,
+9709,2025,March,3,2,7,c,1,A1,1,"E.g. 0.5, 0.62452, 0.58814, 0.59856, 0.59556,"
+9709,2025,March,3,2,8,a,1,B1,1,
+9709,2025,March,3,2,8,a,1,M1,1,
+9709,2025,March,3,2,8,a,1,A1,1,"Possible answers are 6, 12, 0 for λ and"
+9709,2025,March,3,2,8,a,1,A1,1,"E.g. show 21 ≠ 15 for (11, 21, –10) and"
+9709,2025,March,3,2,1,NULL,1,M1,1,E.g. (2 × –1) + (3 × –2) + (–1 × 1) or –2 – 6 – 1
+9709,2025,March,3,2,1,NULL,1,M1,1,Allow for any pair of vectors here but must be
+9709,2025,March,3,2,1,NULL,1,A1,1,Allow 169°.
+9709,2025,March,3,2,9,a,1,M1,1,*
+9709,2025,March,3,2,9,a,1,A1,1,OE
+9709,2025,March,3,2,9,a,1,A1,1,
+9709,2025,March,3,2,9,b,1,M1,1,Using their a and their b.
+9709,2025,March,3,2,9,b,1,A1,1,SOI
+9709,2025,March,3,2,9,b,1,A1,1,
+9709,2025,March,3,2,3,NULL,1,B1,1,FT Must be final answer not in working.
+9709,2025,March,3,2,3,NULL,1,B1,1,FT Allow
+9709,2025,March,3,2,4,NULL,1,B1,1,
+9709,2025,March,3,2,4,NULL,1,M1,1,A(
+9709,2025,March,3,2,4,NULL,1,M1,1,A1. Max 2/5.
+9709,2025,March,3,2,10,b,1,B1,1,FT OE
+9709,2025,March,3,2,1,NULL,1,M1,1,d = 1
+9709,2025,March,3,2,2,NULL,1,A1,1,FT FT
+9709,2025,March,3,2,2,NULL,1,M1,1,a ln (3) + b ln (8) − b ln (4) + c(
+9709,2025,March,3,2,4,NULL,1,A1,1,Must be in the form aπ – ln b.
+9709,2025,March,3,2,3,NULL,1,*M1,1,OE
+9709,2025,March,3,2,3,NULL,1,A1,1,OE
+9709,2025,March,3,2,3,NULL,1,A1,1,"Allow 6 × 3 for 18, 9 × 6 for 54 OE."
+9709,2025,March,3,2,3,NULL,1,*M1,1,
+9709,2025,March,5,2,20,NULL,1,B1,1,Order of coins must be consistent with question if not
+9709,2025,March,5,2,60,NULL,1,B1,1,Table with correct values of x and at least two correct non-
+9709,2025,March,5,2,60,NULL,1,B1,1,One more correct non-zero probability linked with correct
+9709,2025,March,5,2,60,NULL,1,B1,1,"4 correct probabilities linked with the correct outcomes,"
+9709,2025,March,5,2,60,NULL,1,M1,1,Appropriate variance formula using (E(X))2 value. FT
+9709,2025,March,5,2,3600,NULL,1,A1,1,0.5695 < Var(X) ⩽ 0.570.
+9709,2025,March,5,2,297,NULL,1,B1,1,Accept 148500
+9709,2025,March,5,2,2,b,1,M1,1,One term of the form 12Cx ( ) (
+9709,2025,March,5,2,1,NULL,1,A1,1,"Correct unsimplified expression, no terms omitted leading"
+9709,2025,March,5,2,1,NULL,1,B1,1,0.9575 < p ≤ 0.958.
+9709,2025,March,5,2,1,NULL,1,M1,1,One term of the form 12Cx ( ) (
+9709,2025,March,5,2,1,NULL,1,A1,1,"Correct unsimplified expression, no more than 7 ‘middle’"
+9709,2025,March,5,2,1,NULL,1,B1,1,0.9575 < p ⩽ 0.958.
+9709,2025,March,5,2,2,c,1,B1,1,21 and 17.85 (or
+9709,2025,March,5,2,21,NULL,1,M1,1,Substituting their µ and their σ into the ± standardisation
+9709,2025,March,5,2,21,NULL,1,M1,1,Use continuity correction 23.5 or 24.5 in their
+9709,2025,March,5,2,21,NULL,1,M2,1,BOD.
+9709,2025,March,5,2,1,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a"
+9709,2025,March,5,2,1,NULL,1,A1,1,Final answer AWRT.
+9709,2025,March,5,2,250,NULL,1,B1,1,"At least 4 of 46, 106, 178, 226, 250 cumulative"
+9709,2025,March,5,2,250,NULL,1,B1,1,Linearly scaled axes correctly labelled cumulative
+9709,2025,March,5,2,250,NULL,1,M1,1,At least 4 points correctly plotted at class upper end points
+9709,2025,March,5,2,250,NULL,1,A1,1,"All points plotted correct, curve drawn (within tolerance)"
+9709,2025,March,5,2,250,NULL,1,A0,1,if straight line segments used.
+9709,2025,March,5,2,3,b,1,M1,1,Clear indication of use of graph at cf 155 is required.
+9709,2025,March,5,2,3,b,1,A1,1,FT Must be an increasing cf graph. Expect an answer in the
+9709,2025,March,5,2,3,c,1,B1,1,"At least 5 correct midpoints seen, may be unsimplified,"
+9709,2025,March,5,2,250,NULL,1,M1,1,Correct unsimplified mean formula using their 6
+9709,2025,March,5,2,250,NULL,1,A1,1,Accept
+9709,2025,March,5,2,3,NULL,1,M1,1,1 outcome seen as the product of 3 fractions with
+9709,2025,March,5,2,3,NULL,1,M1,1,Sum of 3 correct identified scenarios (may be identified by
+9709,2025,March,5,2,67,NULL,1,A1,1,0.1195 < p ⩽ 0.120.
+9709,2025,March,5,2,560,NULL,1,M1,1,One outcome seen as the product of 3 fractions with
+9709,2025,March,5,2,3,NULL,1,A1,1,1 identified outcome fully correct (accept unsimplified).
+9709,2025,March,5,2,3,NULL,1,M1,1,Sum of 3 correctly identified scenarios (may be identified
+9709,2025,March,5,2,3,NULL,1,A1,1,"If 1 or more M mark not scored, SC1 for 2040 17"
+9709,2025,March,5,2,14,NULL,1,M1,1,Two outcomes seen as the product of 3 fractions with
+9709,2025,March,5,2,14,NULL,1,A1,1,2 identified outcomes fully correct (accept unsimplified).
+9709,2025,March,5,2,14,NULL,1,M1,1,1 – sum of 7 correctly identified scenarios (may be
+9709,2025,March,5,2,14,NULL,1,A1,1,"If 1 or more M mark not scored, SC1 for 2040 17"
+9709,2025,March,5,2,75,NULL,1,M1,1,"Use of ±standardisation formula once with 65.8, 9.6 and"
+9709,2025,March,5,2,1,NULL,1,M1,1,"Appropriate probability area Φ, from final process. Must"
+9709,2025,March,5,2,1,NULL,1,A1,1,AWRT.
+9709,2025,March,5,2,5,b,1,B1,1,1.282 or – 1.282 seen cao (critical value).
+9709,2025,March,5,2,5,b,1,M1,1,"±standardisation formula with 59.1, 72.4, σ equating to a"
+9709,2025,March,5,2,5,b,1,A1,1,AWRT.
+9709,2025,March,5,2,4,NULL,1,B1,1,
+9709,2025,March,5,2,1,NULL,1,M1,1,
+9709,2025,March,5,2,1,NULL,1,A1,1,0.3439.
+9709,2025,March,5,2,7,NULL,1,M1,1,
+9709,2025,March,5,2,7,NULL,1,A1,1,0.3439.
+9709,2025,March,5,2,151200,NULL,1,B1,1,CAO.
+9709,2025,March,5,2,6,b,1,M1,1,
+9709,2025,March,5,2,7560,NULL,1,A1,1,
+9709,2025,March,5,2,3,NULL,1,M1,1,
+9709,2025,March,5,2,5,NULL,1,*M1,1,
+9709,2025,March,5,2,5,NULL,1,A1,1,
+9709,2025,March,5,2,4,NULL,1,*M1,1,
+9709,2025,March,5,2,4,NULL,1,A1,1,
+9709,2025,March,5,2,6,d,1,M1,1,One correct identified unsimplified expression
+9709,2025,March,5,2,6,d,1,B1,1,"Correct outcome/value for 2 clearly identified scenarios,"
+9709,2025,March,5,2,6,d,1,M1,1,Sum of 4 correct identified scenarios.
+9709,2025,March,5,2,60,NULL,1,A1,1,
+9709,2025,March,5,2,60,NULL,1,M1,1,5C3 seen with YR^^ identified.
+9709,2025,March,5,2,60,NULL,1,M1,1,"5C3 × a, a = 2, 3, 6."
+9709,2025,March,5,2,60,NULL,1,B1,1,5C3 × 3C1 × 2C1 or 5C3 × 3 × 2.
+9709,2024,November,1,1,2,NULL,1,M1,1,Needs numerical coefficient or 4!
+9709,2024,November,1,1,2,NULL,1,A1,1,Ignore – 5
+9709,2024,November,1,1,2,NULL,1,M1,1,Needs numerical coefficient or 4! .
+9709,2024,November,1,1,2,NULL,1,A1,1,Accept
+9709,2024,November,1,1,2,NULL,1,B1,1,
+9709,2024,November,1,1,3,NULL,1,M1,1,Must be an attempt at differentiation.
+9709,2024,November,1,1,54,NULL,1,A1,1,
+9709,2024,November,1,1,27,NULL,1,A1,1,
+9709,2024,November,1,1,3,NULL,1,M1,1,
+9709,2024,November,1,1,5,NULL,1,A1,1,
+9709,2024,November,1,1,4,NULL,1,A1,1,AWRT 4.00.
+9709,2024,November,1,1,4,NULL,1,M1,1,
+9709,2024,November,1,1,5,NULL,1,A1,1,OE. Must be in terms of π.
+9709,2024,November,1,1,4,NULL,1,*M1,1,All terms to one side and brackets expanded.
+9709,2024,November,1,1,0,NULL,1,A1,1,
+9709,2024,November,1,1,14400,NULL,1,A1,1,
+9709,2024,November,1,1,0,NULL,1,A1,1,FT FT for ak2 + b
+9709,2024,November,1,1,5,a,1,M1,1,"Accept 8y2 – 6y – 9 → (2y – 3)(4y + 3), if y = √x"
+9709,2024,November,1,1,0,NULL,1,A1,1,Ignore 4
+9709,2024,November,1,1,16,NULL,1,A1,1,SC B1 if no method shown for solving the 3-term
+9709,2024,November,1,1,0,NULL,1,M1,1,
+9709,2024,November,1,1,2,NULL,1,A1,1,Allow unsimplified.
+9709,2024,November,1,1,11,NULL,1,M1,1,Dependent on at least 2 correct terms involving x.
+9709,2024,November,1,1,9,NULL,1,A1,1,Must be simplified.
+9709,2024,November,1,1,1,NULL,1,B1,1,
+9709,2024,November,1,1,4,NULL,1,B1,1,
+9709,2024,November,1,1,4,NULL,1,A1,1,
+9709,2024,November,1,1,6,b,1,B1,1,
+9709,2024,November,1,1,6,b,1,B1,1,FT ‘15’ – R1 – R2 or ‘15’ + R1 + R2.
+9709,2024,November,1,1,6,b,1,B1,1,FT ‘15’ – R1 – R2 and ‘15’ + R1 + R2.
+9709,2024,November,1,1,3,NULL,1,A1,1,
+9709,2024,November,1,1,2,NULL,1,M1,1,Gradient must come from a differentiated
+9709,2024,November,1,1,3,NULL,1,M1,1,Substitute correct limits into an integrated
+9709,2024,November,1,1,3,NULL,1,A1,1,SC B1 if M1 A1 M0 scored.
+9709,2024,November,1,1,8,b,1,*M1,1,
+9709,2024,November,1,1,2,NULL,1,A1,1,
+9709,2024,November,1,1,2,NULL,1,A1,1,FT Following first answer; and no others for
+9709,2024,November,1,1,9,NULL,1,B1,1,
+9709,2024,November,1,1,9,NULL,1,M1,1,
+9709,2024,November,1,1,3,NULL,1,A1,1,SC B1 if no method for solving the quadratic.
+9709,2024,November,1,1,3,NULL,1,A1,1,FT SC B1 if no method for solving the quadratic.
+9709,2024,November,1,1,9,b,1,*M1,1,
+9709,2024,November,1,1,3,NULL,1,A1,1,SC B1 for solving
+9709,2024,November,1,1,9,NULL,1,A1,1,SC B1 for
+9709,2024,November,1,1,10,a,1,B1,1,
+9709,2024,November,1,1,5,NULL,1,M1,1,
+9709,2024,November,1,1,5,NULL,1,A1,1,Ignore 0 as a solution.
+9709,2024,November,1,1,5,NULL,1,B1,1,
+9709,2024,November,1,1,4,NULL,1,M1,1,OE
+9709,2024,November,1,1,10,b,1,M1,1,
+9709,2024,November,1,1,10,b,1,A1,1,
+9709,2024,November,1,1,10,b,1,B1,1,
+9709,2024,November,1,1,10,NULL,1,A1,1,
+9709,2024,November,1,1,2,NULL,1,B1,1,FT Following their value of a.
+9709,2024,November,1,1,11,b,1,B1,1,Accept transformations in any order.
+9709,2024,November,1,1,2,NULL,1,B1,1,FT Following their values of a and c in part (a).
+9709,2024,November,1,1,11,c,1,B1,1,
+9709,2024,November,1,1,11,c,1,B1,1,Accept passes the horizontal line test.
+9709,2024,November,1,1,11,d,1,B1,1,Appearing in third and fourth quadrants only.
+9709,2024,November,1,1,11,d,1,B1,1,See above; no need to label the line.
+9709,2024,November,1,1,11,d,1,M1,1,Allowing use of  and y so far.
+9709,2024,November,1,1,2,NULL,1,A1,1,Must involve x at the conclusion.
+9709,2024,November,3,1,2,NULL,1,M1,1,
+9709,2024,November,3,1,0,NULL,1,A1,1,(
+9709,2024,November,3,1,4,NULL,1,M1,1,"If using long division, M1 is for correct use of two"
+9709,2024,November,3,1,20,NULL,1,A1,1,(
+9709,2024,November,3,1,11,NULL,1,A1,1,
+9709,2024,November,3,1,2,NULL,1,M1,1,*
+9709,2024,November,3,1,3,NULL,1,A1,1,Or unsimplified equivalent.
+9709,2024,November,3,1,9,NULL,1,A1,1,
+9709,2024,November,3,1,9,NULL,1,A1,1,Or 2-term equivalent.
+9709,2024,November,3,1,3,NULL,1,B1,1,
+9709,2024,November,3,1,2,NULL,1,B1,1,
+9709,2024,November,3,1,2,NULL,1,M1,1,Having the correct form for at least one of the above.
+9709,2024,November,3,1,2,NULL,1,A1,1,
+9709,2024,November,3,1,1,NULL,1,B1,1,
+9709,2024,November,3,1,2,NULL,1,M1,1,(
+9709,2024,November,3,1,1,NULL,1,M1,1,"The 2 method marks can appear in either order, in which"
+9709,2024,November,3,1,1,NULL,1,A1,1,Obtain given answer from full and correct working.
+9709,2024,November,3,1,4,NULL,1,M1,1,
+9709,2024,November,3,1,0,NULL,1,M1,1,
+9709,2024,November,3,1,9,NULL,1,M1,1,
+9709,2024,November,3,1,9,NULL,1,A1,1,E.g. 2.079
+9709,2024,November,3,1,5,c,1,M1,1,"I.e., obtain one value and substitute that value back into"
+9709,2024,November,3,1,5,c,1,A1,1,
+9709,2024,November,3,1,5,c,1,A1,1,E.g.
+9709,2024,November,3,1,6,a,1,*M1,1,
+9709,2024,November,3,1,3,NULL,1,A1,1,OE
+9709,2024,November,3,1,4,NULL,1,A1,1,Mark degrees as a misread.
+9709,2024,November,3,1,6,b,1,M1,1,
+9709,2024,November,3,1,8,NULL,1,A1,1,Or
+9709,2024,November,3,1,1,NULL,1,A1,1,
+9709,2024,November,3,1,3,NULL,1,A1,1,
+9709,2024,November,3,1,3,NULL,1,B1,1,FT Correct term in
+9709,2024,November,3,1,1,NULL,1,M1,1,Do not need to deal with 2-1 at this stage.
+9709,2024,November,3,1,4,NULL,1,A1,1,FT Follow their B (and C).
+9709,2024,November,3,1,8,NULL,1,A1,1,Or simplified equivalent.
+9709,2024,November,3,1,8,a,1,M1,1,OE
+9709,2024,November,3,1,1,NULL,1,A1,1,OE
+9709,2024,November,3,1,1,NULL,1,A1,1,FT Follow their answer from (a) provided it gives an
+9709,2024,November,3,1,4,NULL,1,A1,1,AG
+9709,2024,November,3,1,8,c,1,B1,1,
+9709,2024,November,3,1,2,NULL,1,B1,1,OE
+9709,2024,November,3,1,9,a,1,M1,1,Allow in column vectors.
+9709,2024,November,3,1,4,NULL,1,A1,1,Need r = …
+9709,2024,November,3,1,9,b,1,B1,1,FT Follow their equation (
+9709,2024,November,3,1,3,NULL,1,M1,1,
+9709,2024,November,3,1,9,c,1,M1,1,(
+9709,2024,November,3,1,11,NULL,1,*M1,1,Divide the scalar product by the product of the moduli and
+9709,2024,November,3,1,6,NULL,1,A1,1,OE
+9709,2024,November,3,1,86,NULL,1,A1,1,Correct only (both values).
+9709,2024,November,3,1,10,a,1,B1,1,SOI
+9709,2024,November,3,1,10,a,1,M1,1,"OE, e.g. d"
+9709,2024,November,3,1,10,a,1,A1,1,Any equivalent form in terms of h.
+9709,2024,November,3,1,10,a,1,A1,1,Obtain given answer from full and correct working.
+9709,2024,November,3,1,10,b,1,*M1,1,
+9709,2024,November,3,1,40,NULL,1,A1,1,Must be seen.
+9709,2024,November,3,1,40,NULL,1,A1,1,
+9709,2024,November,5,1,6,NULL,1,M1,1,"1 – bd , b = 5 1"
+9709,2024,November,5,1,6,NULL,1,A1,1,0.720918… 201811
+9709,2024,November,5,1,6,NULL,1,M1,1,
+9709,2024,November,5,1,1,NULL,1,A1,1,0.720918… 201811
+9709,2024,November,5,1,6,NULL,1,A1,1,0.0651 ⩽ p < 0.06512.
+9709,2024,November,5,1,28,NULL,1,B1,1,k must be identified
+9709,2024,November,5,1,28,NULL,1,M1,1,Table with correct outcomes and 2 correct probabilities.
+9709,2024,November,5,1,28,NULL,1,A1,1,Fully correct.
+9709,2024,November,5,1,14,NULL,1,M1,1,Accept unsimplified expression. May be calculated in the
+9709,2024,November,5,1,14,NULL,1,M1,1,Appropriate variance formula using their (E(X))2 value. FT
+9709,2024,November,5,1,4196,NULL,1,A1,1,Condone 825
+9709,2024,November,5,1,3,a,1,M1,1,At least 4 points plotted within tolerance at upper bounds.
+9709,2024,November,5,1,3,a,1,A1,1,"All points plotted correctly. Curve drawn and joined to (0, 0)."
+9709,2024,November,5,1,3,b,1,B1,1,FT Must be identified.
+9709,2024,November,5,1,3,b,1,M1,1,41 ⩽ UQ ⩽ 43 − 25 < LQ ⩽ 27 .
+9709,2024,November,5,1,16,NULL,1,A1,1,FT
+9709,2024,November,5,1,24,NULL,1,B1,1,At least 5 correct midpoints
+9709,2024,November,5,1,200,NULL,1,M1,1,Correct mean formula using their 6 midpoints (must be
+9709,2024,November,5,1,13,NULL,1,A1,1,"Accept 33.7, not 673"
+9709,2024,November,5,1,6,NULL,1,B1,1,"2 clearly identified unsimplified probabilities from P(HRR),"
+9709,2024,November,5,1,28,NULL,1,M1,1,"Sum of 4 correct scenarios, may be identified by the"
+9709,2024,November,5,1,63,NULL,1,A1,1,(0.460317… to at least 3SF).
+9709,2024,November,5,1,252,NULL,1,M1,1,
+9709,2024,November,5,1,14,NULL,1,M1,1,
+9709,2024,November,5,1,61,NULL,1,A1,1,Accept 0.8852589… rounded to at least 3SF.
+9709,2024,November,5,1,8,NULL,1,M1,1,"Using ± standardisation formula with 90, 8 and either 83 or"
+9709,2024,November,5,1,2,NULL,1,A1,1,Both ±0.875 OE and ±0.625 OE seen.
+9709,2024,November,5,1,1,NULL,1,M1,1,"Calculating the appropriate probability area, leading to their"
+9709,2024,November,5,1,1,NULL,1,A1,1,"0.5432, 0.543 ⩽ p < 0.5435."
+9709,2024,November,5,1,5,b,1,B1,1,"96 and 38.4 seen, allow unsimplified."
+9709,2024,November,5,1,5,NULL,1,M1,1,Substituting their 96 and their 38.4 into the ±standardising
+9709,2024,November,5,1,5,NULL,1,M1,1,Use continuity correction 104.5 or 105.5 in their
+9709,2024,November,5,1,5,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a probability."
+9709,2024,November,5,1,5,NULL,1,A1,1,0.9149 ⩽ p ⩽ 0.915.
+9709,2024,November,5,1,6,a,1,B1,1,"1.282 or – 1.282 seen, CAO (critical value)."
+9709,2024,November,5,1,6,a,1,B1,1,−0.2535 < z ⩽ −0.253 or 0.253 ⩽ z < 0.2535 seen.
+9709,2024,November,5,1,6,a,1,M1,1,"One standardisation formula, not σ2, or √σ, with 182.7 or"
+9709,2024,November,5,1,6,a,1,M1,1,Either a single expression with one variable eliminated
+9709,2024,November,5,1,6,a,1,A1,1,Answers must be to at least 1 DP (context).
+9709,2024,November,5,1,10,NULL,1,M1,1,One term 10Cx ( ) (
+9709,2024,November,5,1,0,NULL,1,A1,1,Correct unsimplified expression. Allow 10 for 10C9.
+9709,2024,November,5,1,0,NULL,1,B1,1,0.8327 < p ⩽ 0.833.
+9709,2024,November,5,1,3,NULL,1,M1,1,One term 10Cx ( ) (
+9709,2024,November,5,1,0,NULL,1,A1,1,Correct unsimplified expression.
+9709,2024,November,5,1,7,a,1,M1,1,
+9709,2024,November,5,1,7,a,1,A1,1,
+9709,2024,November,5,1,7,b,1,M1,1,
+9709,2024,November,5,1,7,b,1,A1,1,
+9709,2024,November,5,1,2,NULL,1,M1,1,
+9709,2024,November,5,1,2,NULL,1,A1,1,
+9709,2024,November,5,1,7,c,1,B1,1,"Either identified or correct unsimplified expression, either"
+9709,2024,November,5,1,4,NULL,1,M1,1,
+9709,2024,November,5,1,126,NULL,1,A1,1,39.68 ⩽ percentage ⩽ 39.7.
+9709,2024,November,5,1,126,NULL,1,B1,1,"Either identified or correct unsimplified expression, either"
+9709,2024,November,5,1,20,NULL,1,M1,1,
+9709,2024,November,1,2,4,NULL,1,B1,1,Allow
+9709,2024,November,1,2,2,NULL,1,B1,1,
+9709,2024,November,1,2,3,NULL,1,B1,1,
+9709,2024,November,1,2,5,NULL,1,B1,1,Ignore attempts at finding solutions.
+9709,2024,November,1,2,1,NULL,1,B1,1,Ignore attempts at finding solutions.
+9709,2024,November,1,2,75,NULL,1,M1,1,Correct use of either S20 formula with a = — 20 and d = 5.
+9709,2024,November,1,2,550,NULL,1,A1,1,
+9709,2024,November,1,2,2,NULL,1,M1,1,* Correct use of Sn formula with
+9709,2024,November,1,2,12,NULL,1,A1,1,Condone extra solution
+9709,2024,November,1,2,3,NULL,1,B1,1,SOI
+9709,2024,November,1,2,2,NULL,1,M1,1,
+9709,2024,November,1,2,4,NULL,1,A1,1,
+9709,2024,November,1,2,0,NULL,1,B1,1,Either of these statements or any sight of h = 0.
+9709,2024,November,1,2,8,NULL,1,B1,1,FT Could come from anywhere except wrong working.
+9709,2024,November,1,2,2,NULL,1,B1,1,OE
+9709,2024,November,1,2,135,NULL,1,B1,1,Correct term must be identified if in a list.
+9709,2024,November,1,2,3,NULL,1,B1,1,OE
+9709,2024,November,1,2,540,NULL,1,B1,1,Identifying
+9709,2024,November,1,2,1,NULL,1,M1,1,
+9709,2024,November,1,2,1485,NULL,1,A1,1,Allow 1485x0.
+9709,2024,November,1,2,3,NULL,1,B1,1,Condone 0.333.
+9709,2024,November,1,2,1,NULL,1,B1,1,For showing the correct mirror line.
+9709,2024,November,1,2,1,NULL,1,B1,1,For correct shape: the curves should intersect in the first square
+9709,2024,November,1,2,1,NULL,1,M1,1,* Equating y to the given function and clearing of fractions.
+9709,2024,November,1,2,2,NULL,1,A1,1,Allow ‘
+9709,2024,November,1,2,1,NULL,1,B1,1,"Accept — ∞ < x <1 or (— ∞, 1), condone [— ∞, 1)."
+9709,2024,November,1,2,1,NULL,1,M1,1,* Equating y to the given function after division by 2
+9709,2024,November,1,2,2,NULL,1,A1,1,OE
+9709,2024,November,1,2,4,NULL,1,B1,1,
+9709,2024,November,1,2,8,NULL,1,A1,1,OE
+9709,2024,November,1,2,7,NULL,1,M1,1,
+9709,2024,November,1,2,6,NULL,1,B1,1,
+9709,2024,November,1,2,10,NULL,1,M1,1,*
+9709,2024,November,1,2,2,NULL,1,B1,1,Condone extra answers
+9709,2024,November,1,2,2,NULL,1,M1,1,*
+9709,2024,November,1,2,19,NULL,1,A1,1,Accept
+9709,2024,November,1,2,7,b,1,B1,1,* Both x co-ordinates for the points of intersection.
+9709,2024,November,1,2,7,b,1,M1,1,*
+9709,2024,November,1,2,3,NULL,1,B1,1,* Both terms correct.
+9709,2024,November,1,2,3,NULL,1,M1,1,"Apply their limits, one positive and one negative, obtained"
+9709,2024,November,1,2,3,NULL,1,B1,1,* Both x co-ordinates for the points of intersection.
+9709,2024,November,1,2,3,NULL,1,M1,1,* The second integral can be replaced with what is clearly their
+9709,2024,November,1,2,2,NULL,1,B1,1,* OE
+9709,2024,November,1,2,3,NULL,1,M1,1,*
+9709,2024,November,1,2,2,NULL,1,B1,1,* All terms correct.
+9709,2024,November,1,2,7,b,1,M1,1,* The second integral can be replaced with what is clearly their
+9709,2024,November,1,2,2,NULL,1,B1,1,*
+9709,2024,November,1,2,2,NULL,1,M1,1,Use of m1m2=  −1with their numeric tangent gradient.
+9709,2024,November,1,2,5,NULL,1,A1,1,OE
+9709,2024,November,1,2,5,NULL,1,M1,1,*
+9709,2024,November,1,2,2,NULL,1,M1,1,* Using their normal equation and their stated centre or
+9709,2024,November,1,2,8,NULL,1,M1,1,*
+9709,2024,November,1,2,20,NULL,1,M1,1,*
+9709,2024,November,1,2,15,NULL,1,A1,1,
+9709,2024,November,1,2,5,NULL,1,M1,1,* Using (
+9709,2024,November,1,2,2,NULL,1,M1,1,* Substituting (
+9709,2024,November,1,2,0,NULL,1,M1,1,* Substituting (
+9709,2024,November,1,2,0,NULL,1,M1,1,* Solving the tangent and circle equations simultaneously to form
+9709,2024,November,1,2,0,NULL,1,M1,1,*
+9709,2024,November,1,2,2,NULL,1,A1,1,A1 OE
+9709,2024,November,1,2,0,NULL,1,M1,1,* OE
+9709,2024,November,1,2,2,NULL,1,A1,1,Condone inclusion of
+9709,2024,November,1,2,2,NULL,1,M1,1,* Equate the original equations of the curve and the line and
+9709,2024,November,1,2,2,NULL,1,A1,1,
+9709,2024,November,1,2,18,NULL,1,B1,1,SOI
+9709,2024,November,1,2,18,NULL,1,M1,1,Use of m1m2 = 1
+9709,2024,November,1,2,18,NULL,1,A1,1,OE
+9709,2024,November,1,2,6,NULL,1,B1,1,B1 B1 for each unsimplified {}.
+9709,2024,November,1,2,6,NULL,1,M1,1,Use of
+9709,2024,November,1,2,3,NULL,1,A1,1,Only condone c = 3 as their final answer if all coefficients have
+9709,2024,November,1,2,128,NULL,1,M1,1,*
+9709,2024,November,1,2,0,NULL,1,A1,1,WWW
+9709,2024,November,3,2,3,NULL,1,M1,1,
+9709,2024,November,3,2,2,NULL,1,B1,1,
+9709,2024,November,3,2,24,NULL,1,A1,1,A1 A1 for each term correct.
+9709,2024,November,3,2,2,a,1,B1,1,Alt: use tan2xand cosx . And only one root in
+9709,2024,November,3,2,2,a,1,B1,1,"Need to mark intersection with a dot, a cross, or"
+9709,2024,November,3,2,2,NULL,1,B1,1,Should see tan2
+9709,2024,November,3,2,3,NULL,1,*M1,1,Condone +8 in place of -8 and/or 2i
+9709,2024,November,3,2,3,NULL,1,A1,1,OE
+9709,2024,November,3,2,4,NULL,1,A1,1,Accept 3-term equivalents e.g.
+9709,2024,November,3,2,6,NULL,1,A1,1,Allow if values of x and y stated separately but
+9709,2024,November,3,2,4,NULL,1,*M1,1,E.g. obtain
+9709,2024,November,3,2,24,NULL,1,A1,1,"CWO. If no working shown, 0/3."
+9709,2024,November,3,2,7,NULL,1,M1,1,SOI
+9709,2024,November,3,2,7,NULL,1,A1,1,Do not accept degrees.
+9709,2024,November,3,2,5,b,1,B1,1,Correct non-contradictory statement.
+9709,2024,November,3,2,7,NULL,1,B1,1,FT FT their exact (a). Accept 2π− their exact (a).
+9709,2024,November,3,2,6,NULL,1,*M1,1,Condone sign slips but must be using the given
+9709,2024,November,3,2,6,NULL,1,A1,1,(0.30109…)
+9709,2024,November,3,2,6,NULL,1,A1,1,(7.99895…)
+9709,2024,November,3,2,6,NULL,1,A1,1,
+9709,2024,November,3,2,6,NULL,1,A1,1,Allow A0A1 if both values ‘correct’ but not
+9709,2024,November,3,2,7,a,1,M1,1,e.g.
+9709,2024,November,3,2,1,NULL,1,A1,1,E.g.
+9709,2024,November,3,2,0,NULL,1,A1,1,Obtain given answer from correct working but
+9709,2024,November,3,2,7,b,1,M1,1,(
+9709,2024,November,3,2,3,NULL,1,M0,1,if they get a value for 2 but never halve it.
+9709,2024,November,3,2,3,NULL,1,A1,1,
+9709,2024,November,3,2,3,NULL,1,A1,1,"Exact, ignore any answers outside interval"
+9709,2024,November,3,2,8,a,1,M1,1,Obtain
+9709,2024,November,3,2,2,NULL,1,A1,1,
+9709,2024,November,3,2,2,NULL,1,B1,1,Condone if  d
+9709,2024,November,3,2,2,NULL,1,B1,1,Accept y = 0.707…
+9709,2024,November,3,2,8,NULL,1,B1,1,"Any equivalent form, e.g."
+9709,2024,November,3,2,2,NULL,1,M1,1,Need a fully substituted equation for the normal
+9709,2024,November,3,2,2,NULL,1,A1,1,"E.g., y = 5.66x – 4.95."
+9709,2024,November,3,2,9,a,1,M1,1,E.g.
+9709,2024,November,3,2,4,NULL,1,A1,1,Accept coordinates.
+9709,2024,November,3,2,9,b,1,*M1,1,E.g. 2i + j – 3k + λ (5i + 3j – 5k)
+9709,2024,November,3,2,9,b,1,A1,1,ft Seen or implied.
+9709,2024,November,3,2,4,NULL,1,A1,1,The values will depend on the directions of their
+9709,2024,November,3,2,4,NULL,1,A1,1,OE
+9709,2024,November,3,2,5,NULL,1,B1,1,FT Or
+9709,2024,November,3,2,11,NULL,1,M1,1,
+9709,2024,November,3,2,4,NULL,1,M1,1,Must be correct fraction.
+9709,2024,November,3,2,4,NULL,1,A2,1,OE
+9709,2024,November,3,2,9,c,1,B1,1,FT Or  AB and
+9709,2024,November,3,2,9,c,1,M1,1,"Allow if one is going in the negative direction,"
+9709,2024,November,3,2,9,c,1,M1,1,Independent of the first M1.
+9709,2024,November,3,2,8,NULL,1,A1,1,77.347…
+9709,2024,November,3,2,10,a,1,B1,1,Need a complete correct statement seen or
+9709,2024,November,3,2,4,NULL,1,B1,1,Need a complete correct statement seen or
+9709,2024,November,3,2,4,NULL,1,B1,1,Allow if
+9709,2024,November,3,2,10,b,1,M1,1,Allow M1 if divide by
+9709,2024,November,3,2,250,NULL,1,A1,1,Do not need to state which is quotient and which
+9709,2024,November,3,2,250,NULL,1,M1,1,A1A0 for both expressions correct.
+9709,2024,November,3,2,250,NULL,1,A1,1,Note: 12 500 following division by r – 50 is
+9709,2024,November,3,2,50,NULL,1,B1,1,FT
+9709,2024,November,3,2,2,NULL,1,M1,1,From their Ar + B +
+9709,2024,November,3,2,2,NULL,1,A1,1,"FT FT their (b), provided of the correct form."
+9709,2024,November,3,2,2,NULL,1,M1,1,
+9709,2024,November,3,2,2,NULL,1,A1,1,OE
+9709,2024,November,3,2,10,d,1,B1,1,May be more accurate (70.4605…).
+9709,2024,November,3,2,11,a,1,M1,1,Or correct product rule.
+9709,2024,November,3,2,2,NULL,1,*M1,1,Can be implied by numerator equated to zero for
+9709,2024,November,3,2,4,NULL,1,A1,1,No errors seen.
+9709,2024,November,3,2,11,a,1,M1,1,As far as
+9709,2024,November,3,2,1,NULL,1,*M1,1,Note: the question requires f’(x) so if they have
+9709,2024,November,3,2,1,NULL,1,A1,1,From correct work.
+9709,2024,November,3,2,11,b,1,B1,1,
+9709,2024,November,3,2,2,NULL,1,B1,1,Correct expression in u.
+9709,2024,November,3,2,2,NULL,1,B1,1,FT Complete reduction to partial fractions.
+9709,2024,November,3,2,2,NULL,1,M1,1,Available if they have incorrect form.
+9709,2024,November,3,2,2,NULL,1,*M1,1,M0 if they have additional terms that do not
+9709,2024,November,3,2,2,NULL,1,A1,1,FT FT values of their partial fraction coefficients.
+9709,2024,November,3,2,4,NULL,1,A1,1,Accept ln 20.25.
+9709,2024,November,5,2,40,NULL,1,B1,1,"0.3, 3"
+9709,2024,November,5,2,50,NULL,1,B1,1,"0.24, 6"
+9709,2024,November,5,2,120,NULL,1,B1,1,
+9709,2024,November,5,2,1,d,1,M1,1,One term of form 8Cx ( ) (
+9709,2024,November,5,2,0,NULL,1,A1,1,"Correct unsimplified expression, no terms omitted leading"
+9709,2024,November,5,2,0,NULL,1,B1,1,0.8945 ⩽ p ⩽ 0.895.
+9709,2024,November,5,2,0,NULL,1,M1,1,One term of form 8Cx ( ) (
+9709,2024,November,5,2,0,NULL,1,A1,1,Correct unsimplified expression. Condone omission of final
+9709,2024,November,5,2,181440,NULL,1,B1,1,Exact value must be seen.
+9709,2024,November,5,2,2,b,1,B1,1,"Correct outcome/value for 1 identified scenario, accept"
+9709,2024,November,5,2,2,b,1,M1,1,"Add values of 3 correct scenarios, no incorrect/repeated"
+9709,2024,November,5,2,2,b,1,A1,1,"If M1 not awarded, SC B1 for 105840 WWW."
+9709,2024,November,5,2,3,NULL,1,B1,1,"Correct outcome/value for 1 identified scenario, accept"
+9709,2024,November,5,2,3,NULL,1,M1,1,"their 2(a), or correct, subtract values of 5 correct scenarios,"
+9709,2024,November,5,2,3,NULL,1,A1,1,"If M1 not awarded, SC B1 for 105840 WWW."
+9709,2024,November,5,2,12,NULL,1,B1,1,Table with correct x values and at least 2 correct
+9709,2024,November,5,2,12,NULL,1,B1,1,Four more probabilities correctly linked to the correct x
+9709,2024,November,5,2,12,NULL,1,B1,1,"7 correct probabilities linked with correct outcomes, may"
+9709,2024,November,5,2,12,NULL,1,M1,1,Accept unsimplified expression. May be calculated in
+9709,2024,November,5,2,35,NULL,1,M1,1,Appropriate variance formula using their (E(X))2 value.
+9709,2024,November,5,2,3,NULL,1,A1,1,CAO
+9709,2024,November,5,2,4,a,1,M1,1,"Use of ± standardisation formula with 18.2, 19.8 and 2.4"
+9709,2024,November,5,2,2,NULL,1,M1,1,Calculating the appropriate probability areas (leading to
+9709,2024,November,5,2,2,NULL,1,A1,1,"AWRT 0.252 SOI, accept 0.2525."
+9709,2024,November,5,2,2,NULL,1,B1,1,FT Strict FT their at least 4 figure probability × 450.
+9709,2024,November,5,2,4,b,1,B1,1,0.643 ⩽ z ⩽ 0.6435 or −0.6435 ⩽ z ⩽ −0.643 seen.
+9709,2024,November,5,2,4,b,1,M1,1,"± standardisation formula with 25.5, 23.4, σ equating to a z-"
+9709,2024,November,5,2,2,NULL,1,A1,1,3.26 ⩽ σ ⩽ 3.27.
+9709,2024,November,5,2,5,a,1,M1,1,
+9709,2024,November,5,2,5,a,1,A1,1,
+9709,2024,November,5,2,5,b,1,M1,1,One product using 2 or 3 combinations with upper numbers
+9709,2024,November,5,2,5,b,1,B1,1,"2 identified outcomes evaluated accurately, accept"
+9709,2024,November,5,2,5,b,1,M1,1,"Add values of 5 correct scenarios, no incorrect/repeated"
+9709,2024,November,5,2,5,b,1,A1,1,"If either or both Ms not awarded,"
+9709,2024,November,5,2,6,a,1,B1,1,"Correct stem, ignore extra values (not in reverse, not split)."
+9709,2024,November,5,2,6,a,1,B1,1,"Correct Falcons labelled on left, leaves in order from right"
+9709,2024,November,5,2,6,a,1,B1,1,"Correct Kites labelled on same diagram, leaves in order and"
+9709,2024,November,5,2,6,a,1,B1,1,"Correct key, for their diagram, need both teams names and"
+9709,2024,November,5,2,6,a,1,B1,1,if both stems correct.
+9709,2024,November,5,2,6,a,1,B1,1,if Falcons correct to the left of the stem.
+9709,2024,November,5,2,6,a,1,B1,1,if both keys correct including ‘mins’ and team name.
+9709,2024,November,5,2,6,b,1,B1,1,"Accept Q2, must be identified."
+9709,2024,November,5,2,6,b,1,M1,1,58 ⩽ UQ ⩽ 64 – 42 ⩽ LQ ⩽ 46.
+9709,2024,November,5,2,6,b,1,A1,1,WWW
+9709,2024,November,5,2,2,NULL,1,B1,1,
+9709,2024,November,5,2,30,NULL,1,M1,1,Accept unsimplified variance formula.
+9709,2024,November,5,2,30,NULL,1,A1,1,AWRT.
+9709,2024,November,5,2,3125,NULL,1,B1,1,
+9709,2024,November,5,2,2,NULL,1,M1,1,(
+9709,2024,November,5,2,78125,NULL,1,A1,1,If M0 awarded SC B1 0.3320064 or 25938
+9709,2024,November,5,2,6,NULL,1,M1,1,(
+9709,2024,November,5,2,5,NULL,1,M1,1,
+9709,2024,November,5,2,7,c,1,M1,1,2 correct unsimplified outcomes.
+9709,2024,November,5,2,7,c,1,M1,1,Add values for 4 identified correct scenarios.
+9709,2024,November,5,2,3125,NULL,1,A1,1,"If either or both M marks not awarded, SC B1 for 0.663,"
+9709,2024,November,5,2,2072,NULL,1,M1,1,At least 2 correct unsimplified terms.
+9709,2024,November,5,2,2072,NULL,1,M1,1,Add values for 4 terms of the form 5Ca(0.4)a(0.6)5-a
+9709,2024,November,5,2,3125,NULL,1,A1,1,"If either or both M marks not awarded, SC B1 for 0.663"
+9709,2024,November,5,2,7,d,1,B1,1,"30 and 18 seen, allow unsimplified. May be seen in"
+9709,2024,November,5,2,18,NULL,1,M1,1,Substituting their µ and positive σ into one ±standardising
+9709,2024,November,5,2,18,NULL,1,M1,1,Using continuity corrections 27.5 or 28.5 and 34.5 or 35.5
+9709,2024,November,5,2,1,NULL,1,M1,1,"Appropriate area Φ, from final process. Must be a"
+9709,2024,November,5,2,1,NULL,1,A1,1,AWRT.
+9709,2024,November,1,3,25,NULL,1,M1,1,Or forming any valid equations which can be used to find d or
+9709,2024,November,1,3,2,NULL,1,A1,1,
+9709,2024,November,1,3,2,NULL,1,M1,1,Making tan2x  the subject. tan2
+9709,2024,November,1,3,6,NULL,1,A1,1,May come from non-exact working.
+9709,2024,November,1,3,4,NULL,1,M1,1,"Allow for either term, allow sign error and combination"
+9709,2024,November,1,3,3,NULL,1,A1,1,Allow in the full expansion.
+9709,2024,November,1,3,4,NULL,1,A1,1,Allow in the full expansion.
+9709,2024,November,1,3,15,NULL,1,M1,1,Must select two appropriate terms only.
+9709,2024,November,1,3,2,NULL,1,A1,1,A0 if
+9709,2024,November,1,3,1,NULL,1,M1,1,Or equivalent method.
+9709,2024,November,1,3,2,NULL,1,M1,1,Finding
+9709,2024,November,1,3,2,NULL,1,A1,1,A1 A1 for any two correct values.
+9709,2024,November,1,3,2,NULL,1,A1,1,for all correct and no others within the range.
+9709,2024,November,1,3,5,a,1,B1,1,"B1 B1 for reflection B1 mention of y-axis, OE."
+9709,2024,November,1,3,0,NULL,1,B1,1,* B1 for ‘translation’ and a correct vector/description.
+9709,2024,November,1,3,0,NULL,1,B2,1,",1,0 B2 all correct OE."
+9709,2024,November,1,3,0,NULL,1,B1,1,any 2 parts correct.
+9709,2024,November,1,3,0,NULL,1,B1,1,* B1 for ‘translation’ and correct vector/description.
+9709,2024,November,1,3,0,NULL,1,B1,1,"B1 B1 for ‘reflection’, B1 for ‘in y-axis’."
+9709,2024,November,1,3,1,NULL,1,B1,1,First B1 for
+9709,2024,November,1,3,2,NULL,1,B1,1,Second B1 for
+9709,2024,November,1,3,1,NULL,1,M1,1,"* OE, i.e. substituting p and q expressions into ratio 17."
+9709,2024,November,1,3,2,NULL,1,A1,1,Or
+9709,2024,November,1,3,3,NULL,1,A1,1,Allow 6.67 or better.
+9709,2024,November,1,3,3,NULL,1,A0,1,if there is only one or more than two
+9709,2024,November,1,3,20,NULL,1,M1,1,Or combination of large semi-circle and small sector:
+9709,2024,November,1,3,20,NULL,1,M1,1,* Length of radius of small circles is acceptable for M1.
+9709,2024,November,1,3,2,NULL,1,M1,1,
+9709,2024,November,1,3,2,NULL,1,A1,1,Expect 1550.09  but accept AWRT to 3sf.
+9709,2024,November,1,3,10,NULL,1,B1,1,May be seen as 20sin
+9709,2024,November,1,3,3,NULL,1,M1,1,* OE
+9709,2024,November,1,3,3,NULL,1,A1,1,Must be a single exact term.
+9709,2024,November,1,3,2,NULL,1,B1,1,B1
+9709,2024,November,1,3,2,NULL,1,B1,1,FT FT on their a.
+9709,2024,November,1,3,3,NULL,1,M1,1,Using their completed square form.
+9709,2024,November,1,3,3,NULL,1,A1,1,
+9709,2024,November,1,3,29,NULL,1,M1,1,"Or solving f(x) = 29 [using their completed square form, OE]."
+9709,2024,November,1,3,1,NULL,1,M1,1,Or solving f(x) = their 5.
+9709,2024,November,1,3,3,NULL,1,A1,1,"If using f(x) method, x = 1 must be discarded."
+9709,2024,November,1,3,29,NULL,1,M1,1,Or (
+9709,2024,November,1,3,3,NULL,1,A1,1,WWW
+9709,2024,November,1,3,0,NULL,1,M1,1,Reducing to 3-term cubic or quadratic if x cancelled.
+9709,2024,November,1,3,0,NULL,1,A1,1,SC B1 for
+9709,2024,November,1,3,9,b,1,M1,1,Expect integration of
+9709,2024,November,1,3,3,NULL,1,A1,1,OE
+9709,2024,November,1,3,3,NULL,1,A1,1,Accept if this comes from use of limits
+9709,2024,November,1,3,4,NULL,1,M1,1,*
+9709,2024,November,1,3,2,NULL,1,A1,1,WWW
+9709,2024,November,1,3,5,NULL,1,M1,1,*
+9709,2024,November,1,3,2,NULL,1,M1,1,"May see centre as (2y + 8, y) OE."
+9709,2024,November,1,3,100,NULL,1,M1,1,"Sub in (4, 3) or (8, −5)."
+9709,2024,November,1,3,2,NULL,1,A1,1,Or (
+9709,2024,November,1,3,100,NULL,1,A1,1,
+9709,2024,November,1,3,100,NULL,1,M1,1,E.g.
+9709,2024,November,1,3,4,NULL,1,M1,1,Substitute their a or b into their second circle equation.
+9709,2024,November,1,3,15,NULL,1,M1,1,"Expect 80.  Must be clear this is CM, not AB."
+9709,2024,November,1,3,2,NULL,1,B1,1,
+9709,2024,November,1,3,4,NULL,1,B1,1,
+9709,2024,November,1,3,64,NULL,1,M1,1,OE
+9709,2024,November,1,3,4,NULL,1,A1,1,If
+9709,2024,November,1,3,4,NULL,1,A1,1,
+9709,2024,November,1,3,2,NULL,1,B1,1,FT WWW
+9709,2024,November,1,3,2,NULL,1,M1,1,* OE
+9709,2024,November,1,3,2,NULL,1,A1,1,"OE, e.g."
+9709,2024,November,1,3,4,NULL,1,M0,1,if constants in both equations are the same.
+9709,2024,November,3,3,1,a,1,B1,1,
+9709,2024,November,3,3,0,NULL,1,B1,1,
+9709,2024,November,3,3,1,b,1,B1,1,
+9709,2024,November,3,3,2,NULL,1,*B1,1,Could work with
+9709,2024,November,3,3,2,NULL,1,B2,1,
+9709,2024,November,3,3,2,NULL,1,*B1,1,Must have introduced
+9709,2024,November,3,3,2,b,1,M1,1,"The question specifies initial value 1.2, so must"
+9709,2024,November,3,3,2,b,1,A1,1,Can gain this mark even if less than 4 dp shown in
+9709,2024,November,3,3,2,b,1,A1,1,
+9709,2024,November,3,3,20,NULL,1,B0,1,until associated with a and /or k
+9709,2024,November,3,3,20,NULL,1,B1,1,Can be implied by both a and k correct.
+9709,2024,November,3,3,20,NULL,1,B1,1,OE. Can be embedded in
+9709,2024,November,3,3,20,NULL,1,B1,1,"Must be 2 sf, can be embedded in"
+9709,2024,November,3,3,3,b,1,M1,1,E.g. 2 =
+9709,2024,November,3,3,3,b,1,A1,1,Allow 13.75 [hrs] (13 hrs 45 min) to 14 [hrs].
+9709,2024,November,3,3,4,NULL,1,*M1,1,E.g.
+9709,2024,November,3,3,1,NULL,1,M1,1,
+9709,2024,November,3,3,9,NULL,1,A1,1,Or equivalent expression free of products of
+9709,2024,November,3,3,21,NULL,1,A1,1,
+9709,2024,November,3,3,4,NULL,1,*M1,1,E.g. 5z – 15i = 2z + 6i − 27i2 – 9iz.
+9709,2024,November,3,3,9,NULL,1,A1,1,OE
+9709,2024,November,3,3,3,NULL,1,M0,1,A0.
+9709,2024,November,3,3,3,NULL,1,M0,1,A0 SC B1.
+9709,2024,November,3,3,3,NULL,1,M1,1,A1.
+9709,2024,November,3,3,3,NULL,1,A1,1,
+9709,2024,November,3,3,2,NULL,1,B1,1,Starting on left.
+9709,2024,November,3,3,2,NULL,1,B1,1,"OE, e.g."
+9709,2024,November,3,3,1,NULL,1,B1,1,AG
+9709,2024,November,3,3,2,NULL,1,B1,1,If
+9709,2024,November,3,3,2,NULL,1,B0,1,.
+9709,2024,November,3,3,1,NULL,1,B1,1,Starting on right.
+9709,2024,November,3,3,2,NULL,1,B1,1,
+9709,2024,November,3,3,4,NULL,1,B1,1,
+9709,2024,November,3,3,0,NULL,1,M1,1,Alternative: form a quadratic in
+9709,2024,November,3,3,1,NULL,1,A1,1,May be more accurate.
+9709,2024,November,3,3,3,NULL,1,B1,1,"Accept x = 2, y = 1, z = –3."
+9709,2024,November,3,3,6,b,1,M1,1,
+9709,2024,November,3,3,8,NULL,1,M1,1,
+9709,2024,November,3,3,8,NULL,1,A1,1,
+9709,2024,November,3,3,6,b,1,B1,1,Could use other points.
+9709,2024,November,3,3,5,NULL,1,M1,1,
+9709,2024,November,3,3,82,NULL,1,B1,1,May be seen by stating or implying that
+9709,2024,November,3,3,150,NULL,1,M1,1,Correct method for the exact area of the triangle.
+9709,2024,November,3,3,86,NULL,1,A1,1,Or simplified exact equivalent.
+9709,2024,November,3,3,86,NULL,1,B1,1,
+9709,2024,November,3,3,2,NULL,1,M1,1,Correct method for the exact area of the triangle.
+9709,2024,November,3,3,7,a,1,B1,1,Allow 3.2 cos 2t.
+9709,2024,November,3,3,2,NULL,1,B1,1,Any equivalent form.
+9709,2024,November,3,3,2,NULL,1,M1,1,"M1A1, so 3/5 possible."
+9709,2024,November,3,3,2,NULL,1,*M1,1,
+9709,2024,November,3,3,2,NULL,1,A1,1,AG
+9709,2024,November,3,3,6,NULL,1,B2,1,
+9709,2024,November,3,3,6,NULL,1,B1,1,
+9709,2024,November,3,3,6,NULL,1,M1,1,
+9709,2024,November,3,3,2,NULL,1,A1,1,
+9709,2024,November,3,3,2,NULL,1,M1,1,E.g. (
+9709,2024,November,3,3,0,NULL,1,A1,1,Or k(
+9709,2024,November,3,3,3,NULL,1,M1,1,
+9709,2024,November,3,3,4,NULL,1,A1,1,ft OE. May be unsimplified.
+9709,2024,November,3,3,9,NULL,1,A1,1,ft OE. May be unsimplified.
+9709,2024,November,3,3,27,NULL,1,A1,1,Or simplified equivalent. Final answer.
+9709,2024,November,3,3,9,NULL,1,A1,1,OE. May be unsimplified.
+9709,2024,November,3,3,2,NULL,1,B1,1,Or
+9709,2024,November,3,3,9,a,1,M1,1,k is a constant.
+9709,2024,November,3,3,4,NULL,1,A1,1,"If quotient stated separately, mark at this stage."
+9709,2024,November,3,3,4,NULL,1,A1,1,"If remainder stated separately, mark at this stage."
+9709,2024,November,3,3,4,NULL,1,M1,1,(
+9709,2024,November,3,3,4,NULL,1,A1,1,
+9709,2024,November,3,3,4,NULL,1,A1,1,"Need not state which is quotient and remainder,"
+9709,2024,November,3,3,3,NULL,1,B1,1,FT Follow their quotient of form Ax2 + B.
+9709,2024,November,3,3,2,NULL,1,M1,1,
+9709,2024,November,3,3,2,NULL,1,A1,1,"FT Follow their constant remainder,"
+9709,2024,November,3,3,2,NULL,1,M1,1,"Terms need not be evaluated, e.g."
+9709,2024,November,3,3,3,NULL,1,A1,1,AG
+9709,2024,November,3,3,600,NULL,1,B1,1,May be seen as d
+9709,2024,November,3,3,40000,NULL,1,M1,1,
+9709,2024,November,3,3,600,NULL,1,B1,1,followed by
+9709,2024,November,3,3,10,b,1,M1,1,E.g.
+9709,2024,November,3,3,200,NULL,1,A1,1,OE
+9709,2024,November,3,3,3,NULL,1,M1,1,Or equivalent use of limits 50 and 80.
+9709,2024,November,3,3,3,NULL,1,A1,1,"OE, e.g. 1"
+9709,2024,November,3,3,150,NULL,1,A1,1,
+9709,2024,November,3,3,11,a,1,M1,1,
+9709,2024,November,3,3,2,NULL,1,A1,1,OE
+9709,2024,November,3,3,2,NULL,1,*M1,1,Accept in cos .x
+9709,2024,November,3,3,3,NULL,1,A1,1,"Allow more accurate, e.g. 4.929… even though"
+9709,2024,November,3,3,11,b,1,B1,1,OE
+9709,2024,November,3,3,11,b,1,M1,1,
+9709,2024,November,3,3,2,NULL,1,A1,1,OE. Ignore limits if
+9709,2024,November,3,3,3,NULL,1,M1,1,Constant of integration not required
+9709,2024,November,3,3,2,NULL,1,M1,1,"1 and 3 for u, or 0 and π  for x."
+9709,2024,November,3,3,3,NULL,1,A1,1,"OE. Allow, e.g.,"
+9709,2024,November,5,3,2,NULL,1,M1,1,
+9709,2024,November,5,3,0,NULL,1,A1,1,
+9709,2024,November,5,3,1,b,1,B1,1,"37.5 or 37½ and 26.25, 26¼ seen, allow"
+9709,2024,November,5,3,2,NULL,1,M1,1,Substituting their mean and their positive
+9709,2024,November,5,3,2,NULL,1,M1,1,Use continuity corrections 44.5 or 45.5 in
+9709,2024,November,5,3,8,NULL,1,M1,1,"Appropriate area Φ, from final process,"
+9709,2024,November,5,3,8,NULL,1,M1,1,.
+9709,2024,November,5,3,8,NULL,1,A1,1,0.0592 ⩽ p ⩽ 0.0593.
+9709,2024,November,5,3,6,NULL,1,B1,1,Table with correct x values and at least one
+9709,2024,November,5,3,6,NULL,1,B1,1,4 correct probabilities linked with the
+9709,2024,November,5,3,6,NULL,1,B1,1,5 correct probabilities linked with correct x-
+9709,2024,November,5,3,36,NULL,1,B1,1,FT FT their table with 4 or 5 probabilities (0 <
+9709,2024,November,5,3,3,a,1,M1,1,"Using ± standardisation formula with 170,"
+9709,2024,November,5,3,2,NULL,1,M1,1,"Appropriate area Φ, from final process,"
+9709,2024,November,5,3,2,NULL,1,A1,1,0.894 or 0.89435 ⩽ p ⩽ 0.8944.
+9709,2024,November,5,3,3,b,1,M1,1,1 – their 3(a) seen or implied by 0.7056 or
+9709,2024,November,5,3,176,NULL,1,B1,1,0.540 < z ⩽ 0.541 or −0.541 ⩽ z < 0.540
+9709,2024,November,5,3,176,NULL,1,M1,1,"Use of ±standardisation formula with k,"
+9709,2024,November,5,3,176,NULL,1,A1,1,CAO (answer required to 1 dp).
+9709,2024,November,5,3,150,NULL,1,B1,1,"Cf values 28, 60, 102, 130, 144, 150 seen,"
+9709,2024,November,5,3,150,NULL,1,B1,1,Linearly scaled axes correctly labelled
+9709,2024,November,5,3,150,NULL,1,M1,1,At least 4 points plotted at upper boundary
+9709,2024,November,5,3,150,NULL,1,A1,1,"All points plotted correctly, curve drawn"
+9709,2024,November,5,3,150,NULL,1,A0,1,if straight line segments used.
+9709,2024,November,5,3,4,b,1,M1,1,Use of graph must be seen.
+9709,2024,November,5,3,4,b,1,A1,1,FT Must be an increasing cf graph. Expect an
+9709,2024,November,5,3,4,c,1,B1,1,"At least 6 correct midpoints seen, may be"
+9709,2024,November,5,3,150,NULL,1,M1,1,Correct unsimplified mean formula with
+9709,2024,November,5,3,15,NULL,1,A1,1,Accept answers wrt 38.9 WWW
+9709,2024,November,5,3,150,NULL,1,M1,1,Correct unsimplified variance formula with
+9709,2024,November,5,3,150,NULL,1,A1,1,AWRT 10.6 WWW.
+9709,2024,November,5,3,5,a,1,M1,1,One term 8Cx .
+9709,2024,November,5,3,8,NULL,1,A1,1,"Correct expression, accept unsimplified, no"
+9709,2024,November,5,3,8,NULL,1,B1,1,AWRT.
+9709,2024,November,5,3,3,NULL,1,M1,1,One term 8Cx ( ) (
+9709,2024,November,5,3,8,NULL,1,A1,1,"Correct expression, accept unsimplified,"
+9709,2024,November,5,3,1,NULL,1,M1,1,
+9709,2024,November,5,3,4096,NULL,1,A1,1,0.82202148… to at least 3SF.
+9709,2024,November,5,3,5,NULL,1,M1,1,Summing 6 or 7 terms – condone extra term
+9709,2024,November,5,3,6,NULL,1,A1,1,
+9709,2024,November,5,3,6,NULL,1,M1,1,Correct expression.
+9709,2024,November,5,3,5,c,1,M1,1,
+9709,2024,November,5,3,5,c,1,A1,1,5 correct probabilities multiplied.
+9709,2024,November,5,3,5,c,1,A1,1,All probabilities correct and attempt to sum
+9709,2024,November,5,3,4,NULL,1,B1,1,
+9709,2024,November,5,3,4,NULL,1,M1,1,
+9709,2024,November,5,3,121,NULL,1,A1,1,0.24793…
+9709,2024,November,5,3,5,c,1,A1,1,
+9709,2024,November,5,3,5,c,1,B1,1,
+9709,2024,November,5,3,121,NULL,1,A1,1,
+9709,2024,November,5,3,90720,NULL,1,B1,1,
+9709,2024,November,5,3,6,b,1,M1,1,
+9709,2024,November,5,3,85680,NULL,1,A1,1,FT ft their 6(a) – 5040.
+9709,2024,November,5,3,25200,NULL,1,M1,1,
+9709,2024,November,5,3,25200,NULL,1,M1,1,Adding no of ways for 3 correctly identified
+9709,2024,November,5,3,85680,NULL,1,A1,1,
+9709,2024,November,5,3,5,NULL,1,M1,1,Finding correct number of ways for one of
+9709,2024,November,5,3,5,NULL,1,M1,1,Adding no of ways for 3 correctly identified
+9709,2024,November,5,3,6,c,1,M1,1,"6! + d, d an integer ≥ 1, may be implied."
+9709,2024,November,5,3,6,c,1,M1,1,
+9709,2024,November,5,3,2,NULL,1,A1,1,
+9709,2024,November,5,3,5,NULL,1,M1,1,
+9709,2024,November,5,3,3,NULL,1,M1,1,
+9709,2024,November,5,3,4,NULL,1,A1,1,
+9709,2024,November,5,3,8,NULL,1,M1,1,a × 5 × 4 × 4 × 3 seen as a numerator of a
+9709,2024,November,5,3,63,NULL,1,M1,1,9 × 8 × 7 × 6 seen as a denominator of a
+9709,2024,November,5,3,63,NULL,1,A1,1,
+9709,2024,June,1,1,27,NULL,1,B1,1,B1
+9709,2024,June,1,1,3,NULL,1,M1,1,Must be
+9709,2024,June,1,1,5,NULL,1,M1,1,Allow omission of -1 if ±3 seen.
+9709,2024,June,1,1,5,NULL,1,A1,1,"B1 SC if M1M1 not awarded. Ignore ± i, i, –i, √–1."
+9709,2024,June,1,1,2,a,1,B2,1,",1,0 2 out of 3 scores B1."
+9709,2024,June,1,1,2,NULL,1,B2,1,",1,0 Accept shift."
+9709,2024,June,1,1,2,b,1,B1,1,B1 No marks awarded if extra terms seen.
+9709,2024,June,1,1,160,NULL,1,M1,1,Allow 6C3  33
+9709,2024,June,1,1,3,NULL,1,A1,1,Allow 0.667 AWRT.
+9709,2024,June,1,1,3,NULL,1,B1,1,FT May be in a list. 6C2 and 34 must be evaluated but may be
+9709,2024,June,1,1,540,NULL,1,M1,1,
+9709,2024,June,1,1,920,NULL,1,A1,1,Condone
+9709,2024,June,1,1,4,a,1,B1,1,CAO
+9709,2024,June,1,1,4,b,1,B1,1,CAO
+9709,2024,June,1,1,4,c,1,B1,1,CAO
+9709,2024,June,1,1,1,NULL,1,M1,1,For use of
+9709,2024,June,1,1,1,NULL,1,M1,1,For factorising.
+9709,2024,June,1,1,1,NULL,1,A1,1,
+9709,2024,June,1,1,2,NULL,1,M1,1,
+9709,2024,June,1,1,240,NULL,1,A1,1,
+9709,2024,June,1,1,240,NULL,1,A1,1,FT FT for 360 – their answer. A1 A0 if extra solution(s) in
+9709,2024,June,1,1,6,a,1,B1,1,For curve in correct quadrant.
+9709,2024,June,1,1,6,a,1,B1,1,Fully correct including line
+9709,2024,June,1,1,4,NULL,1,M1,1,Allow x and y swapped around.
+9709,2024,June,1,1,4,NULL,1,M1,1,
+9709,2024,June,1,1,4,NULL,1,A1,1,
+9709,2024,June,1,1,2,NULL,1,B1,1,
+9709,2024,June,1,1,1,NULL,1,B1,1,Accept other correct answers e.g. ‘f is only defined for
+9709,2024,June,1,1,15,NULL,1,B1,1,Condone working in degrees if converted to radians at the
+9709,2024,June,1,1,5,NULL,1,B1,1,
+9709,2024,June,1,1,5,NULL,1,M1,1,
+9709,2024,June,1,1,5,NULL,1,A1,1,AWRT
+9709,2024,June,1,1,15,NULL,1,B1,1,
+9709,2024,June,1,1,10,NULL,1,M1,1,
+9709,2024,June,1,1,10,NULL,1,A1,1,AWRT
+9709,2024,June,1,1,1,NULL,1,*M1,1,
+9709,2024,June,1,1,9,NULL,1,A1,1,
+9709,2024,June,1,1,49,NULL,1,A1,1,
+9709,2024,June,1,1,0,NULL,1,M1,1,
+9709,2024,June,1,1,0,NULL,1,M1,1,Solve 3 term quadratic with real solutions.
+9709,2024,June,1,1,5,NULL,1,A1,1,Ignore 17
+9709,2024,June,1,1,5,NULL,1,A1,1,Ignore extra solution.
+9709,2024,June,1,1,4,NULL,1,M1,1,No further marks available if y
+9709,2024,June,1,1,5,NULL,1,B1,1,B1 Calculator used for integration scores no further marks.
+9709,2024,June,1,1,5,NULL,1,M1,1,"Uses limits 1, 2.4 in an integral of y2."
+9709,2024,June,1,1,5,NULL,1,A1,1,SC B1 if the only error is not showing substitution.
+9709,2024,June,1,1,18,NULL,1,M1,1,Finding equation of tangent and substituting into circle
+9709,2024,June,1,1,0,NULL,1,M1,1,Brackets expanded and all terms collected on one side of
+9709,2024,June,1,1,0,NULL,1,*M1,1,Use of
+9709,2024,June,1,1,7,NULL,1,A1,1,Condone no method for solving quadratic shown.
+9709,2024,June,1,1,5,NULL,1,A1,1,
+9709,2024,June,1,1,3,NULL,1,B1,1,
+9709,2024,June,1,1,0,NULL,1,M1,1,"Set = 0 or uses , ⩽ and simplifies."
+9709,2024,June,1,1,2,NULL,1,A1,1,SC B1 for
+9709,2024,June,1,1,0,NULL,1,B1,1,FT Allow and/or.
+9709,2024,June,1,1,0,NULL,1,B1,1,FT Allow 2
+9709,2024,June,1,1,9,NULL,1,*M1,1,Using their d
+9709,2024,June,1,1,9,NULL,1,M1,1,
+9709,2024,June,1,1,8,NULL,1,A1,1,
+9709,2024,June,1,1,41,NULL,1,M1,1,Equates their tangent and their normal.
+9709,2024,June,1,1,9,NULL,1,M1,1,If
+9709,2024,June,1,1,1,NULL,1,A1,1,AWRT
+9709,2024,June,3,1,2,NULL,1,B1,1,Symbolic coefficients are not sufficient.
+9709,2024,June,3,1,2,NULL,1,M1,1,
+9709,2024,June,3,1,5,NULL,1,A1,1,
+9709,2024,June,3,1,2,NULL,1,*M1,1,
+9709,2024,June,3,1,0,NULL,1,A1,1,
+9709,2024,June,3,1,3,NULL,1,B1,1,
+9709,2024,June,3,1,3,NULL,1,M1,1,"E.g., from"
+9709,2024,June,3,1,3,NULL,1,A1,1,
+9709,2024,June,3,1,4,a,1,B1,1,
+9709,2024,June,3,1,2,NULL,1,B1,1,FT FT
+9709,2024,June,3,1,2,NULL,1,B1,1,FT FT 1 π
+9709,2024,June,3,1,5,NULL,1,*M1,1,
+9709,2024,June,3,1,2,NULL,1,A1,1,
+9709,2024,June,3,1,2,NULL,1,A1,1,At least 3sf.
+9709,2024,June,3,1,2,NULL,1,A1,1,FT At least 3sf.
+9709,2024,June,3,1,6,a,1,B1,1,
+9709,2024,June,3,1,6,b,1,M1,1,Use of degrees is M0.
+9709,2024,June,3,1,6,b,1,A1,1,E.g. 0.282
+9709,2024,June,3,1,3,NULL,1,B1,1,AG.
+9709,2024,June,3,1,6,d,1,M1,1,Use of degrees in M0 (might see 1.38….).
+9709,2024,June,3,1,6,d,1,A1,1,
+9709,2024,June,3,1,6,d,1,A1,1,"1.5156, 1.4940, 1.4978, 1.4971."
+9709,2024,June,3,1,4,NULL,1,B1,1,
+9709,2024,June,3,1,7,a,1,B1,1,
+9709,2024,June,3,1,7,a,1,B1,1,FT
+9709,2024,June,3,1,7,b,1,M1,1,"(Distance (3, –2) to (0, 1)) – 2."
+9709,2024,June,3,1,8,NULL,1,B1,1,
+9709,2024,June,3,1,8,NULL,1,*M1,1,
+9709,2024,June,3,1,9,a,1,B1,1,E.g. 2(3) + (–1)(–2) + a(–2) = 0.
+9709,2024,June,3,1,9,b,1,B1,1,The third component could be implied by a correct
+9709,2024,June,3,1,9,b,1,M1,1,
+9709,2024,June,3,1,9,b,1,A1,1,
+9709,2024,June,3,1,9,c,1,M1,1,
+9709,2024,June,3,1,9,c,1,A1,1,AG
+9709,2024,June,3,1,9,d,1,M1,1,E.g. ± 2×their (– i – j – k) ± (–5i + j – 9k)
+9709,2024,June,3,1,9,d,1,A1,1,
+9709,2024,June,3,1,10,a,1,B1,1,E.g. 2 d
+9709,2024,June,3,1,10,a,1,M1,1,
+9709,2024,June,3,1,4,NULL,1,A1,1,
+9709,2024,June,3,1,4,NULL,1,*M1,1,
+9709,2024,June,3,1,4,NULL,1,A1,1,OE
+9709,2024,June,3,1,4,NULL,1,M1,1,
+9709,2024,June,3,1,2,NULL,1,A1,1,OE
+9709,2024,June,3,1,1,NULL,1,M1,1,M0 for verification.
+9709,2024,June,3,1,1,NULL,1,A1,1,
+9709,2024,June,3,1,11,b,1,B1,1,
+9709,2024,June,3,1,1495,NULL,1,B1,1,E.g. obtain t or
+9709,2024,June,3,1,300,NULL,1,B1,1,
+9709,2024,June,3,1,300,NULL,1,M1,1,A = 1
+9709,2024,June,3,1,300,NULL,1,A1,1,OE. May see
+9709,2024,June,3,1,300,NULL,1,M1,1,
+9709,2024,June,3,1,300,NULL,1,A1,1,E.g.
+9709,2024,June,3,1,300,NULL,1,A1,1,
+9709,2024,June,5,1,45,NULL,1,M1,1,
+9709,2024,June,5,1,45,NULL,1,A1,1,"If M0 awarded, SC B1 50.2 WWW."
+9709,2024,June,5,1,45,NULL,1,A1,1,"If M0 awarded, SC B1 10.9 WWW."
+9709,2024,June,5,1,28,NULL,1,M1,1,"Using ± standardisation formula once with 23 or 35, 28 and 3.3,"
+9709,2024,June,5,1,28,NULL,1,A1,1,One fully correct ± standardisation formula.
+9709,2024,June,5,1,1,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a probability."
+9709,2024,June,5,1,1,NULL,1,A1,1,AWRT
+9709,2024,June,5,1,2,b,1,B1,1,0.674 or – 0.674 seen.
+9709,2024,June,5,1,2,b,1,M1,1,"Use of the ± standardisation formula with 7.6, 8.5, σ and a z-value"
+9709,2024,June,5,1,2,b,1,A1,1,1.33 ⩽ σ ⩽ 1.34
+9709,2024,June,5,1,20,NULL,1,M1,1,
+9709,2024,June,5,1,20,NULL,1,A1,1,"All bar heights correct on graph, not FT."
+9709,2024,June,5,1,20,NULL,1,B1,1,"Bar ends at 150, 160, 170, 175, 195. Five bars drawn with a"
+9709,2024,June,5,1,20,NULL,1,B1,1,"Axes labelled frequency density (fd) height (h) and cm, OE, or an"
+9709,2024,June,5,1,175,NULL,1,M1,1,170
+9709,2024,June,5,1,170,NULL,1,A1,1,175 – 160 = 15
+9709,2024,June,5,1,64,NULL,1,M1,1,
+9709,2024,June,5,1,4,NULL,1,A1,1,AG
+9709,2024,June,5,1,64,NULL,1,B1,1,FT 
+9709,2024,June,5,1,64,NULL,1,B1,1,Correct probability for 1 identified scenario.
+9709,2024,June,5,1,64,NULL,1,M1,1,Add values of 2 correct scenarios. Identification may be implied by
+9709,2024,June,5,1,64,NULL,1,A1,1,"If A0 scored, SC B1 for 0.0914 WWW."
+9709,2024,June,5,1,5,a,1,M1,1,One term 7Cx 
+9709,2024,June,5,1,0,NULL,1,A1,1,"Correct expression, accept unsimplified, no terms omitted leading"
+9709,2024,June,5,1,0,NULL,1,B1,1,0.647 ⩽ p < 0.6475
+9709,2024,June,5,1,5,b,1,M1,1,"1 – p3, 0 < p < 1, p = 1 – their (a), or correct."
+9709,2024,June,5,1,5,b,1,A1,1,
+9709,2024,June,5,1,5,c,1,B1,1,"48 and 9.6,"
+9709,2024,June,5,1,48,NULL,1,M1,1,Substituting their µ and σ into ± standardising formula (any number
+9709,2024,June,5,1,48,NULL,1,M1,1,Use continuity correction 46.5 or 47.5 in their standardised
+9709,2024,June,5,1,48,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a probability."
+9709,2024,June,5,1,48,NULL,1,A1,1,0.314 ⩽ p < 0.3145
+9709,2024,June,5,1,60,NULL,1,B1,1,Table with correct X values and at least one probability.
+9709,2024,June,5,1,60,NULL,1,B1,1,"P(X = 1) or P(X = 2) correct and identified, need not be in table,"
+9709,2024,June,5,1,60,NULL,1,B1,1,"Two more correct and identified probabilities, need not be in table,"
+9709,2024,June,5,1,60,NULL,1,B1,1,"4 correct probabilities linked with correct outcomes, may not be in"
+9709,2024,June,5,1,5,NULL,1,B1,1,Either
+9709,2024,June,5,1,0,NULL,1,M1,1,Equating and forming a 3 term quadratic equation.
+9709,2024,June,5,1,3,NULL,1,A1,1,Not dependent on B1.
+9709,2024,June,5,1,3,NULL,1,A0,1,if p = 2 seen and not clearly rejected.
+9709,2024,June,5,1,3360,NULL,1,B1,1,
+9709,2024,June,5,1,7,b,1,M1,1,
+9709,2024,June,5,1,7,b,1,B1,1,"4! Seen either alone or in t – 4!, t an integer value > 24."
+9709,2024,June,5,1,7,b,1,A1,1,
+9709,2024,June,5,1,18,NULL,1,M1,1,"One correct calculation, unsimplified for an identified scenario"
+9709,2024,June,5,1,18,NULL,1,A1,1,"Two correct outcomes evaluated, accept unsimplified."
+9709,2024,June,5,1,18,NULL,1,M1,1,Four correct scenarios added.
+9709,2024,June,5,1,18,NULL,1,B1,1,Used as denominator of probability expression.
+9709,2024,June,5,1,28,NULL,1,A1,1,
+9709,2024,June,1,2,2,NULL,1,B1,1,May be seen in an expansion.
+9709,2024,June,1,2,240,NULL,1,M1,1,Their 240 equated to 12 × their
+9709,2024,June,1,2,2,NULL,1,A1,1,OE
+9709,2024,June,1,2,2,NULL,1,B1,1,Allow use of SF in place of factor.
+9709,2024,June,1,2,8,NULL,1,B2,1,Condone ‘Shift’.
+9709,2024,June,1,2,8,NULL,1,B2,1,for all 3
+9709,2024,June,1,2,8,NULL,1,B1,1,for 2 out of 3
+9709,2024,June,1,2,8,NULL,1,M1,1,"Condone inaccurate terminology, such as up, down,"
+9709,2024,June,1,2,8,NULL,1,A1,1,Condone inaccurate terminology if the intention is
+9709,2024,June,1,2,2,NULL,1,B2,1,for all 3.
+9709,2024,June,1,2,2,NULL,1,B1,1,for 2 out of 3.
+9709,2024,June,1,2,0,NULL,1,M1,1,* OE
+9709,2024,June,1,2,0,NULL,1,A1,1,"AG, WWW"
+9709,2024,June,1,2,4,NULL,1,M1,1,
+9709,2024,June,1,2,4,NULL,1,B1,1,"OE, WWW"
+9709,2024,June,1,2,4,NULL,1,B1,1,"AWRT, WWW"
+9709,2024,June,1,2,1,NULL,1,B1,1,ISW
+9709,2024,June,1,2,2,NULL,1,B1,1,Do not allow 
+9709,2024,June,1,2,2,NULL,1,B1,1,g–1 can be replaced by ‘It’ throughout.
+9709,2024,June,1,2,4,NULL,1,B1,1,SOI
+9709,2024,June,1,2,2,NULL,1,M1,1,Equating
+9709,2024,June,1,2,2,NULL,1,A1,1,Simplification as far as x =…
+9709,2024,June,1,2,3,NULL,1,A1,1,Must discount the solution 3 2 2
+9709,2024,June,1,2,5,a,1,M1,1,For subtraction of their first term from their second
+9709,2024,June,1,2,2,NULL,1,M1,1,Use of a correct formula for S40. Condone use of
+9709,2024,June,1,2,2,NULL,1,A1,1,ISW
+9709,2024,June,1,2,4,NULL,1,B1,1,Condone omission of .
+9709,2024,June,1,2,2,NULL,1,B1,1,ISW
+9709,2024,June,1,2,2,NULL,1,B1,1,"OE, SOI."
+9709,2024,June,1,2,2,NULL,1,M1,1,This mark can be awarded for a correct formula with
+9709,2024,June,1,2,2,NULL,1,A1,1,AWRT
+9709,2024,June,1,2,2,NULL,1,B1,1,
+9709,2024,June,1,2,0,NULL,1,M1,1,Equating their two term d
+9709,2024,June,1,2,8,NULL,1,A1,1,
+9709,2024,June,1,2,0,NULL,1,B1,1,
+9709,2024,June,1,2,2,NULL,1,B1,1,Seen correct in unsimplified form or better.
+9709,2024,June,1,2,12,NULL,1,B1,1,Seen correct in unsimplified form or better.
+9709,2024,June,1,2,12,NULL,1,M1,1,Multiplying by 3 before integration scores M0.
+9709,2024,June,1,2,3,NULL,1,M1,1,"Use of their x values, > 0, from (a) as limits in their"
+9709,2024,June,1,2,18,NULL,1,M1,1,"* Replacing y with 2a – x in the circle equation,"
+9709,2024,June,1,2,0,NULL,1,A1,1,All terms collected on one side of the equation. May
+9709,2024,June,1,2,0,NULL,1,A1,1,
+9709,2024,June,1,2,4,NULL,1,A1,1,
+9709,2024,June,1,2,7,b,1,B1,1,
+9709,2024,June,1,2,10,NULL,1,B1,1,FT FT on their point of intersection or their centre with
+9709,2024,June,1,2,3,NULL,1,M1,1,A correct trig expression involving XE.
+9709,2024,June,1,2,3,NULL,1,A1,1,AG
+9709,2024,June,1,2,2,NULL,1,B1,1,"OE, SOI"
+9709,2024,June,1,2,3,NULL,1,B1,1,SOI
+9709,2024,June,1,2,360,NULL,1,M1,1,Either implied by a correct answer or areas clearly
+9709,2024,June,1,2,75,NULL,1,A1,1,AWRT
+9709,2024,June,1,2,2,NULL,1,B1,1,Must be seen alone or part of a list and not part of a
+9709,2024,June,1,2,3,NULL,1,B1,1,May be implied by
+9709,2024,June,1,2,3,NULL,1,B1,1,Must be seen alone or part of a list and not part of a
+9709,2024,June,1,2,3,NULL,1,B1,1,AWRT
+9709,2024,June,1,2,0,NULL,1,B1,1,* Condone ⩽ 0. If 
+9709,2024,June,1,2,3,NULL,1,M1,1,Expanding brackets and collecting terms to arrive at
+9709,2024,June,1,2,9,NULL,1,B1,1,
+9709,2024,June,1,2,2,NULL,1,B1,1,B1 B1 for each 
+9709,2024,June,1,2,1,NULL,1,M1,1,
+9709,2024,June,1,2,3,NULL,1,A1,1,CAO
+9709,2024,June,1,2,2,NULL,1,M1,1,* OE
+9709,2024,June,1,2,5,NULL,1,A1,1,AWRT
+9709,2024,June,1,2,3,NULL,1,M1,1,Equating their d
+9709,2024,June,1,2,2,NULL,1,A1,1,
+9709,2024,June,1,2,26,NULL,1,M1,1,"* For A, y must be 32."
+9709,2024,June,1,2,2,NULL,1,M1,1,* Finding the midpoint of AB using A and B. If
+9709,2024,June,3,2,1,a,1,B1,1,"Correct shape, roughly symmetrical. Both sections should be solid"
+9709,2024,June,3,2,3,NULL,1,B1,1,Ignore x
+9709,2024,June,3,2,3,NULL,1,B1,1,Accept
+9709,2024,June,3,2,5,NULL,1,B0,1,B0 if a is given a value.
+9709,2024,June,3,2,4,NULL,1,B1,1,
+9709,2024,June,3,2,4,NULL,1,M1,1,"SC: If score B0, they can score M1 A1 for one correct constant."
+9709,2024,June,3,2,4,NULL,1,B0,1,M1 A0 available if they substitute two values to form
+9709,2024,June,3,2,4,NULL,1,A1,1,SC: If the horizontal equation is correct apart from an incorrect
+9709,2024,June,3,2,4,NULL,1,A1,1,SC: If denominator factorised as 
+9709,2024,June,3,2,4,NULL,1,A1,1,ISW
+9709,2024,June,3,2,2,NULL,1,B1,1,Could use logs to any base e.g.
+9709,2024,June,3,2,1,NULL,1,B1,1,"Or equivalent, e.g."
+9709,2024,June,3,2,2,NULL,1,B1,1,E.g. equation matches the linear form y
+9709,2024,June,3,2,2,NULL,1,B0,1,if they have m = … and c = … correct but never actually
+9709,2024,June,3,2,3,NULL,1,M1,1,
+9709,2024,June,3,2,7,NULL,1,A1,1,Accept
+9709,2024,June,3,2,0,NULL,1,M1,1,Must come from a quadratic in e .
+9709,2024,June,3,2,2,NULL,1,A1,1,Or equivalent e.g.
+9709,2024,June,3,2,2,NULL,1,B1,1,Accept y for d .
+9709,2024,June,3,2,2,NULL,1,M1,1,Independent.
+9709,2024,June,3,2,4,NULL,1,A1,1,Correct answer from correct working only Accept
+9709,2024,June,3,2,5,a,1,M1,1,"Allow if working with a smaller interval, e.g. (0.72, 0.78)."
+9709,2024,June,3,2,5,a,1,M0,1,"if working in degrees e.g -1.94…, 1.04…"
+9709,2024,June,3,2,5,a,1,A1,1,E.g. 4.95...
+9709,2024,June,3,2,5,NULL,1,B1,1,Given answer requires fully correct working or work vice versa.
+9709,2024,June,3,2,5,c,1,M1,1,M0 if working in degrees (e.g. values heading for 0.89….).
+9709,2024,June,3,2,5,c,1,A1,1,
+9709,2024,June,3,2,5,c,1,A1,1,"E.g. 0.7,0.75150,0.73719,0.74105,0.74000,0.74028"
+9709,2024,June,3,2,6,a,1,*M1,1,Or equivalent. Condone incorrect chain rule.
+9709,2024,June,3,2,6,a,1,M0,1,if a value is used for a (not equivalent work).
+9709,2024,June,3,2,6,a,1,A1,1,E.g. d
+9709,2024,June,3,2,1,NULL,1,A1,1,ISW
+9709,2024,June,3,2,6,b,1,*M1,1,Condone sign error in parts formula and omission of dx.
+9709,2024,June,3,2,6,b,1,M0,1,if a value is used for a (not equivalent work).
+9709,2024,June,3,2,1,NULL,1,A1,1,OE
+9709,2024,June,3,2,2,NULL,1,A1,1,ISW
+9709,2024,June,3,2,7,a,1,*M1,1,
+9709,2024,June,3,2,4,NULL,1,A1,1,AG
+9709,2024,June,3,2,2,NULL,1,M1,1,
+9709,2024,June,3,2,2,NULL,1,B1,1,Seen or implied.
+9709,2024,June,3,2,2,NULL,1,M1,1,e.g.
+9709,2024,June,3,2,2,NULL,1,A1,1,Condone a mixture of x and .
+9709,2024,June,3,2,8,NULL,1,M1,1,
+9709,2024,June,3,2,3,NULL,1,B1,1,Condone
+9709,2024,June,3,2,3,NULL,1,M1,1,Allow for the RHS with no LHS.
+9709,2024,June,3,2,8,b,1,B1,1,FT
+9709,2024,June,3,2,2,NULL,1,M1,1,For their l1.
+9709,2024,June,3,2,3,NULL,1,A1,1,Or equivalent e.g. using BC
+9709,2024,June,3,2,2,NULL,1,A1,1,"Accept position vector. Condone a column vector with i, j, k."
+9709,2024,June,3,2,66,NULL,1,B1,1,Or 
+9709,2024,June,3,2,66,NULL,1,B1,1,
+9709,2024,June,3,2,0,NULL,1,M1,1,Or equivalent equation in one unknown for their AB and their
+9709,2024,June,3,2,7,NULL,1,A1,1,Correct only. Ignore r = 0 if seen.
+9709,2024,June,3,2,7,NULL,1,A1,1,Must be a vector.
+9709,2024,June,3,2,3,NULL,1,B1,1,Or exact equivalent with real and imaginary parts collected.
+9709,2024,June,3,2,2,NULL,1,B1,1,
+9709,2024,June,3,2,6,NULL,1,B1,1,
+9709,2024,June,3,2,3,NULL,1,B1,1,
+9709,2024,June,3,2,9,c,1,B1,1,One mark for ‘isosceles’ and one mark for ‘right angle’.
+9709,2024,June,3,2,12,NULL,1,M1,1,For showing correct use of their angles from part (b).
+9709,2024,June,3,2,3,NULL,1,M1,1,Correct method for their z from part (a).
+9709,2024,June,3,2,1,NULL,1,A1,1,Obtain given answer from full and correct working.
+9709,2024,June,3,2,3,NULL,1,M1,1,Obtain
+9709,2024,June,3,2,3,NULL,1,A1,1,Obtain given answer from full and correct working (signs must be
+9709,2024,June,3,2,9,NULL,1,B1,1,Or
+9709,2024,June,3,2,3,NULL,1,B1,1,"Correct form, p any constant but not 0."
+9709,2024,June,3,2,3,NULL,1,*M1,1,Might have one third of both sides.
+9709,2024,June,3,2,9,NULL,1,A1,1,Or might see a third of both sides. Must have 2 different variables.
+9709,2024,June,3,2,3,NULL,1,M1,1,Or as limits in a definite integral.
+9709,2024,June,3,2,8,NULL,1,A1,1,"OE, e.g. 1.308… to at least 3sf."
+9709,2024,June,3,2,8,NULL,1,A1,1,Accept AWRT 0.601.
+9709,2024,June,5,2,6,NULL,1,B1,1,
+9709,2024,June,5,2,5,NULL,1,M1,1,"1 – 0.7d, d = 5, 6."
+9709,2024,June,5,2,5,NULL,1,A1,1,Accept 0.83193 to at least 3sf.
+9709,2024,June,5,2,1,NULL,1,M1,1,
+9709,2024,June,5,2,2,NULL,1,A1,1,
+9709,2024,June,5,2,8,NULL,1,B1,1,"Two of the calculations for P(HR), P(TBR), either P(TR) or"
+9709,2024,June,5,2,2,NULL,1,M1,1,Values of all correct identified scenarios added.
+9709,2024,June,5,2,27,NULL,1,A1,1,"0.6296…, 0.630"
+9709,2024,June,5,2,27,NULL,1,M1,1,
+9709,2024,June,5,2,2,NULL,1,A1,1,OE
+9709,2024,June,5,2,54,NULL,1,M1,1,"Use of ± standardisation formula with 184, 131 and 54, no"
+9709,2024,June,5,2,54,NULL,1,M1,1,Calculating the appropriate probability area (leading to their final
+9709,2024,June,5,2,54,NULL,1,A1,1,AWRT
+9709,2024,June,5,2,54,NULL,1,B1,1,−0.842 ⩽ z < −0.8415 or 0.8415 < z ⩽ 0.842 seen.
+9709,2024,June,5,2,54,NULL,1,M1,1,"Use of the ± standardisation formula with 131, 54, w and a z-value"
+9709,2024,June,5,2,54,NULL,1,A1,1,85.5 ⩽ p ⩽ 85.6
+9709,2024,June,5,2,4,a,1,B1,1,"Clearly identified, e.g. Q2, med."
+9709,2024,June,5,2,4,a,1,M1,1,33300 ⩽ UQ ⩽ 33700 – 31100 ⩽ LQ ⩽ 31200
+9709,2024,June,5,2,4,a,1,A1,1,WWW
+9709,2024,June,5,2,4,a,1,B0,1,Median = 320
+9709,2024,June,5,2,4,b,1,B1,1,All five key values for R plotted accurately in standard format
+9709,2024,June,5,2,1,NULL,1,B1,1,"FT All five key values for P, FT from (a), plotted accurately in"
+9709,2024,June,5,2,1,NULL,1,B1,1,Whiskers not through box (condone 1
+9709,2024,June,5,2,4,c,1,B1,1,Do not accept ‘values’.
+9709,2024,June,5,2,5,NULL,1,B1,1,AG
+9709,2024,June,5,2,7,NULL,1,B1,1,Table with correct x values and at least one further non-zero
+9709,2024,June,5,2,7,NULL,1,B1,1,Two more correct non-zero probabilities linked with correct
+9709,2024,June,5,2,7,NULL,1,B1,1,All five probabilities correct. Accept probabilities not in table if
+9709,2024,June,5,2,5,c,1,M1,1,"Accept unsimplified expression. May be calculated in the variance,"
+9709,2024,June,5,2,2,NULL,1,M1,1,Appropriate variance formula using their (E(X))2 value. FT their
+9709,2024,June,5,2,2,NULL,1,A1,1,CAO
+9709,2024,June,5,2,165,NULL,1,B1,1,"27.5 and 20.625 (CAO) seen, allow unsimplified."
+9709,2024,June,5,2,4,NULL,1,M1,1,Substituting their 27.5 and their 20.625 into the ± standardising
+9709,2024,June,5,2,4,NULL,1,M1,1,Using continuity correction 21.5 or 22.5 in their standardisation
+9709,2024,June,5,2,4,NULL,1,M1,1,"Appropriate probability area, from final process, must be a"
+9709,2024,June,5,2,4,NULL,1,A1,1,0.0932 ⩽ p < 0.09325
+9709,2024,June,5,2,6,b,1,M1,1,One term 10Cx 
+9709,2024,June,5,2,0,NULL,1,A1,1,Correct unsimplified expression.
+9709,2024,June,5,2,0,NULL,1,B1,1,0.1795 < p ⩽ 0.180
+9709,2024,June,5,2,6,c,1,M1,1,
+9709,2024,June,5,2,200,NULL,1,A1,1,
+9709,2024,June,5,2,75600,NULL,1,B1,1,
+9709,2024,June,5,2,7,b,1,M1,1,4! SOI in all terms leading to final answer.
+9709,2024,June,5,2,7,b,1,M1,1,Ignoring any values used to justify 4!.
+9709,2024,June,5,2,7,b,1,A1,1,4! × 3!
+9709,2024,June,5,2,144,NULL,1,B1,1,WWW
+9709,2024,June,5,2,2,NULL,1,B1,1,
+9709,2024,June,5,2,2,NULL,1,M1,1,
+9709,2024,June,5,2,75600,NULL,1,M1,1,
+9709,2024,June,5,2,75600,NULL,1,A1,1,Accept 600
+9709,2024,June,1,3,10,NULL,1,B1,1,"WWW, may be implied later."
+9709,2024,June,1,3,405,NULL,1,B1,1,"Ignore subsequent terms, may be implied later."
+9709,2024,June,1,3,2,NULL,1,M1,1,Expect
+9709,2024,June,1,3,150,NULL,1,A1,1,Must be clearly identified.
+9709,2024,June,1,3,5,NULL,1,B1,1,Or exact equivalent.
+9709,2024,June,1,3,6,NULL,1,B1,1,Or exact equivalent.
+9709,2024,June,1,3,6,NULL,1,B1,1,May be implied in coordinate or vector form.
+9709,2024,June,1,3,2,NULL,1,M1,1,Allow use of π
+9709,2024,June,1,3,6,NULL,1,A1,1,Or exact equivalent.
+9709,2024,June,1,3,225,NULL,1,B1,1,
+9709,2024,June,1,3,225,NULL,1,*M1,1,Condone sign errors.
+9709,2024,June,1,3,0,NULL,1,A1,1,B1 SC if no quadratic or cubic solution.
+9709,2024,June,1,3,3,b,1,M1,1,"Expect 1.783 or 102.2o, their  must be reflex."
+9709,2024,June,1,3,3,b,1,A1,1,"AWRT, WWW or a second answer."
+9709,2024,June,1,3,4,a,1,M1,1,
+9709,2024,June,1,3,2,NULL,1,M1,1,
+9709,2024,June,1,3,0,NULL,1,A1,1,
+9709,2024,June,1,3,4,b,1,M1,1,Expect 
+9709,2024,June,1,3,2,NULL,1,A1,1,Or greater accuracy.
+9709,2024,June,1,3,2,NULL,1,B1,1,SC if no solution to the quadratic.
+9709,2024,June,1,3,180,NULL,1,A1,1,FT WWW
+9709,2024,June,1,3,180,NULL,1,B1,1,SC FT if no solution to the quadratic.
+9709,2024,June,1,3,180,NULL,1,B1,1,"SC both correct in radians, 0.322, 1.25."
+9709,2024,June,1,3,4,NULL,1,B1,1,OE
+9709,2024,June,1,3,3,NULL,1,M1,1,Not given if ‘+c’ used.
+9709,2024,June,1,3,2,NULL,1,A1,1,OE
+9709,2024,June,1,3,2,NULL,1,B1,1,SC if no visible solution of the cubic.
+9709,2024,June,1,3,5,b,1,M1,1,Must differentiate one term correctly.
+9709,2024,June,1,3,2,NULL,1,A1,1,Following correct work only
+9709,2024,June,1,3,5,c,1,B1,1,
+9709,2024,June,1,3,5,c,1,B1,1,Dependent on first derivative being correct.
+9709,2024,June,1,3,1,NULL,1,*M1,1,OE
+9709,2024,June,1,3,1,NULL,1,A1,1,Or unsimplified equivalent.
+9709,2024,June,1,3,7,NULL,1,A1,1,OE
+9709,2024,June,1,3,6,b,1,M1,1,Award if given as the second transformation.
+9709,2024,June,1,3,10,NULL,1,M1,1,OE
+9709,2024,June,1,3,23,NULL,1,A1,1,"Or similarly simplified equivalent, WWW."
+9709,2024,June,1,3,7,a,1,B1,1,OE
+9709,2024,June,1,3,7,a,1,B1,1,
+9709,2024,June,1,3,100,NULL,1,M1,1,Using their d.
+9709,2024,June,1,3,100,NULL,1,A1,1,
+9709,2024,June,1,3,10,NULL,1,A1,1,OE
+9709,2024,June,1,3,0,NULL,1,M1,1,If
+9709,2024,June,1,3,0,NULL,1,M1,1,"A0 A1FT DM1 A0, i.e. 4/8."
+9709,2024,June,1,3,0,NULL,1,A1,1,B1 SC if no working to solve the quadratic.
+9709,2024,June,1,3,0,NULL,1,B1,1,Condone errors which don’t affect finding centre.
+9709,2024,June,1,3,0,NULL,1,*M1,1,
+9709,2024,June,1,3,3,NULL,1,A1,1,
+9709,2024,June,1,3,4,NULL,1,A1,1,FT Following their gradient of radius.
+9709,2024,June,1,3,1,NULL,1,A1,1,
+9709,2024,June,1,3,3,NULL,1,M1,1,OE
+9709,2024,June,1,3,3,NULL,1,A1,1,Or unsimplified equivalent.
+9709,2024,June,1,3,3,NULL,1,*M1,1,Expect 27
+9709,2024,June,1,3,3,NULL,1,B1,1,Implied if π  appears only at the end.
+9709,2024,June,1,3,2,NULL,1,M1,1,Where
+9709,2024,June,1,3,0,NULL,1,A1,1,OE
+9709,2024,June,1,3,0,NULL,1,B1,1,OE
+9709,2024,June,1,3,2,NULL,1,M1,1,Expect 
+9709,2024,June,1,3,3,NULL,1,A1,1,SC B1 answer without working.
+9709,2024,June,1,3,3,NULL,1,A1,1,AWRT and no other value.
+9709,2024,June,1,3,3,NULL,1,B1,1,FT Following their r provided
+9709,2024,June,1,3,3,NULL,1,M1,1,
+9709,2024,June,1,3,19,NULL,1,A1,1,OE
+9709,2024,June,1,3,1,NULL,1,M1,1,OE
+9709,2024,June,1,3,19,NULL,1,A1,1,FT Using their constant following the award of M1.
+9709,2024,June,1,3,4,NULL,1,B1,1,
+9709,2024,June,1,3,4,NULL,1,M1,1,OE
+9709,2024,June,1,3,0,NULL,1,*M1,1,Expect
+9709,2024,June,1,3,7,NULL,1,A1,1,
+9709,2024,June,1,3,7,NULL,1,A1,1,SC B1 if no method seen.
+9709,2024,June,3,3,1,NULL,1,*B1,1,"Allow logs to any base, as well as decimals, throughout."
+9709,2024,June,3,3,6,NULL,1,B1,1,"If in decimals, allow small errors in 2nd and 3rd dp."
+9709,2024,June,3,3,6,NULL,1,B1,1,3dp required.
+9709,2024,June,3,3,5,NULL,1,B2,1,and SC B1 for x = 0.524. Maximum 3/4 possible.
+9709,2024,June,3,3,1,NULL,1,*B1,1,and SC B1 for x = 0.524. Maximum 2/4 possible.
+9709,2024,June,3,3,2,NULL,1,M1,1,ae2xsin2x + e2xbcos2x. Need a or b = 2.
+9709,2024,June,3,3,2,NULL,1,A1,1,"OE, e.g."
+9709,2024,June,3,3,2,NULL,1,M1,1,Obtain 2x = tan−1(− their b/their a) OE.
+9709,2024,June,3,3,2,NULL,1,A1,1,CWO
+9709,2024,June,3,3,2,NULL,1,A1,1,"CWO, ISW."
+9709,2024,June,3,3,3,NULL,1,M1,1,Having used i2 = −1.
+9709,2024,June,3,3,3,NULL,1,A1,1,Allow 2xyi = –7i.
+9709,2024,June,3,3,3,NULL,1,M1,1,All powers of x or y are positive and are in the numerator.
+9709,2024,June,3,3,3,NULL,1,A1,1,
+9709,2024,June,3,3,2,NULL,1,A1,1,
+9709,2024,June,3,3,4,NULL,1,B1,1,Allow ln k + ln y = cx lne
+9709,2024,June,3,3,4,NULL,1,M1,1,Equations must have been formulated correctly.
+9709,2024,June,3,3,4,NULL,1,A1,1,AWRT
+9709,2024,June,3,3,1,NULL,1,B1,1,
+9709,2024,June,3,3,1,NULL,1,M1,1,Correct appropriate method.
+9709,2024,June,3,3,1,NULL,1,A1,1,
+9709,2024,June,3,3,6,a,1,B1,1,Note full circle is not required but must show centre and include
+9709,2024,June,3,3,6,a,1,B1,1,FT FT centre not at the origin.
+9709,2024,June,3,3,6,a,1,B1,1,Half-line or ‘correct’ full line extending into the third quadrant
+9709,2024,June,3,3,6,a,1,B1,1,"FT FT the point (±2, ±1) or (±1, ±2)."
+9709,2024,June,3,3,6,a,1,B1,1,
+9709,2024,June,3,3,6,b,1,M1,1,E.g. sin−1(2/√(25)) + tan−1(3/4) or
+9709,2024,June,3,3,6,NULL,1,A1,1,The marks in (b) are available even if errors in (a).
+9709,2024,June,3,3,7,a,1,B1,1,No errors allowed.
+9709,2024,June,3,3,7,b,1,M1,1,Condone no visible working.
+9709,2024,June,3,3,7,b,1,A1,1,Division can terminate with 0 or −3x – 21 stated once or twice.
+9709,2024,June,3,3,4,NULL,1,M1,1,(x + 7) (8x2 − 2x – 3) = (x + 7)(4x – 3)(2x + 1) = 0
+9709,2024,June,3,3,4,NULL,1,A1,1,
+9709,2024,June,3,3,4,NULL,1,A1,1,Accept more accurate answers.
+9709,2024,June,3,3,8,a,1,B1,1,ISW
+9709,2024,June,3,3,8,a,1,M1,1,
+9709,2024,June,3,3,6,NULL,1,A1,1,
+9709,2024,June,3,3,2,NULL,1,B1,1,FT FT α from (a).
+9709,2024,June,3,3,8,NULL,1,B1,1,FT OE
+9709,2024,June,3,3,6,NULL,1,M1,1,Allow with tan still present.
+9709,2024,June,3,3,48,NULL,1,A1,1,
+9709,2024,June,3,3,3,NULL,1,B1,1,
+9709,2024,June,3,3,3,NULL,1,M1,1,Use d
+9709,2024,June,3,3,3,NULL,1,A1,1,"If this expression is first seen with numerical values, allow A1"
+9709,2024,June,3,3,37,NULL,1,A1,1,
+9709,2024,June,3,3,9,b,1,B1,1,
+9709,2024,June,3,3,9,b,1,B1,1,May see –10x2 + x3 if negative sign moved across
+9709,2024,June,3,3,3,NULL,1,B1,1,FT FT sign and position of 2 from their separation but B0 if error from
+9709,2024,June,3,3,2,NULL,1,M1,1,Allow numerical and sign errors and decimals.
+9709,2024,June,3,3,4,NULL,1,A1,1,ISW
+9709,2024,June,3,3,20,NULL,1,A0,1,if
+9709,2024,June,3,3,10,a,1,*M1,1,
+9709,2024,June,3,3,2,NULL,1,*M1,1,"*M1 marks independent of each other, so *M0 *M1 for failure to"
+9709,2024,June,3,3,10,a,1,A2,1,"A1 for each, working not needed if quadratic correct."
+9709,2024,June,3,3,2,NULL,1,B1,1,Often the third point on the line occurs after M1 A1 is gained.
+9709,2024,June,3,3,2,NULL,1,M1,1,"If solve for a first, they must have a complete method to eliminate"
+9709,2024,June,3,3,2,NULL,1,A1,1,"Accept coordinates, row or column, but not (–2i,– 3j,+ 2k) or"
+9709,2024,June,5,3,4,NULL,1,B1,1,Table with correct X values and at least one correct probability
+9709,2024,June,5,3,4,NULL,1,B1,1,"Three other probabilities associated with correct x values, need not"
+9709,2024,June,5,3,4,NULL,1,B1,1,"Five correct probabilities linked with correct outcomes, may not be"
+9709,2024,June,5,3,3,NULL,1,M1,1,Accept unsimplified expression or sum of fractions seen. May be
+9709,2024,June,5,3,3,NULL,1,M1,1,Appropriate variance formula using their (E(X))2 value.
+9709,2024,June,5,3,9,NULL,1,A1,1,
+9709,2024,June,5,3,36,NULL,1,M1,1,
+9709,2024,June,5,3,31,NULL,1,A1,1,0.613
+9709,2024,June,5,3,2,a,1,M1,1,"Using ± standardisation formula with 1.93, 1.64 and 0.25"
+9709,2024,June,5,3,2,a,1,M1,1,"Appropriate area Φ resulting from a standardisation, from final"
+9709,2024,June,5,3,2,a,1,A1,1,0.123 ⩽ p < 0.12303
+9709,2024,June,5,3,2,b,1,B1,1,−0.441 < z1 < −0.439 or
+9709,2024,June,5,3,2,b,1,B1,1,"z2 = 0.674 or z2 = – 0.674 seen, CAO, critical value."
+9709,2024,June,5,3,2,b,1,M1,1,"Use of the ±standardisation formula once with μ, σ equating to a z-"
+9709,2024,June,5,3,2,b,1,M1,1,"Solve two equations in μ and σ using the elimination method,"
+9709,2024,June,5,3,2,b,1,A1,1,AWRT
+9709,2024,June,5,3,3,a,1,B1,1,Correct structure and probabilities for Box A branches.
+9709,2024,June,5,3,3,a,1,B1,1,Completely correct structure and one correct probability for a Box
+9709,2024,June,5,3,3,a,1,B1,1,Completely correct structure and second correct probability on a
+9709,2024,June,5,3,3,a,1,B1,1,Completely correct structure and remaining two probabilities
+9709,2024,June,5,3,5,NULL,1,M1,1,P(GG) + P(YY) =
+9709,2024,June,5,3,15,NULL,1,M1,1,
+9709,2024,June,5,3,5,NULL,1,A1,1,
+9709,2024,June,5,3,1,NULL,1,B1,1,"Correct stem, ignore extra values (not in reverse, not split)."
+9709,2024,June,5,3,1,NULL,1,B1,1,"Correct Penguins labelled on left, leaves in order from right to left"
+9709,2024,June,5,3,1,NULL,1,B1,1,"Correct Dolphins labelled on same diagram, leaves in order and"
+9709,2024,June,5,3,1,NULL,1,B1,1,"Correct key for their diagram, need both clubs labelled and ‘sec’ or"
+9709,2024,June,5,3,4,b,1,B1,1,Plotted on box.
+9709,2024,June,5,3,4,b,1,B1,1,Correct end points of whiskers (36 and 71).
+9709,2024,June,5,3,4,c,1,B1,1,Reason given in context.
+9709,2024,June,5,3,4,NULL,1,B1,1,AWRT
+9709,2024,June,5,3,4,NULL,1,M1,1,
+9709,2024,June,5,3,2,NULL,1,A1,1,
+9709,2024,June,5,3,5,c,1,M1,1,One term 7Cx
+9709,2024,June,5,3,0,NULL,1,A1,1,"Correct expression, accept unsimplified, no terms omitted leading"
+9709,2024,June,5,3,0,NULL,1,B1,1,AWRT
+9709,2024,June,5,3,5,d,1,B1,1,"54.6 and 19.11 seen, allow unsimplified. May be seen in the"
+9709,2024,June,5,3,10,NULL,1,M1,1,Substituting their µ and their positive σ into the ± standardising
+9709,2024,June,5,3,10,NULL,1,M1,1,Use continuity correction 49.5 or 50.5 in their standardisation
+9709,2024,June,5,3,10,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a probability."
+9709,2024,June,5,3,10,NULL,1,A1,1,0.8255 < p ≤ 0.826
+9709,2024,June,5,3,30240,NULL,1,B1,1,
+9709,2024,June,5,3,6,b,1,B1,1,
+9709,2024,June,5,3,6,b,1,M1,1,
+9709,2024,June,5,3,720,NULL,1,A1,1,If no marks scored SC B1 for 840 – 120 = 720.
+9709,2024,June,5,3,6,c,1,B1,1,Correct no of ways for two correct identified scenarios other than
+9709,2024,June,5,3,6,c,1,M1,1,No of ways for five correct identified scenarios added or correct.
+9709,2024,June,5,3,6,c,1,M1,1,"Accept evaluated, accept 9C4."
+9709,2024,June,5,3,6,NULL,1,A1,1,
+9709,2024,March,1,2,1,NULL,1,B1,1,OE
+9709,2024,March,1,2,1,NULL,1,M1,1,For integral of form
+9709,2024,March,1,2,3,NULL,1,A1,1,WWW
+9709,2024,March,1,2,2,a,1,B1,1,
+9709,2024,March,1,2,1,NULL,1,M1,1,Any non-zero c.
+9709,2024,March,1,2,2,NULL,1,A1,1,OE
+9709,2024,March,1,2,2,NULL,1,B1,1,"FT Following part (a), i.e. (their x, 2 – their y)."
+9709,2024,March,1,2,2,NULL,1,*M1,1,
+9709,2024,March,1,2,1,NULL,1,A1,1,Or (unsimplified) equivalent.
+9709,2024,March,1,2,2,NULL,1,A1,1,May be implied by 
+9709,2024,March,1,2,58,NULL,1,A1,1,
+9709,2024,March,1,2,4,a,1,M1,1, may be missing or another symbol used.
+9709,2024,March,1,2,4,a,1,M1,1,Does not require any further explanation.
+9709,2024,March,1,2,4,a,1,A1,1,WWW
+9709,2024,March,1,2,3,NULL,1,M1,1,SOI
+9709,2024,March,1,2,3,NULL,1,A1,1,Or greater accuracy.
+9709,2024,March,1,2,3,NULL,1,A1,1,Or greater accuracy; and no others in 90
+9709,2024,March,1,2,2,NULL,1,M1,1,
+9709,2024,March,1,2,9,NULL,1,A1,1,OE e.g.
+9709,2024,March,1,2,3,NULL,1,*M1,1,Must have been some attempt at differentiation. Expect 3
+9709,2024,March,1,2,0,NULL,1,A1,1,Or equivalent of requested form e.g. 8
+9709,2024,March,1,2,3,NULL,1,B1,1,B1 OE
+9709,2024,March,1,2,2,NULL,1,*M1,1,Must find two products only (may be seen in an
+9709,2024,March,1,2,3,NULL,1,A1,1,
+9709,2024,March,1,2,7,a,1,*M1,1,Or substitution for x …
+9709,2024,March,1,2,0,NULL,1,A1,1,OE e.g.
+9709,2024,March,1,2,30,NULL,1,A1,1,… obtaining 400
+9709,2024,March,1,2,7,b,1,M1,1,Expect
+9709,2024,March,1,2,0,NULL,1,A1,1,"SC B1 only ( 3, 2)"
+9709,2024,March,1,2,1,NULL,1,*M1,1,Expect 6
+9709,2024,March,1,2,9,NULL,1,A1,1,
+9709,2024,March,1,2,6,NULL,1,A1,1,
+9709,2024,March,1,2,48,NULL,1,B1,1,
+9709,2024,March,1,2,4,NULL,1,B1,1,
+9709,2024,March,1,2,4,NULL,1,M1,1,Only awarded if |r| < 1.
+9709,2024,March,1,2,16,NULL,1,A1,1,
+9709,2024,March,1,2,9,a,1,*M1,1,Expect
+9709,2024,March,1,2,1,NULL,1,A1,1,OE e.g.
+9709,2024,March,1,2,8,NULL,1,A1,1,Do not accept
+9709,2024,March,1,2,2,NULL,1,M1,1,May simplify and/or use k at this stage; k may have come
+9709,2024,March,1,2,8,NULL,1,A1,1,FT OE
+9709,2024,March,1,2,5,NULL,1,B1,1,OE
+9709,2024,March,1,2,4,NULL,1,B1,1,B1 If 7
+9709,2024,March,1,2,10,a,1,B1,1,
+9709,2024,March,1,2,1,NULL,1,M1,1,
+9709,2024,March,1,2,12,NULL,1,A1,1,OE e.g.
+9709,2024,March,1,2,20,NULL,1,B1,1,If
+9709,2024,March,1,2,0,NULL,1,B1,1,A1 if above method used.
+9709,2024,March,1,2,0,NULL,1,B1,1,May be implied by AB = 4 or use of |x-coordinate of C|.
+9709,2024,March,1,2,0,NULL,1,M1,1,"Using their AB. If /2  used, must be multiplied by 2."
+9709,2024,March,1,2,0,NULL,1,A1,1,Or greater accuracy. A correct answer implies the M1.
+9709,2024,March,1,2,20,NULL,1,M1,1,Expect 4.15.
+9709,2024,March,1,2,20,NULL,1,A1,1,Condone missing units or incorrect units.
+9709,2024,March,1,2,20,NULL,1,M1,1,"If sector – triangle used, both formulae must be correct."
+9709,2024,March,1,2,3,NULL,1,B1,1,
+9709,2024,March,1,2,3,NULL,1,M1,1,Substitution SOI if dealt with correctly later
+9709,2024,March,1,2,27,NULL,1,A1,1,Or exact equivalent.
+9709,2024,March,1,2,8,NULL,1,B1,1,Or exact equivalent.
+9709,2024,March,1,2,3,NULL,1,M1,1,
+9709,2024,March,1,2,2,NULL,1,A1,1,SC B1 if no M mark awarded.
+9709,2024,March,1,2,2,NULL,1,A1,1,No other terms from a second integral.
+9709,2024,March,1,2,2,NULL,1,A1,1,
+9709,2024,March,3,2,3,NULL,1,M1,1,
+9709,2024,March,3,2,4,NULL,1,A1,1,"A = 1, B = −3"
+9709,2024,March,3,2,7,NULL,1,A0,1,.
+9709,2024,March,3,2,7,NULL,1,A1,1,
+9709,2024,March,3,2,2,NULL,1,B1,1,
+9709,2024,March,3,2,2,NULL,1,M1,1,Allow unsimplified 2x.
+9709,2024,March,3,2,128,NULL,1,A1,1,"Allow in a full expansion up to x2, ignore extra"
+9709,2024,March,3,2,4,NULL,1,B1,1,or 4
+9709,2024,March,3,2,4,NULL,1,B1,1,
+9709,2024,March,3,2,1,NULL,1,M1,1,
+9709,2024,March,3,2,3,NULL,1,A1,1,Arg with no working B1 instead of M1 A1.
+9709,2024,March,3,2,3,NULL,1,A0,1,if decimals.
+9709,2024,March,3,2,2,NULL,1,M1,1,arg z2 =
+9709,2024,March,3,2,0,NULL,1,M1,1,Seen or implied.
+9709,2024,March,3,2,12,NULL,1,M1,1,Seen or implied.
+9709,2024,March,3,2,1,NULL,1,A1,1,
+9709,2024,March,3,2,4,NULL,1,B1,1,pq2 = eb.
+9709,2024,March,3,2,7,NULL,1,M1,1,E.g. ln
+9709,2024,March,3,2,3,NULL,1,A1,1,
+9709,2024,March,3,2,2,NULL,1,B1,1,Or
+9709,2024,March,3,2,2,NULL,1,M1,1,x + y = 7 and − x + 2y = 1.
+9709,2024,March,3,2,2,NULL,1,A1,1,Leading to
+9709,2024,March,3,2,5,a,1,B1,1,
+9709,2024,March,3,2,5,NULL,1,B1,1,
+9709,2024,March,3,2,5,b,1,M1,1,
+9709,2024,March,3,2,5,NULL,1,A1,1,
+9709,2024,March,3,2,2,NULL,1,B1,1,SC If d
+9709,2024,March,3,2,3,NULL,1,B1,1,Allow extra d
+9709,2024,March,3,2,3,NULL,1,A1,1,Answer Given – need to have seen 4y d
+9709,2024,March,3,2,6,b,1,M1,1,* e.g. (
+9709,2024,March,3,2,32,NULL,1,A1,1,Given Answer. CWO
+9709,2024,March,3,2,7,a,1,M1,1,
+9709,2024,March,3,2,7,a,1,A1,1,e.g. d
+9709,2024,March,3,2,2,NULL,1,A1,1,Given answer – need to see e2x= 5/(1 + 2x)
+9709,2024,March,3,2,7,b,1,M1,1,Need to attempt BOTH values and have one
+9709,2024,March,3,2,7,b,1,A1,1,e.g.
+9709,2024,March,3,2,2,NULL,1,M1,1,Obtain one value and then substitute it into the
+9709,2024,March,3,2,2,NULL,1,A1,1,
+9709,2024,March,3,2,5,NULL,1,B1,1,FT ISW   FT their
+9709,2024,March,3,2,5,NULL,1,M1,1,α = tan−1(b/a) from their
+9709,2024,March,3,2,5,NULL,1,A1,1,3 d.p. CAO
+9709,2024,March,3,2,8,b,1,B1,1,FT Follow their R.
+9709,2024,March,3,2,8,b,1,M1,1,
+9709,2024,March,3,2,8,b,1,A1,1,
+9709,2024,March,3,2,8,b,1,A1,1,"If uses 1.11° withhold first accuracy mark gained,"
+9709,2024,March,3,2,8,b,1,A1,1,Ignore answers outside the interval. Treat answers
+9709,2024,March,3,2,9,a,1,M1,1,
+9709,2024,March,3,2,9,a,1,A1,1,e.g.
+9709,2024,March,3,2,0,NULL,1,M1,1,
+9709,2024,March,3,2,0,NULL,1,A1,1,e.g.
+9709,2024,March,3,2,2,NULL,1,A1,1,.
+9709,2024,March,3,2,2,NULL,1,B1,1,Seen or implied using diagonals.
+9709,2024,March,3,2,2,NULL,1,M1,1,e.g.
+9709,2024,March,3,2,48,NULL,1,M1,1,
+9709,2024,March,3,2,104,NULL,1,A1,1,Accept 1.13 radians.
+9709,2024,March,3,2,104,NULL,1,M1,1,e.g.
+9709,2024,March,3,2,6,NULL,1,M1,1,
+9709,2024,March,3,2,104,NULL,1,B1,1,OE SOI
+9709,2024,March,3,2,2,NULL,1,B1,1,Allow if seen prior to assigning a value for a.
+9709,2024,March,3,2,2,NULL,1,M1,1,
+9709,2024,March,3,2,16,NULL,1,A1,1,
+9709,2024,March,3,2,2,NULL,1,B0,1,M1 and C = −16
+9709,2024,March,3,2,2,NULL,1,A1,1,Max 2/5.
+9709,2024,March,3,2,2,NULL,1,B1,1,FT Condone missing modulus signs.
+9709,2024,March,3,2,2,NULL,1,B1,1,FT
+9709,2024,March,3,2,2,NULL,1,B1,1,FT Max 3/5 if value is assigned for a (award M0 A0).
+9709,2024,March,3,2,2,NULL,1,M1,1,Either (i) collect terms with same coeeficient and
+9709,2024,March,3,2,2,NULL,1,A1,1,A0 if the solution involves logarithms of negative
+9709,2024,March,3,2,11,NULL,1,B1,1,
+9709,2024,March,3,2,1,NULL,1,M1,1,Allow unless clear evidence that formula used has
+9709,2024,March,3,2,3,NULL,1,A1,1,Allow unsimplified.
+9709,2024,March,3,2,9,NULL,1,A1,1,Condone no constant of integration.
+9709,2024,March,3,2,1,NULL,1,B1,1,
+9709,2024,March,3,2,1,NULL,1,B1,1,Condone no constant of integration.
+9709,2024,March,3,2,3,NULL,1,M1,1,*
+9709,2024,March,3,2,9,NULL,1,A1,1,Or exact equivalent . Exact ISW.
+9709,2024,March,5,2,22,NULL,1,B1,1,Accept 6
+9709,2024,March,5,2,11,NULL,1,M1,1,
+9709,2024,March,5,2,12,NULL,1,M1,1,
+9709,2024,March,5,2,22,NULL,1,A1,1,Accept
+9709,2024,March,5,2,2,a,1,M1,1,One term 10Cx ( ) (
+9709,2024,March,5,2,0,NULL,1,A1,1,Correct unsimplified expression.
+9709,2024,March,5,2,0,NULL,1,B1,1,0.617 ⩽ p < 0.6175 www.
+9709,2024,March,5,2,0,NULL,1,M1,1,One term 10Cx ( ) (
+9709,2024,March,5,2,3,NULL,1,B1,1,0.617 ⩽ p < 0.6175 www.
+9709,2024,March,5,2,4,NULL,1,M1,1,"1 – bd ; b = 0.3, 0.7; d = 4, 5."
+9709,2024,March,5,2,10000,NULL,1,A1,1,Condone 0.992.
+9709,2024,March,5,2,10000,NULL,1,M1,1,(e) + (f)(e) + (f)2(e) + (f)3(e) [+ (f)4(e)]
+9709,2024,March,5,2,2,c,1,M1,1,(
+9709,2024,March,5,2,4,NULL,1,M1,1,(
+9709,2024,March,5,2,15625,NULL,1,A1,1,Accept 0.082944 correct to at least three significant figures.
+9709,2024,March,5,2,20,NULL,1,M1,1,"At least five frequency densities (f/cw), e.g. 8"
+9709,2024,March,5,2,23,NULL,1,A1,1,All heights correct on graph (no FT).
+9709,2024,March,5,2,23,NULL,1,B1,1,"Bar ends at [0,] 20, 30, 35, 40, 50, 70 with a linear scale and at"
+9709,2024,March,5,2,23,NULL,1,B1,1,Axes labelled frequency density (fd) and time (mins).
+9709,2024,March,5,2,3,b,1,B1,1,At least five correct mid-points seen or used in formula.
+9709,2024,March,5,2,150,NULL,1,M1,1,Correct mean formula using their 6 midpoints (must be within
+9709,2024,March,5,2,3,NULL,1,A1,1,"Accept 35.8, not 143"
+9709,2024,March,5,2,35,NULL,1,B1,1,"Condone ‘3rd’ interval, 30 – 35."
+9709,2024,March,5,2,4,a,1,M1,1,"Use of ± standardisation formula with 1.26, 1.20 and 0.16, not"
+9709,2024,March,5,2,4,a,1,M1,1,"Calculating the appropriate probability area, (leading to their"
+9709,2024,March,5,2,4,a,1,A1,1,"0.3538, 0.3535 < p ⩽ 0.354."
+9709,2024,March,5,2,4,a,1,B1,1,"FT Strict FT their at least 4-figure calculated probability, seen"
+9709,2024,March,5,2,4,b,1,B1,1,–0.842 ⩽ z < –0.8415 or 0.8415 < z ⩽ 0.842 seen.
+9709,2024,March,5,2,4,b,1,M1,1,"Use of the ± standardisation formula with 2.40, 2.50,  and a z-"
+9709,2024,March,5,2,4,b,1,A1,1,0.1185 <  ⩽ 0.119.
+9709,2024,March,5,2,4,c,1,B1,1,"16 and 12.8 seen, allow unsimplified."
+9709,2024,March,5,2,5,NULL,1,M1,1,"Substituting their 16 (not 1.2, 2.5) and their 12.8 (not 0.16,"
+9709,2024,March,5,2,2,NULL,1,M1,1,Using continuity correction 21.5 or 22.5 in their
+9709,2024,March,5,2,2,NULL,1,M1,1,"Appropriate area Φ, from final process, must be a probability."
+9709,2024,March,5,2,2,NULL,1,A1,1,0.9375 < p ⩽ 0.938.
+9709,2024,March,5,2,1,NULL,1,M1,1,
+9709,2024,March,5,2,2,NULL,1,A1,1,AG.
+9709,2024,March,5,2,40,NULL,1,B1,1,One additional correct probability in table or clearly identified.
+9709,2024,March,5,2,40,NULL,1,B1,1,A second additional correct probability in table or clearly
+9709,2024,March,5,2,40,NULL,1,B1,1,"Final correct probability, all probabilities in table."
+9709,2024,March,5,2,5,c,1,M1,1,Accept unsimplified expression. May be calculated in the
+9709,2024,March,5,2,2,NULL,1,M1,1,Appropriate variance formula using their (E(X))2 value. FT
+9709,2024,March,5,2,2,NULL,1,A1,1,Cao. Condone 183.
+9709,2024,March,5,2,6,a,1,M1,1,
+9709,2024,March,5,2,6,a,1,B1,1,Correct outcome/value for one clearly identified scenario.
+9709,2024,March,5,2,6,a,1,M1,1,"Add values of three correct scenarios, no incorrect scenarios,"
+9709,2024,March,5,2,6,a,1,A1,1,Not dependent on B1.
+9709,2024,March,5,2,2,NULL,1,M1,1,"6! × 4! × k; k = 1, 2. 1 can be implied."
+9709,2024,March,5,2,2,NULL,1,A1,1,Cao.
+9709,2024,March,5,2,6,c,1,M1,1,"8! × g, g an integer greater than 1."
+9709,2024,March,5,2,6,c,1,M1,1,"h! × 3 × j; h = 7, 8, 9; j = 1, 2 (1 may be implied)."
+9709,2024,March,5,2,6,c,1,M1,1,"h! × 3 × 2; h = 7, 8, 9."
+9709,2024,March,5,2,6,c,1,A1,1,"If A0 Scored, SC B1 for 241 920."
+9709,2024,March,5,2,6,c,1,M1,1,
+9709,2024,March,5,2,6,c,1,M1,1,"6! × e, e an integer greater than 1."
+9709,2024,March,5,2,6,c,1,A1,1,"If A0 Scored, SCB1 for 241 920."
+9709,2024,March,5,2,6,c,1,M1,1,"3! × e, e an integer greater than 1."
